@@ -66,5 +66,23 @@
   <guid>https://your-website-url.example.com/posts/grupo_usuarios_r.html</guid>
   <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
 </item>
+<item>
+  <title>Vacaciones a la comuna de navidad</title>
+  <link>https://your-website-url.example.com/posts/2026-03-05.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>personal</category>
+  <category>fotos</category>
+  <guid>https://your-website-url.example.com/posts/2026-03-05.html</guid>
+  <pubDate>Thu, 05 Mar 2026 03:00:00 GMT</pubDate>
+</item>
 </channel>
 </rss>
