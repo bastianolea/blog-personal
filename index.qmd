@@ -1,0 +1,19 @@
+---
+title: "Sobre mi"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/bastimapache
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/bastianolea
+    - icon: github
+      text: Github
+      href: https://github.com/bastianolea
+
+---
+
+About this blog

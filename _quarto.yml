@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Bastián Olea Herrera"
+  navbar:
+    left:
+      - text: About
+        href: index.qmd
+      - text: Blog personal
+        href: blog.qmd
+      - text: Blog R
+        href: https://bastianolea.rbind.io
+    right:
+      - icon: instagram
+        href: https://www.instagram.com/raccunnie/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      - minty
+      - brand
+      - custom.scss
+    css: styles.css
+
+
+
