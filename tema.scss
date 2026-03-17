@@ -1,0 +1,82 @@
+/*-- scss:defaults --*/
+$h2-font-size:          1.6rem !default;
+$headings-font-weight:  500 !default;
+
+$navbar-bg: purple;
+$navbar-fg: cyan;
+$body-bg: white;
+$body-color: blue;
+$link-color: green;
+$input-bg: yellow;
+$popover-bg: pink;
+$footer-bg: orange;
+
+$primary: magenta;
+$accent: magenta;
+$tertiary: green;
+
+/*-- scss:rules --*/
+h1, h2, h3, h4, h5 {
+      color: $secondary !important;
+}
+
+h4 {
+  margin-bottom: 1.2rem !important;
+}
+
+h5 {
+  color: brown !important;
+}
+
+img {
+  border-radius: 7px !important;
+}
+
+//// barra superior
+// título del sitio
+.navbar-title {
+  color: pink;
+}
+
+// hover de elementos de barra superior
+.navbar-title:hover, .menu-text:hover, .nav-item:hover, .bi:hover {
+  color: red !important;
+}
+
+// elemento de barra seleccionado
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: $tertiary; 
+}
+
+
+//// blog
+// título de posts de blog
+.listing-title, .listing-title a {
+  color: $secondary !important;
+  font-weight: 700 !important;
+  margin-bottom: 4px !important;
+}
+
+// etiquetas de posts
+.listing-category, .quarto-category {
+  border-color: #89598F !important;
+  color: $primary !important;
+  background-color: #B493B6;
+}
+
+
+//// inicio
+// botones en about.qmd
+.about-link {
+  color: yellow !important;
+}
+
+
+//// contenido
+
+// iconos
+.fa-2x {
+  margin-right: 6px !important;
+  margin-bottom: -2px !important;
+  font-size: 1.2em !important;
+}

@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Bastián Olea Herrera</title>
+<link>https://bastianolea.github.io/blog.html</link>
+<atom:link href="https://bastianolea.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>A blog built with Quarto</description>
+<generator>quarto-1.8.25</generator>
+<lastBuildDate>Sun, 15 Mar 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Por qué crearse un sitio web personal hoy en día</title>
+  <link>https://bastianolea.github.io/posts/introduccion.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Antes, la internet era un lugar distinto. Las personas creaban sus propias páginas web, personalizaban su presencia online, y creaban comunidades en torno a intereses y experiencias de vida en común.</p>
+<p>Hoy, <strong>la internet es un espacio dominado por grandes empresas</strong>, que nos ofrecen servicios “gratuitos” para tener una vida digital, pero bajo el trasfondo de utilizar nuestros datos y nuestro comportamiento para obtener beneficios económicos. Prácticamente la totalidad de nuestra experiencia web actual está intermediada por corporaciones.</p>
+<p>El objetivo de la internet actual parece ser la <strong>competencia por obtener nuestra atención</strong>. Distintas empresas y agentes económicos buscan este fin analizando nuestro comportamiento para entregarnos contenido altamente personalizado mediante <strong>algoritmos que explotan nuestros gustos, ideas y opiniones.</strong> Esto tiene la consecuencia de agobiarnos con contenido personalizado. Los usuarios no deciden lo que consumen, sino que los algoritmos deciden por nosotros, encerrándonos en burbujas de contenido y cámaras de eco desde las cuales se nos puede influenciar.</p>
+<p>El contenido generado por estas empresas es minuciosamente diseñado para influenciarnos en los niveles más profundos. La lucha por la atención y por la influencia ha derivado en el descubrimiento de que las <strong>emociones negativas suelen ser las que más nos movilizan a actuar.</strong> Por consiguiente, gran parte del contenido de las interacciones que vemos en internet son productos de la polarización, la indignación, el odio, y la humillación.</p>
+<p>Creo que las cosas pueden ser distintas. Podemos recuperar la internet como un espacio de expresión personal, gobernado por nosotros mismos, usando muchas de las tecnologías abiertas que están disponibles. Por esto creo que es importante recuperar los <strong>espacios digitales personales</strong>, como éste. Esto nos permite salirnos del dominio de los algoritmos, y por consiguiente dejar de competir por atención.</p>
+<p>Creo que podemos <strong>prefigurar una vida digital libre del dominio de las grandes empresas que hoy gobiernan internet</strong>, liberando un aspecto tan importante de la vida social como lo es la digitalidad.</p>
+<p>Actos tan sencillos como crear tu propio espacio, hacerlo tuyo, y contribuir para que los demás puedan hacer lo mismo.</p>
+<p>https://www.linkedin.com/feed/update/urn:li:activity:7437596980849287168/</p>
+<p>https://lisacharlottemuth.com/</p>
+<p>https://lisacharlottemuth.com/bringing-everything-back-to-my-website</p>
+<p>https://indieweb.org/POSSE</p>
+<p>Publish (on your) Own Site, Syndicate Elsewhere</p>
+
+
+
+ ]]></description>
+  <category>personal</category>
+  <category>programación</category>
+  <category>tecnología</category>
+  <guid>https://bastianolea.github.io/posts/introduccion.html</guid>
+  <pubDate>Sun, 15 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Creando una comunidad de usuarixs de R en Chile</title>
+  <link>https://bastianolea.github.io/posts/grupo_usuarios_r.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>llevo más de cinco años usando el lenguaje R, tanto para trabajo como para fines personales.</p>
+<p>Si bien yo vengo de una disciplina completamente distinta, la sociología, siempre interesó mucho la tecnología, a pesar de sentir sus aspectos más técnicos como algo alejado de mis capacidades. Tengo que reconocer que siempre fue mi padre quien incentivó mi curiosidad por la tecnología, y nos ayudó a acercarnos a ella de una forma peculiar entregándonos sus antiguos computadores Mac cuando le tocaba renovarlos por modelos más modernos.</p>
+<p>Hace de ser una persona que pensaba que programarle imposible, a aprender a programar de manera autodidacta. Y lo único que necesité fue confiar en mí misme y plantearme proyectos personales que me incentivaran a aprender.</p>
+<p>Hoy puedo decir que soy un usuario avanzado de R, y que prácticamente cualquier cosa que me proponga puedo lograrla con este lenguaje.</p>
+<p>Pero por las razones anteriores, mi camino hacia la programación ha sido solitario. Siempre aprendí por mi propia cuenta, y si bien aprendí gracias a la solidaridad de usuarios y usuarios que comparten sus conocimientos y habilidades en Internet, muy pocas veces pude compartir en vivo indirecto con otras personas.</p>
+<p>Por eso tenía la idea de organizar un grupo de usuarios de usuarios, donde el apoyo digital se pudiera ser un poco más tangible y cercano, por una parte por un tema geográfico, donde la cercanía puede conllevar intereses comunes y experiencias similares, pero también por el hecho de qué está cercanía puede generar redes de otros tipos.</p>
+
+
+
+ ]]></description>
+  <category>blog</category>
+  <category>programación</category>
+  <guid>https://bastianolea.github.io/posts/grupo_usuarios_r.html</guid>
+  <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Vacaciones a la comuna de navidad</title>
+  <link>https://bastianolea.github.io/posts/2026-03-05.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Me fui de vacaciones en solitario a La Boca, comuna de Navidad, región de O’Higgins.</p>
+<p>Fui con mi bicicleta y mi plan era aprovechar todos los días para entrenar y explorar la comuna.</p>
+<p>El territorio de Navidad se caracteriza por sus campos y cerros, muchos de ellos con caminos de tierra, así que andar con bicicleta de gravel fue perfecto.</p>
+
+
+
+ ]]></description>
+  <category>personal</category>
+  <category>fotos</category>
+  <guid>https://bastianolea.github.io/posts/2026-03-05.html</guid>
+  <pubDate>Thu, 05 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Mapa conceptual: bibliografía sobre estigmatización de la gordura en las dimensiones de la apariencia y la salud</title>
+  <link>https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Éste es el mapa conceptual que usé para ir organizando la bibliografía recopilada para el desarrollo de mi tesis de magíster, titulada <a href="https://bastian.olea.biz/elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/">“<em>Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la apariencia”</em>.</a></p>
+<p>Cada nodo representa un texto, agrupado por temática general (color) y sub-temáticas (los sub nodos y ramas del árbol).</p>
+<p>Clic en la imagen para <a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf">acceder al mapa conceptual en PDF.</a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf"><img src="https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/images/Copia-de-Bibliografia-por-temas-2-1024x746.jpg" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>destacado</category>
+  <category>gordura</category>
+  <guid>https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</guid>
+  <pubDate>Tue, 05 Nov 2024 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Entrevista: La meritocracia de la delgadez, la insubordinación de la gordura</title>
+  <link>https://bastianolea.github.io/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><em>Comparto el texto de una entrevista que me realizó este año Raúl Nagore, periodista y parte del <a href="https://www.bculinary.com/es/home">Basque Culinary Center</a> de San Sebastián y la asociación de cocineros <a href="https://www.euro-toques.es/public_home/ctrl_home.php">Euro-Toques</a>, que será publicada en un número futuro del <a href="https://www.euro-toques.es/papeles_de_cocina/ctrl_papeles.php">periódico Papeles de Cocina.</a></em> <em>La entrevista viene con una introducción y se da en formato de pregunta/respuesta.</em> <em>¡Muchas gracias Raúl por la conversación y la oportunidad!</em></p>
+<hr>
+<p><strong>La meritocracia de la delgadez, la insubordinación de la gordura</strong></p>
+<p><em>¿Un cuerpo gordo es necesariamente un cuerpo insano? ¿Cuando sugerimos a alguien que debería adelgazar le estamos ayudando o contribuyendo a su baja autoestima? ¿Es más importante el efecto en su salud física o en su salud mental? ¿Por qué en mayor o menor medida todos somos gordófobos? ¿Juzgamos a los gordos por su falta de salud o por su falta de disciplina? El sociólogx chileno Bastián Olea Herrera, especializado en sociología del cuerpo y del género, ha dedicado buena parte de su trabajo a estudiar estos temas y comparte en la siguiente entrevista una visión nada convencional de la gordura, tratando de identificar herencias culturales, prejuicios, medias verdades y asunciones que terminan por culpabilizar y estigmatizar a las personas gordas y dificultar sus vidas.</em></p>
+<p><strong>Has escrito que “el ideal de belleza moderno determina la</strong> <strong>modificación y normalización de los cuerpos gordos, cuya existencia imperfecta y excesiva significa una transgresión al ideal de belleza y un desafío a sus preceptos”. ¿Son las personas gordas ciudadanos incorrectos?</strong></p>
+<p>La sociedad suele interpretar a las personas gordas como ciudadanos incorrectos por un fenómeno común en nuestra vida en sociedad, que es el hecho de que casi inconscientemente cuando vemos a una persona asumimos cosas sobre ella, tenemos prejuicios basados en lo que estamos viendo, sacamos conclusiones acerca de quién es, aunque no la conozcamos. Por este mismo fenómeno, sumado al hecho de que en nuestra sociedad tenemos ciertos valores, al ver a una persona gorda interpretamos que algo está haciendo mal, que algún error está cometiendo o que alguna decisión incorrecta está tomando. Esto nos invita inmediatamente a una especie de juicio, de sospecha hacia estas personas, y también a una cierta inferiorización de ellas.&nbsp;</p>
+<!--more-->
+<p><strong>La gordura no siempre estuvo estigmatizada. En otras épocas incluso se consideró bella o símbolo de estatus.</strong>&nbsp;</p>
+<p>Ha habido muchos cambios en la valoración de estos cuerpos y en los ideales de belleza. Las producciones culturales de hace 30 o 40.000 años, por ejemplo, representaban cuerpos que eran bastante más voluptuosos. Algunas teorías dicen que se trataba de ideales de belleza, otras hablan de iconos de fertilidad, pero también hay quien apunta a que simplemente aquellos cuerpos tallados eran los de las personas que los tallaban, que por tanto miraban hacia abajo, hacia su propio cuerpo, y la perspectiva que obtenían era así. Entre los siglos XVI y XIX el arte, especialmente en Europa, marcó tendencia en torno a cuerpos que ahora nosotros consideraríamos insanos, obesos o indeseables, cuerpos voluptuosos, con barriga, con traseros grandes… Hoy los vemos en los museos y en algunas personas causan curiosidad y en otras un reflejo bastante positivo: conozco a gente que se sorprende gratamente de verse en esas pinturas, de verse en Rubens.&nbsp;</p>
+<p><strong>También sueles hablar del cristianismo como influencia a este respecto.</strong></p>
+<p>Su auge a nivel global también incide en este tema, porque tiene valores relacionados con el pecado de la gula, con la mortificación de la carne, la penitencia, el ascetismo, la disciplina, el hecho de tener una gran fuerza de voluntad para contraponerse a los pecados carnales, corporales. Esto lleva a la conclusión de que los cuerpos alineados con esta espiritualidad tienen que ser delgados, incluso la figura de Cristo es flaquita, se le ven las costillas…&nbsp; Esto marca también un ideal, si no de belleza, sí de comportamiento, de disciplina.&nbsp;</p>
+<p><strong>Hoy las personas gordas serían en este sentido los herejes de una nueva religión en la que la santidad se alcanzaría por la delgadez. Incluso en la que la delgadez se considera un estado natural, mientras la gordura sería una aberración.</strong></p>
+<p>La misma repetición de estas ideas en los medios de comunicación deforma la idea de lo que pensamos que es lo natural. Muchos de nosotros no sabemos que los cuerpos que consideramos saludables o atléticos son producidos por deshidratación, por el uso de ciertos fármacos, de esteroides… A mí me sorprendió enterarme de que los fisioculturistas pasan días sin beber agua para que se le marque el músculo.&nbsp; A partir simplemente de un indicador de apariencia asumimos cuestiones en cuanto a su comportamiento que son casi espirituales. Por otra parte, la gente que tiene enfermedades muy graves adelgaza muchísimo y hay quien la felicita, como les ha ocurrido a personas que conozco, por haber perdido peso. Se nos olvida que adelgazar tiene que ver con debilitarse, con morir, con perder el sustrato vital…</p>
+<p><strong>Esto ocurre, además, dentro de un sistema en el que hay una abundancia que invita al consumo excesivo y en el que el modo de vida es mayoritariamente sendentario…</strong></p>
+<p>Las personas gordas suelen ser interpretadas como el exceso mismo hecho cuerpo. Son los personajes que elegimos como chivos expiatorios para culparlos y castigarlos en nombre de toda la sociedad y para redimirnos nosotros, que vivimos en ese mismo contexto que nos invita a consumir sin parar para ser felices, pero donde hay una letra pequeña que dice que hay que hacerlo de cierta manera:&nbsp; puedo comer mucho si al día siguiente me privo de hacerlo. Aquí entra de nuevo la religión: podemos excedernos siempre que después paguemos esa culpa.</p>
+<p><strong>Subrayas que las personas gordas son hoy uno de los pocos grupos víctima de una discriminación aceptada por prácticamente todo el mundo, casi sin oposición. ¿Por qué crees que la mayoría, sea del signo ideológico que sea, coincide en esto?</strong></p>
+<p>Aquí hay dos aristas: por un lado no hay que olvidar la historia de los grupos discriminados. Hasta hace poco había justificaciones biológicas para la discriminación racial, por ejemplo. Pensemos en los nazis: según ellos hay una diferencia biológica entre las razas que hace que unas sean superiores y otras inferiores. Lo mismo se aplicaba de forma más aceptada en la ideología de la eugenesia, donde hay ciertos elementos raciales que son mejores y que tienen que ser incentivados dentro de la población. La homosexualidad se consideraba un problema mental hasta hace no mucho tiempo. Creo que son discriminaciones que tienen una función social, generalmente para facilitar formas de explotación y de dominación, pero que buscan argumentos que sean más sólidos que simplemente el “yo tengo plata y tú no y quiero que trabajes para mí”. Se trata de argumentar una posición claramente arbitraria y sesgada con razones más fuertes y por tanto vamos a lo que consideramos más fuerte: el ADN, la sangre, la raza… El problema es que en el caso del racismo, está confirmado que la genética está muy compartida entre las distintas razas y no puedes decir que una sea superior a otra. Pero en la obesidad no hay tanta claridad, porque aún no hay certezas a nivel genético. No se ha descubierto todavía el gen de la obesidad, como tampoco el gen de la homosexualidad… Todavía no hay certezas en esto y el futuro lo dirá.</p>
+<p><strong>Gordos, pero no necesariamente enfermos</strong></p>
+<p><strong>Empiezan a escucharse voces que llaman a desvincular la gordura de la (mala) salud. Esto es algo que nos cuesta mucho admitir, puesto que inmediatamente asociamos el exceso de peso a dificultades añadidas en un quirófano, problemas de espalda, mayor riesgo cardiovascular, de diabetes…&nbsp; Pero tú afirmas que “urge una revisión de los supuestos que condicionan a las corporalidades gordas como patologías”.</strong></p>
+<p>Hay un respaldo médico y científico para esta discriminación que aún está vigente. Interpretamos los cuerpos a través de categorías médicas: sobrepeso, obesidad… Una persona que tiene tantos kilos tiene sobrepeso. El peso se convierte en una medida para evaluar la salud y por tanto nuestra visión del cuerpo del otro es suficiente para diagnosticar a primera vista a alguien, y es algo que hacemos todos. La medicina nos está dando una herramienta para discriminar de una manera inocente, clasificando a las personas. Incluso quienes no discriminamos de forma explícita a las personas gordas, que no decimos “las odio, me dan asco”, las rechazamos, ya sea porque las relacionamos inmediatamente con mala salud, con una enfermedad, porque nosotros mismos no queremos ser gordos o simplemente por el hecho de que no encontramos románticamente atractiva a la persona gorda. Son formas más minuciosas de rechazo y de discriminación al fin y al cabo</p>
+<p><strong>Aunque no se lo digamos directamente a la persona gorda, es habitual entre los grupos de amigos que tienen a una en común decirse “deberíamos decirle que se cuide más…”</strong></p>
+<p>Cuando hablamos del bienestar de una persona el tema se pone aún más complejo. ¿Qué es más importante, la salud física o la mental? ¿Es más importante que le hagas ver a alguien que necesita adelgazar o que le hagas sentirse mal, que se sienta incómodo contigo y por tanto termine aislándose? Cuando una madre dice a su hija que debe adelgazar es porque quiere que esté sana, que tenga pareja, que no muera a los nosecuántos años… Y así está ayudando en algo, pero perjudicando en otra cosa. Creo que hay muchísimos factores que inciden en la salud y enfocarse solo en uno me parece al menos sospechoso. Y hay que tener cuidado con la forma de decir las cosas, porque a veces estamos haciendo un daño irreparable. Hay quien dice que esta visión supone negar la evidencia, negar la ciencia. Hay médicos que dicen que la gordura genera este problema y este otro, otros afirman que existen personas gordas saludables, que una cosa no se relaciona necesariamente con la otra. Yo mismo no sé qué decir al respecto. Todo esto es complejo.</p>
+<p><strong>¿Qué te sugiere la expresión “epidemia de obesidad” que tanto se escucha hoy en día?</strong></p>
+<p>Creo que es un lenguaje bastante violento. Y pienso en el efecto que tienen estas expresiones en la sociedad en su conjunto, porque cuando hablamos de “epidemia de obesidad” sugerimos que hay un agente externo, una enfermedad que ataca a la población, en lugar de pensar que esa población está experimentando cambios, que hay un contexto social complejo que está engendrando ciertos cuerpos, que en ciertos lugares de la sociedad los cuerpos son de una manera y en otros de otra, en ciertos países son así y en otros de otra forma. Y además culpamos a los individuos por ser azotados por esta enfermedad, cuando muchas veces está fuera de su alcance controlar ciertos factores. Lo convertimos en&nbsp; una responsabilidad individual. Pero ¿tratamos a otras personas enfermas de la misma forma? ¿Criticamos a una persona con cáncer por tenerlo, independientemente de que el cáncer haya podido producirse por decisiones de esa misma persona? Fumaste toda tu vida, tienes cáncer, pero ¿te voy a tratar mal por eso?</p>
+<p><strong>Ricos delgados, pobres gordos</strong></p>
+<p><strong>Hablando de esa responsabilidad individual, ¿crees que es equiparable el discurso sobre “la voluntad de no estar gordo” al de la meritocracia?</strong></p>
+<p>Creo que esto es dar en el clavo en este tema. Los millonarios lo son porque trabajaron mucho más que tú y por eso tienen mucho más dinero. Pero si te esfuerzas lo suficiente, vas a ser millonario como ellos. Esto es clave en el neoliberalismo: nosotros forjamos nuestro propio destino, y nuestra riqueza es equivalente a lo que nosotros valemos como ciudadanos. Del mismo modo, uno llegaría a la conclusión de que una persona es delgada porque ha sido disciplinada, porque se ha esforzado y ha logrado un cierto éxito. Y por tanto inferimos que la gordura es todo lo contrario, es estar sentado, ser un vago, no hacer las cosas, ser irresponsable, tomar las decisiones incorrectas… Nuestra sociedad depende de que cada uno de nosotros haga las cosas bien y al final esto se convierte en una cuestión moral. ¿Qué cuerpos expresan moralidad? ¿Qué cuerpos expresan que lo han hecho bien, que son buenos ciudadanos? ¿Y qué cuerpos expresan que son malos ciudadanos? Cuando en el día a día nos encontramos con un cuerpo marcadamente particular, parece que nos esté confesando algo, reflejando una cierta desadaptación al orden social. Si una persona es gorda es porque decidió serlo. Pero ignoramos todo el contexto a su alrededor o incluso el hecho de que no tenga capacidad de poder decidir. ¿Puedo elegir qué cuerpo tengo? Podría, si tuviera dinero para hacerme una operación de cirugía estética, si tuviera plata para pagarme el gimnasio… Pero ni siquiera eso me garantiza que pueda tener un cuerpo delgado, lo que aún lo complica más.&nbsp;</p>
+<p><strong>¿Crees que también este tema conlleva un cierto clasismo?</strong>&nbsp;</p>
+<p>Los grupos sociales dominantes suelen tratar de distinguirse de los, digamos, subyugados. Si a las clases populares les gusta esto, a nosotros no nos va a gustar. Ha pasado con la música, con el arte… Esto se puede aplicar también en el tema de la belleza: si, como ocurría en otro tiempo, los pobres son flacos, nosotros somos gordos, porque tenemos más riqueza. Pero con la industrialización y la globalización son las personas pobres las que son más gorditas, así que nosotros no vamos a serlo, vamos a aplicar nuestra riqueza en distinguirnos, en construir nuestra identidad a partir de no ser como ellos.</p>
+<p><strong>Además, la comida más barata y accesible es la menos saludable, la que engorda más.&nbsp; Por tanto tiende a identificarse la gordura como un “mal” de las clases más desfavorecidas.</strong>&nbsp;</p>
+<p>Aquí ya no se trata solo de los llamados “desiertos alimentarios” de las grandes ciudades, donde no hay acceso a alimentos saludables, sino de que también ciertas personas no tienen tiempo para prepararse una comida saludable, para ir al mercado a comprar vegetales, para practicar deporte… Son cosas de las que se ven privadas por un tema de escasez de recursos. Se habla también mucho del urbanismo, de que hay ciertos factores urbanos que promueven estas diferencias corporales: hay espacios sociales en la ciudad donde claramente la infraestructura está segregada por clases sociales, entre barrios altos y bajos, y, por así decirlo, incentivan o desincentivan ciertas actividades. Por ejemplo, en un barrio pobre hay pocas oportunidades para salir a pasear o hacer actividad física, por la inseguridad, la delincuencia, porque el lugar no es demasiado habitable… Entonces, ¿las personas son gordas porque son pobres o son pobres porque son gordas?</p>
+<p><strong>El auge de los <em>body-shamers</em></strong></p>
+<p><strong>¿La gordura es más aceptable en los hombres?</strong></p>
+<p>Los temas de género son complejos porque dependen de los contextos, las culturas… Nuestros cuerpos son textos que leemos y dependiendo del contexto los interpretamos de distintas maneras. Un cuerpo con panza es distinto si es de un hombre o si es de una mujer. Generalmente en los hombres se aceptan y se celebran valores de la masculinidad, como son el exceso, el tamaño, la fuerza, incluso la gula y el apetito son bastante celebrados, el hecho de crecer, de competir, de comerse todo, de acaparar… En la construcción del género femenino la gordura tiene que ver con la fertilidad, pero ahí terminan las comparaciones positivas… Y los contenidos de la construcción del género femenino ya van en contra de la gordura: la mujer tiene que ser pequeña, ocupar poco espacio, estar muy preocupada de su apariencia física y de controlarla, de maquillarse, de cuidarse, de lo contrario se está dejando ir. Y por otro lado, más allá de lo conceptual, hay tipos de cuerpos que asociamos con alguna forma de masculinidad que no problematizamos: ciertos hombres mayores que tienen cierta forma de panza que no nos parece mal, ciertos deportistas que son grandes, los niños pequeños que tienen que ser más grandecitos porque si no no van a crecer…</p>
+<p><strong>El año pasado la muerte de la actriz española Itziar Castro provocó en redes sociales toda una oleada de insultos. Básicamente decían que se había merecido la muerte “por gorda”.&nbsp; ¿A qué crees que responde este tipo de ataques y el auge de los “body shamers”, principalmente en las redes sociales?</strong></p>
+<p>El anonimato incentiva que podamos decir lo que queramos de forma impune. Creo que es como una&nbsp; extensión del acoso callejero. Yo voy en un auto, le grito algo a una mujer, me voy y no me puede hacer nada. Las redes son como eso, pero&nbsp; además allí las personas se pueden unir para insultar a otro y saben que nada les va a ocurrir. Lo que en el fondo se escucha detrás de eso tiene que ver con una ideología medio fascista que defiende que solamente las personas fuertes podemos vivir. Y más aún, hay que ganarse el derecho a existir con el mérito, el esfuerzo, el trabajo, la moralidad. También se suele decir que las personas gordas son una carga para el sistema de salud, para el dinero público… y por tanto no deberían tener derecho a él. Estamos condicionando el bienestar de una persona basándonos en cuánto nos cuestan, en cómo de difíciles son de tratar… Es una lógica de empresa aseguradora: tanto riesgo para nosotros, tanto te vamos a cobrar. No creo que nuestra sociedad tenga que ser liderada de esta forma.</p>
+<p><strong>Estos mismos gordófobos critican ahora a las celebridades que para adelgazar han utilizado medicamentos contra la diabetes como ozempic o wegovy por tomar un atajo, por no habérselo ganado a base de dieta y ejercicio…</strong></p>
+<p>Si estás criticando a alguien por tomar una pastilla, estás revelando que tu problema no era con la gordura, sino que era un tema moral, estabas criticándola por no hacer lo correcto, por no esforzarse, por no transformar su cuerpo. Aquí se revela lo que está en el fondo, porque hay varias capas que están ofuscando qué es lo que realmente nos molesta. Creo que estas personas son agentes, normales y sanos, de este sistema capitalista y neoliberal, por panfletario que suene esto. Son personas que simplemente están reproduciendo la ideología dominante pero de una forma tenue, sin que lo parezca. En el fondo te están llevando a reproducir el statu quo de distinta manera.&nbsp;</p>
+<p><strong>Por último, ¿qué pasos habría que dar en el camino hacia la desestigmatización de la gordura?</strong></p>
+<p>En estos últimos años ha habido algunos cambios. Encuentro que hay mucha más diversidad de cuerpos y más representaciones positivas de cuerpos gordos en los medios de comunicación… Es importante crear modelos, personas que hagan que los niños, niñas y adolescentes que se sienten mal consigo mismas digan al verlas “yo también soy así”. Esto es extremadamente positivo. También ha habido un cambio en el ideal de belleza, que ahora acepta cierta voluptuosidad, cierta gordura específica en las mujeres, que ya no se encuentra tan negativa, sino que incluso se ha vuelto deseable. Hay ciertas <em>influencers</em>, cantantes&nbsp; y artistas que son gorditas, que tienen la piernas más grandes, el trasero de cierta manera y resulta que ahora eso es aceptable. Pero no sé si este cambio es positivo o si está visto desde la óptica del deseo. Por otro lado, dudo que sea posible desestigmatizar completamente este tipo de cosas. Puede haber campañas de educación y aceptación, pero mientras tengamos ojos, vamos a interpretar lo que vemos, y mientras exista cultura, esas interpretaciones van a estar guiadas por los prejuicios. Es algo inevitable y es nuestra tarea como sociedad generar mecanismos y herramientas para que esos prejuicios no resulten tan negativos o se solucionen de manera positiva para que estas personas puedan vivir su día a día normalmente, sin un peso más encima.</p>
+
+
+
+ ]]></description>
+  <category>gordura</category>
+  <guid>https://bastianolea.github.io/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</guid>
+  <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Presentación de defensa de tesis: Elementos teóricos y conceptuales  en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la aparienciaPresentación de defensa de tesis:</title>
+  <link>https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<blockquote class="blockquote">
+<p>Esta es la presentación de diapositivas que usé para defender mi tesis de magíster acerca de los procesos que explican la gordofobia, o el fenómeno de discriminación de las personas gordas.</p>
+</blockquote>
+<ul>
+<li><p>Leer/descargar en <a href="https://es.scribd.com/document/705939074/Defensa-de-tesis-Elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas">Scribd</a></p></li>
+<li><p>Leer/descargar en <a href="https://www.academia.edu/114944107/Defensa_de_tesis_Elementos_teóricos_y_conceptuales_en_torno_a_la_estigmatización_social_de_las_corporalidades_gordas">Academia.edu</a></p></li>
+<li><p>Leer/descargar en ResearchGate</p></li>
+</ul>
+<p>[scribd id=705939074 key=key-vJ5MqenLwvNObmHTrO6M mode=scroll]</p>
+<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis2-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis3-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis4-1024x768.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>gordura</category>
+  <category>sociología</category>
+  <guid>https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</guid>
+  <pubDate>Thu, 15 Feb 2024 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: Nelly Richard - Feminismo, género y diferencia(s): Transgresión y escritura femenina</title>
+  <link>https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen del capítulo 1, “¿Tiene sexo la escritura?”, del libro de Nelly Richard, <em>Feminismo, género y diferencia(s).</em> Excelente texto que a crítica distintas concepciones de lo que es considerado “escritura femenina”, tanto desde perspectiva hegemónica/patriarcal como desde un feminismo esencialista, para posteriormente desarrollar una teoría de una <em>feminización de la escritura</em> que no esté anclada en las categorías biológicas de sus autores, sino en la capacidad semiótica de transgresión, flujo y desestructuración de aquellos textos que buscan desafiar las normas sociales mediante lógicas distintas a las del universalismo masculino.</p>
+<p>En la parte superior del mapa conceptual hay un conveniente esquema de dos pistas que describe el proceso de naturalización del género mediante su imposición cultural, y posteriormente su reproducción.</p>
+<p>El segundo nodo del mapa conceptual presenta tres formas en las que Nelly Richard define al feminismo: feminismo como movimiento de mujeres, feminismo como teoría feminista, y feminismo como crítica feminista.</p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf">Clic aquí o en la imagen para acceder al mapa conceptual de resumen.</a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/images/Nelly-Richard-Feminismo-genero-y-diferencia-Tiene-sexo-la-escritura-920x1024.jpg" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>género</category>
+  <guid>https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</guid>
+  <pubDate>Fri, 17 Feb 2023 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: R. W. Connell - Masculinidades (capítulo 8, historia de la masculinidad)</title>
+  <link>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen del capítulo 8 del libro Masculinidades, de R. W. Connell, que entrega una visión general de ciertos hitos históricos que configuran la masculinidad hegemónica occidental que conocemos.</p>
+<p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
+<p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf">este link para acceder al resumen.</a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/images/6FE0E506-2B07-4264-8598-91F56F5CD50D-857x1024.jpeg" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>masculinidades</category>
+  <guid>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</guid>
+  <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: R. W. Connell - Masculinidades (capítulo 9, políticas de la masculinidad)</title>
+  <link>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen del capítulo 9 del libro Masculinidades, de R. W. Connell, donde se problematizar algunas formas de buscar la superación de la masculinidad hegemónica, sus beneficios y dificultades, así como los desvíos reaccionarios en torno a la relación de las masculinidades críticas y el feminismo.</p>
+<p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
+<p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf">este link para acceder al resumen.</a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/images/9455DE3A-2A54-449D-9633-5E72DFE13488-1024x370.jpeg" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>masculinidades</category>
+  <guid>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</guid>
+  <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ira</title>
+  <link>https://bastianolea.github.io/posts/2023/2023-01-20-ira/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Siento una rabia que es conmigo<br>
+Con lo que soy, lo que me tocó ser,<br>
+lo que fui<br>
+Y con la incertidumbre de si un día seré</p>
+<p>A riesgo de sonar autoflagelante,<br>
+Mi ira la he vuelto interna<br>
+Porque sé lo que encarno<br>
+Porque hay cosas que me acercan más a ellos<br>
+Seres de furia, egos, poder, violencia<br>
+Porque creo haber aprendido lo que ellos pretenden y desean<br>
+Hay todo un trabajo por hacer</p>
+<p>¿Hay emociones de hombre o de mujer?<br>
+Absurdo. Pero algo de sentido tiene<br>
+Hay expresiones patriarcales de la emoción; o bien, que pueden interpretarse como tales<br>
+Con una amiga bromeábamos expresando todas nuestras emociones como ira, en parodia a los hombres, o quizás a nuestro lado masculino</p>
+<p>No es que crea que la ira sea mala, o del todo masculina;<br>
+me enseñaron que la ira tiene sus lugares<br>
+Pero quizás no entiendo<br>
+Supe que la ira que siento debo dirigirla hacia un sistema<br>
+y sus constructos<br>
+¿Pero cómo hacerlo si en el espejo sigo viendo a ese sistema en mi? Veo a mi enemigo<br>
+Así que en cada palabra y en cada paso<br>
+me vuelvo una duda<br>
+Espero que esta ira me libre.<br>
+Audre Lorde: La ira es el dolor motivado por las distorsiones que nos afectan a todas, y su objetivo es el cambio.</p>
+<hr>
+<p><em>Poema escrito para la clase de la profesora Kemy Oyarzún, bajo la temática de la ira, en el marco del diplomado en Estética, Feminismo y Crítica de la Universidad Católica.</em> Mayo, 2021.</p>
+
+
+
+ ]]></description>
+  <category>género</category>
+  <category>masculinidades</category>
+  <guid>https://bastianolea.github.io/posts/2023/2023-01-20-ira/</guid>
+  <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Relato autobiográfico de mi cuerpo</title>
+  <link>https://bastianolea.github.io/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Mis primeros recuerdos sobre mi cuerpo son accidentes, heridas, cicatrices. Mi mamá, ya separada, buscando cómo llevarme a la posta. También discusiones, peleas, cambios de casa propios de un divorcio cuando tenía apenas un par de años. Eso igual marca el cuerpo. Después, vergüenzas que me siguen hasta ahora, como el disfraz de pececito verde que no quise ponerme, pero que ahora encuentro bellísimo: formas de expresarme que fueron reprimidas, y luego quizás resurjeron.</p>
+<p>Más tarde, secretos que guardo hasta hoy, que siento que en parte fueron premonitorios: situaciones que ahora reconozco que eran sobre roles de género, sexualidad y sobre mi propia identidad, pero que en ese entonces parecían confusiones que –por alguna razón– sabía que estaban mal. Mis primeras experiencias sexuales fueron todas homoeróticas, rápidamente sancionadas o reprimidas. Fueron varios los momentos donde la identidad estuvo en duda. Recuerdo vívidamente estar en el patio jugando, montado en un autito de plástico, y preguntarle a mi abuelita si es que yo podía ser una niña. Claramente me respondió que imposible, y lo más probable es que haya rezado semanas por mi masculinidad. También recuerdo a mi mamá hacer excusas sobre mis gustos, particularmente a ella diciendo “es que es… sensible” a una cajera del supermercado.</p>
+<p>Fue una infancia linda, rodeada de mujeres. Mi abuela me crió, fue como mi madre; mi mamá trabajaba demasiado para sostenernos, siempre ha sido como un sol de atardecer. Luego mi querida tía-abuela, de forma remunerada. Mi abuelo, por su parte, era un proveedor. Entre harina de pescado, planos y sindicatos de papeleras, proveyó de recursos a mi abuela y sus 5 hijos/as, pero nunca supo ni hacer tallarines. Aún sufre de un acto reflejo que consiste en reprimir las lágrimas propias y las de los demás. Mi abuelo, ese que me hacía mirar las modelos de un comercial en una revista, y me hacía elegir mi favorita, yo sin entender mucho.</p>
+<p>¿Cómo se forja el cuerpo? Probablemente mediante la experiencia, la presión, la comparación, la vergüenza. Todo eso lo viví en el colegio, la adolescencia. Siempre tuve mejores amigas, siempre me molestaron por ser diferente. Rápidamente se me hizo saber que era hombre, o más bien, que debería serlo. Estar en el vórtice de la masculinidad, centro del mundo, conlleva un bagaje implícito enorme. Este cuerpo tiene algo que le hizo ser conferido poder. Un poder que, aunque se elija no ejercer, de todos modos es reconocido como tal por los demás. El sistema sexo-género produjo género a partir de esta carne.</p>
+<p>No fue una adolescencia traumática ni mucho menos. El trauma vino después. Cual postulado psicoanalítico, las consecuencias de negarse al falo fueron una especie de castración… “Maricón”, porque el hombre que no es macho es un otro, otra posición por dominar. “Hombre con vagina”, porque la masculinidad es entendida como biológica, fluye en la sangre propia, el semen, y la sangre derramada; tiene órganos y formas que le inyectan virilidad, y negarse a ella claramente indica una falencia fisiológica. “Eunuco”, por lo mismo, porque un hombre que no es macho vale lo mismo que un hombre sin genitales, es un hombre que se castró a sí mismo y que, en consecuencia, es re-castrado sin cesar por sus ex-pares. “Sólo quiere ponerla”, como si la única razón para problematizar la propia posición en la estructura de género sea obtener algo a cambio. “Escombro”, porque significa ser lo más bajo, una sobra, basura, una ruina de la masculinidad: algo que ya fue destruido, y que debe ser desechado. “Traidor de género”, –mi favorito– porque reconocen que existe un pacto patriarcal implícito entre hombres que les beneficia, una “conciencia de género” donde los hombres reproducen su dominación y son cómplices de sus actos con la finalidad de defender sus intereses. Saben que un traidor pone en riesgo ese pacto. Todas esas fueron heridas que terminaron cicatrizando distinto.</p>
+<p>Paralelamente, un proceso diferente. Caótico. La experiencia de sentir alienación respecto de mi propio cuerpo: disforia. No pertenecer a ninguna parte. Un cuerpo que no es mío y que me ataca desde el espejo. Fue como cuando éramos chicos y una ola te botaba en la playa, y sentías el agua pasar sobre ti mientras girabas por segundos eternos. Heridas abiertas y cicatrizando. Millones de marcas sexuales secundarias en mi piel, que resurgen, como los pelos de un insecto. Estructura ósea, genitales, texturas, culpas, deseos e ideas incorrectas y por corregir. Odio a lo que soy, que lleva a desear cambiarlo todo, por sentir que este cuerpo no soy yo. Sentirme como la misma burla que me dijeron que era. Un fraude. Pero también, pequeños momentos de júbilo: el reconstruirme, el descubrirme, genera una felicidad que a veces raya en lo absurdo. Si llego a dudar de lo que soy, o si realmente me siento un fraude, recuerdo que esos momentos de euforia no pueden sino ser reales. Por eso es que, entre dudas y reafirmaciones, esta es una biografía inconclusa, porque aún sigue en transición.</p>
+<hr>
+<p><em>Relato escrito para la clase de la profesora Kemy Oyarzún, bajo la temática de la autografía del propio cuerpo, en el marco del diplomado en Estética, Feminismo y Crítica de la Universidad Católica.</em>&nbsp;Junio, 2021.</p>
+
+
+
+ ]]></description>
+  <category>sociología</category>
+  <guid>https://bastianolea.github.io/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</guid>
+  <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: R. W. Connell - Masculinidades (capítulo 2, organización social de la masculinidad)</title>
+  <link>https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen del capítulo 2 del libro Masculinidades, de R. W. Connell, que plantea un marco general para entender el concepto de masculinidad, su relación con el género y el cuerpo, y algunos elementos que componen la masculinidad.</p>
+<p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
+<p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf">este link para acceder al resumen.</a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/images/Connell-Organizacion-social-de-la-masculinidad-950x1024.png" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>masculinidades</category>
+  <guid>https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</guid>
+  <pubDate>Thu, 12 Jan 2023 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: R. W. Connell - Masculinidades (capítulo 1, la ciencia de la masculinidad)</title>
+  <link>https://bastianolea.github.io/posts/2022/2022-12-17-resumen-r-w-connell-masculinidades-capitulo-1-la-ciencia-de-la-masculinidad/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen del capítulo 1 del libro Masculinidades, de R. W. Connell, que habla sobre la forma en que se ha estudiado la masculinidad en distintas disciplinas como la psicología, antropología, historia y sociología. Útil para indagar en los orígenes del concepto de masculinidad, y sus primeros referentes.</p>
+<p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
+<p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2022/12/Connell-Masculinidades-cap.-1.pdf">este link para acceder al resumen.</a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2022/12/Connell-Masculinidades-cap.-1.pdf"><img src="https://bastianolea.github.io/posts/2022/2022-12-17-resumen-r-w-connell-masculinidades-capitulo-1-la-ciencia-de-la-masculinidad/images/Masculinities-cap-1-1024x665.png" class="img-fluid"></a></p>
+
+
+
+ ]]></description>
+  <category>género</category>
+  <category>masculinidades</category>
+  <guid>https://bastianolea.github.io/posts/2022/2022-12-17-resumen-r-w-connell-masculinidades-capitulo-1-la-ciencia-de-la-masculinidad/</guid>
+  <pubDate>Sat, 17 Dec 2022 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Autocrítica cultural: la asunción de una identidad</title>
+  <link>https://bastianolea.github.io/posts/2022/2022-12-16-autocritica-cultural-la-asuncion-de-una-identidad/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><em><a href="https://revistaorigami.wpcomstaging.com/2022/01/04/autocritica-cultural-la-asuncion-de-una-identidad/">Ensayo publicado en Revista Origami,</a> originalmente ensayo final para el curso de Crítica Cultural de la profesora Patricia Espinoza, en el marco del <a href="https://estetica.uc.cl/diplomados/diplomado-estetica-feminismo-critica">diplomado en Estética, Feminismo y Crítica</a> de la Facultad de Estética de la Universidad Católica, evaluado con nota máxima.</em> <em>Muchas gracias a Gabriela Alburquenque por la edición y por gestionar la publicación en Revista Origami.</em></p>
+<hr>
+<p>La crítica cultural, siguiendo a Nelly Richard (2009), se trata de una reflexión acerca de lo social, que además integra los elementos simbólicos de la retórica y la narrativa. Mediante el examen de los regímenes de producción y de representación de los signos, la crítica cultural procura develar la complicidad existente entre el discurso, la ideología, la representación y la interpretación (Richard, 2009, p.&nbsp;79).&nbsp;</p>
+<p>El estudio de un diplomado, aún más cuando se titula «Feminismo, estética y crítica», evidentemente corresponde a una situación donde prolifera la producción y representación de signos; no solamente por corresponder con un campo académico del conocimiento y el estudio de lo social, sino por las interacciones y afectos que circulan dentro y fuera de los espacios virtuales de aprendizaje. También se trata de un espacio donde se experimenta la cultura en múltiples aspectos: cultura en tanto el consumo y producción de piezas artísticas, literarias o intelectuales, cultura como proceso de interiorización en cierta escena o campo social, y cultura en tanto filiación entre individuos que reconocen o desarrollan experiencias, intereses y estilos de vida en común.&nbsp;</p>
+<p>Usualmente, las temáticas de las clases rondaron en torno a la teoría y la experiencia fe minista, principalmente en relación a la esfera del arte y la cultura, en un vaivén entre conceptos y el reconocimiento de éstos en la vida cotidiana de las alumnas. Dicho vaivén se explicitaba en los últimos minutos de las clases, los cuales solían volverse una catarsis de experiencias usuales entre mujeres, problematizadas a la luz del aprendizaje semanal. Esta dinámica entre conocimiento y experiencia, saber formal e informal, usualmente posibilitó la participación de todas las alumnas, tanto desde su bagaje teórico y práctico, como desde las más universales experiencias de opresión común y activismo que comparten aquellas que han vivido vidas dispares pero bajo un mismo manto patriarcal. De aproximadamente treinta alumnas, todas presumiblemente se identificaron como mujeres. Bueno… casi todas.&nbsp;</p>
+<p>Clase a clase, noté que cada interpelación entre compañeras y hacia las docentes abría sendas políticas. Cada palabra suscitaba mayores cuestionamientos: ¿quiénes son las sujetas del feminismo?, ¿son las alumnas un grupo homogéneo?, ¿son mujeres, acaso, las alumnas?, ¿quiénes son las mujeres?, ¿es necesario entrar en detalle al enunciar dicha palabra?, ¿a qué categorías sociales e identitarias se refiere cada una al hablar de “las mujeres”?, ¿qué categorías son omitidas?, ¿por qué se omiten, y por qué se destacan otras?, ¿qué pronombres se usan para hablar del colectivo? Me refiero a estas preguntas como si yo hubiera estado fuera de dicho grupo. Lo cierto es que estuve y no estuve a la vez.&nbsp;</p>
+<p>Las sendas políticas eran tantas que quedaban constantemente abiertas, como ramas esperando florecer en otros momentos de conversación. El aprendizaje era continuo, así como los lazos estrechados. Generalmente nos encontramos con más preguntas que respuestas.&nbsp;</p>
+<p>Pero con el pasar de las clases, los conocimientos se sincronizaban, y se desarrollaba la capacidad de identificar la complicidad entre el discurso y la ideología, mencionada por Nelly Richard, en infinitas facetas de la cultura y la sociedad. Más, en un registro quizás subrepticio, vagaban las complejidades de la representación y la interpretación. Representación: quiénes fuimos nosotras –el grupo tan ameno que se armó entre abril y diciembre– y cómo una amalgama de diferencias constituyeron colectividad. Interpretación: minucias que posibilitaron aprehender los cuadritos y voces metálicas que estaban detrás de la pantalla como sujetas complejas, parte o no de colectivos, grupos sociales, identidades y vertientes del feminismo sutilmente distintas. Interpretación… Treinta alumnas, excepto una.&nbsp;</p>
+<!--more-->
+<p>En retrospectiva, fue una mala idea matricularme en el diplomado. Mi mamá me preguntó que porqué yo era el único “hombre”, y a la rápida le respondí: porque parece que a los hombres no les interesa el feminismo. Vienen a mi las palabras de bell hooks: «Las feministas no nacen, se hacen. Una no se vuelve una defensora de la política feminista simplemente por tener el&nbsp;privilegio de haber nacido mujer. Como en todos los posicionamientos políticos, una se vuelve partidaria de la política feminista por elección y por acción» (hooks, 2017, p.&nbsp;29). ¿Corresponde una no-mujer en un espacio de aprendizaje y vinculación de tipo feminista? La respuesta obvia es que técnicamente sí; es una universidad privada donde pagamos por estudiar. Los hombres siempre se salen con la suya, difícilmente alguien les va a decir que no. Pero dicha respuesta es vulgar y no toca las complejidades del asunto, considerando que el espacio en cuestión es, a diferencia de otros, simultáneamente académico y político.&nbsp;<em>¿Quiénes son las sujetas del feminismo?</em>&nbsp;Dentro de un espacio donde se respetaban mis pronombres y nunca recibí hostilidad alguna, ¿qué tan capacitada estaba mi palabra, como no mujer ni tampoco varón, para contribuir hablando acerca del feminismo? Mi respuesta fue: nada capacitada. Resolví remitirme a escuchar, e intervenir sólo mediante la cita de otras mujeres.&nbsp;</p>
+<p>Pasaron los meses, donde el colectivo se afianzó y las clases fluían. La mayoría esperábamos con ansias cada sesión, y terminábamos emocionadas, quedándonos a conversar virtualmente después del cierre. Yo sólo encendía mi cámara al final, cuando tenía más confianza de&nbsp;<em>no desentonar</em>. Se nos familiarizó con Audre Lorde. Se nos preguntó por la ira que sentimos. Inmediatamente pensé en mi condición dubitativa. Escribí:&nbsp;</p>
+<p><em>Siento una rabia que es conmigo</em>&nbsp;</p>
+<p><em>Con lo que soy, lo que me tocó ser,</em>&nbsp;</p>
+<p><em>lo que fui</em>&nbsp;</p>
+<p><em>Y con la incertidumbre de si un día seré.</em>&nbsp;</p>
+<p><em>A riesgo de sonar autoflagelante,</em>&nbsp;</p>
+<p><em>Mi ira la he vuelto interna</em>&nbsp;</p>
+<p><em>Porque sé lo que encarno</em>&nbsp;</p>
+<p><em>Porque hay cosas que me acercan más a ellos</em></p>
+<p><em>Seres de furia, egos, poder, violencia</em>&nbsp;</p>
+<p><em>Porque creo haber aprendido lo que ellos pretenden y desean</em>&nbsp;</p>
+<p><em>Hay todo un trabajo por hacer</em>&nbsp;</p>
+<p><em>(…)</em>&nbsp;</p>
+<p><em>Pero, ¿cómo hacerlo si en el espejo sigo viendo a ese sistema en mi?</em>&nbsp;</p>
+<p><em>Veo a mi enemigo.</em>&nbsp;</p>
+<p><em>Así que en cada palabra y en cada paso</em>&nbsp;</p>
+<p><em>me vuelvo una duda.</em>&nbsp;</p>
+<p><em>Espero que esta ira me libre.</em>&nbsp;</p>
+<p>Obviamente no externalicé estas emociones. Dudé sobre la validez o relevancia que pudieran tener, proviniendo de una vida comparativamente privilegiada, enmarcada en un contexto diametralmente opuesto al de mis compañeras. Ser el otro, representante de su opresión.&nbsp;</p>
+<p>«Toda mujer posee un nutrido arsenal de ira potencialmente útil en la lucha contra la opresión, personal e institucional, que está en la raíz de esa ira. Bien canalizada, la ira puede convertirse en una poderosa fuente de energía al servicio del progreso y del cambio» (Lorde, 2003, p.&nbsp;141).&nbsp;</p>
+<p>Tengo una ira, y lo traduje en texto dentro del espacio académico/político de diplomado, en un contexto de mujeres y feminismo. Distintas trincheras de combate, distinto armamento, pero bajo un mismo ejército antipatriarcal… Incluso ahora, escribiendo este texto, noto que esta metáfora bélica me parece inapropiada. Es como algo que diría un hombre. Me hace parecer más hombre, un estereotipo. No sé nada de guerras. ¿Por qué lo dije? Si quiero que me interpreten como no&nbsp;hombre, debería decir otras cosas. Estas formas de administración de mi expresión e identidad las experimento a cada minuto; más aún en un espacio&nbsp;<em>de mujeres</em>. Cuidar mis palabras, mis movimientos. Elegir cuidadosamente cada significado que emite mi existencia. Cada inscripción en mi cuerpo. Cada metáfora que auxilie al abismo inabarcable entre pensamiento y lenguaje. Se trata de entender, quizás dramáticamente (y tarde), la propia identidad de género como «lo que uno asume, invariablemente, bajo coacción, a diario e incesantemente, con ansiedad y placer» (Butler, 1998, p.&nbsp;314).&nbsp;</p>
+<p>Este reconocimiento de la performance –y la subsiguiente estrategia de negación de lo que se me asignó ser– conlleva una constante vigilancia de lo que simboliza mi existencia. Es como vivir dentro de una crítica cultural constante, cuyo objeto es mi propia persona. Criticar al patriarcado, criticar al propio patriarcado internalizado. Estudiar el feminismo, estudiar lo femenino, las mujeres. Imitarlas, soñar, no imitarlas. Negar la masculinidad que represento mientras sufro la culpa de personificar, de algún modo, a dicho sistema.&nbsp;</p>
+<p>Andrea Ostrov (2004) nos recuerda, en base a los desarrollos teóricos de Judith Butler, que necesariamente los cuerpos son interpretados mediante las significaciones culturales que percibimos los demás en ellos: los cuerpos se organizan y categorizan “en función de determinados rasgos anatómicos que la cultura sanciona como relevantes”, donde los criterios de reconocimiento son dictados por la oposición binaria de hombre y mujer (Ostrov, 2004, p.&nbsp;21). Del mismo modo, Nelly Richard indica que la forma en que concebimos al género depende de un sistema de representaciones; es decir, construcciones discursivas que la cultura inscribe (e interpreta) en los cuerpos (Richard, 2009, p.&nbsp;77). Encontrarme tempranamente con Judith Butler plantó en mi vida una semilla de la esperanza de poder&nbsp;<em>transgredir</em>&nbsp;los designios que recaen sobre mi cuerpo, en un futuro no lejano. Estudiar el feminismo postestructuralista de Braidotti y Butler, entre otras, me redime de la carga de mi sexo al develar que los cuerpos son efectos de una construcción discursiva, y no cárceles biológicas. Pero en la práctica… no parece ser tan así.&nbsp;</p>
+<p>En la práctica, no importa mi identidad autopercibida, ni mis ideas en torno a quién soy o quién quisiera ser; lo socialmente relevante es la construcción discursiva en torno a mi cuerpo, mi cuerpo categorizado por el otro sobre la base de los recursos simbólicos del binarismo de género.&nbsp;<em>Y</em>&nbsp;<em>no les culpo</em>; es esperable que el resultado de la interpretación que ocurre en el milisegundo que se lee mi nombre o se visualiza mi cuerpo sea:&nbsp;<em>onvre</em>. No les culpo, porque no importa cuántos detalles de mi apariencia, mi expresión y mi comunicación distan de lo masculino; mi cuerpo, mis rasgos faciales, mi caja torácica, mi osamenta, mis cromosomas y mi cráneo siguen siendo biológicamente masculinos. Y éste es un hecho azaroso que, aparte de causarme un dolor incesante, tiene repercusiones sociales indeseadas. Yo no elegí nacer y vivir en el cuerpo, en la posición de sujeto, del opresor. Sin embargo aquí estoy, y algo hay que hacer. Y dije «culpa», culpa, porque encontrarse en esta frontera, en este proceso nómade de transición por el desierto eterno de la matriz de género, significa que cada minucia del día a día es como pasar a llevar una herida que no cicatriza.&nbsp;</p>
+<p>Bell hooks argumentó que el objetivo del feminismo es acabar con el sexismo, la explotación sexista y la opresión (hooks, 2020, p.&nbsp;16). No son individuos estos hombres, sino sistemas, por lo que (quizás) no haya que acabar con el hombre como identidad o categoría demográfica. Pero&nbsp;<em>ser hombre</em>&nbsp;es también un símbolo, usualmente interpretado como una posición de sujeto que se corresponde con personas alineadas (ver Ahmed, 2006) a la enfermiza masculinidad hegemónica. El hombre es un símbolo, pero también es una estructura corporizada: millones de vectores de sexismo, opresión, violencia de género, y reproducción de la hegemonía patriarcal, fabricados en serie, autoreplicantes, engendros tóxicos de sangre, sudor y pelos; un enjambre autónomo desenfrenado, infiltrados en cada organismo, un ejército con mayor disciplina y efectividad que la fantasía más disparatada de un fascista. Y, como problematiza bell hooks (2017, p.&nbsp;29), no se trata de una predisposición biológica, sino de un sistema que nos socializa masivamente, a hombres y mujeres, en la ideología patriarcal. Se trata, entonces, de política: individuos socializados como varones que, tarde o temprano, se dan cuenta de que la posición en la matriz de género que se les ha sido asignada les resulta usualmente beneficiosa, cuando menos cómoda, y, en los peores casos, irrelevante en el curso de sus vidas. En consecuencia, acabar con el sistema&nbsp;que produce dichos vectores de opresión pasa, necesariamente, por generar las condiciones para que hombres y mujeres puedan desafiar al sistema que otrora no podía ser nombrado (hooks, 2004, p.&nbsp;8); es decir, dotar tanto a hombres como a mujeres de las herramientas conceptuales y críticas para reconocer al patriarcado.&nbsp;</p>
+<p>¿Por qué hablamos sobre esto? Justamente p_orque parece que a los hombres no les interesa el feminismo._&nbsp;Toco estos temas porque son las problemáticas que me surgieron al experimentar el diplomado en tanto objeto de consumo y producción cultural, en cuanto experiencia. También se imbrican en emociones que, luego de todos esos meses, no pude resolver de forma alguna.&nbsp;</p>
+<p>Participar de un espacio donde me sentí constantemente “el otro”, a la vez que me sentí aceptade y reconocide, quizás por primera vez en un contexto “público”. Contradicciones que me suscitaron euforia y disforia; una puerta abierta por la que no me atreví a entrar.&nbsp;</p>
+<p>Mi transición ha sido una experiencia de devenir –en el sentido de Rosi Braidotti (2000, p.&nbsp;135)– hacia lo femenino, acercándome a una categoría que me es ajena, distante, imposible de acceder, incluso prohibida de corporizar. Por respeto, por temor a intimidar, por el reconocimiento de que no es mi lugar. Deseo no ser lo que soy, pero me avergüenza y me intimida hacer algo. Esto me pone en el sitio problemático de calzar y no calzar: sentir la aceptación de mis compañeras, flotar por el mundo de las ideas feministas, haber tenido una vida rodeada de otros significativos casi exclusivamente femeninos, recibir pronombres femeninos por parte de mis cercanas… pero a la vez, sentir que no es una pertenencia&nbsp;<em>natural</em>&nbsp;ni&nbsp;<em>apropiada</em>, temiendo que la validación sea forzada, no genuina. ¿Quién mierda me hizo hombre, para suplicarle que lo corrija? Compartir en un espacio exclusivamente femenino me significó esta ambivalencia; un crecimiento en términos de la paz con mi identidad, a la vez que una profundización de mi alienación con mi propio cuerpo y mi experiencia en el mundo.&nbsp;</p>
+<p>La asunción de una identidad, por complejo que sea en lo teórico, es un proceso instantáneo y reiterativo. No comprender ni manejar del todo la forma en que se me percibe resultó una fuente constante de disforia, dado que la presión por controlar la performance termina pasando la cuenta. El dolor complejo de encontrarme en dicho cruce de interpretaciones y miedos, cristalizado en el cuadradito que me muestra mi propio rostro en la esquina inferior izquierda de la pantalla. ¿Me sentiré más a gusto si me maquillo para la clase? ¿O acaso maquillarme será percibido como forzar la identificación; una especie de parodia, un show? ¿Soy ridículo, un actor, un payaso?&nbsp;</p>
+<p>A pesar de estas ideas que comparto, la masculinidad destacó en las clases como la presencia ausente, como un horizonte amenazante, poco problematizado. La fuente de los traumas y sufrimientos relatados, pero que evadimos. Este “otro” masculino, polaridad fálica que remite oposicionalmente a la&nbsp;<em>mujer</em>&nbsp;al verdadero lugar de&nbsp;<em>otro</em>, es también el otro interior con el que&nbsp;convivo, y que busco superar a diario. Por eso, si bien no me corresponde ser feminista, el femi nismo es mi mayor herramienta: es el lenguaje, la capacidad conceptual y crítica para reconocer al patriarcado dentro y fuera de mi, y así procurar erradicarlo.&nbsp;</p>
+<p>Un día, una compañera del diplomado me comentó, por chat, sobre lo poco diverso que consideró al curso. Sólo mujeres blancas, creo que me dijo. Tiene sentido. Mientras, yo había encontrado al diplomado de lo más diverso, desde la distancia que tuve (o tomé) respecto a ellas: mujeres con diferencias dentro de cada una de ellas, subjetividades situadas desde sus propios lugares de enunciación (Braidotti, 2000, p.&nbsp;193). Quizás ella tenía razón:&nbsp;<em>el feminismo es para todo el mundo</em>, y aquí no estaba todo el mundo. Estaba el sujeto político del feminismo, por su&nbsp;puesto, pero no los actores de un movimiento de masas (hooks, 2020, p.&nbsp;25). Pero quién es una para juzgar movimientos emancipatorios. Sigo con la incertidumbre de si aquél fue o no fue mi lugar, como identidad no-binaria. Sigo con la duda de cuál sería mi lugar, porque no lo es ni la categoría de hombre ni de mujer. ¿Es acaso necesario un lugar? ¿O debemos, como Braidotti (2000), abrazar el nomadismo y sus figuraciones futuras de nuevos géneros fuera de la matriz patriarcal y oposicional de identificación? No sé si quiero vagar eternamente por un desierto. Qué espacios abrir, y cuáles cerrar. Reflexiono sobre qué es lo que damos por sentado, siempre.</p>
+<hr>
+<p><strong>Referencias</strong>&nbsp;</p>
+<p>Ahmed, S. 2006.&nbsp;<em>Queer Phenomenology. Orientations, Objects, Others.</em>&nbsp;Duke University Press.&nbsp;</p>
+<p>Braidotti, R. 2000.&nbsp;<em>Sujetos nómades. Corporización y diferencia sexual en la teoría feminista contemporánea.</em>&nbsp;Editorial Paidós.&nbsp;</p>
+<p>Butler, J. 1998.&nbsp;<em>Actos performativos y constitución del género: un ensayo sobre fenomenología y teoría feminista.</em>&nbsp;Debate Feminista, vol.&nbsp;18, Octubre de 1998, pp.&nbsp;296-314.&nbsp;</p>
+<p>De la Cerda, Dahlia. 2020.&nbsp;<em>Feminismo sin cuarto propio. En Tsunami 2.</em>&nbsp;Editorial Sexto Piso.&nbsp;</p>
+<p>hooks, bell. 2004.&nbsp;<em>Entender el patriarcado. En The Will to Change: Men, Masculinity, and Love.</em>&nbsp;Editorial Atria Books. Trad. Gabriela Adelstein.&nbsp;</p>
+<p>hooks, bell. 2017.&nbsp;<em>Política feminista/Toma de conciencia. En el feminismo es para todo el mundo.</em>&nbsp;Editorial Traficantes de Sueños.&nbsp;</p>
+<p>hooks, bell. 2020.&nbsp;<em>Teoría feminista: de los márgenes al centro.</em>&nbsp;Editorial Traficantes de sueños.&nbsp;</p>
+<p>Lorde, A. 2003.&nbsp;<em>Usos de la ira. Las mujeres responden al racismo. En La hermana, la extranjera.</em>&nbsp;Editorial Horas y horas.&nbsp;</p>
+<p>Ostrov, A. 2004.&nbsp;<em>El género al bies: cuerpo, género y escritura en cinco narradoras latinoamericanas</em>. Editorial Alción.&nbsp;</p>
+<p>Richard, N. 2009.&nbsp;<em>La crítica feminista como modelo de crítica cultural.</em>&nbsp;Debate Feminista, vol.&nbsp;40 (Octubre 2009), pp.&nbsp;75-85.</p>
+
+
+
+ ]]></description>
+  <category>destacado</category>
+  <category>género</category>
+  <category>masculinidades</category>
+  <guid>https://bastianolea.github.io/posts/2022/2022-12-16-autocritica-cultural-la-asuncion-de-una-identidad/</guid>
+  <pubDate>Fri, 16 Dec 2022 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Entrevista - Gordofobia, sus razones, sus prejuicios, y su superación</title>
+  <link>https://bastianolea.github.io/posts/2022/2022-12-16-gordofobia-sus-razones-sus-prejuicios-y-su-superacion/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><em>Este texto corresponde a una entrevista hacia mi, realizada por Ling-Mehig Lau Vega, diseñadora, para su memoria de grado</em> en Diseño.</p>
+<section id="por-qué-los-cuerpos-gordos-se-han-visto-discriminados-por-la-sociedad" class="level2">
+<h2 class="anchored" data-anchor-id="por-qué-los-cuerpos-gordos-se-han-visto-discriminados-por-la-sociedad"><strong>¿Por qué los cuerpos gordos se han visto discriminados por la sociedad?</strong></h2>
+<p>La discriminación social de los cuerpos gordos corresponde a un fenómeno altamente complejo, donde coinciden las múltiples aristas de distintos sistemas de discriminación en torno a un tipo de corporalidad socialmente menoscabado. Esta discriminación se expresa principalmente en dos dimensiones: la apariencia, o la belleza/fealdad de los cuerpos, y la salud, en el sentido de la evaluación visual del estado de los cuerpos bajo parámetros biomédicos. Pero, si bien podemos aislar dos dimensiones, el mecanismo mediante los cuales esto ocurre podría resumirse como el producto de las operaciones conscientes e inconscientes que realizan las personas, en base a sus intereses y a sus conocimientos internalizados, al enfrentarse a cuerpos no hegemónicos, o en nuestro caso, cuerpos gordos.</p>
+<!--more-->
+<p>Si entendemos los cuerpos como la presentación visual de quien somos ante la mirada del otro, de todos aquellos aspectos visualmente codificables de lo que nos configura como sujetos, entonces podemos describir los cuerpos como el despliegue de superficies literalmente inscritas por significados y codificaciones sociales. En este sentido se posibilitan procesos de reconocimiento visual de la identidad social de los individuos, donde nos volvemos capaces de percibir al otro, e interpretar al otro, en base a los saberes sedimentados que tenemos acerca de los aspectos visuales que constituyen las corporalidades. En otras palabras, vemos cuerpos que interpretamos a partir de lo que hemos aprendido que significan ciertos estímulos visuales, kinésicos, espaciales, actitudinales, fisiológicos; es decir, a partir de discursos sobre el cuerpo, que finalmente producen (en términos de sentido) a los cuerpos que observamos.</p>
+<p>Por consiguiente, si en la sociedad circulan discursos perniciosos en torno a las características de los cuerpos gordos, es esperable que las personas los interpreten de esa manera. Así, podemos hablar de la gordura como estigma, en el sentido de atributos profundamente desacreditantes, como una marca corporal que dirige la interpretación de nuestra mirada hacia significados negativos. La estigmatización corresponde al proceso social mediante el cual los contenidos simbólicos de un atributo físico son atribuidos al sujeto que lo encarna. Y estas atribuciones negativas naturalmente derivan en discriminación.</p>
+<p>Pero, si bien la sociedad cristaliza cierto contenido simbólico en la gordura, para entender el por qué de su discriminación tenemos que ir más allá de las interpretaciones gordofóbicas de los cuerpos gordos, para pasar a analizar las operaciones que realizan los sujetos y grupos sociales al momento de rechazar, excluir y desmarcarse de las personas gordas y de la gordura como concepto mismo.&nbsp;</p>
+<p>Al rechazarse la gordura desde argumentos relacionados a la belleza, o más bien, la supuesta falta de belleza o derechamente fealdad de los cuerpos gordos, lo que se produce es la reproducción de unos ciertos ideales de belleza asociados a la marca de la delgadez, y el privilegio que éstos conllevan. Hablamos de privilegio porque la belleza suele tratarse de un concepto oposicional, donde el mecanismo clave es la distinción: apelar al supuesto valor inherente a una estética minoritaria y particular, en contraste con la que tienen los “otros”, usualmente otros racializados, explotados, o marginados. La belleza se entiende como privilegio porque se construye de tal manera que excluya a ciertos cuerpos de su valoración, sancionando así a las personas que no se adecúen al ideal como forma de reafirmar el valor de quienes sí lo hacen.</p>
+<p>La discriminación de la gordura también opera desde una perspectiva moralista, bajo la necesidad de sancionar y castigar a los cuerpos interpretados como fallidos, buscando formas de comunicar a estos cuerpos disidentes que sus cuerpos supuestamente evidencian falencias moralmente reprochables, tales como irresponsabilidad, inmoralidad, enfermedad, descuido y pereza. En otras palabras, se reprocha que las personas gordas no se cuidan, no toman la iniciativa, son un peso para el sistema de salud, carecen de motivación, carecen de autoestima, y otros prejuicios moralistas. De este modo, se configuran discursos sobre la gordura como el opuesto del conjunto de comportamientos e ideales propios del sujeto neoliberal: aquél individuo que internaliza el imperativo neoliberal de productividad, mérito y esfuerzo individual, el cual sería simbolizado en la belleza/salud/moralidad de la apariencia delgada, en contraposición al fracaso de “los otros” evidenciado en sus cuerpos gordos. Acá el subtexto es que una persona esforzada vería su calidad moral reflejada en un cuerpo delgado, mientras que la gordura revelaría personas “inferiores” bajo criterios neoliberales, y por consiguiente, necesarios de excluir, por ejemplo, en contextos laborales.</p>
+<p>Finalmente, uno de los pilares centrales de la discriminación de la gordura radica en argumentos médicos para descalificar a las personas gordas como si fueran personas enfermas, apropiándose del discurso médico para justificar prejuicios y actitudes discriminatorias. Esta perspectiva suele relacionar la gordura con mala salud, basándose en formas superficiales de interpretar el bienestar que relacionan la delgadez con la salud. Esto resulta incorrecto, dado que una inspección visual es incapaz de revelar el estado de salud de una persona. Sin embargo, nuestra cultura pone gran énfasis en la mirada y lo visual, donde lo bueno equivale a lo bello y la mirada es el sentido principal, reforzando la idea de la apariencia sería capaz de revelar algo profundo sobre las personas. Esta primacía de las apariencias resulta funcional a una sociedad de consumo donde se promete poder reconstruir al yo a gusto del consumidor, donde incluso es posible comprar la apariencia de salud y bienestar mediante fármacos, cirugías, dietas y rutinas reductoras de peso.</p>
+<p>De estas formas, y sin duda de muchas otras, podemos entender por qué tantos individuos y grupos sociales participan de la discriminación de personas gordas, ya sea por su propio beneficio (marcar su belleza, su superioridad moral, o su supuesta salud), o por un simple interés por defender el statu quo (la definición de lo bello y del buen gusto, de las formas socialmente valoradas de administrar la propia vida, o de la forma en que se ven las “buenas” personas).</p>
+</section>
+<section id="cómo-se-comprende-el-cuerpo-gordo-u-obeso-por-la-sociedad" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-se-comprende-el-cuerpo-gordo-u-obeso-por-la-sociedad"><strong>¿Cómo se comprende el cuerpo gordo u obeso por la sociedad?</strong></h2>
+<p>Desde la perspectiva de la moralidad, los cuerpos gordos se interpretan como exponentes de: negligencia, irresponsabilidad, indisciplina, irracionalidad, equivocación y desviación. Ello dado que se asume que las personas son gordas por no hacerse cargo de sí mismas, de carecer de capacidad disciplinar para regular el apetito y la actividad física, por no poder controlarse o gobernarse correctamente, o por haber sido incapaces de tomar las decisiones correctas a través de sus vidas. Estas suposiciones moralistas se conectan también a suposiciones sobre la salud de las personas, bajo el paradigma de que cada persona es responsable de su propia salud y de que el cuerpo sería maleable o modificable según la voluntad de cada persona.</p>
+<p>Desde la perspectiva de la apariencia, los cuerpos gordos son percibidos como indeseables, poco atractivos, desagradables, asexuales o hipersexuales, invisibles pero hipervisibles. Esto proviene del contenido de los cánones estéticos dominantes, donde la silueta delgada lleva décadas imperando en occidente, pero también del asumir&nbsp;&nbsp;la vida íntima y afectiva de las personas gordas, en tanto personas sexualmente frustradas, o bien hipersexuales debido a la supuesta necesidad de superar su frustración sexual. Se da también la paradoja de que son percibidos como cuerpos invisibles, sin representación mediática o bien ignorados, pero a la vez criticados por el espacio que usan y por el escándalo que implicaría representarlos en medios comunicacionales o puestos de poder. Paradigmático de este tema es el conocido reclamo de “glorificar la obesidad” apenas una persona gorda comete el pecado de mostrar su cuerpo en redes sociales, la hiper visibilidad de un cuerpo otrora invisible, ocultado.</p>
+<p>Todo esto corresponde sencillamente a prejuicios acerca del valor y del comportamiento de las personas gordas, que no tiene sustento en la realidad de cada una de ellas, sino que constituyen ficciones mediante las cuales las personas se explican, incorrectamente, la existencia de la diversidad corporal.</p>
+</section>
+<section id="cómo-la-sociedad-podría-cambiar-el-paradigma-del-cuerpo-gordo" class="level2">
+<h2 class="anchored" data-anchor-id="cómo-la-sociedad-podría-cambiar-el-paradigma-del-cuerpo-gordo"><strong>¿Cómo la sociedad podría cambiar el paradigma del cuerpo gordo?</strong></h2>
+<p>Algunas palabras clave para cambiar el paradigma que discrimina a los cuerpos gordos serían: resignificación, visibilización, performatividad y activismo.</p>
+<p>Resignificación por la lucha para desafiar prejuicios sobre los cuerpos, buscando cambiar estos errores con información modera y más tolerante acerca de la diversidad corporal y el respeto de las diferencias entre las personas. Visibilización, porque hacerse presente, expresarse y atreverse a vivir siendo una corporalidad contrahegemónica resulta un acto político que desafía lo instituido por el mero acto de presencia. Lo anterior conecta con la performatividad, esta idea de que la realidad social se sustenta mediante los actos que repetimos diariamente, y que entre cada una de estas repeticiones inconscientes cabe la posibilidad de subvertir la normalidad, influyendo así el ciclo de repeticiones que nos constituyen como sujetos.&nbsp;</p>
+<p>Y finalmente activismo, porque adquirir un compromiso para con el cambio social resulta absolutamente primordial para organizar y llevar a cabo todas las disputas que sean necesarias contra una hegemonía que insiste en enfocar todos los males de la sociedad en los cuerpos disidentes.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>gordura</category>
+  <guid>https://bastianolea.github.io/posts/2022/2022-12-16-gordofobia-sus-razones-sus-prejuicios-y-su-superacion/</guid>
+  <pubDate>Fri, 16 Dec 2022 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: Sandra Lee Bartky - Feminidad, poder y disciplina</title>
+  <link>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-feminidad-poder-y-disciplina/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Mapa conceptual de las ideas principales del capítulo <em>Foucault, Femininity and the Modernization of Patriarchal Power</em>, del libro <em>Femininity and Domination</em> de Sandra Lee Bartky.</p>
+<p>Toca la imagen o <a href="http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-5-Foucault-Femininity-and-the-Modernization-of-Patriarchal-Power.pdf">este enlace</a> para acceder al mapa conceptual.</p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-5-Foucault-Femininity-and-the-Modernization-of-Patriarchal-Power.pdf"><img src="https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-feminidad-poder-y-disciplina/images/02D21D74-4A43-43C3-9FBD-4B3A77573023-1024x361.jpeg" class="img-fluid"></a></p>
+<p>Bartky, Sandra Lee. (1990). Femininity and Domination. Studies in the Phenomenology of Oppression. (Thinking Gender). New York: Routledge.</p>
+<hr>
+<p><em>Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, sociólogo, data scientist y magíster en sociología (Pontificia Universidad Católica de Chile).</em></p>
+
+
+
+ ]]></description>
+  <category>destacado</category>
+  <category>género</category>
+  <guid>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-feminidad-poder-y-disciplina/</guid>
+  <pubDate>Fri, 08 Jul 2022 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: Sandra Lee Bartky - Fenomenología de la conciencia femenina</title>
+  <link>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-fenomenologia-de-la-conciencia-femenina/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Mapa conceptual de las ideas principales del capítulo <em>Towards a Phenomenology of Feminist Consciousness</em>, del libro <em>Femininity and Domination</em> de Sandra Lee Bartky.</p>
+<p>Bartky, Sandra Lee. (1990). Femininity and Domination. Studies in the Phenomenology of Oppression. (Thinking Gender). New York: Routledge.</p>
+<p>Toca en la imagen o en <a href="http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-1-Towards-a-Phenomenology-of-Feminist-Consciousness.pdf">este enlace</a> para acceder al mapa conceptual del texto.</p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-1-Towards-a-Phenomenology-of-Feminist-Consciousness.pdf"><img src="https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-fenomenologia-de-la-conciencia-femenina/images/429271EA-E239-4F6F-99C2-6F9EC92FA2D6-1024x646.jpeg" class="img-fluid"></a></p>
+<hr>
+<p><em>Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, sociólogo, data scientist y magíster en sociología (Pontificia Universidad Católica de Chile).</em></p>
+
+
+
+ ]]></description>
+  <category>género</category>
+  <guid>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-fenomenologia-de-la-conciencia-femenina/</guid>
+  <pubDate>Fri, 08 Jul 2022 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resumen: Sandra Lee Bartky - Opresión y alienación en la feminidad</title>
+  <link>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-opresion-y-alienacion-en-la-feminidad/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Mapa conceptual de las ideas principales de los capítulos <em>On Psychological Oppression</em> y <em>Narcissism, Femininity, and Alienation</em>, del libro <em>Femininity and Domination</em> de Sandra Lee Bartky.</p>
+<p>Toca sobre la imagen o en el <a href="http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-3-Narcissism-Femininity-and-Alienation.pdf">siguiente enlace</a> para acceder al resumen en mapa conceptual.</p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-3-Narcissism-Femininity-and-Alienation.pdf"><img src="https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-opresion-y-alienacion-en-la-feminidad/images/96C19C00-A1AE-44BA-8251-780A450BF8BD-1024x508.jpeg" class="img-fluid"></a></p>
+<hr>
+<p><em>Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, sociólogo, data scientist y magíster en sociología (Pontificia Universidad Católica de Chile).</em></p>
+
+
+
+ ]]></description>
+  <category>género</category>
+  <guid>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-opresion-y-alienacion-en-la-feminidad/</guid>
+  <pubDate>Fri, 08 Jul 2022 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Apuntes: Rosi Braidotti - La ética de la diferencia sexual: el caso de Foucault e Irigaray</title>
+  <link>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-la-etica-de-la-diferencia-sexual-el-caso-de-foucault-e-irigaray/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>(en <em>Sujetos nómades. Corporización y diferencia sexual en la teoría feminista contemporánea,</em> 2000, Paidós)</p>
+<p>La idea de femenino creado por la cultura falogocéntrica, y que lo asocia a lo decadente, corrupto, trastornado, no tiene relación con las mujeres de la vida real. (149)</p>
+<p>Es distinta la imagen creada de lo femenino versus la experiencia de las mujeres.</p>
+<p>“Tensión entre las imágenes y representaciones de la “mujer” construidas por el hombre y las experiencias de las mujeres de la vida real”:</p>
+<blockquote class="blockquote">
+<p>La cuestión real es la colisión frontal entre los supuestos patriarcales acerca de lo femenino y la realidad existencial de las vidas y el pensamiento de las mujeres, que el feminismo nos ha ayudado a expresar. 150</p>
+</blockquote>
+<p>La crisis del pensamiento moderno, que es la crisis de la idea del sujeto racional, ha dado lugar a que el tema de la ética y la condición del otro ganen importancia en al filosofía, y <strong>es el movimiento de mujeres la fuente primaria de la dislocación del sujeto racional.</strong></p>
+<blockquote class="blockquote">
+<p>La absoluta importancia que adquirió la cuestión de la ética en la obra de algunos filósofos varones es una consecuencia de la crisis del sujeto racional que ha sacudido hasta los cimientos mismos del sistema falogocéntrico. La cuestión de la alteridad, de la condición de “otro”, está suscitando renovada atención preci- samente a causa de la problematización que sufren las estructuras de la subjetividad en el pensamiento moderno. Creo firmemente que el movimiento de las mujeres es una de las fuentes primarias de la dislocalización del sujeto racional. 150</p>
+</blockquote>
+<!--more-->
+<section id="ética" class="level3">
+<h3 class="anchored" data-anchor-id="ética">Ética</h3>
+<blockquote class="blockquote">
+<p>Foucault elabora una nueva ética que se mantiene dentro de los confines de la igualdad sexual, en tanto que Irigaray defiende la alteridad sexual como una estrategia que permite afirmar la subjetividad femenina. 151</p>
+<p>Foucault elabora una crítica que permanece dentro de los confines de la igualdad sexual; por su parte, Irigaray enfatiza la diferencia sexual como una manera de afirmar la subjetividad femenina. 162</p>
+</blockquote>
+<hr>
+<section id="foucault" class="level4">
+<h4 class="anchored" data-anchor-id="foucault">Foucault</h4>
+<p>Materialidad de las ideas, entre el texto y la historia pero nunca en uno de los polos.</p>
+<blockquote class="blockquote">
+<p>Lo que en verdad interesaba a Foucault era la materialidad de las ideas, el hecho de que éstas existan en un espacio intermedio, atrapado en una red de condiciones materiales y simbólicas, entre el texto y la historia, entre la teoría y la práctica, y nunca en ninguno de esos polos. Su filosofía es una filosofía de las relaciones, de los espacios intermedios, y en ese sentido Foucault representa la antítesis absoluta de la sociología. 152</p>
+</blockquote>
+<p>Foucault sobre el <em>ensayo:</em></p>
+<blockquote class="blockquote">
+<p>Siempre hay algo de irrisorio en el discurso filosófico cuando, desde el exterior, quiere ordenar a los demás, decirles dónde está su verdad y cómo encontrarla o cuando se siente con fuerza para instruirles proceso con positividad ingenua. Pero es su derecho explorar lo que, en su propio pensamiento, puede ser cambiado mediante el ejercicio que hace de un saber que le es extraño. El “ensayo” —que hay que entender como prueba modificadora de sí mismo en el juego de la verdad, y no como la apropiación simplificadora del otro con fines de comunicación- es el cuerpo vivo de la filosofía, por lo menos si ésta es todavía hoy lo que fue en el pasado, es decir, una “ascesis”, un ejercicio de sí en el pensamiento.” 152 (Historia de la sexualidad 2)</p>
+</blockquote>
+<p>Constitución del sujeto mediante las <em>prácticas de división:</em> exclusión, separación, dominación dentro de uno mismo y respecto a los demás.</p>
+<p><em>Microfísica del poder</em> son los factores que transforman a los humanos en sujetos culturales:</p>
+<blockquote class="blockquote">
+<p>los modos en que se transforma a los seres humanos en sujetos en nuestra cultura se sostienen en una compleja red de relaciones de poder, que Foucault define como “la microfísica del poder”. 153</p>
+</blockquote>
+<p>El cuerpo material es el blanco del poder en tanto es inclinado a experimentar la realidad de formas determinadas:</p>
+<blockquote class="blockquote">
+<p>el cuerpo es el blanco privilegiado de los mecanismos de las relaciones de poder. (…) un cuerpo definido en términos de materialidad, es decir, como materia inclinada a experimentar una variedad de operaciones simbólicas y materiales: debe hacerse dócil, sumisa, erótica, utilizable, productiva, etc. 153</p>
+</blockquote>
+<p>Las técnicas de control producen efectos de verdad: conocimiento sobre el sujeto y su inscripción social:</p>
+<blockquote class="blockquote">
+<p>producen “efectos de verdad”, por cuanto generan tipos específicos de conocimiento acerca del sujeto y su inscripción social. 153</p>
+</blockquote>
+<p>La normatividad es positiva dado que produce conocimientos:</p>
+<blockquote class="blockquote">
+<p>Los aspectos normativos de las relaciones de poder en las cuales queda atrapado el cuerpo son, en consecuencia, positivos, esto es, productivos en términos de conocimiento, en el sentido de verdad sobre el sujeto vivo. 153</p>
+</blockquote>
+<p>Los efectos de verdad y las prácticas discursivas proliferan en torno a la sexualidad, su represión o su permisión:</p>
+<blockquote class="blockquote">
+<p>entiende la sexualidad como el campo en el cual proliferan con mayor fuerza en nuestra cultura las prácticas discursivas y, por lo tanto, los efectos de verdad normativos. En el primer tomo de su historia de la sexualidad, Foucault define la cultura occidental como “sexo-céntrica”: somos los únicos que inventamos la scientia sexualis, haciendo de la sexualidad el sitio de la autorrevelación y la verdad sobre uno mismo. Las preguntas que se hace Foucault es pues: ¿qué es esa sexualidad que nos preocupa tanto a todos? y ¿por qué medios llegamos a ser sujetos sexuales? 154</p>
+</blockquote>
+<p>Discurso y control de la sexualidad.</p>
+<p>En la cultura grecorromana, la práctica sexual era entendida como <em>arte de la existencia,</em> en tanto localizaba a los individuos dentro de ciertos valores estéticos y estilísticos:</p>
+<blockquote class="blockquote">
+<p>señala que las prácticas que nosotros englobamos bajo el rótulo general de “sexualidad” constituían lo que la cultura grecorromana llamó “las artes de la existencia”, o sea, “esas acciones intencionales y voluntarias mediante las cuales los hombres no sólo se fijan reglas de conducta, sino que procuran además transformarse, convertirse en seres singulares y hacer de su vida una obra que tenga ciertos valores estéticos y cumpla con ciertos criterios estilísticos” 154</p>
+</blockquote>
+<p>Artes de la existencia -&gt; Técnicas del sí mismo.</p>
+<blockquote class="blockquote">
+<p>Foucault emplea el término hombrecomo una forma universal, con lo cual pone de manifiesto su ceguera ante la diferencia sexual. 155</p>
+</blockquote>
+<p>Si bien las mujeres son sometidas, las prácticas del sí mismo suelen ser deberes que recaen en los hombres:</p>
+<blockquote class="blockquote">
+<p>Al hablar de las “prácticas del sí mismo”, Foucault declara: “Las mujeres estuvieron generalmente sometidas (…) y sin embargo esta ética no estuvo dirigida a las mujeres; lo que se recordaba, justificaba o explicaba no eran los deberes u obligaciones de las mujeres. Era una ética para hombres: una ética escrita y enseñada por los hombres y dirigida a los hombres, a los hombres libres, por supuesto”. 155</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Sosteniendo que el gobierno de uno mismo, el manejo del patrimonio propio y la participación en la administración de la ciudad eran tres prácticas del mismo tipo, Foucault destaca el valor clave de la “virilidad ética” como el ideal sobre el que se basa el sistema en su conjunto. Esto, a su vez, implica una coincidencia perfecta entre el sexo anatómico de uno —masculino— y la construcción imaginaria de la sexualidad masculina; además, Foucault pone el acento en la concordancia de ambos con las representaciones sociales dominantes de lo que debía ser la norma ética universal: la virilidad simbólica. De ahí que el cuerpo masculino forme un todo con el cuerpo político. 155</p>
+</blockquote>
+<hr>
+</section>
+</section>
+<section id="irigaray" class="level3">
+<h3 class="anchored" data-anchor-id="irigaray">Irigaray</h3>
+<p>Irigaray se aprovecha de la crisis del sujeto logocéntrico y a partir de ello ataca la relación entre racionalidad y masculinidad:</p>
+<blockquote class="blockquote">
+<p>para Irigaray, la crisis que presagia la muerte del sujeto logocéntrico ofrece la <strong>condición de posibilidad para la expresión de una subjetividad femenina.</strong> La crisis es sólo la muerte del sujeto universal: aquel que disfrazaba su singularidad tras la máscara del logocentrismo. No es sorprendente que los hombres se sientan enormemente sacudidos por esto; sin embargo, la crisis nos permite plantear, después de tanto tiempo, la cuestión que Irigaray considera fundamental: la de la diferencia sexual. 157</p>
+</blockquote>
+<p>Contra el universalismo:</p>
+<blockquote class="blockquote">
+<p>sujeto del discurso siempre es sexuado; nunca puede ser puro, universal o sin sexo. 158</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>El trabajo de Irigaray tiene un doble propósito: (1) <strong>romper con la asociación de masculinidad, racionalidad y universalidad,</strong> mediante la relectura de la historia de la ontología occidental; y (2) <strong>dar voz y corporizar en sus propios textos lo “femenino”</strong> de las propias mujeres, es decir, una noción diferente del tipo de “femenino” que está implícitamente vinculado con la economía logocéntrica. 158</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>doble apremio por expresar la novedad radical de una realidad corpórea femenina que nunca estuvo adecuadamente representada y, a la vez, por no interrumpir el diálogo con los maestros de la filosofía occidental. 158</p>
+</blockquote>
+<p>Equivalencia entre la creación de la metáfora de lo femenino y la opresión de las mujeres:</p>
+<blockquote class="blockquote">
+<p>el hecho de que <strong>“lo femenino” sea el “punto ciego” de todos los procesos textuales y teoréticos</strong> significa que las voces de las mujeres están enterradas por debajo de las palabras de alguien —los hombres—. Por lo tanto, hay una equivalencia directa entre el proceso de metaforización de “lo femenino” y el fenómeno de la opresión histórica de las mujeres. 158</p>
+</blockquote>
+<p>El sujeto femenino es un espacio en blanco, un condicional, ¿cómo puede surgir? ¿bajo qué condiciones? (158)</p>
+<p><strong>Imitación estratégica o mímesis:</strong> análisis de lo que se asigna como femenino en la filosofía clásica, leyendo o des-leyendo en un juego de “reflejo especular/reflexión especulativa de la lógica interna del discurso falogocéntrico” (159)</p>
+<p><strong>Diferencia sexual como supuesto principal:</strong> “la diferencia entre los sexos es radical y es constitutiva de la experiencia humana; debería inscribirse junto con la mortalidad como el marco ineluctable de referencia del ser humano.“ (159) La diferencia sexual siempre está allí, es una base ontológica.</p>
+<p>Se cree esencialistamente en una base ontológica de la diferencia como estrategia para remarcar la especificidad de la experiencia femenina en contra de la indiferenciación pseudouniversalista del falogocentrismo:</p>
+<blockquote class="blockquote">
+<p>La <strong>creencia esencialista en la diferencia ontológica</strong> es una estrategia política que apunta a declarar la <strong>especificidad de la subjetividad, la sexualidad y la experiencia femeninas,</strong> y, al mismo tiempo, a denunciar la lógica de la indiferenciación sexual del discurso falogocéntrico. 159</p>
+</blockquote>
+<p>Niveles de la diferencia sexual:</p>
+<blockquote class="blockquote">
+<p>El proceso debe comenzar con <strong>que cada mujer reconozca a las demás mujeres</strong> en un sistema de referencia simbólico, de reconocimiento mutuo y <strong>autorreconocimiento de “la mujer como otro”.</strong> El concepto de Irigaray de la diferencia sexual pone, pues, el acento en la importancia del <strong>segundo nivel</strong> de diferencia: el que se da <strong>entre mujeres en el reconocimiento de la diversidad</strong> y también de las experiencias e inquietudes comunes. 160</p>
+</blockquote>
+<ul>
+<li>Nivel 1: la mujer es un otro</li>
+<li>Nivel 2: la diversidad entre mujeres</li>
+</ul>
+<blockquote class="blockquote">
+<p><strong>reconocer el vínculo de las mujeres</strong> es el primer paso hacia la elaboración de otro sistema simbólico, en el cual los modelos de separación se transmitan de un modo diferente. 160</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>el misterio de la alteridad, de la relación con el otro y, especialmente, con el Otro que es el Ser Divino, se resume en el otro que es sexualmente diferente de uno 161</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>Irigaray pone sumo cuidado en destacar que <strong>la mujer como el otro del hombre (el otro del mismo)</strong> tiene necesidad de <strong>explorar primero su vínculo con las demás mujeres,</strong> con su propio género (el otro del otro, o el sistema simbólico de las mujeres) de modo tal de <strong>hallar las expresiones adecuadas</strong> para su género. 161</p>
+</blockquote>
+<p><strong>Ética del amor:</strong></p>
+<blockquote class="blockquote">
+<p>Ser capaz de acercarse a cualquier otro, respetando plenamente su singularidad; respetando la presencia y los límites, mientras uno se acerca y es llevado hacia el reconocimiento de las diferencias respectivas e irreductibles de ambos: ésta es la base de la nueva ética del amor que propone Irigaray como parte de su práctica de la diferencia sexual. 161</p>
+<p>La ética es, para Irigaray, un movimiento hacia el otro (sexo) como el <strong>paradigma de un nuevo modo de relacionarse con el otro,</strong> incluyendo la otra mujer que, <strong>si bien es sexualmente igual-a-mí, continúa siendo otra,</strong> un mediador entre el sí mismo y la realidad. La ética de la diferencia sexual aspira a hallar y promulgar <strong>representaciones capaces de generar una nueva humanidad femenina</strong> y un sentido femenino de lo divino.</p>
+</blockquote>
+<hr>
+<p><em>Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, sociólogo y magíster en sociología (Pontificia Universidad Católica de Chile).</em></p>
+
+
+</section>
+
+ ]]></description>
+  <category>género</category>
+  <category>sociología</category>
+  <guid>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-la-etica-de-la-diferencia-sexual-el-caso-de-foucault-e-irigaray/</guid>
+  <pubDate>Sat, 27 Nov 2021 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Apuntes: Rosi Braidotti - Las teorías de género o “El lenguaje es un virus”</title>
+  <link>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-las-teorias-de-genero-o-el-lenguaje-es-un-virus/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>(en <em>Sujetos nómades. Corporización y diferencia sexual en la teoría feminista contemporánea,</em> 2000, Paidós)</p>
+<section id="historia-del-concepto-de-género" class="level3">
+<h3 class="anchored" data-anchor-id="historia-del-concepto-de-género">Historia del concepto de género</h3>
+<blockquote class="blockquote">
+<p>El concepto de “género” no fue originariamente feminista; tuvo una identidad previa, derivada de la investigación en biología, lingúística y psicología. Esta historia multiestratificada le quita credibilidad como concepto, y las posteriores apropiaciones y adaptaciones que hicieron las feministas del término “género” le agregaron mayor complejidad. 212</p>
+<p>La adopción del término “género”, como una noción dominante, por parte de las feministas, se dio por intermediación de Simone de Beauvoir. Su estudio de la estructura filosófica y material de la <strong>“alteridad”, la “condición de otro”, como una categoría fundamental de la experiencia humana,</strong> la llevó a afirmar la naturaleza, construida, en lugar de biológicamente determinada, de la identidad. “ 212-213</p>
+</blockquote>
+<p>Simone De Beauvoir devela la función que tiene la <em>otrorización</em> de la mujer en la sociedad patriarcal:</p>
+<blockquote class="blockquote">
+<p>De Beauvoir muestra tanto la medida de la <strong>depreciación de las mujeres,</strong> como la ubicuidad de la figura de la mujer en la vida intelectual y psíquica. De ahí que ponga el acento en la función crucial que cumplen las mujeres como el sitio o la localización de la alteridad: <strong>sólo mediante la negación de este “otro” privilegiado, el sujeto masculino puede construirse como el modelo universal de normalidad y normatividad.</strong> 213</p>
+</blockquote>
+<!--more-->
+</section>
+<section id="identificación-con-un-género" class="level3">
+<h3 class="anchored" data-anchor-id="identificación-con-un-género">Identificación con un género</h3>
+<blockquote class="blockquote">
+<p><strong>la identidad se adquiere en un vínculo relacional con el otro.</strong> Adquirir una identidad es pues un logro (…) Este logro y el esfuerzo que requiere construirse como mujer —o como hombre— prueban que el sexo y el género no deben confundirse y que la unidad entre lo empírico y lo simbólico —entre ser varón y hombre, ser hembra y mujer— se adquiere a un alto costo. 214</p>
+</blockquote>
+<p>Butler sobre <em>sentirse una mujer natural:</em></p>
+<blockquote class="blockquote">
+<p>Las palabras “Me siento una mujer” son ciertas en la medida en que la invocación de Aretha Franklin del otro que define se entienda como: “Tú me haces sentir una mujer natural”. Este logro exige una <strong>diferenciación de género opuesto.</strong> De ahí que <strong>uno sea el género de uno en la medida en que no es el otro género,</strong> una formulación que <strong>supone y refuerza</strong> la restricción de género dentro de ese par binario. 214-215</p>
+<p>Judith Butler comenta: “Una mujer natural’ es una frase que sugiere que la “naturalidad” sólo se logra mediante analogía o metáfora. Esto es, “Tú me haces sentir una metáfora de lo natural y sin ti se me revelaría alguna base desnaturalizada”. Lo que está diciendo Butler es que la estructura construida, relacional, de la identidad femenina es tal que “naturaleza” sólo significa un horizonte desplazado e infinitamente postergado, accesible sólo metafóricamente. Si “sentirse una mujer” expresa la lucha por la identidad y el consecuente hiato entre sexo y género, “sentirse una mujer natural” alude a la <strong>estructura desnaturalizada de la subjetividad humana.</strong> 216</p>
+</blockquote>
+<hr>
+</section>
+<section id="heterosexualidad-compulsiva" class="level3">
+<h3 class="anchored" data-anchor-id="heterosexualidad-compulsiva">Heterosexualidad compulsiva</h3>
+<section id="gayle-rubin" class="level4">
+<h4 class="anchored" data-anchor-id="gayle-rubin">Gayle Rubin</h4>
+<blockquote class="blockquote">
+<p>Rubin identifica la <strong>circulación de mujeres</strong> en la sociedad lineal patriarcal como la clave del “sistema de género” que sustenta el orden patriarcal. 222</p>
+<p>el sistema de género que <strong>construye los dos sexos como diferentes, desiguales y sin embargo complementarios,</strong> es en realidad un sistema de poder que apunta a concentrar el capital material y simbólico en manos de los padres —es decir, de los hombres mayores— o a controlar a los hombres más jóvenes y a las mujeres. <strong>La familia es, pues, la unidad de poder que sella la riqueza de los hombres y establece la heterosexualidad como la economía política dominante</strong> para ambos sexos. Como tal, <strong>la heterosexualidad es la institución que sustenta el sistema de género.</strong> 222</p>
+<p>Gayle Rubin radicaliza el análisis de S. de Beauvoir mostrando <strong>hasta qué punto es esencial convertir a la mujer en objeto</strong> para mantener firme —en el plano material, pero también en el simbólico— el sistema patriarcal 222</p>
+</blockquote>
+</section>
+<section id="adrienne-rich" class="level4">
+<h4 class="anchored" data-anchor-id="adrienne-rich">Adrienne Rich</h4>
+<blockquote class="blockquote">
+<p>Rich presenta un análisis en profundidad de las paradojas de la identidad femenina, especialmente de la <strong>maternidad</strong> como una <strong>experiencia que determina el sentido de identidad sexuada de una mujer, al tiempo que continúa siendo una institución que aplica la ley de los padres.</strong> Otra innovación significativa que toma Adrienne Rich del feminismo negro es la idea de que <strong>el género no es en absoluto una categoría monolítica</strong> que hace que todas las mujeres sean iguales; antes bien, es la marca de una posición de subordinación, calificada por una cantidad de poderosas variables. Entre esas variables, una central es la raza o la etnia. Mediante su concepto de la <strong>“política de localización”,</strong> Rich pone énfasis en la importancia de <strong>situarse en la especificidad de la propia realidad social, étnica, de clase, económica y sexual de cada una.</strong> 223</p>
+</blockquote>
+<hr>
+<p>Christine Delphy, Monique Plaza y Monique Wittig:</p>
+<blockquote class="blockquote">
+<p>las mujeres son una clase social, esto es, que la sexualidad es al feminismo lo que el trabajo es al marxismo: un concepto fundamental sobre el cual se puede construir una conciencia revolucionaria. Que constituyamos una clase significa que todas las mujeres estamos sometidas mediante la economía política de la heterosexualidad reproductora; de ello se sigue que la tarea del feminismo es derribar los términos de esta relación de clase y cambiar las condiciones materiales que los engendraron. 225</p>
+</blockquote>
+<p>Wittig: sospecha hacia el concepto de mujer:</p>
+<blockquote class="blockquote">
+<p>En un movimiento de repudio radical de todas las identidades creadas en el sistema patriarcal, Monique Wittig inició la era de la sospecha sobre la noción misma de “mujer”, considerada como la construcción ideológica de un sistema de género dominado por los hombres. <strong>Para Wittig, la “mujer” como concepto, está cargado de proyecciones y expectaciones imaginarias masculinas.</strong> Por consiguiente, es poco confiable desde el punto de vista epistemológico y sospechoso desde el punto de vista político. La crítica radical de Wittig al concepto de “mujer” se basa en su repudio del “esencialismo”. Wittig sostiene que <strong>en la ideología patriarcal la noción de “la mujer” representa un modelo normativo de heterosexualidad reproductora; representa la naturaleza, la maternidad y la familia dominada por el varón.</strong> Tales nociones son esencialistas porque se las acepta como condiciones naturales y, por lo tanto, como condiciones inevitables e inmodificables que en realidad han sido inducidas socialmente y son específicas de una cultura. Por extensión, <strong>Wittig da vuelta por completo la distinción establecida por De Beauvoir</strong> entre sexo y género, radicalizando los términos de la oposición (…) Wittig invierte todo esto: <strong>el sistema de género</strong> no es la recodificación cultural de una realidad biológica, sino que constituye más bien la <strong>expresión de una ideología patriarcal que necesita esas oposiciones binarias entre los sexos para afirmar la dominación masculina.</strong> 225-226</p>
+</blockquote>
+<p>Dualismo y oposiciones en el funcionamiento del sistema de género:</p>
+<blockquote class="blockquote">
+<p>el sistema de género funciona para Wittig en virtud de la lógica dualista de oposiciones binarias que crean identidades sexuadas (“hombres” y “mujeres”). Estas identidades sirven al propósito de suministrar bases esencialistas al poder patriarcal, lo que equivale a decir que alientan al sistema social a creer en la estructura “natural” o históricamente inevitable de sus instituciones, sus valores y sus modos de representación, especialmente, en su visión del sujeto. 226</p>
+</blockquote>
+<p>Sólo la mujer tiene género, dado que el género es una marca de especificidad y diferencia y los hombres son lo universal y no marcado:</p>
+<blockquote class="blockquote">
+<p>para Wittig, como para De Beauvoir, sólo las mujeres tienen un género, en tanto que <strong>los hombres están exentos de semejante marca de especificidad, por cuanto representan lo humano.</strong> 226-227</p>
+</blockquote>
+<p>Wittig: identificación con la lesbiana, la lesbiana no es mujer:</p>
+<blockquote class="blockquote">
+<p>Wittig propone que las feministas abandonen este concepto esencialista y mistificador y que en cambio tomen como punto de reunión e identificación una figura mucho más subversiva: “la lesbiana”. En su declaración en alto grado controvertida: “Una lesbiana no es una mujer”, Wittig afirma que <strong>la lesbiana representa una forma de conciencia política que rechaza las definiciones de la mujer dominadas por los hombres y pone en tela de juicio todo el sistema de género,</strong> así como su bipolarización sexual convenientemente organizada. Para decirlo claramente, <strong>la lesbiana es como un tercer polo de referencia: no es ni “no varón”, ni “no mujer”, sino radicalmente otra.</strong> En otras palabras, la lesbiana marca la <strong>superación de las identidades basadas en el falo</strong> y, en consecuencia, representa un modo de pasar por alto el sistema de género. 227</p>
+</blockquote>
+<hr>
+<p><strong>Joan Scott:</strong> el género como relación de poder:</p>
+<blockquote class="blockquote">
+<p>Joan Scott alienta a las feministas a abordar el concepto de género como una noción que marca una serie de relaciones, con lo cual desarrolla una de las ideas de Adrienne Rich. <strong>El sexo, la clase, la raza y la edad son ejes o variables fundamentales que definen el sistema de género;</strong> empleando extensamente el análisis postestructuralista del poder y su discurso, Scott se aparta de la idea de género de Wittig, según la cual éste es un sistema ideológico, y tiende hacia una <strong>noción de género entendido como una red de relaciones de poder.</strong> 230</p>
+</blockquote>
+<p><strong>Teresa de Lauretis:</strong> tecnología de género:</p>
+<blockquote class="blockquote">
+<p>un desarrollo teórico que debe destacarse dentro de las teorías de género es el trabajo de Teresa de Lauretis sobre lo que ella llama la tecnología de género. Basándose en la noción de Foucault de la “materialidad” del discurso, De Lauretis aborda la <strong>construcción de la identidad femenina,</strong> como <strong>proceso material y también simbólico.</strong> El género es un mecanismo complejo —una “tecnología”— que define al sujeto como “varón” o “mujer” en un proceso de normatividad y regulación de lo que se espera que llegue a ser el ser humano, con lo cual <strong>produce las categorías mismas que pretende explicar.</strong> De Lauretis sostiene que el <strong>género como proceso de construcción del sujeto produce categorías</strong> tales como: hombres, mujeres, heterosexual, homosexual, pervertido, etcétera, y <strong>se intersecta con otras variables normativas</strong> —tales como la raza y la clase— para producir un formidable sistema de poder que construye los sujetos socialmente normales. Como consecuencia, De Lauretis alienta a las feministas a desestabilizar la normatividad de las formas dominantes de la identidad sexuada y a <strong>encontrar nuevas definiciones para el sujeto feminista femenino.</strong> 231-232</p>
+</blockquote>
+<p>Luego Butler cuestiona la utilidad del género y abogando por la proliferación de nuevos géneros desestructurantes:</p>
+<blockquote class="blockquote">
+<p>Judith Butler toma una orientación levemente diferente: recoge el análisis de las “mujeres” de Wittig y presenta una innovación partiendo de la versión de género como una tecnología propuesta por De Lauretis. La pregunta que formula Butler es pues: <strong>si el género como proceso construye las categorías mismas de identidad que pretende explicar,</strong> ¿continúa siendo útil para las feministas? Al concentrar su crítica en la naturaleza dualista de la oposición sexo/género, Butler argumenta que “la mujer”, como una categoría construida por esta oposición binaria, es tan normativa como excluyente. <strong>Es normativa porque hace valer la heterosexualidad compulsiva y es excluyente porque encubre la multiplicidad de las diferencias que constituyen el sujeto.</strong> Dicho de otro modo, el análisis de Butler se concentra en la parte de “la mujer” de la famosa frase de S. de Beauvoir: “Uno no nace mujer; se hace”. Al atacar la <strong>ficción normativa</strong> de la coherencia heterosexual, Butler <strong>demanda que las feministas produzcan todo un conjunto de nuevos géneros de la no coherencia.</strong> 223</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>el reconocimiento simbólico al que aspiran hoy las feministas femeninas es tener derecho a elaborar sus propias formas de discurso científico y a que esas formas sean reconocidas como científicas. 234</p>
+</blockquote>
+<p><strong>Teoría feminista:</strong></p>
+<blockquote class="blockquote">
+<p>Hoy existe algo que puede llamarse una teoría feminista y que no consiste únicamente en la crítica de las posiciones tendenciosas sexistas que dominan en la ciencia y en el saber académico. Es algo más que protesta, rebelión y cólera; es un movimiento teorético con sus propios supuestos, sus principios rectores, sus criterios y sus historias intelectuales. La teoría feminista es una forma de pensamiento radicalmente no nostálgico que mira hacia adelante; para las intelectuales mujeres, el pasado no es un gran modelo, y el único camino que nos queda por seguir es avanzar. 235</p>
+</blockquote>
+<hr>
+<blockquote class="blockquote">
+<p>Ya he analizado el empleo que hace Donna Haraway de la expresión <strong>“figuraciones feministas” para describir esos diferentes modos teóricos de representar al sujeto en el feminismo.</strong> Hoy el desafío consiste en hallar nuevas imágenes de pensamiento que ayuden a las feministas a reflexionar sobre los cambios y las condiciones cambiantes que ellas mismas contribuyeron a provocar. 233</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>las feministas sabemos que <strong>las diferencias auténticas sólo pueden generarse mediante modelos de estudiada imitación,</strong> sólo mediante una forma estratégica de <strong>mimesis,</strong> como la que propone Irigaray. Como he sostenido a lo largo de este libro, <strong>no es posible reinventar el sujeto “mujer” en virtud del mero poder de la voluntad;</strong> antes bien, el proceso requiere la <strong>desconstrucción de muchas significaciones y representaciones de la “mujer”,</strong> a menudo contradictorias. Sólo mediante ese proceso puede emerger una nueva definición de la “mujer”, porque el lenguaje está dotado de una resistencia y una complejidad asombrosas. 236</p>
+</blockquote>
+<hr>
+<p><em>Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, sociólogo y magíster en sociología (Pontificia Universidad Católica de Chile).</em></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>género</category>
+  <guid>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-las-teorias-de-genero-o-el-lenguaje-es-un-virus/</guid>
+  <pubDate>Sat, 27 Nov 2021 03:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
