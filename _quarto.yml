@@ -11,15 +11,19 @@ website:
   twitter-card: true
   navbar:
     left:
-      - text: About
+      - text: Inicio
         href: index.qmd
       - text: Blog personal
         href: blog.qmd
-      - text: Blog R
+      - text: Blog de análisis de datos y R
         href: https://bastianolea.rbind.io
     right:
       - icon: instagram
         href: https://www.instagram.com/raccunnie/
+      - icon: tiktok
+        href: https://www.tiktok.com/@bastimapache
+      - icon: goodreads
+        href: https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera
       - icon: twitter
         href: https://twitter.com
 format:
