@@ -1,5 +1,6 @@
 ---
-title: "Presentación de defensa de tesis: Elementos teóricos y conceptuales  en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la aparienciaPresentación de defensa de tesis:"
+title: "Presentación de defensa de tesis de magíster"
+subtitle: "Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la apariencia"
 date: 2024-02-15
 categories: 
   - "gordura"
@@ -18,9 +19,7 @@ tags:
 
 - Leer/descargar en [Academia.edu](https://www.academia.edu/114944107/Defensa_de_tesis_Elementos_teóricos_y_conceptuales_en_torno_a_la_estigmatización_social_de_las_corporalidades_gordas)
 
-- Leer/descargar en ResearchGate
-
-\[scribd id=705939074 key=key-vJ5MqenLwvNObmHTrO6M mode=scroll\]
+- Leer/descargar en [ResearchGate](https://www.researchgate.net/publication/378230469_Defensa_de_tesis_Elementos_teoricos_y_conceptuales_en_torno_a_la_estigmatizacion_social_de_las_corporalidades_gordas)
 
 ![](images/Presentacion-defensa-de-tesis-1024x768.jpg)
 

@@ -9,11 +9,11 @@ tags:
   - "gordura"
 ---
 
-_Comparto el texto de una entrevista que me realizó este año Raúl Nagore, periodista y parte del [Basque Culinary Center](https://www.bculinary.com/es/home) de San Sebastián y la asociación de cocineros [Euro-Toques](https://www.euro-toques.es/public_home/ctrl_home.php), que será publicada en un número futuro del [periódico Papeles de Cocina.](https://www.euro-toques.es/papeles_de_cocina/ctrl_papeles.php)_ _La entrevista viene con una introducción y se da en formato de pregunta/respuesta._ _¡Muchas gracias Raúl por la conversación y la oportunidad!_
+_Comparto el texto de una entrevista que me realizó en 2024 año Raúl Nagore, periodista y parte del [Basque Culinary Center](https://www.bculinary.com/es/home) de San Sebastián y la asociación de cocineros [Euro-Toques](https://www.euro-toques.es/public_home/ctrl_home.php), que será publicada en un número futuro del [periódico Papeles de Cocina.](https://www.euro-toques.es/papeles_de_cocina/ctrl_papeles.php)_ _La entrevista viene con una introducción y se da en formato de pregunta/respuesta._ _¡Muchas gracias Raúl por la conversación y la oportunidad!_
 
 * * *
 
-**La meritocracia de la delgadez, la insubordinación de la gordura**
+# La meritocracia de la delgadez, la insubordinación de la gordura
 
 _¿Un cuerpo gordo es necesariamente un cuerpo insano? ¿Cuando sugerimos a alguien que debería adelgazar le estamos ayudando o contribuyendo a su baja autoestima? ¿Es más importante el efecto en su salud física o en su salud mental? ¿Por qué en mayor o menor medida todos somos gordófobos? ¿Juzgamos a los gordos por su falta de salud o por su falta de disciplina? El sociólogx chileno Bastián Olea Herrera, especializado en sociología del cuerpo y del género, ha dedicado buena parte de su trabajo a estudiar estos temas y comparte en la siguiente entrevista una visión nada convencional de la gordura, tratando de identificar herencias culturales, prejuicios, medias verdades y asunciones que terminan por culpabilizar y estigmatizar a las personas gordas y dificultar sus vidas._
 
@@ -43,7 +43,7 @@ Las personas gordas suelen ser interpretadas como el exceso mismo hecho cuerpo. 
 
 Aquí hay dos aristas: por un lado no hay que olvidar la historia de los grupos discriminados. Hasta hace poco había justificaciones biológicas para la discriminación racial, por ejemplo. Pensemos en los nazis: según ellos hay una diferencia biológica entre las razas que hace que unas sean superiores y otras inferiores. Lo mismo se aplicaba de forma más aceptada en la ideología de la eugenesia, donde hay ciertos elementos raciales que son mejores y que tienen que ser incentivados dentro de la población. La homosexualidad se consideraba un problema mental hasta hace no mucho tiempo. Creo que son discriminaciones que tienen una función social, generalmente para facilitar formas de explotación y de dominación, pero que buscan argumentos que sean más sólidos que simplemente el “yo tengo plata y tú no y quiero que trabajes para mí”. Se trata de argumentar una posición claramente arbitraria y sesgada con razones más fuertes y por tanto vamos a lo que consideramos más fuerte: el ADN, la sangre, la raza… El problema es que en el caso del racismo, está confirmado que la genética está muy compartida entre las distintas razas y no puedes decir que una sea superior a otra. Pero en la obesidad no hay tanta claridad, porque aún no hay certezas a nivel genético. No se ha descubierto todavía el gen de la obesidad, como tampoco el gen de la homosexualidad… Todavía no hay certezas en esto y el futuro lo dirá.
 
-**Gordos, pero no necesariamente enfermos**
+## Gordos, pero no necesariamente enfermos
 
 **Empiezan a escucharse voces que llaman a desvincular la gordura de la (mala) salud. Esto es algo que nos cuesta mucho admitir, puesto que inmediatamente asociamos el exceso de peso a dificultades añadidas en un quirófano, problemas de espalda, mayor riesgo cardiovascular, de diabetes…  Pero tú afirmas que “urge una revisión de los supuestos que condicionan a las corporalidades gordas como patologías”.**
 
@@ -57,13 +57,13 @@ Cuando hablamos del bienestar de una persona el tema se pone aún más complejo.
 
 Creo que es un lenguaje bastante violento. Y pienso en el efecto que tienen estas expresiones en la sociedad en su conjunto, porque cuando hablamos de “epidemia de obesidad” sugerimos que hay un agente externo, una enfermedad que ataca a la población, en lugar de pensar que esa población está experimentando cambios, que hay un contexto social complejo que está engendrando ciertos cuerpos, que en ciertos lugares de la sociedad los cuerpos son de una manera y en otros de otra, en ciertos países son así y en otros de otra forma. Y además culpamos a los individuos por ser azotados por esta enfermedad, cuando muchas veces está fuera de su alcance controlar ciertos factores. Lo convertimos en  una responsabilidad individual. Pero ¿tratamos a otras personas enfermas de la misma forma? ¿Criticamos a una persona con cáncer por tenerlo, independientemente de que el cáncer haya podido producirse por decisiones de esa misma persona? Fumaste toda tu vida, tienes cáncer, pero ¿te voy a tratar mal por eso?
 
-**Ricos delgados, pobres gordos**
+## Ricos delgados, pobres gordos
 
 **Hablando de esa responsabilidad individual, ¿crees que es equiparable el discurso sobre “la voluntad de no estar gordo” al de la meritocracia?**
 
 Creo que esto es dar en el clavo en este tema. Los millonarios lo son porque trabajaron mucho más que tú y por eso tienen mucho más dinero. Pero si te esfuerzas lo suficiente, vas a ser millonario como ellos. Esto es clave en el neoliberalismo: nosotros forjamos nuestro propio destino, y nuestra riqueza es equivalente a lo que nosotros valemos como ciudadanos. Del mismo modo, uno llegaría a la conclusión de que una persona es delgada porque ha sido disciplinada, porque se ha esforzado y ha logrado un cierto éxito. Y por tanto inferimos que la gordura es todo lo contrario, es estar sentado, ser un vago, no hacer las cosas, ser irresponsable, tomar las decisiones incorrectas… Nuestra sociedad depende de que cada uno de nosotros haga las cosas bien y al final esto se convierte en una cuestión moral. ¿Qué cuerpos expresan moralidad? ¿Qué cuerpos expresan que lo han hecho bien, que son buenos ciudadanos? ¿Y qué cuerpos expresan que son malos ciudadanos? Cuando en el día a día nos encontramos con un cuerpo marcadamente particular, parece que nos esté confesando algo, reflejando una cierta desadaptación al orden social. Si una persona es gorda es porque decidió serlo. Pero ignoramos todo el contexto a su alrededor o incluso el hecho de que no tenga capacidad de poder decidir. ¿Puedo elegir qué cuerpo tengo? Podría, si tuviera dinero para hacerme una operación de cirugía estética, si tuviera plata para pagarme el gimnasio… Pero ni siquiera eso me garantiza que pueda tener un cuerpo delgado, lo que aún lo complica más. 
 
-**¿Crees que también este tema conlleva un cierto clasismo?** 
+**¿Crees que también este tema conlleva un cierto clasismo?**
 
 Los grupos sociales dominantes suelen tratar de distinguirse de los, digamos, subyugados. Si a las clases populares les gusta esto, a nosotros no nos va a gustar. Ha pasado con la música, con el arte… Esto se puede aplicar también en el tema de la belleza: si, como ocurría en otro tiempo, los pobres son flacos, nosotros somos gordos, porque tenemos más riqueza. Pero con la industrialización y la globalización son las personas pobres las que son más gorditas, así que nosotros no vamos a serlo, vamos a aplicar nuestra riqueza en distinguirnos, en construir nuestra identidad a partir de no ser como ellos.
 
@@ -71,7 +71,7 @@ Los grupos sociales dominantes suelen tratar de distinguirse de los, digamos, su
 
 Aquí ya no se trata solo de los llamados “desiertos alimentarios” de las grandes ciudades, donde no hay acceso a alimentos saludables, sino de que también ciertas personas no tienen tiempo para prepararse una comida saludable, para ir al mercado a comprar vegetales, para practicar deporte… Son cosas de las que se ven privadas por un tema de escasez de recursos. Se habla también mucho del urbanismo, de que hay ciertos factores urbanos que promueven estas diferencias corporales: hay espacios sociales en la ciudad donde claramente la infraestructura está segregada por clases sociales, entre barrios altos y bajos, y, por así decirlo, incentivan o desincentivan ciertas actividades. Por ejemplo, en un barrio pobre hay pocas oportunidades para salir a pasear o hacer actividad física, por la inseguridad, la delincuencia, porque el lugar no es demasiado habitable… Entonces, ¿las personas son gordas porque son pobres o son pobres porque son gordas?
 
-**El auge de los _body-shamers_**
+## El auge de los _body-shamers_
 
 **¿La gordura es más aceptable en los hombres?**
 

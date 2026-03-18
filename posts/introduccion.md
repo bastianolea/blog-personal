@@ -1,15 +1,14 @@
 ---
-title: "Por qué crearse un sitio web personal hoy en día"
+title: "Por qué crear un sitio web personal"
 subtitle: "Reivindicando los espacios digitales personales y una vida fuera de los algoritmos"
 date: "2026-03-15"
-format: html
 categories: 
   - personal
   - programación
   - tecnología
 ---
 
-Antes, la internet era un lugar distinto. Las personas creaban sus propias páginas web, personalizaban su presencia online, y creaban comunidades en torno a intereses y experiencias de vida en común. 
+La forma en que las personas habitan la internet ha cambiado muchísimo. Antes las personas creaban sus propias páginas web, personalizaban su presencia online, y formaban comunidades en torno a intereses y experiencias de vida. 
 
 Hoy, **la internet es un espacio dominado por grandes empresas**, que nos ofrecen servicios "gratuitos" para tener una vida digital, pero bajo el trasfondo de utilizar nuestros datos y nuestro comportamiento para obtener beneficios económicos. Prácticamente la totalidad de nuestra experiencia web actual está intermediada por corporaciones.
 

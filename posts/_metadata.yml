@@ -9,4 +9,5 @@ title-block-banner: true
 
 comments: 
   utterances: 
-    repo:  bastianolea/bastianolea.github.io
+    repo: bastianolea/bastianolea.github.io
+    theme: "github-dark"

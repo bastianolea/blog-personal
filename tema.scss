@@ -1,23 +1,54 @@
 /*-- scss:defaults --*/
-$h2-font-size:          1.6rem !default;
-$headings-font-weight:  500 !default;
+$h2-font-size: 1.6rem !default;
+$headings-font-weight: 500 !default;
+$line-height-base: 1.2 !default;
 
-$navbar-bg: purple;
-$navbar-fg: cyan;
-$body-bg: white;
-$body-color: blue;
-$link-color: green;
-$input-bg: yellow;
-$popover-bg: pink;
-$footer-bg: orange;
+$background: #40323D;
+$background2: #2E1F2D;
+$background: #323640;
+$background2: #1F242E;
+$background: #39343E;
+$background2: #26222E;
+$background3: #A389A3;
+$foreground: #F0BFE7; // #F9B4ED;
+$foreground2: #DD2594; // #C52184;
 
-$primary: magenta;
-$accent: magenta;
-$tertiary: green;
+$navbar-bg: $background2;
+$navbar-fg: $foreground2;
+$body-bg: $background;
+$body-color: $foreground;
+$link-color: $foreground2;
+$input-bg: $background2;
+$popover-bg: $background2;
+$footer-bg: $background3;
+
+$primary: $foreground;
+$secondary: $foreground2;
+$tertiary: #E574BC;
 
 /*-- scss:rules --*/
+
+// @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 h1, h2, h3, h4, h5 {
-      color: $secondary !important;
+  color: $secondary !important;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+body {
+   font-family: "Work Sans", sans-serif;
+}
+
+p {
+  font-weight: 300;
+}
+
+h3 {
+  line-height: 1.1 !important;
 }
 
 h4 {
@@ -25,22 +56,32 @@ h4 {
 }
 
 h5 {
-  color: brown !important;
+  color: $tertiary !important;
 }
 
 img {
   border-radius: 7px !important;
 }
 
+strong {
+  color: $foreground2 !important;
+  font-weight: 600 !important;
+}
+
+
 //// barra superior
 // título del sitio
 .navbar-title {
-  color: pink;
+  color: $tertiary;
+}
+
+.navbar-brand {
+  margin-left: -3px;
 }
 
 // hover de elementos de barra superior
 .navbar-title:hover, .menu-text:hover, .nav-item:hover, .bi:hover {
-  color: red !important;
+  color: $foreground !important;
 }
 
 // elemento de barra seleccionado
@@ -50,25 +91,61 @@ img {
 
 
 //// blog
+// encabezado
+.quarto-title-banner .quarto-title .title {
+  font-weight: 900;
+}
+
 // título de posts de blog
 .listing-title, .listing-title a {
   color: $secondary !important;
-  font-weight: 700 !important;
-  margin-bottom: 4px !important;
+  font-weight: 900 !important;
+  margin-bottom: 6px !important;
+}
+
+// subtítulo de posts del blog
+.listing-subtitle a {
+  color: $secondary !important;
+  font-style: italic;
+  font-weight: 400 !important;
+  opacity: 90%;
+  line-height: 1 !important;
 }
 
 // etiquetas de posts
 .listing-category, .quarto-category {
-  border-color: #89598F !important;
-  color: $primary !important;
-  background-color: #B493B6;
+  border-color: #A389A350 !important;
+  color: $background3 !important;
+  background-color: $background2;
+}
+
+// categorias
+.category {
+  font-size: 80%;
+  opacity: 70%;
+}
+
+// contenedor de posts en lista
+.quarto-post {
+  padding-bottom: 1em;
+  border-bottom: 2px solid $background2 !important;
+}
+
+.listing-description {
+  font-size: 90%;
+}
+
+.listing-date {
+  color: $tertiary;
 }
 
 
 //// inicio
 // botones en about.qmd
 .about-link {
-  color: yellow !important;
+color: $primary !important;
+background-color: $secondary;
+border-color: $tertiary !important;
 }
 
 
@@ -79,4 +156,41 @@ img {
   margin-right: 6px !important;
   margin-bottom: -2px !important;
   font-size: 1.2em !important;
+}
+
+// citas
+.blockquote {
+  color: $tertiary;
+  font-size: 85%;
+  border-left: 3px solid $foreground2;
+  max-width: 75%;
+}
+
+
+
+// buscador
+.aa-DetachedOverlay {
+  background-color: #26222E60;
+}
+
+.aa-DetachedContainer {
+  box-shadow: none !important;
+}
+
+.aa-DetachedFormContainer {
+  background-color: #39343e;
+  border-bottom: none;
+}
+
+.aa-Form {
+  border: 1px solid #48424F !important;
+}
+
+.search-result-doc {
+border-top: 1px solid $background !important;
+}
+
+// color de resultado seleccionado (hover)
+.aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item.search-result-more, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-section, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-text, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-title-container, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-text-container, #quarto-search-results li.aa-Item[aria-selected=true] .search-item.search-result-more, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-section, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-text, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-title-container, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-text-container {
+  color: $background2 !important;
 }

@@ -1,5 +1,6 @@
 ---
 title: "Blog personal"
+subtitle: "Ensayos, pensamientos, actualizaciones sobre mi vida, y fotitos"
 listing:
   contents: posts
   type: default
