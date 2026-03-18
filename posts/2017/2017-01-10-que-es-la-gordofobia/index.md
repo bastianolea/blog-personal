@@ -13,8 +13,9 @@ tags:
   - "medios"
   - "politica"
   - "salud"
-coverImage: "Tiziano-Venus-del-Espejo-1555.jpg"
 ---
+
+![](images/Tiziano-Venus-del-Espejo-1555.jpg)
 
 La _gordofobia_ es, en términos sencillos, la discriminación que sufren las personas gordas por el mero hecho de ser gordas.  A continuación, exploraremos diversas situaciones de la vida cotidiana en las que se manifiesta la gordofobia, con el objetivo de entender el alcance del concepto y ofrecer una suerte de concientización acerca de los efectos de esta forma de discriminación.<!--more-->
 

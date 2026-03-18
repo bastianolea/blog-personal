@@ -3,7 +3,6 @@ title: "Por qué crear un sitio web personal"
 subtitle: "Reivindicando los espacios digitales personales y una vida fuera de los algoritmos"
 date: "2026-03-15"
 categories: 
-  - personal
   - programación
   - tecnología
 ---

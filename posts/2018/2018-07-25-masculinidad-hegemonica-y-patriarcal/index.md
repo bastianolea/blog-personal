@@ -16,6 +16,8 @@ tags:
 coverImage: "ToySoldiers_SimonBrannThorpe_L_Budraiga_02.4d8d87b20d8145fc9c86ad50451806c1.jpg"
 ---
 
+![](images/ToySoldiers_SimonBrannThorpe_L_Budraiga_02.4d8d87b20d8145fc9c86ad50451806c1.jpg)
+
 Este texto es una introducción al concepto de _masculinidad_ desde una perspectiva crítica, que problematiza el carácter hegemónico de la masculinidad patriarcal. Se critican las ideas esencialistas de género para explayar la existencia de múltiples masculinidades, sin embargo se contempla el dominio de una forma particular de masculinidad (la patriarcal) y su rol en la reproducción del sistema de dominación patriarcal. La masculinidad hegemónica es definida en sus valores opresivos y dominantes, sus componentes misóginos y homofóbicos, su validación homosocial, y su inherente fragilidad, para finalmente criticar su naturaleza violenta y dañina que no sólo afecta a las mujeres, sino también a los mismos hombres.<!--more-->
 
 ## El género masculino

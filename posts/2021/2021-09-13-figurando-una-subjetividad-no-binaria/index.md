@@ -10,8 +10,9 @@ tags:
   - "género"
   - "nomadismo"
   - "performatividad"
-coverImage: "7CB15060-C731-4700-8C33-0A7111A965EE.jpeg"
 ---
+
+![](images/7CB15060-C731-4700-8C33-0A7111A965EE.jpeg)
 
 El presente ensayo intentará indagar en cuestiones acerca de la identidad y su construcción, la subjetivación de los cuerpos, y la experiencia no binaria. Estos temas serán abarcados desde una revisión académica de la teoría de género de Judith Butler –con su concepto de _performatividad–_ y Rosi Braidotti –desde su _política nómade_–, entremezclada con extractos y comentarios acerca de la experiencia trans en la novela cuasi-biográfica _Orlando,_ de Virginia Woolf. Las preguntas que buscan iluminarse serán ¿cómo se construye una identidad fuera del binarismo del género?, ¿cómo se subjetiva un cuerpo?
 

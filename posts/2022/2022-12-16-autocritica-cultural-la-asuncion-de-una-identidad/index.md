@@ -12,12 +12,11 @@ tags:
   - "identidad"
   - "masculinidades"
   - "nomadismo"
-coverImage: "3C8A4F20-D48A-4268-BB67-073D6DEC541C.jpeg"
 ---
 
 _[Ensayo publicado en Revista Origami,](https://revistaorigami.wpcomstaging.com/2022/01/04/autocritica-cultural-la-asuncion-de-una-identidad/) originalmente ensayo final para el curso de Crítica Cultural de la profesora Patricia Espinoza, en el marco del [diplomado en Estética, Feminismo y Crítica](https://estetica.uc.cl/diplomados/diplomado-estetica-feminismo-critica) de la Facultad de Estética de la Universidad Católica, evaluado con nota máxima._ _Muchas gracias a Gabriela Alburquenque por la edición y por gestionar la publicación en Revista Origami._
 
-* * *
+![](images/At_the_mirror_Gerda_Wegener.jpeg)
 
 La crítica cultural, siguiendo a Nelly Richard (2009), se trata de una reflexión acerca de lo social, que además integra los elementos simbólicos de la retórica y la narrativa. Mediante el examen de los regímenes de producción y de representación de los signos, la crítica cultural procura develar la complicidad existente entre el discurso, la ideología, la representación y la interpretación (Richard, 2009, p. 79). 
 

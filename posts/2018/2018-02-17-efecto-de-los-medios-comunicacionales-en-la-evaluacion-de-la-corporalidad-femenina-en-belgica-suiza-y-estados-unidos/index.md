@@ -13,8 +13,9 @@ tags:
   - "representacion"
   - "sociología"
   - "sociologia-comparada"
-coverImage: "rubens-flap-by-jenny-saville-1348922830_org.jpg"
 ---
+
+![](images/rubens-flap-by-jenny-saville-1348922830_org.jpg)
 
 Este artículo pretende analizar el efecto que tiene la exposición a medios comunicacionales en la evaluación de la imagen corporal femenina, utilizando datos empíricos mediante una perspectiva comparada que abarcará muestras de origen universitario de Bélgica, Estados Unidos, y Suiza. El estudio se basa en un marco teórico que comprende la internalización de ideales de belleza de acuerdo a teorías de _aprendizaje social, comparación social,_ y _disatisfacción corporal_; así como una reseña de los procesos de _cultivación_ y _resonancia_ a partir de la exposición a medios masivos de comunicación.
 

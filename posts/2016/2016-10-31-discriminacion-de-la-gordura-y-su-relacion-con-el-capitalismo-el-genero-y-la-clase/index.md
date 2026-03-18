@@ -9,10 +9,11 @@ tags:
   - "clase"
   - "género"
   - "gordura"
-coverImage: "Rembrandt-Dánae-1636-e1477962420285.png"
 ---
 
-_Este breve post es la traducción y desarrollo de [mi respuesta en reddit](https://www.reddit.com/r/FULLCOMMUNISM/comments/588tbb/this_opinion_is_genuinely_unpopular_on_reddit/d8yqxjb/?context=3) intentando refutar el argumento de que la aceptación de la gordura (fat acceptance) sería análoga al feminismo burgués, en el sentido de que ninguno de los dos llegaría a la raíz de todas las opresiones, que son las condiciones materiales de la sociedad capitalista. Según mi perspectiva, la gordofobia sí se encuentra íntimamente relacionada al patriarcado y al capital._
+![](images/Rembrandt-Dánae-1636-e1477962420285.png)
+
+_Este breve post es la traducción y desarrollo de [mi respuesta en reddit](https://www.reddit.com/r/FULLCOMMUNISM/comments/588tbb/this_opinion_is_genuinely_unpopular_on_reddit/d8yqxjb/?context=3) intentando refutar el argumento de que la aceptación de la gordura (fat acceptance) sería análoga al feminismo burgués, en el sentido de que ninguno de los dos llegaría a la raíz de todas las opresiones, que son las condiciones materiales de la sociedad capitalista. Según mi perspectiva, la gordofobia sí se encuentra íntimamente relacionada al patriarcado y al capital._
 
 * * *
 

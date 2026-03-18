@@ -3,11 +3,11 @@ $h2-font-size: 1.6rem !default;
 $headings-font-weight: 500 !default;
 $line-height-base: 1.2 !default;
 
-$background: #40323D;
-$background2: #2E1F2D;
-$background: #323640;
-$background2: #1F242E;
-$background: #39343E;
+//$background: #40323D;
+//$background2: #2E1F2D;
+//$background: #323640;
+//$background2: #1F242E;
+$background: #2F2935; // #39343E;
 $background2: #26222E;
 $background3: #A389A3;
 $foreground: #F0BFE7; // #F9B4ED;
@@ -29,14 +29,14 @@ $tertiary: #E574BC;
 /*-- scss:rules --*/
 
 // @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 h1, h2, h3, h4, h5 {
   color: $secondary !important;
-  font-family: "Nunito Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 body {
@@ -99,7 +99,7 @@ strong {
 // título de posts de blog
 .listing-title, .listing-title a {
   color: $secondary !important;
-  font-weight: 900 !important;
+  font-weight: 800 !important;
   margin-bottom: 6px !important;
 }
 
@@ -139,6 +139,13 @@ strong {
   color: $tertiary;
 }
 
+.disabled {
+  .page-link {
+  background-color: $background3 !important;
+  border-color: $background3 !important;
+  }
+}
+
 
 //// inicio
 // botones en about.qmd
@@ -151,6 +158,10 @@ border-color: $tertiary !important;
 
 //// contenido
 
+// titulos de posts
+.title {
+  font-weight: 700 !important;
+}
 // iconos
 .fa-2x {
   margin-right: 6px !important;
@@ -194,3 +205,4 @@ border-top: 1px solid $background !important;
 .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item.search-result-more, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-section, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-text, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-title-container, .aa-DetachedOverlay li.aa-Item[aria-selected=true] .search-item .search-result-text-container, #quarto-search-results li.aa-Item[aria-selected=true] .search-item.search-result-more, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-section, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-text, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-title-container, #quarto-search-results li.aa-Item[aria-selected=true] .search-item .search-result-text-container {
   color: $background2 !important;
 }
+

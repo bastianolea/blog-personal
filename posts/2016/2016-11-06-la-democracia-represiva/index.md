@@ -12,10 +12,11 @@ tags:
   - "pluralismo"
   - "statu-quo"
   - "tolerancia-represiva"
-coverImage: "1412595698marcuse666.jpg"
 ---
 
-﻿El presente artículo corresponde a la primera sección del documento _“Democracia represiva en la institucionalidad medioambiental chilena: Protección de la naturaleza y Modelo de desarrollo extractivista neoliberal”_ (S. Aguilera, L. Clavería, F. Márquez, B. Olea, 2014), el cual fue el producto de un estudio teórico y de caso enmarcado en la adjudicación de fondos de investigación del programa _Investigadores Jóvenes_ de la Universidad Alberto Hurtado el año 2014.
+![](images/1412595698marcuse666.jpg)
+
+El presente artículo corresponde a la primera sección del documento _“Democracia represiva en la institucionalidad medioambiental chilena: Protección de la naturaleza y Modelo de desarrollo extractivista neoliberal”_ (S. Aguilera, L. Clavería, F. Márquez, B. Olea, 2014), el cual fue el producto de un estudio teórico y de caso enmarcado en la adjudicación de fondos de investigación del programa _Investigadores Jóvenes_ de la Universidad Alberto Hurtado el año 2014.
 
 Como contextualización, adjunto el abstract de dicho documento:
 

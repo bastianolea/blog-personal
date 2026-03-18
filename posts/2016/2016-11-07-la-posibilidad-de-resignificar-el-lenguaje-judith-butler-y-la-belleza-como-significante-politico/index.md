@@ -11,8 +11,9 @@ tags:
   - "logica-oposicional"
   - "performatividad"
   - "resignificacion-politica"
-coverImage: "Renoir-Las-bañistas-1919.jpg"
 ---
+
+![](images/Renoir-Las-bañistas-1919.jpg)
 
 Este artículo corresponde a un análisis del capítulo séptimo, _Discutir con lo real,_ del libro _“Cuerpos que importan: Sobre los límites materiales y discursivos del ‘sexo’”,_ de Judith Butler. Se estudia el problema de la resignificación política del lenguaje a través de la descripción del proceso de constitución de los significantes políticos, y en base a dicho marco teórico, posteriormente se analiza lingüísticamente la negativización de la gordura, con miras a la evaluación de la posibilidad de una resignificación política del término. El presente artículo podría ser dividido en dos partes: _[La teoría identitaria de la constitución de los significantes políticos de Judith Butler](#teoria-identitaria-de-la-constitucion-de-los-significantes-politicos)_ (la parte teórica), y _[La belleza como significante político y su resignificación en el contexto de la estigmatización de la gordura](#belleza-como-significante-politico-y-su-resignificacion)_ (la parte práctica/política).
 

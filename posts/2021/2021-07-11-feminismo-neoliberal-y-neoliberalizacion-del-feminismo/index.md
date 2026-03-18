@@ -12,6 +12,8 @@ tags:
 coverImage: "860B39C0-BCDA-49F5-AF70-EFDED1B00B1D.jpeg"
 ---
 
+![](images/860B39C0-BCDA-49F5-AF70-EFDED1B00B1D.jpeg)
+
 [(Descargar ensayo en PDF)](http://bastian.olea.biz/wp-content/uploads/2021/07/Bastian-Olea-Feminismo-neoliberal.pdf)
 
 De las múltiples ramas de feminismo que desbordan los libros, pancartas, asambleas y avenidas, una de ellas –si es que fuese posible de individualizar– parece diferir del resto, tanto en sus pretensiones como en su práctica cotidiana. El _feminismo neoliberal_ escasamente se autodenomina a sí mismo como tal; sin embargo, su presencia es detectable mediante el análisis ideológico y discursivo de campañas publicitarias, programas políticos y libros de autoayuda y directorios de empresas; pero más aún, entre una amplia cantidad de mujeres que siente afinidad al feminismo, y que de hecho lo ha incorporado, sin demasiado roce, a su vida cotidiana dentro del sistema capitalista neoliberal moderno.

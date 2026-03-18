@@ -13,6 +13,8 @@ tags:
 coverImage: "Presentacion-ponencia.001.jpeg"
 ---
 
+![](images/Presentacion-ponencia.001.jpeg)
+
 > Este texto es un resumen de una ponencia basada en mi [tesis de magíster,](http://bastian.olea.biz/elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/) presentada en el [10° Congreso de Sociología Pre-ALAS 2018](http://sociologia-alas.org/2018/08/21/pre-alas-diciembre-2018-chile/) en la Universidad Arturo Prat, Iquique, en el grupo de trabajo (GT) 17 [Sociología del cuerpo y las emociones.](http://www.facso.uchile.cl/sociologia/investigacion/61718/nucleo-sociologia-del-cuerpo)
 
 Esta ponencia se basa en mi investigación de tesis de magíster, terminada hace pocas semanas. Se trató de una investigación teórica, en la cual se analizó mediante teoría fundamentada un corpus correspondiente a papers y capítulos de libros académicos en búsqueda de elementos teóricos y conceptuales para poder _comprender la producción_ del fenómeno de la estigmatización social de la gordura.

@@ -11,6 +11,8 @@ tags:
 coverImage: "Image-10-03-18-2-40-a.-m.a7fad9b5eea64812b74ff258e9463637.jpeg"
 ---
 
+![](images/Image-10-03-18-2-40-a.-m.a7fad9b5eea64812b74ff258e9463637.jpeg)
+
 Los hombres tenemos un lugar clave en la lucha contra el machismo, pues somos quienes principalmente lo ejercemos. Son representantes del género masculino quienes discriminan, humillan, acosan, abusan, violan, y matan mujeres por razones de género. Por lo tanto, cualquier intento en disminuir las alarmantes cifras de violencia y desigualdad de género debe focalizarse en **erradicar los comportamientos patriarcales en los varones.** En otras palabras, para acabar con la violencia de género, y en gran medida con la desigualdad de género, necesitamos hombres _nuevos,_ comprometidos con una lucha antipatriarcal que llegue hasta las expresiones más recónditas del machismo que hemos internalizado.<!--more-->
 
 ## ¿Qué podemos hacer?

@@ -20,6 +20,8 @@ tags:
 coverImage: "saville_strategy.13d6a80ae98e4b94bf2aa0f6c4058f51.jpg"
 ---
 
+![](images/saville_strategy.13d6a80ae98e4b94bf2aa0f6c4058f51.jpg)
+
 Cada vez que vemos alguna foto de una mujer gorda, ya sea posando, haciendo deporte, mostrando su _outfit,_ o cualquier otra actividad que involucre a su cuerpo de talla grande, ocurre lo mismo: aparece alguien con la necesidad de decir lo obvio: que esa mujer es gorda, que su peso no se ve bien, que debería cuidar su salud, o que con esa inocente foto está “promoviendo la obesidad”. Esto puede verse en cualquier situación donde se represente un cuerpo que supere la norma de delgadez, y particularmente en internet, donde abundan las opiniones ofensivas amparadas en el anonimato y la impunidad de lo digital.
 
 ¿Por qué tanta gente siente la necesidad de expresar su opinión –mayoritariamente negativa– sobre los cuerpos gordos? ¿Cual es el objetivo de decirle a una persona gorda que es gorda, o de volver a decir una y otra vez que la gordura es poco atractiva, indeseable, y/o una _enfermedad_ necesaria de erradicar? **¿Cuál es el motivo detrás del rechazo a la gordura?**

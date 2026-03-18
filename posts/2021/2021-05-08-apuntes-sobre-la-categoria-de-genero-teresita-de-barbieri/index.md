@@ -31,7 +31,7 @@ La fuente del texto es: De Barbieri, T. (1993). _Sobre la categoría de género.
 
 [Clic en este enlace o en la imagen para acceder al mapa conceptual:](http://bastian.olea.biz/wp-content/uploads/2021/05/Barbieri-Sobre-la-categoria-de-genero.pdf)
 
-[![](images/Barbieri-Sobre-la-categoria-de-genero-1024x743.png)](http://bastian.olea.biz/wp-content/uploads/2021/05/Barbieri-Sobre-la-categoria-de-genero.pdf)
+[![](images/Barbieri-Sobre-la-categoria-de-genero.png)](http://bastian.olea.biz/wp-content/uploads/2021/05/Barbieri-Sobre-la-categoria-de-genero.pdf)
 
 * * *
 

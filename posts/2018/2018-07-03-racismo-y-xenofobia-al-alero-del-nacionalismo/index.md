@@ -13,6 +13,8 @@ tags:
 coverImage: "18765920_1676371605708047_727614188593941555_n-e1496065613891.jpg"
 ---
 
+![](images/18765920_1676371605708047_727614188593941555_n-e1496065613891.jpg)
+
 El presente ensayo esbozará teóricamente los conceptos de racismo, xenofobia y nacionalismo, para concluir con la aplicación de dichos conceptos a un análisis de caso, que referirá a un documento político del Movimiento Social Patriota (MSP), polémica organización social asociada a corrientes neonazis y fascistas chilenas.<!--more-->
 
 ## El concepto de raza

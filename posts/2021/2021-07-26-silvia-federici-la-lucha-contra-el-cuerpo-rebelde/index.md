@@ -12,6 +12,8 @@ tags:
 coverImage: "DraggedImage-1.png"
 ---
 
+![](images/DraggedImage-1.png)
+
 Fuente: _Calibán y la bruja: Mujeres, cuerpo y acumulación originaria,_ 2010, Buenos Aires: Tinta Limón ediciones.
 
 ### Disciplinamiento del cuerpo

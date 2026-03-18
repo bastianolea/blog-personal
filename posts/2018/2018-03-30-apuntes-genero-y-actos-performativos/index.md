@@ -12,7 +12,7 @@ coverImage: "Género-y-actos-performativos-Butler-1988.png"
 
 [Toca sobre este enlace o en el mapa conceptual para descargarlo:](http://bastian.olea.biz/wp-content/uploads/2018/03/Género-y-actos-performativos-Butler-1988.pdf)
 
-[![](images/Género-y-actos-performativos-Butler-1988-1024x627.png)](http://bastian.olea.biz/wp-content/uploads/2018/03/Género-y-actos-performativos-Butler-1988.pdf)Butler, J. (1988). Performative acts and gender constitution: An essay in phenomenology and feminist theory. _Theatre Journal_.
+[![](images/Género-y-actos-performativos-Butler-1988.png)](http://bastian.olea.biz/wp-content/uploads/2018/03/Género-y-actos-performativos-Butler-1988.pdf)Butler, J. (1988). Performative acts and gender constitution: An essay in phenomenology and feminist theory. _Theatre Journal_.
 
 * * *
 

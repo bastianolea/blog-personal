@@ -15,9 +15,9 @@ tags:
   - "representacion"
 ---
 
-Este artículo corresponde al seminario de grado con el cual me licencié como sociólogo. Fue inscrito como memoria de tesis en el proyecto Fondecyt, 1131144: _“Imaginarios de género, representaciones del cuerpo y mercados del sexo, Chile, siglo XX”._
+Este artículo corresponde al seminario de grado con el cual me licencié como sociólogo. Fue inscrito como memoria de tesis en el proyecto Fondecyt, 1131144: _“Imaginarios de género, representaciones del cuerpo y mercados del sexo, Chile, siglo XX”._
 
-\[caption id="attachment\_74" align="aligncenter" width="840"\][![L'Odalisque Brune (1745), de Boucher](images/Boucher-LOdalisque-Brune-1745-1024x834.jpg)](http://bastian.olea.biz/wp-content/uploads/2016/12/Boucher-LOdalisque-Brune-1745.jpg) L'Odalisque Brune (1745), de Boucher\[/caption\]
+[![L'Odalisque Brune (1745), de Boucher](images/Boucher-LOdalisque-Brune-1745-1024x834.jpg)](http://bastian.olea.biz/wp-content/uploads/2016/12/Boucher-LOdalisque-Brune-1745.jpg) L'Odalisque Brune (1745), de Boucher
 
 ## Resumen/abstract:
 

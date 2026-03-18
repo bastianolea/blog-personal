@@ -15,7 +15,7 @@ Este mapa conceptual resume las ideas principales del texto _La revolución de g
 
 <!--more-->
 
-[![](images/Cucchiari-La-revolucion-de-genero-1024x780.png)](http://bastian.olea.biz/wp-content/uploads/2021/05/Cucchiari-La-revolucion-de-genero.pdf)
+[![](images/Cucchiari-La-revolucion-de-genero.png)](http://bastian.olea.biz/wp-content/uploads/2021/05/Cucchiari-La-revolucion-de-genero.pdf)
 
 [Toca la imagen o este enlace para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/05/Cucchiari-La-revolucion-de-genero.pdf)
 

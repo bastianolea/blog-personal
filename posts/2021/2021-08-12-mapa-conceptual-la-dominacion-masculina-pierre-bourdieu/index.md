@@ -16,7 +16,6 @@ tags:
   - "mirada"
   - "percepcion"
   - "sexo"
-coverImage: "Bourdieu-La-dominacion-masculina.png"
 ---
 
 Mapa conceptual que resume esta obra del sociólogo Pierre Bourdieu, la cual ofrece una perspectiva de las relaciones entre géneros y la dominación inherente a ellas desde una particular visión que busca complementar agencia y estructura; es decir, entendiendo al género como disposiciones, hábitos y formas de percibir que vienen dadas desde una visión determinada (la _estructura_ masculina, androcéntrica, dominante), pero que a su vez, por la validez que le damos al percibirlas y actualizarlas en el día a día, resultan en la naturalización. justificación y _estructuración_ de dichas dinámicas.
@@ -25,7 +24,7 @@ Se trata de un mapa conceptual enorme, cuyos temas principales son la **masculin
 
 [Haz clic en la imagen o en este link para descargar el resumen de _La dominación masculina_](http://bastian.olea.biz/wp-content/uploads/2021/08/Bourdieu-La-dominacion-masculina.pdf)
 
-[![](images/Bourdieu-La-dominacion-masculina-1024x656.png)](http://bastian.olea.biz/wp-content/uploads/2021/08/Bourdieu-La-dominacion-masculina.pdf)
+[![](images/Bourdieu-La-dominacion-masculina.png)](http://bastian.olea.biz/wp-content/uploads/2021/08/Bourdieu-La-dominacion-masculina.pdf)
 
 Fuente: Bourdieu, P. (2019). La dominación masculina (14ª edición). Barcelona: Editorial Anagrama.
 

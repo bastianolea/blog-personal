@@ -16,7 +16,7 @@ Este mapa conceptual resume el libro _Ideología_ (2019, Paidós), de Terry Eagl
 
 [Haz clic aquí o en el mapa conceptual para descargarlo en PDF:](http://bastian.olea.biz/wp-content/uploads/2021/07/Eagleton-Ideologia.pdf)  
 
-[![](images/Eagleton-Ideologia-770x1024.png)](http://bastian.olea.biz/wp-content/uploads/2021/07/Eagleton-Ideologia.pdf)
+[![](images/Eagleton-Ideologia.png)](http://bastian.olea.biz/wp-content/uploads/2021/07/Eagleton-Ideologia.pdf)
 
 * * *
 

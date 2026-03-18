@@ -37,7 +37,7 @@ NOTA: en este mapa conceptual, los campos encerrados en _cuadrados_ representan 
 
 La fuente del texto desde el que realicé el diagrama es _Indagaciones acerca de los significados sexuales,_ de Sherry B. Ortner y Harriet Whitehead, publicado en el libro de Marta Lamas (compiladora) (2015), _El género: La construcción cultural de la diferencia sexual._ México: Bonilla Artigas Editores.
 
-[![](images/Ortner-y-Whitehead-Indagaciones-acerca-de-los-significados-sexuales-1024x824.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Ortner-y-Whitehead-Indagaciones-acerca-de-los-significados-sexuales.pdf)
+[![](images/Ortner-y-Whitehead-Indagaciones-acerca-de-los-significados-sexuales.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Ortner-y-Whitehead-Indagaciones-acerca-de-los-significados-sexuales.pdf)
 
 [Clic aquí o en la imagen para descargar el mapa conceptual](http://bastian.olea.biz/wp-content/uploads/2021/04/Ortner-y-Whitehead-Indagaciones-acerca-de-los-significados-sexuales.pdf)
 

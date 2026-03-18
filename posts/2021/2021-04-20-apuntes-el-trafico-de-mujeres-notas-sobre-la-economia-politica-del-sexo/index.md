@@ -24,7 +24,7 @@ La fuente del mapa conceptual es: _El tráfico de mujeres: notas sobre la “eco
 
 [Haz clic aquí o en la imagen para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/04/Rubin-El-trafico-de-mujeres.pdf)
 
-[![](images/Rubin-El-trafico-de-mujeres-926x1024.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Rubin-El-trafico-de-mujeres.pdf)
+[![](images/Rubin-El-trafico-de-mujeres.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Rubin-El-trafico-de-mujeres.pdf)
 
 * * *
 

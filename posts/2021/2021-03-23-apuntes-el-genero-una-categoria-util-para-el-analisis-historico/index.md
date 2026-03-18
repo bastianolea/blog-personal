@@ -28,7 +28,7 @@ La fuente de este mapa es: Scott, J., (1988). _Gender and the Politics of Histor
 
 [Clic aquí o en la imagen para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Genero-una-categoria-util-de-analisis-historico.pdf)
 
-[![](images/23D41D2B-8959-4896-8DE2-E822CEDA8D8E-1024x867.png)](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Genero-una-categoria-util-de-analisis-historico.pdf)
+[![](images/23D41D2B-8959-4896-8DE2-E822CEDA8D8E.png)](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Genero-una-categoria-util-de-analisis-historico.pdf)
 
 * * *
 

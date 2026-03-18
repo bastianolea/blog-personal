@@ -20,6 +20,8 @@ tags:
 coverImage: "Matriz-de-formación-del-sujeto-Cuerpos-que-importan-Butler-4.3.png"
 ---
 
+![](images/Matriz-de-formación-del-sujeto-Cuerpos-que-importan-Butler-4.3.png)
+
 ## Cuerpos que importan, Judith Butler
 
 Este mapa conceptual es un resumen del texto _Cuerpos que Importan_ (Judith Butler), donde se expone el funcionamiento de la matriz exclusionaria de la diferencia sexual, desde la cual se forma el sexo/género de los sujetos a partir de la reproducción de la norma heterosexual, de acuerdo a la teoría de la performatividad de Judith Butler y apoyada en el concepto de abyecto o abyección, que Butler trae desde la obra de Julia Kristeva.

@@ -19,4 +19,4 @@ La fuente de este mapa es: Scott, J., (1988). _Gender and the Politics of Histor
 
 [Clic aquí o en la imagen para descargar el mapa conceptual](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Gender-and-the-Politics-of-History-Intro.pdf)
 
-[![](images/6A1F9B7B-D6C4-42A8-96EA-9E4CB5611D6B-1024x768.png)](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Gender-and-the-Politics-of-History-Intro.pdf)
+[![](images/6A1F9B7B-D6C4-42A8-96EA-9E4CB5611D6B.png)](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Gender-and-the-Politics-of-History-Intro.pdf)

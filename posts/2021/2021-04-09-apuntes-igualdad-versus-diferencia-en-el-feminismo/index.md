@@ -33,7 +33,7 @@ La fuente de este mapa es: Scott, J., (1988). _Gender and the Politics of Histor
 
 [Clic en este enlace o en la imagen para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/04/Scott-Igualdad-vs-diferencia.pdf)
 
-[![](images/Scott-Igualdad-vs-diferencia-1024x356.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Scott-Igualdad-vs-diferencia.pdf)
+[![](images/Scott-Igualdad-vs-diferencia.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Scott-Igualdad-vs-diferencia.pdf)
 
 * * *
 

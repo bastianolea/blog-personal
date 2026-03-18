@@ -11,8 +11,9 @@ tags:
   - "masculinidades"
   - "patriarcado"
   - "piropo"
-coverImage: "DTpUjOhWsAAkGha.jpg"
 ---
+
+![](images/DTpUjOhWsAAkGha.jpg)
 
 El tema del _acoso callejero_ empezó a discutirse en redes sociales y medios comunicacionales luego de que ciertos sucesos puntuales plantearan al _piropo_ como algo permisible, parte de la coquetería o galantería masculina, o incluso, como algo que puede ser deseado por algunas mujeres. [Miles de testimonios de acoso callejero](https://twitter.com/i/moments/953156389374976001) fueron tuiteados por mujeres hartas de la normalización de esta forma de violencia. Muchos de estos testimonios fueron plasmados en [el libro digital “Somos muchas: Historias de acoso callejero y otras malas yerbas”](https://www.dropbox.com/s/gumnjiraxrf8ivw/somos_muchas..pdf?dl=0), donde se exponen temáticamente algunas de las historias más representativas.
 
