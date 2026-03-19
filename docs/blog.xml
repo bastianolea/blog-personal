@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Bastián Olea Herrera</title>
-<link>https://bastianolea.github.io/blog.html</link>
-<atom:link href="https://bastianolea.github.io/blog.xml" rel="self" type="application/rss+xml"/>
-<description>A blog built with Quarto</description>
+<link>https://bastimapache.cl/blog.html</link>
+<atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.8.25</generator>
 <lastBuildDate>Sun, 15 Mar 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Por qué crear un sitio web personal</title>
-  <link>https://bastianolea.github.io/posts/introduccion.html</link>
+  <link>https://bastimapache.cl/posts/introduccion.html</link>
   <description><![CDATA[ 
 
 
@@ -38,12 +38,12 @@
  ]]></description>
   <category>programación</category>
   <category>tecnología</category>
-  <guid>https://bastianolea.github.io/posts/introduccion.html</guid>
+  <guid>https://bastimapache.cl/posts/introduccion.html</guid>
   <pubDate>Sun, 15 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Creando una comunidad de usuarixs de R en Chile</title>
-  <link>https://bastianolea.github.io/posts/grupo_usuarios_r.html</link>
+  <link>https://bastimapache.cl/posts/grupo_usuarios_r.html</link>
   <description><![CDATA[ 
 
 
@@ -62,12 +62,12 @@
  ]]></description>
   <category>blog</category>
   <category>programación</category>
-  <guid>https://bastianolea.github.io/posts/grupo_usuarios_r.html</guid>
+  <guid>https://bastimapache.cl/posts/grupo_usuarios_r.html</guid>
   <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Explorando la comuna de Navidad, región de O’Higgins</title>
-  <link>https://bastianolea.github.io/posts/vacaciones_navidad.html</link>
+  <link>https://bastimapache.cl/posts/vacaciones_navidad.html</link>
   <description><![CDATA[ 
 
 
@@ -153,12 +153,12 @@
   <category>fotos</category>
   <category>lugares</category>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/vacaciones_navidad.html</guid>
+  <guid>https://bastimapache.cl/posts/vacaciones_navidad.html</guid>
   <pubDate>Thu, 05 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 300 Vuelta del Cobre</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_300_vueltadelcobre/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/</link>
   <description><![CDATA[ 
 
 
@@ -206,12 +206,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_300_vueltadelcobre/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/</guid>
   <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 200 Vuelta San Pedro</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_200_sanpedro/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_200_sanpedro/</link>
   <description><![CDATA[ 
 
 
@@ -259,12 +259,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_200_sanpedro/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_200_sanpedro/</guid>
   <pubDate>Sat, 17 Jan 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 200 Melipilla</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_200_melipilla/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_200_melipilla/</link>
   <description><![CDATA[ 
 
 
@@ -312,12 +312,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_200_melipilla/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_200_melipilla/</guid>
   <pubDate>Wed, 19 Nov 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 300 Casablanca</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_300_casablanca/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_300_casablanca/</link>
   <description><![CDATA[ 
 
 
@@ -367,12 +367,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_300_casablanca/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_300_casablanca/</guid>
   <pubDate>Sat, 06 Sep 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 200 Vuelta del Campo</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_200_vueltadelcampo/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_200_vueltadelcampo/</link>
   <description><![CDATA[ 
 
 
@@ -420,12 +420,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_200_vueltadelcampo/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_200_vueltadelcampo/</guid>
   <pubDate>Sat, 10 May 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 300 Vuelta Colliguay</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_300_colliguay/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_300_colliguay/</link>
   <description><![CDATA[ 
 
 
@@ -473,12 +473,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_300_colliguay/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_300_colliguay/</guid>
   <pubDate>Sat, 30 Nov 2024 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Mapa conceptual: bibliografía sobre estigmatización de la gordura en las dimensiones de la apariencia y la salud</title>
-  <link>https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</link>
+  <link>https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</link>
   <description><![CDATA[ 
 
 
@@ -488,19 +488,19 @@
 <p>Éste es el mapa conceptual que usé para ir organizando la bibliografía recopilada para el desarrollo de mi tesis de magíster, titulada <a href="https://bastian.olea.biz/elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/">“<em>Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la apariencia”</em>.</a></p>
 <p>Cada nodo representa un texto, agrupado por temática general (color) y sub-temáticas (los sub nodos y ramas del árbol).</p>
 <p>Clic en la imagen para <a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf">acceder al mapa conceptual en PDF.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf"><img src="https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/images/Copia-de-Bibliografia-por-temas-2-1024x746.jpg" class="img-fluid"></a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf"><img src="https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/images/Copia-de-Bibliografia-por-temas-2-1024x746.jpg" class="img-fluid"></a></p>
 
 
 
  ]]></description>
   <category>destacado</category>
   <category>gordura</category>
-  <guid>https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</guid>
+  <guid>https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</guid>
   <pubDate>Tue, 05 Nov 2024 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Entrevista: La meritocracia de la delgadez, la insubordinación de la gordura</title>
-  <link>https://bastianolea.github.io/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</link>
+  <link>https://bastimapache.cl/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</link>
   <description><![CDATA[ 
 
 
@@ -560,12 +560,12 @@
 
  ]]></description>
   <category>gordura</category>
-  <guid>https://bastianolea.github.io/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</guid>
+  <guid>https://bastimapache.cl/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</guid>
   <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Presentación de defensa de tesis de magíster</title>
-  <link>https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</link>
+  <link>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</link>
   <description><![CDATA[ 
 
 
@@ -580,22 +580,22 @@
 <li><p>Leer/descargar en <a href="https://www.academia.edu/114944107/Defensa_de_tesis_Elementos_teóricos_y_conceptuales_en_torno_a_la_estigmatización_social_de_las_corporalidades_gordas">Academia.edu</a></p></li>
 <li><p>Leer/descargar en <a href="https://www.researchgate.net/publication/378230469_Defensa_de_tesis_Elementos_teoricos_y_conceptuales_en_torno_a_la_estigmatizacion_social_de_las_corporalidades_gordas">ResearchGate</a></p></li>
 </ul>
-<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis-1024x768.jpg" class="img-fluid"></p>
-<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis2-1024x768.jpg" class="img-fluid"></p>
-<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis3-1024x768.jpg" class="img-fluid"></p>
-<p><img src="https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis4-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis2-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis3-1024x768.jpg" class="img-fluid"></p>
+<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis4-1024x768.jpg" class="img-fluid"></p>
 
 
 
  ]]></description>
   <category>gordura</category>
   <category>sociología</category>
-  <guid>https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</guid>
+  <guid>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</guid>
   <pubDate>Thu, 15 Feb 2024 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>El Ancho de Chile</title>
-  <link>https://bastianolea.github.io/posts/brevet/el_ancho_de_chile/</link>
+  <link>https://bastimapache.cl/posts/brevet/el_ancho_de_chile/</link>
   <description><![CDATA[ 
 
 
@@ -645,12 +645,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/el_ancho_de_chile/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/el_ancho_de_chile/</guid>
   <pubDate>Fri, 08 Dec 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 400 Vuelta Coya</title>
-  <link>https://bastianolea.github.io/posts/brevet/brevet_400_vueltacoya/</link>
+  <link>https://bastimapache.cl/posts/brevet/brevet_400_vueltacoya/</link>
   <description><![CDATA[ 
 
 
@@ -699,12 +699,12 @@
 
  ]]></description>
   <category>ciclismo</category>
-  <guid>https://bastianolea.github.io/posts/brevet/brevet_400_vueltacoya/</guid>
+  <guid>https://bastimapache.cl/posts/brevet/brevet_400_vueltacoya/</guid>
   <pubDate>Sat, 04 Mar 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Resumen: Nelly Richard - Feminismo, género y diferencia(s): Transgresión y escritura femenina</title>
-  <link>https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</link>
+  <link>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</link>
   <description><![CDATA[ 
 
 
@@ -715,18 +715,18 @@
 <p>En la parte superior del mapa conceptual hay un conveniente esquema de dos pistas que describe el proceso de naturalización del género mediante su imposición cultural, y posteriormente su reproducción.</p>
 <p>El segundo nodo del mapa conceptual presenta tres formas en las que Nelly Richard define al feminismo: feminismo como movimiento de mujeres, feminismo como teoría feminista, y feminismo como crítica feminista.</p>
 <p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf">Clic aquí o en la imagen para acceder al mapa conceptual de resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/images/Nelly-Richard-Feminismo-genero-y-diferencia-Tiene-sexo-la-escritura-920x1024.jpg" class="img-fluid"></a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf"><img src="https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/images/Nelly-Richard-Feminismo-genero-y-diferencia-Tiene-sexo-la-escritura-920x1024.jpg" class="img-fluid"></a></p>
 
 
 
  ]]></description>
   <category>género</category>
-  <guid>https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</guid>
+  <guid>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</guid>
   <pubDate>Fri, 17 Feb 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Resumen: R. W. Connell - Masculinidades (capítulo 8, historia de la masculinidad)</title>
-  <link>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</link>
+  <link>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</link>
   <description><![CDATA[ 
 
 
@@ -736,18 +736,18 @@
 <p>Resumen del capítulo 8 del libro Masculinidades, de R. W. Connell, que entrega una visión general de ciertos hitos históricos que configuran la masculinidad hegemónica occidental que conocemos.</p>
 <p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
 <p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf">este link para acceder al resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/images/6FE0E506-2B07-4264-8598-91F56F5CD50D-857x1024.jpeg" class="img-fluid"></a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf"><img src="https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/images/6FE0E506-2B07-4264-8598-91F56F5CD50D-857x1024.jpeg" class="img-fluid"></a></p>
 
 
 
  ]]></description>
   <category>masculinidades</category>
-  <guid>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</guid>
+  <guid>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</guid>
   <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Resumen: R. W. Connell - Masculinidades (capítulo 9, políticas de la masculinidad)</title>
-  <link>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</link>
+  <link>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</link>
   <description><![CDATA[ 
 
 
@@ -757,18 +757,18 @@
 <p>Resumen del capítulo 9 del libro Masculinidades, de R. W. Connell, donde se problematizar algunas formas de buscar la superación de la masculinidad hegemónica, sus beneficios y dificultades, así como los desvíos reaccionarios en torno a la relación de las masculinidades críticas y el feminismo.</p>
 <p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
 <p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf">este link para acceder al resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/images/9455DE3A-2A54-449D-9633-5E72DFE13488-1024x370.jpeg" class="img-fluid"></a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf"><img src="https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/images/9455DE3A-2A54-449D-9633-5E72DFE13488-1024x370.jpeg" class="img-fluid"></a></p>
 
 
 
  ]]></description>
   <category>masculinidades</category>
-  <guid>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</guid>
+  <guid>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</guid>
   <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Ira</title>
-  <link>https://bastianolea.github.io/posts/2023/2023-01-20-ira/</link>
+  <link>https://bastimapache.cl/posts/2023/2023-01-20-ira/</link>
   <description><![CDATA[ 
 
 
@@ -808,12 +808,12 @@ Audre Lorde: La ira es el dolor motivado por las distorsiones que nos afectan a 
  ]]></description>
   <category>género</category>
   <category>masculinidades</category>
-  <guid>https://bastianolea.github.io/posts/2023/2023-01-20-ira/</guid>
+  <guid>https://bastimapache.cl/posts/2023/2023-01-20-ira/</guid>
   <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Relato autobiográfico de mi cuerpo</title>
-  <link>https://bastianolea.github.io/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</link>
+  <link>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</link>
   <description><![CDATA[ 
 
 
@@ -833,12 +833,12 @@ Audre Lorde: La ira es el dolor motivado por las distorsiones que nos afectan a 
 
  ]]></description>
   <category>sociología</category>
-  <guid>https://bastianolea.github.io/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</guid>
+  <guid>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</guid>
   <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Resumen: R. W. Connell - Masculinidades (capítulo 2, organización social de la masculinidad)</title>
-  <link>https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</link>
+  <link>https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</link>
   <description><![CDATA[ 
 
 
@@ -848,13 +848,13 @@ Audre Lorde: La ira es el dolor motivado por las distorsiones que nos afectan a 
 <p>Resumen del capítulo 2 del libro Masculinidades, de R. W. Connell, que plantea un marco general para entender el concepto de masculinidad, su relación con el género y el cuerpo, y algunos elementos que componen la masculinidad.</p>
 <p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
 <p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf">este link para acceder al resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf"><img src="https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/images/Connell-Organizacion-social-de-la-masculinidad-950x1024.png" class="img-fluid"></a></p>
+<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf"><img src="https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/images/Connell-Organizacion-social-de-la-masculinidad-950x1024.png" class="img-fluid"></a></p>
 
 
 
  ]]></description>
   <category>masculinidades</category>
-  <guid>https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</guid>
+  <guid>https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</guid>
   <pubDate>Thu, 12 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 </channel>

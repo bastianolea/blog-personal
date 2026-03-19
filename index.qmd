@@ -23,8 +23,8 @@ about:
 ---
 
 Mi nombre es Bastián Olea Herrera, soy
-sociólogx y analista de datos. **Este es mi blog personal!**
+[sociólogx,](blog.html#category=sociología) [analista de datos](https://bastianolea.rbind.io), y [ciclista.](blog.html#category=ciclismo)
 
 Estudié [sociología](blog.html#category=sociología) y luego hice un [magíster](posts/2019/2019-01-29-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/index.html), y en el camino descubrí el gusto por los [datos](https://bastianolea.rbind.io), los gráficos y la programación.
 
-También tengo un [**blog profesional**](https://bastianolea.rbind.io) donde comparto contenido sobre análisis de datos con R, [tutoriales](https://bastianolea.rbind.io/tutoriales) para aprender R, [visualizaciones de datos](https://bastianolea.rbind.io/tags/visualización-de-datos/) y más.
+Este es mi blog personal. También tengo un [**blog profesional**](https://bastianolea.rbind.io) donde comparto contenido sobre análisis de datos con R, [tutoriales](https://bastianolea.rbind.io/tutoriales) para aprender R, [visualizaciones de datos](https://bastianolea.rbind.io/tags/visualización-de-datos/) y más.

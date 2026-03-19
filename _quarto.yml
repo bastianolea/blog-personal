@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://bastianolea.github.io
+  description: "Sitio personal de Bastián Olea Herrera"
+  site-url: https://bastimapache.cl
   title: "Bastián Olea Herrera"
   favicon: profile.jpg
   open-graph: true
@@ -13,12 +13,12 @@ website:
     left:
       - text: Inicio
         href: index.qmd
+      - text: Ahora
+        href: ahora.qmd
       - text: Blog personal
         href: blog.qmd
       - text: Blog de análisis de datos y R
         href: https://bastianolea.rbind.io
-      - text: Ahora
-        href: ahora.qmd
     right:
       - icon: instagram
         href: https://www.instagram.com/raccunnie/
