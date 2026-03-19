@@ -68,6 +68,11 @@ strong {
   font-weight: 600 !important;
 }
 
+strong a {
+  color: $foreground2 !important;
+  font-weight: 600 !important;
+}
+
 
 //// barra superior
 // título del sitio
@@ -156,6 +161,7 @@ border-color: $tertiary !important;
 }
 
 
+
 //// contenido
 
 // titulos de posts
@@ -163,6 +169,9 @@ border-color: $tertiary !important;
   font-weight: 700 !important;
 }
 // iconos
+.fa-solid {
+  color: $secondary;
+}
 .fa-2x {
   margin-right: 6px !important;
   margin-bottom: -2px !important;
@@ -206,3 +215,6 @@ border-top: 1px solid $background !important;
   color: $background2 !important;
 }
 
+.tabla_ciclismo {
+  max-width: 380px;
+}

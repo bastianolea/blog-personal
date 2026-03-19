@@ -1,0 +1,23 @@
+---
+title: "El Ancho de Chile"
+format: html
+date: "2023-12-08"
+categories: 
+  - ciclismo
+---
+
+Preciosa ruta, pasando por muchas localidades bonitas para luego adentrarse en la cordillera, conectando el mar con la cordillera a través del río Aconcagua. Llegué solo a Portillo 🙁 Me faltaron como 10 kilómetros para llegar al Cristo Redentor
+
+Muchas gracias a [Interoceanica.cc](https://interoceanica.cc/) por organizar este evento!
+
+:::: {.tabla_ciclismo}
+| Variable                | Valor     |
+|------------------------:|-----------|
+|**Distancia total**      | 187.18 km |
+|**Ascenso acumulado**    | 3,483 m   |
+|**Velocidad promedio**   | 14.2 km/h |
+|**Tiempo en movimiento** |	13:09:36  |
+|**Tiempo total**         | 20:09:58  |
+::::
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10354709772" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>

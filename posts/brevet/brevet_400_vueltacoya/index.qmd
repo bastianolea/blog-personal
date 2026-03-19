@@ -1,0 +1,20 @@
+---
+title: "Brevet 400 Vuelta Coya"
+date: "2023-03-04"
+categories: 
+  - ciclismo
+---
+
+Increíble desafío, con tramos hermosos y aterradores por igual. Definitivamente di todo de mi, saqué energías de lo más profundo para estar dentro de los tiempos y lo logré, a veces llegando a 10 minutos del cierre de los puntos de control.
+
+:::: {.tabla_ciclismo}
+| Variable                | Valor     |
+|------------------------:|-----------|
+|**Distancia total**     | 411.67 km |
+|**Ascenso acumulado**    | 2,892 m   |
+|**Velocidad promedio**  | 22.1 km/h |
+|**Tiempo en movimiento** |	18:38:57  |
+|**Tiempo total**         | 25:59:32  |
+::::
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="8667284530" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>

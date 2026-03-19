@@ -1,0 +1,18 @@
+---
+title: "Brevet 200 Melipilla"
+date: "2025-11-19"
+categories: 
+  - ciclismo
+---
+
+:::: {.tabla_ciclismo}
+| Variable                | Valor     |
+|------------------------:|-----------|
+|**Distancia total:**     | 204.37 km |
+|**Ascenso acumulado**    | 1,180 m   |
+|**Velocidad promedio:**  | 23.1 km/h |
+|**Tiempo en movimiento** | 8:49:52  |
+|**Tiempo total**         | 10:59:49  |
+::::
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16195631641" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>

@@ -1,0 +1,22 @@
+---
+title: "Brevet 300 Casablanca"
+date: "2025-09-06"
+categories: 
+  - ciclismo
+---
+
+**DNF**
+
+Después del kilómetro 220 el cansancio me ganó y me devolví por cualquier parte (lo subí de nuevo porque venía con errores del Garmin que se quedó pegado como 3 veces)
+
+:::: {.tabla_ciclismo}
+| Variable                | Valor     |
+|------------------------:|-----------|
+|**Distancia total:**     | 298.85 km |
+|**Ascenso acumulado**    | 2,230 m   |
+|**Velocidad promedio:**  | 17.6 km/h |
+|**Tiempo en movimiento** |	17:01:10  |
+|**Tiempo total**         | 21:32:09  |
+::::
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="15734497800" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>

@@ -1,0 +1,12 @@
+---
+title: "Ahora"
+format: html
+---
+
+#### ¿En qué estoy?
+
+{{< fa industry >}} Actualmente trabajo en la **Subsecretaría de Desarrollo Regional y Administrativo** como analista de datos y desarrollador, principalmente analizando datos comunales y regionales, generando visualizaciones y plataformas de exploración de datos, y automatizando procesos relacionados con datos.
+
+En mi tiempo libre me dedico al **[ciclismo](blog.html#category=ciclismo)** {{< fa bicycle >}} (también como medio de transporte diario), a **leer** {{< fa book-open >}} libros de ciencias sociales, género y _Warhammer 40.000_, y a cuidar mis **plantitas** {{< fa seedling >}}
+
+{{< fa chart-pie >}} También me gusta escribir en [mi otro blog sobre programación](https://bastianolea.rbind.io) y visualización de datos con R, compartiendo [tutoriales](https://bastianolea.rbind.io/categories/tutoriales) con otras personas que quieran aprender, y organizando [clases abiertas](https://bastianolea.rbind.io/clases) para enseñar a más personas a usar R para análisis de datos.

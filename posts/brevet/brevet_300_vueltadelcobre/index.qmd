@@ -1,0 +1,18 @@
+---
+title: "Brevet 300 Vuelta del Cobre"
+date: "2026-01-31"
+categories: 
+  - ciclismo
+---
+
+:::: {.tabla_ciclismo}
+| Variable                | Valor     |
+|------------------------:|-----------|
+|**Distancia total:**     | 294.80 km |
+|**Ascenso acumulado**    | 2,313 m   |
+|**Velocidad promedio:**  | 22.3 km/h |
+|**Tiempo en movimiento** | 13:13:17  |
+|**Tiempo total**         | 16:23:04  |
+::::
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="17244569611" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>

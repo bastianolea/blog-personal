@@ -1,0 +1,18 @@
+---
+title: "Brevet 200 Vuelta del Campo"
+date: "2025-05-10"
+categories: 
+  - ciclismo
+---
+
+:::: {.tabla_ciclismo}
+| Variable                | Valor     |
+|------------------------:|-----------|
+|**Distancia total:**     | 201.87 km |
+|**Ascenso acumulado**    | 1,199 m   |
+|**Velocidad promedio:**  | 24.0 km/h |
+|**Tiempo en movimiento** |	8:25:24  |
+|**Tiempo total**         | 10:47:33  |
+::::
+
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14440156472" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>

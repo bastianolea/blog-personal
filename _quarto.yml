@@ -17,6 +17,8 @@ website:
         href: blog.qmd
       - text: Blog de análisis de datos y R
         href: https://bastianolea.rbind.io
+      - text: Ahora
+        href: ahora.qmd
     right:
       - icon: instagram
         href: https://www.instagram.com/raccunnie/

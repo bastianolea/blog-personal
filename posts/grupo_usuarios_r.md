@@ -7,7 +7,7 @@ categories:
   - programación
 ---
 
- llevo más de cinco años usando el lenguaje R, tanto para trabajo como para fines personales.
+Llevo más de cinco años usando el lenguaje R, tanto para trabajo como para fines personales.
  
 Si bien yo vengo de una disciplina completamente distinta, la sociología, siempre interesó mucho la tecnología, a pesar de sentir sus aspectos más técnicos como algo alejado de mis capacidades. Tengo que reconocer que siempre fue mi padre quien incentivó mi curiosidad por la tecnología, y nos ayudó a acercarnos a ella de una forma peculiar entregándonos sus antiguos computadores Mac cuando le tocaba renovarlos por modelos más modernos.
 
