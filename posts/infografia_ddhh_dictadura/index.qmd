@@ -3,7 +3,7 @@ title: "Infografía: Violaciones a los Derechos Humanos cometidas por la dictadu
 format: html
 date: '2025-09-11'
 description: Infografía que recopila visualizaciones de datos acerca de los crímenes de lesa humanidad cometidos por el régimen dictatorial en Chile, entre entre 1973 y 1989. El objetivo es poder compartir información de forma pedagógica y clara, para que las nuevas generaciones puedan comprender la magnitud de las violaciones a los derechos humanos cometidas en ese período, y así contribuir a la memoria histórica del país.
-categories: [destacado, política]
+categories: [destacado, política, videos]
 ---
 
 
@@ -19,13 +19,11 @@ El objetivo es poder compartir información de forma pedagógica y clara, para q
 
 Aquí dejo un video cortito que hice mostrando la página web y explicando un poco las motivaciones:
 
-<div style="background-color: white; border-radius: 5px; width: 80%; padding-top: 16px; padding-bottom: 16px; margin: auto;">
+::: {.tiktok}
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bastimapache/video/7546064357159947525" data-video-id="7546064357159947525" style="border: none; min-width: 340px; margin: auto;" > <section> <a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed">@bastimapache</a> Septiembre es el mes de la memoria! Revisa la infografía en  el link de mi perfil, y ayúdame a mejorarla 🙏🏼 <a title="chile" target="_blank" href="https://www.tiktok.com/tag/chile?refer=embed">#chile</a> <a title="septiembre" target="_blank" href="https://www.tiktok.com/tag/septiembre?refer=embed">#septiembre</a> <a target="_blank" title="♬ Ventolera - Quilapayún" href="https://www.tiktok.com/music/Ventolera-7033714786298775554?refer=embed">♬ Ventolera - Quilapayún</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-</div>
+:::
 
-<br>
-
-**Se buscan contribuciones**, como por ejemplo relatos, estadísticas y datos, contribución de textos y similares. [Contáctame!](https://bastianolea.rbind.io/contact/)
+**Se buscan aportes de contenido**, como por ejemplo relatos, estadísticas y datos, contribución de textos y similares. [Contáctame!](https://bastianolea.rbind.io/contact/)
 
 :::: {.centrar}
 ::: {.boton style="width: 210px;"}

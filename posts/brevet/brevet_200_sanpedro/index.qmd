@@ -1,9 +1,28 @@
 ---
 title: "Brevet 200 Vuelta San Pedro"
+subtitle: "Padre Hurtado, Peñaflor, Bollenar, Melipilla, San Pedro, María Pinto, Barriga"
 date: "2026-01-17"
 categories: 
   - ciclismo
+  - videos
 ---
+
+No alcancé a terminar esta brevet dentro del tiempo reglamentario (13 horas), principalmente porque pinché muchas veces, pero la disfruté igual porque estuve con mi amigo de rutas Óscar casi todo el transcurso (hasta que se retiró en Melipilla), y después conocí a Sebastián, con quien hice el último tramo.
+
+::: {.galeria .centrar}
+![](brevet_sanpedro_2.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_1.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_3.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_4.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_5.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_6.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_7.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_8.JPG){.fotito .lightbox group="sanpedro"}
+![](brevet_sanpedro_9.jpeg){.fotito .lightbox group="sanpedro"}
+:::
+
+Quedamos fuera de tiempo antes de subir la cuesta Barriga, y al otro lado de la cuesta Óscar se ofreció a llevarme en auto a mi casita. Parte bonita del ultraciclismo es conocer gente en la misma situación de cansancio/sufrimiento/dolor que unx, y compartir la ruta apoyándose mutuamente.
+
 
 :::: {.tabla_ciclismo}
 | Variable                | Valor     |
@@ -15,4 +34,15 @@ categories:
 |**Tiempo total**         | 14:48:11  |
 ::::
 
+La ruta igual tenía secciones riesgosas, particularmente después de Melipilla por el camino de la Fruta, donde la pista es angosta y con poca o nula berma.
+
+::: {.strava .centrar}
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="17087633676" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+:::
+
+Grabé varios videos cortitos del paisaje durante la ruta. Habían paisajes preciosos, muchos cuerpos de agua, y vaquitas. El sector de **San Pedro** me encantó por la cantidad de cerros y actividad agrícola, pero más que nada por los repechos increíbles de casi 20% de inclinación 🔥
+
+::: {.tiktok}
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bastimapache/video/7596681175847030037" data-video-id="7596681175847030037" data-embed-from="embed_page" style="border: none; min-width: 340px; margin: auto;" > <section> <a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed">@bastimapache</a> <p>Tonterías de una ruta de 200 kms <a title="brevet" target="_blank" href="https://www.tiktok.com/tag/brevet?refer=embed">#brevet</a> <a title="chile" target="_blank" href="https://www.tiktok.com/tag/chile?refer=embed">#chile</a> <a title="sanpedro" target="_blank" href="https://www.tiktok.com/tag/sanpedro?refer=embed">#sanpedro</a></p> <a target="_blank" title="♬ Meet Your Maker - Faetooth" href="https://www.tiktok.com/music/Meet-Your-Maker-7514385461685848080?refer=embed">♬ Meet Your Maker - Faetooth</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+:::
+
