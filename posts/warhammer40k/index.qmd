@@ -1,0 +1,122 @@
+---
+title: "Warhammer 40.000: libros leídos"
+subtitle: "Lista de lectura personal"
+date: "2026-03-12"
+draft: false
+format: html
+categories: [libros]
+editor_options: 
+  chunk_output_type: console
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un **universo de ciencia ficción** basado en un juego de mesa nacido en la Inglaterra de los años '80.
+
+En grandes términos, Warhammer es sobre la situación de la humanidad en el milenio 41...
+
+Aquí la tabla con los libros que he leído, ordenados desde el leído más recientemente:
+
+```{r}
+library(tidyverse)
+
+data <- read_csv("goodreads_library_export.csv") |> 
+  janitor::clean_names()
+
+data <- data |> 
+  filter(!is.na(date_read)) |> 
+  mutate(author = str_squish(author))
+```
+
+```{r}
+libros <- data |> 
+  filter(!is.na(date_read)) |> 
+  filter(
+    when_any(
+      str_detect(title, "Warhammer"),
+      str_detect(title, "Horus Heresy"),
+      str_detect(publisher, "Black Library")
+      )) |> 
+  select(date_read,
+         title, author, my_rating, number_of_pages) |> 
+  mutate(title = str_remove(title, "\\(.*\\)"),
+         title = str_squish(title)) #|> 
+  # mutate(number_of_pages = case_when(title == "Ravenor" ~ 416,
+                                     # .default = number_of_pages))
+```
+
+```{r}
+library(gt)
+
+# función para estrellitas
+# copiado desde https://themockup.blog/static/resources/gt-cookbook-advanced.html#add-rating-stars
+
+rating_stars <- function(rating, max_rating = 5) {
+  rounded_rating <- floor(rating + 0.5)  # always round up
+  stars <- lapply(seq_len(max_rating), function(i) {
+    if (i <= rounded_rating) fontawesome::fa("star", fill= "#DD2694") else fontawesome::fa("star", fill= "#4A4055")
+  })
+  label <- sprintf("%s out of %s", rating, max_rating)
+  div_out <- htmltools::div(title = label, "aria-label" = label, role = "img", stars)
+  
+  as.character(div_out) %>% 
+    gt::html()
+}
+```
+
+```{css}
+.gt_table td,
+.gt_table th,
+.gt_table .gt_sourcenote,
+.gt_table .gt_footnote {
+  color: #F1C0E7 !important;
+}
+```
+
+```{r}
+libros |> 
+  mutate(my_rating = purrr::map(my_rating, rating_stars)) |> 
+  gt() |> 
+  cols_label(date_read = "Leído",
+             title = "Libro",
+             author = "Autor",
+             my_rating = "Puntuación",
+             number_of_pages = "Páginas") |> 
+  tab_options(
+    # Fondo general
+    table.background.color = "#2F2935",
+    # Color de texto por defecto
+    table.font.color = "#F1C0E7",
+
+    # Encabezado de columnas
+    column_labels.background.color = "#3D3545",
+    column_labels.font.weight = "bold",
+    column_labels.border.bottom.color = "#2F2935",
+    column_labels.border.bottom.width = px(2),
+    column_labels.border.top.color = "#2F2935",
+    column_labels.border.top.width = px(2),
+
+    # Título y subtítulo
+    heading.background.color = "#2F2935",
+    heading.border.bottom.color = "#2F2935",
+    heading.border.bottom.width = px(2),
+
+    # Cuerpo de la tabla
+    table_body.border.top.color = "#2F2935",
+    table_body.border.bottom.color = "#2F2935",
+    table_body.hlines.color = "#4A4055",
+
+    # Bordes de la tabla
+    table.border.top.color = "#F1C0E7",
+    table.border.top.width = px(2),
+    table.border.bottom.color = "#F1C0E7",
+    table.border.bottom.width = px(2),
+
+    # Líneas horizontales entre filas
+    table_body.hlines.width = px(1),
+  )
+```
+
+

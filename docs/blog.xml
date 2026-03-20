@@ -75,6 +75,889 @@
   <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Warhammer 40.000: libros leídos</title>
+  <link>https://bastimapache.cl/posts/warhammer40k/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un <strong>universo de ciencia ficción</strong> basado en un juego de mesa nacido en la Inglaterra de los años ’80.</p>
+<p>En grandes términos, Warhammer es sobre la situación de la humanidad en el milenio 41…</p>
+<p>Aquí la tabla con los libros que he leído, ordenados desde el leído más recientemente:</p>
+<div class="cell">
+<style type="text/css">
+.gt_table td,
+.gt_table th,
+.gt_table .gt_sourcenote,
+.gt_table .gt_footnote {
+  color: #F1C0E7 !important;
+}
+</style>
+</div>
+<div class="cell">
+<div class="cell-output-display">
+<div id="dbhhyulqzc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#dbhhyulqzc table {
+  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#dbhhyulqzc thead, #dbhhyulqzc tbody, #dbhhyulqzc tfoot, #dbhhyulqzc tr, #dbhhyulqzc td, #dbhhyulqzc th {
+  border-style: none;
+}
+
+#dbhhyulqzc p {
+  margin: 0;
+  padding: 0;
+}
+
+#dbhhyulqzc .gt_table {
+  display: table;
+  border-collapse: collapse;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #2F2935;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #F1C0E7;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #F1C0E7;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#dbhhyulqzc .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-color: #2F2935;
+  border-bottom-width: 0;
+}
+
+#dbhhyulqzc .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-color: #2F2935;
+  border-top-width: 0;
+}
+
+#dbhhyulqzc .gt_heading {
+  background-color: #2F2935;
+  text-align: center;
+  border-bottom-color: #2F2935;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #2F2935;
+}
+
+#dbhhyulqzc .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #2F2935;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #2F2935;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #3D3545;
+  font-size: 100%;
+  font-weight: bold;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#dbhhyulqzc .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #3D3545;
+  font-size: 100%;
+  font-weight: bold;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#dbhhyulqzc .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#dbhhyulqzc .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#dbhhyulqzc .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #2F2935;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#dbhhyulqzc .gt_spanner_row {
+  border-bottom-style: hidden;
+}
+
+#dbhhyulqzc .gt_group_heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#dbhhyulqzc .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#dbhhyulqzc .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#dbhhyulqzc .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#dbhhyulqzc .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #4A4055;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#dbhhyulqzc .gt_stub {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#dbhhyulqzc .gt_stub_row_group {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#dbhhyulqzc .gt_row_group_first td {
+  border-top-width: 2px;
+}
+
+#dbhhyulqzc .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
+#dbhhyulqzc .gt_summary_row {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#dbhhyulqzc .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#dbhhyulqzc .gt_last_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_grand_summary_row {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#dbhhyulqzc .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#dbhhyulqzc .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #2F2935;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #2F2935;
+}
+
+#dbhhyulqzc .gt_footnotes {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#dbhhyulqzc .gt_sourcenotes {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#dbhhyulqzc .gt_sourcenote {
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#dbhhyulqzc .gt_left {
+  text-align: left;
+}
+
+#dbhhyulqzc .gt_center {
+  text-align: center;
+}
+
+#dbhhyulqzc .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#dbhhyulqzc .gt_font_normal {
+  font-weight: normal;
+}
+
+#dbhhyulqzc .gt_font_bold {
+  font-weight: bold;
+}
+
+#dbhhyulqzc .gt_font_italic {
+  font-style: italic;
+}
+
+#dbhhyulqzc .gt_super {
+  font-size: 65%;
+}
+
+#dbhhyulqzc .gt_footnote_marks {
+  font-size: 75%;
+  vertical-align: 0.4em;
+  position: initial;
+}
+
+#dbhhyulqzc .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#dbhhyulqzc .gt_indent_1 {
+  text-indent: 5px;
+}
+
+#dbhhyulqzc .gt_indent_2 {
+  text-indent: 10px;
+}
+
+#dbhhyulqzc .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#dbhhyulqzc .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#dbhhyulqzc .gt_indent_5 {
+  text-indent: 25px;
+}
+
+#dbhhyulqzc .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#dbhhyulqzc div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top table table-sm table-striped small" data-quarto-bootstrap="false">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="gt_col_headings header">
+<th id="date_read" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">Leído</th>
+<th id="title" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Libro</th>
+<th id="author" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Autor</th>
+<th id="my_rating" class="gt_col_heading gt_columns_bottom_border gt_center" data-quarto-table-cell-role="th" scope="col">Puntuación</th>
+<th id="number_of_pages" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">Páginas</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2026-03-12</td>
+<td class="gt_row gt_left" headers="title">Archmagos</td>
+<td class="gt_row gt_left" headers="author">Guy Haley</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">371</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2025-10-31</td>
+<td class="gt_row gt_left" headers="title">Saturnine</td>
+<td class="gt_row gt_left" headers="author">Dan Abnett</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">553</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2025-08-01</td>
+<td class="gt_row gt_left" headers="title">Fulgrim: The Palatine Phoenix</td>
+<td class="gt_row gt_left" headers="author">Joshua Reynolds</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="2 out of 5" aria-label="2 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">219</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2025-07-08</td>
+<td class="gt_row gt_left" headers="title">The Infinite and the Divine</td>
+<td class="gt_row gt_left" headers="author">Robert Rath</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">361</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2025-04-17</td>
+<td class="gt_row gt_left" headers="title">Ravenor</td>
+<td class="gt_row gt_left" headers="author">Dan Abnett</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="3 out of 5" aria-label="3 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">NA</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2024-12-27</td>
+<td class="gt_row gt_left" headers="title">The Solar War</td>
+<td class="gt_row gt_left" headers="author">John French</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">423</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2024-11-05</td>
+<td class="gt_row gt_left" headers="title">Aurelian</td>
+<td class="gt_row gt_left" headers="author">Aaron Dembski-Bowden</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">128</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2024-10-25</td>
+<td class="gt_row gt_left" headers="title">Sons of the Emperor</td>
+<td class="gt_row gt_left" headers="author">John French</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">247</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2024-09-24</td>
+<td class="gt_row gt_left" headers="title">Valdor: Birth of the Imperium</td>
+<td class="gt_row gt_left" headers="author">Chris Wraight</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">200</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2024-09-09</td>
+<td class="gt_row gt_left" headers="title">The Dark City</td>
+<td class="gt_row gt_left" headers="author">Chris Wraight</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">350</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2024-08-27</td>
+<td class="gt_row gt_left" headers="title">The Unremembered Empire</td>
+<td class="gt_row gt_left" headers="author">Dan Abnett</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="3 out of 5" aria-label="3 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2024-04-04</td>
+<td class="gt_row gt_left" headers="title">The Hollow Mountain</td>
+<td class="gt_row gt_left" headers="author">Chris Wraight</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="3 out of 5" aria-label="3 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">298</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2023-12-31</td>
+<td class="gt_row gt_left" headers="title">The Carrion Throne</td>
+<td class="gt_row gt_left" headers="author">Chris Wraight</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">304</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2023-09-30</td>
+<td class="gt_row gt_left" headers="title">Betrayer</td>
+<td class="gt_row gt_left" headers="author">Aaron Dembski-Bowden</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">343</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2023-07-05</td>
+<td class="gt_row gt_left" headers="title">Know No Fear</td>
+<td class="gt_row gt_left" headers="author">Dan Abnett</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">412</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2023-05-01</td>
+<td class="gt_row gt_left" headers="title">The Outcast Dead</td>
+<td class="gt_row gt_left" headers="author">Graham McNeill</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="2 out of 5" aria-label="2 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2023-03-30</td>
+<td class="gt_row gt_left" headers="title">The Master of Mankind</td>
+<td class="gt_row gt_left" headers="author">Aaron Dembski-Bowden</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">404</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2022-11-05</td>
+<td class="gt_row gt_left" headers="title">Belisarius Cawl: The Great Work</td>
+<td class="gt_row gt_left" headers="author">Guy Haley</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="3 out of 5" aria-label="3 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2022-09-11</td>
+<td class="gt_row gt_left" headers="title">The First Heretic</td>
+<td class="gt_row gt_left" headers="author">Aaron Dembski-Bowden</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">503</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2022-06-18</td>
+<td class="gt_row gt_left" headers="title">Age of Darkness</td>
+<td class="gt_row gt_left" headers="author">Christian Z. Dunn</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="0 out of 5" aria-label="0 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2021-10-28</td>
+<td class="gt_row gt_left" headers="title">Mechanicum</td>
+<td class="gt_row gt_left" headers="author">Graham McNeill</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="3 out of 5" aria-label="3 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2021-08-12</td>
+<td class="gt_row gt_left" headers="title">Tales of Heresy</td>
+<td class="gt_row gt_left" headers="author">Nick Kyme</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2021-07-12</td>
+<td class="gt_row gt_left" headers="title">A Thousand Sons</td>
+<td class="gt_row gt_left" headers="author">Graham McNeill</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">558</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2021-04-03</td>
+<td class="gt_row gt_left" headers="title">Legion</td>
+<td class="gt_row gt_left" headers="author">Dan Abnett</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2021-03-07</td>
+<td class="gt_row gt_left" headers="title">Fulgrim</td>
+<td class="gt_row gt_left" headers="author">Graham McNeill</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">512</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2020-12-10</td>
+<td class="gt_row gt_left" headers="title">The Flight of the Eisenstein</td>
+<td class="gt_row gt_left" headers="author">James Swallow</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2020-12-01</td>
+<td class="gt_row gt_left" headers="title">Galaxy in Flames</td>
+<td class="gt_row gt_left" headers="author">Ben Counter</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="3 out of 5" aria-label="3 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_right" headers="date_read">2020-11-05</td>
+<td class="gt_row gt_left" headers="title">False Gods</td>
+<td class="gt_row gt_left" headers="author">Graham McNeill</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="5 out of 5" aria-label="5 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_right" headers="date_read">2020-10-24</td>
+<td class="gt_row gt_left" headers="title">Horus Rising</td>
+<td class="gt_row gt_left" headers="author">Dan Abnett</td>
+<td class="gt_row gt_center" headers="my_rating"><div title="4 out of 5" aria-label="4 out of 5">
+
+
+
+
+
+</div></td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>libros</category>
+  <guid>https://bastimapache.cl/posts/warhammer40k/</guid>
+  <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Explorando la comuna de Navidad, región de O’Higgins</title>
   <link>https://bastimapache.cl/posts/explorando_navidad/explorando_navidad.html</link>
   <description><![CDATA[ 
@@ -1054,27 +1937,6 @@ Tonterías de una ruta de 200 kms <a title="brevet" target="_blank" href="https:
   <category>género</category>
   <guid>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</guid>
   <pubDate>Fri, 17 Feb 2023 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Resumen: R. W. Connell - Masculinidades (capítulo 8, historia de la masculinidad)</title>
-  <link>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Resumen del capítulo 8 del libro Masculinidades, de R. W. Connell, que entrega una visión general de ciertos hitos históricos que configuran la masculinidad hegemónica occidental que conocemos.</p>
-<p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
-<p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf">este link para acceder al resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf"><img src="https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/images/6FE0E506-2B07-4264-8598-91F56F5CD50D-857x1024.jpeg" class="img-fluid"></a></p>
-
-
-
- ]]></description>
-  <category>masculinidades</category>
-  <guid>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/</guid>
-  <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
