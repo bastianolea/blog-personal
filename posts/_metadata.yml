@@ -7,7 +7,7 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: true
 
-comments: 
-  utterances: 
-    repo: bastianolea/bastianolea.github.io
-    theme: "github-dark"
+# comments: 
+#   utterances: 
+#     repo: bastianolea/bastianolea.github.io
+#     theme: "github-dark"

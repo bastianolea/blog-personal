@@ -73,6 +73,11 @@ strong a {
   font-weight: 600 !important;
 }
 
+li {
+  margin-bottom: 10px !important;
+  font-weight: 300;
+}
+
 
 //// barra superior
 // título del sitio
@@ -151,6 +156,24 @@ strong a {
   }
 }
 
+// arreglo para que posts sin imagen usen el ancho completo
+// ocultar thumbnail cuando post no tiene imagen
+.quarto-post .thumbnail:not(:has(img)) {
+  display: none;
+}
+// cuando no hay imagen, el body crece para ocupar el espacio del thumbnail
+.quarto-post:not(:has(.thumbnail img)) .body {
+  flex-basis: 83%;
+}
+// ajustar metadata para que sea consistente con los posts con imagen
+.quarto-post .metadata {
+  flex-basis: 30%;
+  max-width: 68px;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+
 
 //// inicio
 // botones en about.qmd
@@ -218,6 +241,12 @@ border-top: 1px solid $background !important;
   max-width: 380px;
 }
 
+.centrar {
+  display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
 .galeria {
 }
 
@@ -229,5 +258,25 @@ border-top: 1px solid $background !important;
 }
 
 .fotito:hover {
+  filter: brightness(110%);
+}
+
+.boton {
+  padding: 4px; border-radius: 8px; padding-left: 24px; 
+  padding-top: 16px; padding-bottom: 0px;
+  color: $primary !important;
+  background-color: $secondary;
+  border: solid 1px $tertiary !important;
+  margin-top: 24px; margin-bottom: 24px;
+  
+  .fa-solid {
+    color: white !important;
+  }
+  p a {
+    text-decoration: none; color: #FDF4F8;
+  }
+}
+
+.boton:hover {
   filter: brightness(110%);
 }

@@ -1,8 +1,6 @@
 ---
 title: "Relato autobiográfico de mi cuerpo"
 date: 2023-01-20
-categories: 
-  - "sociología"
 tags: 
   - "poesia"
 ---

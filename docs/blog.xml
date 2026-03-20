@@ -21,17 +21,25 @@
 
 
 <p>La forma en que las personas habitan la internet ha cambiado muchísimo. Antes las personas creaban sus propias páginas web, personalizaban su presencia online, y formaban comunidades en torno a intereses y experiencias de vida.</p>
-<p>Hoy, <strong>la internet es un espacio dominado por grandes empresas</strong>, que nos ofrecen servicios “gratuitos” para tener una vida digital, pero bajo el trasfondo de utilizar nuestros datos y nuestro comportamiento para obtener beneficios económicos. Prácticamente la totalidad de nuestra experiencia web actual está intermediada por corporaciones.</p>
-<p>El objetivo de la internet actual parece ser la <strong>competencia por obtener nuestra atención</strong>. Distintas empresas y agentes económicos buscan este fin analizando nuestro comportamiento para entregarnos contenido altamente personalizado mediante <strong>algoritmos que explotan nuestros gustos, ideas y opiniones.</strong> Esto tiene la consecuencia de agobiarnos con contenido personalizado. Los usuarios no deciden lo que consumen, sino que los algoritmos deciden por nosotros, encerrándonos en burbujas de contenido y cámaras de eco desde las cuales se nos puede influenciar.</p>
-<p>El contenido generado por estas empresas es minuciosamente diseñado para influenciarnos en los niveles más profundos. La lucha por la atención y por la influencia ha derivado en el descubrimiento de que las <strong>emociones negativas suelen ser las que más nos movilizan a actuar.</strong> Por consiguiente, gran parte del contenido de las interacciones que vemos en internet son productos de la polarización, la indignación, el odio, y la humillación.</p>
-<p>Creo que las cosas pueden ser distintas. Podemos recuperar la internet como un espacio de expresión personal, gobernado por nosotros mismos, usando muchas de las tecnologías abiertas que están disponibles. Por esto creo que es importante recuperar los <strong>espacios digitales personales</strong>, como éste. Esto nos permite salirnos del dominio de los algoritmos, y por consiguiente dejar de competir por atención.</p>
+<p>Hoy, <strong>la internet es un espacio dominado por grandes empresas</strong>, que nos ofrecen servicios “gratuitos” para tener una vida digital, pero bajo el trasfondo de utilizar nuestros datos y nuestro comportamiento para <strong>obtener beneficios económicos</strong>. Prácticamente la totalidad de nuestra experiencia web actual está intermediada por corporaciones que usan nuestros datos para vendernos publicidad de vuelta.</p>
+<p>Siguiendo estos motivos publicitarios, el objetivo de la internet actual parece ser la <strong>competencia por obtener nuestra atención</strong>. Distintas empresas y agentes económicos buscan este fin analizando nuestro comportamiento para entregarnos contenido altamente personalizado mediante <strong>algoritmos que explotan nuestros gustos, ideas y opiniones.</strong> Esto tiene la consecuencia de agobiarnos con contenido personalizado. Los usuarios no deciden lo que consumen, sino que <strong>los algoritmos deciden por nosotros</strong>, encerrándonos en burbujas de contenido y cámaras de eco desde las cuales se nos puede influenciar.</p>
+<p>El contenido generado por estas empresas es minuciosamente diseñado para <strong>influenciarnos</strong>en los niveles más profundos. La lucha por la atención y por la influencia ha derivado en el descubrimiento de que las <strong>emociones negativas suelen ser las que más nos movilizan a actuar.</strong> Por consiguiente, gran parte del contenido de las interacciones que vemos en internet son productos de la polarización, la indignación, el odio, y la humillación.</p>
+<p>Si bien todo lo anterior ocurre principalmente para optimizar la industria publicitaria, sabemos que también puede ser usado para influenciar opiniones políticas y posturas ideológicas.</p>
+<p>Creo que las cosas pueden ser distintas. Podemos recuperar la <strong>internet como un espacio de expresión personal</strong>, gobernado por nosotros mismos, usando muchas de las tecnologías abiertas que están disponibles. Por esto creo que es importante <strong>recuperar los espacios digitales personales.</strong> Esto nos permite <strong>escapar del dominio de los algoritmos,</strong> y por consiguiente dejar de competir por atención.</p>
 <p>Creo que podemos <strong>prefigurar una vida digital libre del dominio de las grandes empresas que hoy gobiernan internet</strong>, liberando un aspecto tan importante de la vida social como lo es la digitalidad.</p>
-<p>Actos tan sencillos como crear tu propio espacio, hacerlo tuyo, y contribuir para que los demás puedan hacer lo mismo.</p>
-<p>https://www.linkedin.com/feed/update/urn:li:activity:7437596980849287168/</p>
-<p>https://lisacharlottemuth.com/</p>
-<p>https://lisacharlottemuth.com/bringing-everything-back-to-my-website</p>
-<p>https://indieweb.org/POSSE</p>
-<p>Publish (on your) Own Site, Syndicate Elsewhere</p>
+<p>Son necesarios actos tan sencillos como crear tu propio espacio, hacerlo tuyo, y contribuir para que los demás puedan hacer lo mismo.</p>
+<hr>
+<p>La idea de crear un sitio web personal, distinto de mi <a href="https://bastianolea.rbind.io">sitio web profesional</a>, nació de <a href="https://www.linkedin.com/feed/update/urn:li:activity:7437596980849287168/">este post</a> de <a href="https://lisacharlottemuth.com/">Lisa Charlotte Muth</a>:</p>
+<div class="centrar">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7437596979754573825?collapsed=1" height="480" width="340" frameborder="0" allowfullscreen="" title="Publicación integrada">
+</iframe>
+</div>
+<p>En este post se plantean dos conceptos clave:</p>
+<ul>
+<li><strong>POSSE:</strong> <em>Publish (on your) Own Site, Syndicate Elsewhere</em> (publica en tu propio sitio, comparte en las demás partes), como se plantea en <a href="https://indieweb.org/POSSE">Indie Web Camp</a>, para centrar tu presencia online en un <strong>espacio digital propio</strong>, y en <em>segundo lugar</em> usar las plataformas privadas que se usan mayoritariamente.</li>
+<li><strong>ROOTS:</strong> <em>Return Old Online Things to your own Site,</em> como un acto de recuperación de nuestro pasado digital, en caso de que <strong>plataformas desaparezcan</strong> (como ha ocurrido) y se lleven con ellas todo tu contenido, o bien, que plataformas decidan <strong>eliminar tu contenido</strong> o <strong>eliminar tus cuentas</strong> por cualquier razón.</li>
+</ul>
+<p>Creo que ambos conceptos son importantes para volver a hacer que la internet sea el espacio de libertad y libre expresión que <del>solía ser</del> siempre hemos soñado.</p>
 
 
 
@@ -50,12 +58,13 @@
 
 
 
-<p>Llevo más de cinco años usando el lenguaje R, tanto para trabajo como para fines personales.</p>
-<p>Si bien yo vengo de una disciplina completamente distinta, la sociología, siempre interesó mucho la tecnología, a pesar de sentir sus aspectos más técnicos como algo alejado de mis capacidades. Tengo que reconocer que siempre fue mi padre quien incentivó mi curiosidad por la tecnología, y nos ayudó a acercarnos a ella de una forma peculiar entregándonos sus antiguos computadores Mac cuando le tocaba renovarlos por modelos más modernos.</p>
-<p>Hace de ser una persona que pensaba que programarle imposible, a aprender a programar de manera autodidacta. Y lo único que necesité fue confiar en mí misme y plantearme proyectos personales que me incentivaran a aprender.</p>
-<p>Hoy puedo decir que soy un usuario avanzado de R, y que prácticamente cualquier cosa que me proponga puedo lograrla con este lenguaje.</p>
-<p>Pero por las razones anteriores, mi camino hacia la programación ha sido solitario. Siempre aprendí por mi propia cuenta, y si bien aprendí gracias a la solidaridad de usuarios y usuarios que comparten sus conocimientos y habilidades en Internet, muy pocas veces pude compartir en vivo indirecto con otras personas.</p>
-<p>Por eso tenía la idea de organizar un grupo de usuarios de usuarios, donde el apoyo digital se pudiera ser un poco más tangible y cercano, por una parte por un tema geográfico, donde la cercanía puede conllevar intereses comunes y experiencias similares, pero también por el hecho de qué está cercanía puede generar redes de otros tipos.</p>
+<p>Llevo más de cinco años usando el lenguaje de programación estadística <strong>R</strong>, tanto para trabajo como para fines personales. Me parece un lenguaje elegante, intuitivo, y con una comunidad viva y brillante.</p>
+<p>Si bien yo vengo de una <a href="blog.html#category=sociología">disciplina completamente distinta, la sociología</a>, siempre interesó mucho la tecnología, a pesar de sentir sus aspectos más técnicos como algo alejado de mis capacidades. Tengo que reconocer que siempre fue mi padre quien incentivó mi curiosidad por la tecnología, y nos ayudó a acercarnos a ella de una forma peculiar entregándonos sus antiguos computadores Mac cuando le tocaba renovarlos por modelos más modernos.</p>
+<p>Pasé de ser una persona que <strong>pensaba que programar era imposible</strong>, a aprender a programar de manera <strong>autodidacta</strong>. Y lo único que necesité fue confiar en mí misme y plantearme proyectos personales que me incentivaran a aprender.</p>
+<p>Hoy puedo decir que soy un usuario avanzado de R, y que prácticamente cualquier cosa que me proponga puedo lograrla con este lenguaje 🥰</p>
+<p>Pero por las razones anteriores, mi camino hacia la programación ha sido <strong>solitario</strong>. Siempre aprendí por mi propia cuenta, y si bien aprendí gracias a la <strong>solidaridad</strong> de usuarias y usuarios que comparten sus conocimientos y habilidades en Internet, muy pocas veces pude compartir en vivo y en directo con otras personas.</p>
+<p>Por eso tenía la idea de organizar un <strong><a href="https://santiagorusers.github.io">grupo de usuarios de R</a></strong>, donde el apoyo digital pudiera ser un poco más tangible y cercano; por una parte por un tema geográfico, donde la cercanía puede conllevar intereses comunes y experiencias similares, pero también por el hecho de que esta cercanía puede generar redes de otros tipos.</p>
+<p>Esta idea se materializó recintemente gracias al apoyo de Carolina Morales, con quien organizamos un <a href="https://santiagorusers.github.io">grupo de usuari@s de R</a> y ya tuvimos nuestra <a href="https://santiagorusers.github.io/posts/2026-03-18/">primera junta abierta</a>, que fue todo un éxito 🩷</p>
 
 
 
@@ -310,6 +319,63 @@
   <category>ciclismo</category>
   <guid>https://bastimapache.cl/posts/brevet/brevet_200_melipilla/</guid>
   <pubDate>Wed, 19 Nov 2025 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Infografía: Violaciones a los Derechos Humanos cometidas por la dictadura cívico-militar chilena</title>
+  <link>https://bastimapache.cl/posts/infografia_ddhh_dictadura/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<div class="boton" style="width: 210px;">
+<p><a href="https://bastianolea.github.io/violaciones_ddhh_chile/"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Ver infografía</a></p>
+</div>
+<p><img src="https://bastimapache.cl/posts/infografia_ddhh_dictadura/featured.jpg" class="img-fluid"></p>
+<p><a href="https://bastianolea.github.io/violaciones_ddhh_chile/">Infografía</a> que recopila visualizaciones de datos acerca de los crímenes de lesa humanidad cometidos por el régimen dictatorial en Chile, entre entre 1973 y 1989.</p>
+<p>El objetivo es poder compartir información de forma pedagógica y clara, para que las nuevas generaciones puedan comprender la magnitud de las violaciones a los derechos humanos cometidas en ese período, y así contribuir a la memoria histórica del país.</p>
+<p>Aquí dejo un video cortito que hice mostrando la página web y explicando un poco las motivaciones:</p>
+<div style="background-color: white; border-radius: 5px; width: 80%; padding-top: 16px; padding-bottom: 16px; margin: auto;">
+<blockquote class="tiktok-embed blockquote" cite="https://www.tiktok.com/@bastimapache/video/7546064357159947525" data-video-id="7546064357159947525" style="border: none; min-width: 340px; margin: auto;">
+<section>
+<a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed"><span class="citation" data-cites="bastimapache">@bastimapache</span></a> Septiembre es el mes de la memoria! Revisa la infografía en el link de mi perfil, y ayúdame a mejorarla 🙏🏼 <a title="chile" target="_blank" href="https://www.tiktok.com/tag/chile?refer=embed">#chile</a> <a title="septiembre" target="_blank" href="https://www.tiktok.com/tag/septiembre?refer=embed">#septiembre</a> <a target="_blank" title="♬ Ventolera - Quilapayún" href="https://www.tiktok.com/music/Ventolera-7033714786298775554?refer=embed">♬ Ventolera - Quilapayún</a>
+</section>
+</blockquote>
+<script async="" src="https://www.tiktok.com/embed.js"></script>
+</div>
+<p><br></p>
+<p><strong>Se buscan contribuciones</strong>, como por ejemplo relatos, estadísticas y datos, contribución de textos y similares. <a href="https://bastianolea.rbind.io/contact/">Contáctame!</a></p>
+<div class="centrar">
+<div class="boton" style="width: 210px;">
+<p><a href="https://bastianolea.github.io/violaciones_ddhh_chile/"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Ver infografía</a></p>
+</div>
+</div>
+<section id="actualizaciones" class="level3">
+<h3 class="anchored" data-anchor-id="actualizaciones">Actualizaciones</h3>
+<ul>
+<li>10/09/2025: fichas de principales violadores de derechos humanos: Krasnoff, Contreras, Corvalán, Romo y Moren.</li>
+<li>10/09/2025: apartados con caso de los 119, caso de Michel Nash, y caso degollados</li>
+<li>09/09/2025: apartado sobre censura</li>
+<li>08/09/2025: apartado sobre segregación, posibilidad de hacer zoom a fotos</li>
+<li>07/09/2025: apartado sobre infancias, línea de tiempo</li>
+<li>03/09/2025: apartados con relatos sobre casos insignes de víctimas: caso Sebastián Acevedo y caso quemados</li>
+<li>01/09/2025: secciones dispersas de testimonios de sobrevivientes</li>
+<li>31/08/2025: nueva sección de mujeres detenidas desaparecidas embarazadas</li>
+</ul>
+</section>
+<section id="notas-técnicas" class="level3">
+<h3 class="anchored" data-anchor-id="notas-técnicas">Notas técnicas</h3>
+<p>La página fue construida completamente usando <a href="https://bastianolea.rbind.io/blog/quarto_reportes/">Quarto desde RStudio</a>, publicando el sitio gratuitamente a <a href="https://bastianolea.rbind.io/blog/tutorial_quarto_github_pages/">GitHub Pages.</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>destacado</category>
+  <category>política</category>
+  <guid>https://bastimapache.cl/posts/infografia_ddhh_dictadura/</guid>
+  <pubDate>Thu, 11 Sep 2025 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 300 Casablanca</title>
@@ -828,30 +894,8 @@ Audre Lorde: La ira es el dolor motivado por las distorsiones que nos afectan a 
 
 
  ]]></description>
-  <category>sociología</category>
   <guid>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</guid>
   <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Resumen: R. W. Connell - Masculinidades (capítulo 2, organización social de la masculinidad)</title>
-  <link>https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Resumen del capítulo 2 del libro Masculinidades, de R. W. Connell, que plantea un marco general para entender el concepto de masculinidad, su relación con el género y el cuerpo, y algunos elementos que componen la masculinidad.</p>
-<p><em>R. W. Connell. (1995). Masculinities. Polity Press</em></p>
-<p>Clic en el mapa conceptual o en <a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf">este link para acceder al resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf"><img src="https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/images/Connell-Organizacion-social-de-la-masculinidad-950x1024.png" class="img-fluid"></a></p>
-
-
-
- ]]></description>
-  <category>masculinidades</category>
-  <guid>https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/</guid>
-  <pubDate>Thu, 12 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
