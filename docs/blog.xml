@@ -13,7 +13,7 @@
 <lastBuildDate>Sun, 15 Mar 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Por qué crear un sitio web personal</title>
-  <link>https://bastimapache.cl/posts/introduccion.html</link>
+  <link>https://bastimapache.cl/posts/introduccion/introduccion.html</link>
   <description><![CDATA[ 
 
 
@@ -46,12 +46,12 @@
  ]]></description>
   <category>programación</category>
   <category>tecnología</category>
-  <guid>https://bastimapache.cl/posts/introduccion.html</guid>
+  <guid>https://bastimapache.cl/posts/introduccion/introduccion.html</guid>
   <pubDate>Sun, 15 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Creando una comunidad de usuarixs de R en Chile</title>
-  <link>https://bastimapache.cl/posts/grupo_usuarios_r.html</link>
+  <link>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</link>
   <description><![CDATA[ 
 
 
@@ -71,7 +71,7 @@
  ]]></description>
   <category>blog</category>
   <category>programación</category>
-  <guid>https://bastimapache.cl/posts/grupo_usuarios_r.html</guid>
+  <guid>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</guid>
   <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
@@ -160,6 +160,112 @@
   <category>ciclismo</category>
   <guid>https://bastimapache.cl/posts/explorando_navidad/explorando_navidad.html</guid>
   <pubDate>Thu, 05 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Álbumes del mes: febrero 2026</title>
+  <link>https://bastimapache.cl/posts/musica/2026-03/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen de los álbumes más escuchados según <a href="https://www.last.fm/user/bastimapache">mi perfil de Last.fm</a>. Me llama la atención que este mes incluye varios discos que no son de mi rotación común.</p>
+<div class="centrar">
+<p><img src="https://bastimapache.cl/posts/musica/2026-03/lastfm-bastimapache-album-grid-2026-03.png" class="img-fluid" style="max-width: 480px;"></p>
+</div>
+<p>Este mes escuché más black metal, metal progresivo, y jazz fusión.</p>
+<section id="álbumes-destacados" class="level3">
+<h3 class="anchored" data-anchor-id="álbumes-destacados">Álbumes destacados</h3>
+<ul>
+<li><em>Manifeste</em> y <em>The Call Within</em> de <a href="https://www.last.fm/music/Tigran+Hamasyan">Tigran Hamasyan</a>, uno de mis artistas favoritos por su mezcla de piano, jazz, poliritmos de metal o <em>djent</em> y música oriental/armenia.</li>
+<li><em>Vida Blue</em> de <a href="https://www.last.fm/music/Mamaleek">Mamaleek</a>, un gran álbum de post black metal experimental.</li>
+<li><em>Further Still</em> y <em>All Fours</em> de <a href="https://www.last.fm/music/Bosse-de-Nage">Bosse-de-Nage</a>, una de mis bandas favoritas por su experimentación con un black metal atmosférico y cargado de emociones.</li>
+<li><em>Erotik</em> de <a href="https://www.last.fm/music/Lifelover">Lifelover</a>, porque me compré la entrada para el concierto que van a tener en septiembre de este año en Santiago.</li>
+<li><em>Labyrinthine</em> de <a href="https://www.last.fm/music/Faetooth">Faetooth</a>, un disco pesado y lento con voces femeninas.</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/2026-03/</guid>
+  <pubDate>Sat, 28 Feb 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Conciertos a los que he ido</title>
+  <link>https://bastimapache.cl/posts/musica/conciertos/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><i class="fa-solid fa-music" aria-label="music"></i> En este post voy a ir anotando los conciertos que he ido, sin contar las tocatas.</p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">2026</h3>
+<ul>
+<li><strong>Psychonaut 4</strong> (11/02/2026)</li>
+<li><strong>Cynic, Imperial Triumphant</strong> (15/01/2026)</li>
+</ul>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2025</h3>
+<ul>
+<li><strong>Wolf Eyes</strong> (06/11/2025)</li>
+<li><strong>Boris</strong> (27/11/2025)</li>
+<li><strong>Ulcerate</strong> (24/11/2025)</li>
+<li><strong>Sunset Images</strong> (12/11/2025)</li>
+<li><strong>Psywarfare</strong> (24/10/2025)</li>
+<li><strong>Cephalotripsy</strong> (14/08/2025)</li>
+<li><strong>Defeating Insanity</strong> (01/05/2025)</li>
+<li><strong>Tigran Hamasyan</strong> (13/10/2025)</li>
+<li><strong>Suffocation</strong> (05/04/2025)</li>
+<li><strong>Escafism</strong> (14/12/2025)</li>
+</ul>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">2024</h3>
+<ul>
+<li><strong>Meshuggah</strong> (22/10/2024)</li>
+</ul>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">2023</h3>
+<ul>
+<li><strong>Tigran Hamasyan</strong> (24(05/2023)</li>
+<li><strong>Magma</strong> (29/04/2023)</li>
+<li><strong>Magma</strong> (28/04/2023)</li>
+<li><strong>Cynic, Beyond Creation</strong> (20/04/2023)</li>
+</ul>
+</section>
+<section id="antes" class="level3">
+<h3 class="anchored" data-anchor-id="antes">Antes</h3>
+<ul>
+<li><strong>Between The Buried and Me</strong> (13/03/2020)</li>
+<li><strong>Stephen O’Malley</strong> (16/05/2019)</li>
+<li><strong>Rosetta</strong> (08/03/2019)</li>
+<li><strong>Premiata Forneria Marconi</strong> (04/04/2016)</li>
+<li><strong>Deafheaven</strong> (09/12/2015)</li>
+<li><strong>Tosin Abasi</strong> (15/09/2014)</li>
+<li><strong>Magma</strong> (08/12/2013)</li>
+<li><strong>Opeth</strong> (28/03/2012)</li>
+<li><strong>Mastodon, Deftones</strong> (10/11/2012)</li>
+<li><strong>Avenged Sevenfold</strong> (02/03/2012)</li>
+<li><strong>Job For A Cowboy</strong> (21/07/2010)</li>
+<li><strong>Opeth</strong> (4/4/2009)</li>
+<li><strong>The Black Dahlia Murder</strong> (05/04/2008)</li>
+<li><strong>Arch Enemy</strong> (27/01/2007)</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/conciertos/</guid>
+  <pubDate>Wed, 11 Feb 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 300 Vuelta del Cobre</title>
@@ -827,75 +933,6 @@
   <category>masculinidades</category>
   <guid>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/</guid>
   <pubDate>Fri, 27 Jan 2023 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Ira</title>
-  <link>https://bastimapache.cl/posts/2023/2023-01-20-ira/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Siento una rabia que es conmigo<br>
-Con lo que soy, lo que me tocó ser,<br>
-lo que fui<br>
-Y con la incertidumbre de si un día seré</p>
-<p>A riesgo de sonar autoflagelante,<br>
-Mi ira la he vuelto interna<br>
-Porque sé lo que encarno<br>
-Porque hay cosas que me acercan más a ellos<br>
-Seres de furia, egos, poder, violencia<br>
-Porque creo haber aprendido lo que ellos pretenden y desean<br>
-Hay todo un trabajo por hacer</p>
-<p>¿Hay emociones de hombre o de mujer?<br>
-Absurdo. Pero algo de sentido tiene<br>
-Hay expresiones patriarcales de la emoción; o bien, que pueden interpretarse como tales<br>
-Con una amiga bromeábamos expresando todas nuestras emociones como ira, en parodia a los hombres, o quizás a nuestro lado masculino</p>
-<p>No es que crea que la ira sea mala, o del todo masculina;<br>
-me enseñaron que la ira tiene sus lugares<br>
-Pero quizás no entiendo<br>
-Supe que la ira que siento debo dirigirla hacia un sistema<br>
-y sus constructos<br>
-¿Pero cómo hacerlo si en el espejo sigo viendo a ese sistema en mi? Veo a mi enemigo<br>
-Así que en cada palabra y en cada paso<br>
-me vuelvo una duda<br>
-Espero que esta ira me libre.<br>
-Audre Lorde: La ira es el dolor motivado por las distorsiones que nos afectan a todas, y su objetivo es el cambio.</p>
-<hr>
-<p><em>Poema escrito para la clase de la profesora Kemy Oyarzún, bajo la temática de la ira, en el marco del diplomado en Estética, Feminismo y Crítica de la Universidad Católica.</em> Mayo, 2021.</p>
-
-
-
- ]]></description>
-  <category>género</category>
-  <category>masculinidades</category>
-  <guid>https://bastimapache.cl/posts/2023/2023-01-20-ira/</guid>
-  <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Relato autobiográfico de mi cuerpo</title>
-  <link>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Mis primeros recuerdos sobre mi cuerpo son accidentes, heridas, cicatrices. Mi mamá, ya separada, buscando cómo llevarme a la posta. También discusiones, peleas, cambios de casa propios de un divorcio cuando tenía apenas un par de años. Eso igual marca el cuerpo. Después, vergüenzas que me siguen hasta ahora, como el disfraz de pececito verde que no quise ponerme, pero que ahora encuentro bellísimo: formas de expresarme que fueron reprimidas, y luego quizás resurjeron.</p>
-<p>Más tarde, secretos que guardo hasta hoy, que siento que en parte fueron premonitorios: situaciones que ahora reconozco que eran sobre roles de género, sexualidad y sobre mi propia identidad, pero que en ese entonces parecían confusiones que –por alguna razón– sabía que estaban mal. Mis primeras experiencias sexuales fueron todas homoeróticas, rápidamente sancionadas o reprimidas. Fueron varios los momentos donde la identidad estuvo en duda. Recuerdo vívidamente estar en el patio jugando, montado en un autito de plástico, y preguntarle a mi abuelita si es que yo podía ser una niña. Claramente me respondió que imposible, y lo más probable es que haya rezado semanas por mi masculinidad. También recuerdo a mi mamá hacer excusas sobre mis gustos, particularmente a ella diciendo “es que es… sensible” a una cajera del supermercado.</p>
-<p>Fue una infancia linda, rodeada de mujeres. Mi abuela me crió, fue como mi madre; mi mamá trabajaba demasiado para sostenernos, siempre ha sido como un sol de atardecer. Luego mi querida tía-abuela, de forma remunerada. Mi abuelo, por su parte, era un proveedor. Entre harina de pescado, planos y sindicatos de papeleras, proveyó de recursos a mi abuela y sus 5 hijos/as, pero nunca supo ni hacer tallarines. Aún sufre de un acto reflejo que consiste en reprimir las lágrimas propias y las de los demás. Mi abuelo, ese que me hacía mirar las modelos de un comercial en una revista, y me hacía elegir mi favorita, yo sin entender mucho.</p>
-<p>¿Cómo se forja el cuerpo? Probablemente mediante la experiencia, la presión, la comparación, la vergüenza. Todo eso lo viví en el colegio, la adolescencia. Siempre tuve mejores amigas, siempre me molestaron por ser diferente. Rápidamente se me hizo saber que era hombre, o más bien, que debería serlo. Estar en el vórtice de la masculinidad, centro del mundo, conlleva un bagaje implícito enorme. Este cuerpo tiene algo que le hizo ser conferido poder. Un poder que, aunque se elija no ejercer, de todos modos es reconocido como tal por los demás. El sistema sexo-género produjo género a partir de esta carne.</p>
-<p>No fue una adolescencia traumática ni mucho menos. El trauma vino después. Cual postulado psicoanalítico, las consecuencias de negarse al falo fueron una especie de castración… “Maricón”, porque el hombre que no es macho es un otro, otra posición por dominar. “Hombre con vagina”, porque la masculinidad es entendida como biológica, fluye en la sangre propia, el semen, y la sangre derramada; tiene órganos y formas que le inyectan virilidad, y negarse a ella claramente indica una falencia fisiológica. “Eunuco”, por lo mismo, porque un hombre que no es macho vale lo mismo que un hombre sin genitales, es un hombre que se castró a sí mismo y que, en consecuencia, es re-castrado sin cesar por sus ex-pares. “Sólo quiere ponerla”, como si la única razón para problematizar la propia posición en la estructura de género sea obtener algo a cambio. “Escombro”, porque significa ser lo más bajo, una sobra, basura, una ruina de la masculinidad: algo que ya fue destruido, y que debe ser desechado. “Traidor de género”, –mi favorito– porque reconocen que existe un pacto patriarcal implícito entre hombres que les beneficia, una “conciencia de género” donde los hombres reproducen su dominación y son cómplices de sus actos con la finalidad de defender sus intereses. Saben que un traidor pone en riesgo ese pacto. Todas esas fueron heridas que terminaron cicatrizando distinto.</p>
-<p>Paralelamente, un proceso diferente. Caótico. La experiencia de sentir alienación respecto de mi propio cuerpo: disforia. No pertenecer a ninguna parte. Un cuerpo que no es mío y que me ataca desde el espejo. Fue como cuando éramos chicos y una ola te botaba en la playa, y sentías el agua pasar sobre ti mientras girabas por segundos eternos. Heridas abiertas y cicatrizando. Millones de marcas sexuales secundarias en mi piel, que resurgen, como los pelos de un insecto. Estructura ósea, genitales, texturas, culpas, deseos e ideas incorrectas y por corregir. Odio a lo que soy, que lleva a desear cambiarlo todo, por sentir que este cuerpo no soy yo. Sentirme como la misma burla que me dijeron que era. Un fraude. Pero también, pequeños momentos de júbilo: el reconstruirme, el descubrirme, genera una felicidad que a veces raya en lo absurdo. Si llego a dudar de lo que soy, o si realmente me siento un fraude, recuerdo que esos momentos de euforia no pueden sino ser reales. Por eso es que, entre dudas y reafirmaciones, esta es una biografía inconclusa, porque aún sigue en transición.</p>
-<hr>
-<p><em>Relato escrito para la clase de la profesora Kemy Oyarzún, bajo la temática de la autografía del propio cuerpo, en el marco del diplomado en Estética, Feminismo y Crítica de la Universidad Católica.</em>&nbsp;Junio, 2021.</p>
-
-
-
- ]]></description>
-  <guid>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/</guid>
-  <pubDate>Fri, 20 Jan 2023 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

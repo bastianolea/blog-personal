@@ -1,0 +1,49 @@
+---
+title: "Conciertos a los que he ido"
+format: html
+date: "2026-02-11"
+categories: [música]
+---
+
+{{< fa music >}} En este post voy a ir anotando los conciertos que he ido, sin contar las tocatas.
+
+### 2026
+- **Psychonaut 4** (11/02/2026)
+- **Cynic, Imperial Triumphant** (15/01/2026)
+
+### 2025
+- **Wolf Eyes** (06/11/2025)
+- **Boris** (27/11/2025)
+- **Ulcerate** (24/11/2025)
+- **Sunset Images** (12/11/2025)
+- **Psywarfare** (24/10/2025)
+- **Cephalotripsy** (14/08/2025)
+- **Defeating Insanity** (01/05/2025)
+- **Tigran Hamasyan** (13/10/2025)
+- **Suffocation** (05/04/2025)
+- **Escafism** (14/12/2025)
+
+### 2024
+- **Meshuggah** (22/10/2024)
+
+### 2023
+- **Tigran Hamasyan** (24(05/2023)
+- **Magma** (29/04/2023)
+- **Magma** (28/04/2023)
+- **Cynic, Beyond Creation** (20/04/2023)
+
+### Antes
+- **Between The Buried and Me** (13/03/2020)
+- **Stephen O’Malley** (16/05/2019)
+- **Rosetta** (08/03/2019)
+- **Premiata Forneria Marconi** (04/04/2016)
+- **Deafheaven** (09/12/2015)
+- **Tosin Abasi** (15/09/2014)
+- **Magma** (08/12/2013)
+- **Opeth** (28/03/2012)
+- **Mastodon, Deftones** (10/11/2012)
+- **Avenged Sevenfold** (02/03/2012)
+- **Job For A Cowboy** (21/07/2010)
+- **Opeth** (4/4/2009)
+- **The Black Dahlia Murder** (05/04/2008)
+- **Arch Enemy** (27/01/2007)

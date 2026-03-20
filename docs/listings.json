@@ -2,9 +2,11 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/introduccion.html",
-      "/posts/grupo_usuarios_r.html",
+      "/posts/introduccion/introduccion.html",
+      "/posts/grupo_usuarios_r/grupo_usuarios_r.html",
       "/posts/explorando_navidad/explorando_navidad.html",
+      "/posts/musica/2026-03/index.html",
+      "/posts/musica/conciertos/index.html",
       "/posts/brevet/brevet_300_vueltadelcobre/index.html",
       "/posts/brevet/brevet_200_sanpedro/index.html",
       "/posts/brevet/brevet_200_melipilla/index.html",
