@@ -41,7 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-90d5a77bb438e003a71bfdc63fe8242e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-68456f378240ef0b185ec190c5d6ba9d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,9 +75,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 <meta property="og:title" content="Brevet 300 Vuelta del Cobre – Bastián Olea Herrera">
+<meta property="og:description" content="Sitio personal de Bastián Olea Herrera">
+<meta property="og:image" content="https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/brevet_cobre_2.jpg">
 <meta property="og:site_name" content="Bastián Olea Herrera">
 <meta name="twitter:title" content="Brevet 300 Vuelta del Cobre – Bastián Olea Herrera">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Sitio personal de Bastián Olea Herrera">
+<meta name="twitter:image" content="https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/brevet_cobre_2.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -101,16 +108,16 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../../../ahora.html"> 
+<span class="menu-text">Ahora</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../../blog.html"> 
 <span class="menu-text">Blog personal</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="https://bastianolea.rbind.io"> 
 <span class="menu-text">Blog de análisis de datos y R</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../ahora.html"> 
-<span class="menu-text">Ahora</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -178,6 +185,12 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p>Una Brevet compleja, pero que enfrenté con un muy buen rendimiento, y que terminé en poco tiempo (para mi estándar, que es ocupar el 100% del tiempo límite reglamentario),</p>
+<p>Me tomaron una foto sufriendo en el ascenso de la cuesta Chada:</p>
+<div class="centrar">
+<p><a href="brevet_cobre_2.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="brevet_cobre_2.jpg" class="foto img-fluid"></a></p>
+</div>
+<p>Al partir la Brevet me sumé a una grupeta con la que avanzamos a muy buena velocidad hasta Lonquén, donde ya no pude aguantarme las ganas de pipí y me tuve que separar. Realmente ayuda mucho ir en grupo!</p>
 <div class="tabla_ciclismo">
 <table class="caption-top table">
 <thead>
@@ -210,10 +223,14 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </div>
+<p>Durante el transcurso tuve un problema mecánico con un perno suelto de la fijación de mis zapatillas, que casi me hizo sacarme la chucha llegando a Rancagua, pero que pude solucionar gracias a un taller de bicicletas en Machalí.</p>
+<p>Quedé muy feliz con mi velocidad promedio 🥰</p>
+<div class="strava centrar">
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="17244569611" data-style="standard">
 
 </div>
 <script src="https://strava-embeds.com/embed.js"></script>
+</div>
 
 
 
@@ -292,7 +309,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/bastianolea\.github\.io");
+        var filterRegex = new RegExp("https:\/\/bastimapache\.cl");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -619,9 +636,39 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<script src="https://utteranc.es/client.js" repo="bastianolea/bastianolea.github.io" issue-term="pathname" theme="github-dark" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

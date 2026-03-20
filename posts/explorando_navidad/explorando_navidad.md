@@ -20,7 +20,6 @@ El territorio de Navidad se caracteriza por la **desembocadura del Río Rapel**,
 ![](navidad_1.JPG){.fotito .lightbox group="navidad"}
 ![](navidad_3.JPG){.fotito .lightbox group="navidad"}
 ![](navidad_6.JPG){.fotito .lightbox group="navidad"}
-
 :::
 
 

@@ -8,7 +8,7 @@ categories: [música]
 Resumen de los álbumes más escuchados según [mi perfil de Last.fm](https://www.last.fm/user/bastimapache). Me llama la atención que este mes incluye varios discos que no son de mi rotación común.
 
 ::: {.centrar}
-![](lastfm-bastimapache-album-grid-2026-03.png){style="max-width: 480px;"}
+![](lastfm-bastimapache-album-grid-2026-02.jpg){style="max-width: 480px;"}
 :::
 
 Este mes escuché más black metal, metal progresivo, y jazz fusión.

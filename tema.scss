@@ -118,7 +118,7 @@ li {
   color: $secondary !important;
   font-style: italic;
   font-weight: 400 !important;
-  opacity: 90%;
+  /*opacity: 90%;*/
   line-height: 1 !important;
 }
 
@@ -219,6 +219,16 @@ border-top: 1px solid $background !important;
 .title {
   font-weight: 700 !important;
 }
+
+.quarto-title-banner {
+  .quarto-category {
+    border-color: #A389A350;
+    color: $foreground !important;
+    background-color: #362F3D !important;
+  }
+}
+
+
 // iconos
 .fa-solid {
   color: $secondary;
@@ -239,15 +249,31 @@ border-top: 1px solid $background !important;
 
 .tabla_ciclismo {
   max-width: 380px;
+  font-size: 90%;
+  margin-bottom: 20px !important;
+  margin: auto;
+}
+
+.strava {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .centrar {
   display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
 }
+
 .galeria {
+}
+
+.foto {
+  max-height: 400px;
+  margin: 4px;
+  margin-bottom: 8px;
+  border: solid 1px $background2;
 }
 
 .fotito {
@@ -257,7 +283,7 @@ border-top: 1px solid $background !important;
   border: solid 1px $background2;
 }
 
-.fotito:hover {
+.fotito:hover, .foto:hover {
   filter: brightness(110%);
 }
 
