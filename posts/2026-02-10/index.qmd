@@ -1,6 +1,7 @@
 ---
 title: "Cambio de carnet de identidad"
 date: "2026-02-10"
+image: "IMG_8470.jpeg"
 format: html
 categories: [género]
 ---

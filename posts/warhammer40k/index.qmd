@@ -2,6 +2,7 @@
 title: "Warhammer 40.000: libros leídos"
 subtitle: "Lista de lectura personal"
 date: "2026-03-12"
+image: "Imperial_Palace_Terra2.webp"
 draft: false
 format: html
 categories: [libros]
@@ -15,7 +16,9 @@ execute:
 
 Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un **universo de ciencia ficción** basado en un juego de mesa nacido en la Inglaterra de los años '80.
 
-En grandes términos, Warhammer es sobre la situación de la humanidad en el milenio 41...
+![](Imperial_Palace_Terra2.webp){.foto}
+
+A grandes rasgos, Warhammer es sobre la situación de la humanidad en el milenio 41. Se sitúa 10.000 años después del quiebre definitivo del proyecto del Imperio de la Humanidad, periodo durante el cual la civilización cayó en una era de oscuridad, degradación y fanatismo religioso.
 
 Aquí la tabla con los libros que he leído, ordenados desde el leído más recientemente:
 

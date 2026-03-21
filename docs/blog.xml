@@ -43,7 +43,7 @@
 
 
 
-<p>Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
+ ]]></description>
   <category>programación</category>
   <category>tecnología</category>
   <guid>https://bastimapache.cl/posts/introduccion/introduccion.html</guid>
@@ -84,7 +84,8 @@
 
 
 <p>Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un <strong>universo de ciencia ficción</strong> basado en un juego de mesa nacido en la Inglaterra de los años ’80.</p>
-<p>En grandes términos, Warhammer es sobre la situación de la humanidad en el milenio 41…</p>
+<p><img src="https://bastimapache.cl/posts/warhammer40k/Imperial_Palace_Terra2.webp" class="foto img-fluid"></p>
+<p>A grandes rasgos, Warhammer es sobre la situación de la humanidad en el milenio 41. Se sitúa 10.000 años después del quiebre definitivo del proyecto del Imperio de la Humanidad, periodo durante el cual la civilización cayó en una era de oscuridad, degradación y fanatismo religioso.</p>
 <p>Aquí la tabla con los libros que he leído, ordenados desde el leído más recientemente:</p>
 <div class="cell">
 <style type="text/css">
@@ -98,23 +99,23 @@
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div id="omlhmxsqpa" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#omlhmxsqpa table {
+<div id="jcfunpfpex" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#jcfunpfpex table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#omlhmxsqpa thead, #omlhmxsqpa tbody, #omlhmxsqpa tfoot, #omlhmxsqpa tr, #omlhmxsqpa td, #omlhmxsqpa th {
+#jcfunpfpex thead, #jcfunpfpex tbody, #jcfunpfpex tfoot, #jcfunpfpex tr, #jcfunpfpex td, #jcfunpfpex th {
   border-style: none;
 }
 
-#omlhmxsqpa p {
+#jcfunpfpex p {
   margin: 0;
   padding: 0;
 }
 
-#omlhmxsqpa .gt_table {
+#jcfunpfpex .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -140,12 +141,12 @@
   border-left-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_caption {
+#jcfunpfpex .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#omlhmxsqpa .gt_title {
+#jcfunpfpex .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -157,7 +158,7 @@
   border-bottom-width: 0;
 }
 
-#omlhmxsqpa .gt_subtitle {
+#jcfunpfpex .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -169,7 +170,7 @@
   border-top-width: 0;
 }
 
-#omlhmxsqpa .gt_heading {
+#jcfunpfpex .gt_heading {
   background-color: #2F2935;
   text-align: center;
   border-bottom-color: #2F2935;
@@ -181,13 +182,13 @@
   border-right-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_bottom_border {
+#jcfunpfpex .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #2F2935;
 }
 
-#omlhmxsqpa .gt_col_headings {
+#jcfunpfpex .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #2F2935;
@@ -202,7 +203,7 @@
   border-right-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_col_heading {
+#jcfunpfpex .gt_col_heading {
   color: #FFFFFF;
   background-color: #3D3545;
   font-size: 100%;
@@ -222,7 +223,7 @@
   overflow-x: hidden;
 }
 
-#omlhmxsqpa .gt_column_spanner_outer {
+#jcfunpfpex .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #3D3545;
   font-size: 100%;
@@ -234,15 +235,15 @@
   padding-right: 4px;
 }
 
-#omlhmxsqpa .gt_column_spanner_outer:first-child {
+#jcfunpfpex .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#omlhmxsqpa .gt_column_spanner_outer:last-child {
+#jcfunpfpex .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#omlhmxsqpa .gt_column_spanner {
+#jcfunpfpex .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #2F2935;
@@ -254,11 +255,11 @@
   width: 100%;
 }
 
-#omlhmxsqpa .gt_spanner_row {
+#jcfunpfpex .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#omlhmxsqpa .gt_group_heading {
+#jcfunpfpex .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -284,7 +285,7 @@
   text-align: left;
 }
 
-#omlhmxsqpa .gt_empty_group_heading {
+#jcfunpfpex .gt_empty_group_heading {
   padding: 0.5px;
   color: #FFFFFF;
   background-color: #2F2935;
@@ -299,15 +300,15 @@
   vertical-align: middle;
 }
 
-#omlhmxsqpa .gt_from_md > :first-child {
+#jcfunpfpex .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#omlhmxsqpa .gt_from_md > :last-child {
+#jcfunpfpex .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#omlhmxsqpa .gt_row {
+#jcfunpfpex .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -326,7 +327,7 @@
   overflow-x: hidden;
 }
 
-#omlhmxsqpa .gt_stub {
+#jcfunpfpex .gt_stub {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -339,7 +340,7 @@
   padding-right: 5px;
 }
 
-#omlhmxsqpa .gt_stub_row_group {
+#jcfunpfpex .gt_stub_row_group {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -353,15 +354,15 @@
   vertical-align: top;
 }
 
-#omlhmxsqpa .gt_row_group_first td {
+#jcfunpfpex .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#omlhmxsqpa .gt_row_group_first th {
+#jcfunpfpex .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#omlhmxsqpa .gt_summary_row {
+#jcfunpfpex .gt_summary_row {
   color: #FFFFFF;
   background-color: #2F2935;
   text-transform: inherit;
@@ -371,16 +372,16 @@
   padding-right: 5px;
 }
 
-#omlhmxsqpa .gt_first_summary_row {
+#jcfunpfpex .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_first_summary_row.thick {
+#jcfunpfpex .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#omlhmxsqpa .gt_last_summary_row {
+#jcfunpfpex .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -390,7 +391,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_grand_summary_row {
+#jcfunpfpex .gt_grand_summary_row {
   color: #FFFFFF;
   background-color: #2F2935;
   text-transform: inherit;
@@ -400,7 +401,7 @@
   padding-right: 5px;
 }
 
-#omlhmxsqpa .gt_first_grand_summary_row {
+#jcfunpfpex .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -410,7 +411,7 @@
   border-top-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_last_grand_summary_row_top {
+#jcfunpfpex .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -420,11 +421,11 @@
   border-bottom-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_striped {
+#jcfunpfpex .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#omlhmxsqpa .gt_table_body {
+#jcfunpfpex .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #2F2935;
@@ -433,7 +434,7 @@
   border-bottom-color: #2F2935;
 }
 
-#omlhmxsqpa .gt_footnotes {
+#jcfunpfpex .gt_footnotes {
   color: #FFFFFF;
   background-color: #2F2935;
   border-bottom-style: none;
@@ -447,7 +448,7 @@
   border-right-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_footnote {
+#jcfunpfpex .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -456,7 +457,7 @@
   padding-right: 5px;
 }
 
-#omlhmxsqpa .gt_sourcenotes {
+#jcfunpfpex .gt_sourcenotes {
   color: #FFFFFF;
   background-color: #2F2935;
   border-bottom-style: none;
@@ -470,7 +471,7 @@
   border-right-color: #D3D3D3;
 }
 
-#omlhmxsqpa .gt_sourcenote {
+#jcfunpfpex .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -478,72 +479,72 @@
   padding-right: 5px;
 }
 
-#omlhmxsqpa .gt_left {
+#jcfunpfpex .gt_left {
   text-align: left;
 }
 
-#omlhmxsqpa .gt_center {
+#jcfunpfpex .gt_center {
   text-align: center;
 }
 
-#omlhmxsqpa .gt_right {
+#jcfunpfpex .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#omlhmxsqpa .gt_font_normal {
+#jcfunpfpex .gt_font_normal {
   font-weight: normal;
 }
 
-#omlhmxsqpa .gt_font_bold {
+#jcfunpfpex .gt_font_bold {
   font-weight: bold;
 }
 
-#omlhmxsqpa .gt_font_italic {
+#jcfunpfpex .gt_font_italic {
   font-style: italic;
 }
 
-#omlhmxsqpa .gt_super {
+#jcfunpfpex .gt_super {
   font-size: 65%;
 }
 
-#omlhmxsqpa .gt_footnote_marks {
+#jcfunpfpex .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#omlhmxsqpa .gt_asterisk {
+#jcfunpfpex .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#omlhmxsqpa .gt_indent_1 {
+#jcfunpfpex .gt_indent_1 {
   text-indent: 5px;
 }
 
-#omlhmxsqpa .gt_indent_2 {
+#jcfunpfpex .gt_indent_2 {
   text-indent: 10px;
 }
 
-#omlhmxsqpa .gt_indent_3 {
+#jcfunpfpex .gt_indent_3 {
   text-indent: 15px;
 }
 
-#omlhmxsqpa .gt_indent_4 {
+#jcfunpfpex .gt_indent_4 {
   text-indent: 20px;
 }
 
-#omlhmxsqpa .gt_indent_5 {
+#jcfunpfpex .gt_indent_5 {
   text-indent: 25px;
 }
 
-#omlhmxsqpa .katex-display {
+#jcfunpfpex .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#omlhmxsqpa div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#jcfunpfpex div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -956,6 +957,7 @@
   <category>libros</category>
   <guid>https://bastimapache.cl/posts/warhammer40k/</guid>
   <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/warhammer40k/Imperial_Palace_Terra2.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Explorando la comuna de Navidad, región de O’Higgins</title>
@@ -1192,6 +1194,7 @@ Por fin tengo mi carnet de identidad con sexo “X” 🥹 Puede que sea algo pe
   <category>género</category>
   <guid>https://bastimapache.cl/posts/2026-02-10/</guid>
   <pubDate>Tue, 10 Feb 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/2026-02-10/IMG_8470.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Brevet 300 Vuelta del Cobre</title>
@@ -1606,6 +1609,34 @@ Tonterías de una ruta de 200 kms <a title="brevet" target="_blank" href="https:
   <category>videos</category>
   <guid>https://bastimapache.cl/posts/brevet/brevet_200_sanpedro/</guid>
   <pubDate>Sat, 17 Jan 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Ciclovía Alameda</title>
+  <link>https://bastimapache.cl/posts/2026-01-06/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://bastimapache.cl/posts/2026-01-06/IMG_7609.jpeg" class="foto img-fluid"></p>
+<p><img src="https://bastimapache.cl/posts/2026-01-06/IMG_7348.jpeg" class="foto img-fluid"></p>
+<div class="twitter centrar">
+<blockquote class="twitter-tweet blockquote">
+<p lang="es" dir="ltr">
+Martes a las 10 de la noche y ya han pasado casi 2.000 ciclistas por la ciclovía de la Alameda. Para los que dicen que esta infraestructura está de más 🚲 <a href="https://t.co/C1UTZS19In">pic.twitter.com/C1UTZS19In</a>
+</p>
+— Bastián Olea 🌸 (<span class="citation" data-cites="bastimapache">@bastimapache</span>) <a href="https://twitter.com/bastimapache/status/2008711597116846121?ref_src=twsrc%5Etfw">January 7, 2026</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+
+ ]]></description>
+  <category>ciclismo</category>
+  <guid>https://bastimapache.cl/posts/2026-01-06/</guid>
+  <pubDate>Tue, 06 Jan 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Brevet 200 Melipilla</title>
@@ -2292,69 +2323,6 @@ Ver esta publicación en Instagram
   <category>sociología</category>
   <guid>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</guid>
   <pubDate>Thu, 15 Feb 2024 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>El Ancho de Chile</title>
-  <link>https://bastimapache.cl/posts/brevet/el_ancho_de_chile/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Un evento de ciclismo que fue mucho más que una ruta. Fue la experiencia de unir el oceano pacífico con la cordillera de los Andes, cruzando la extensión del país a todo su ancho. Pedalear de noche, dormir en un gimnasio, salir con el amanecer a enfrentar la alta montaña y los Caracoles, rumbo a la frontera.</p>
-<div class="galeria">
-<p><a href="interoceanica_ancho_23.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_23.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_24.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_24.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_22.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_22.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_21.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_21.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_20.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_20.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_19.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_19.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_18.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_18.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_17.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_17.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_16.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_16.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_15.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_15.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_14.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_14.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_13.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_13.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_12.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_12.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_11.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_11.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_10.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_10.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_9.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_9.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_8.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_8.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_7.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_7.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_6.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_6.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_5.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_5.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_4.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_4.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_3.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_3.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_2.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_2.jpeg" class="fotito img-fluid"></a> <a href="interoceanica_ancho_1.jpeg" class="lightbox" data-gallery="ancho"><img src="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_1.jpeg" class="fotito img-fluid"></a></p>
-</div>
-<p>Preciosa ruta, pasando por muchas localidades bonitas para luego adentrarse en la cordillera, conectando el mar con la cordillera a través del río Aconcagua. Llegué solo a Portillo, porque por las condiciones de la tierra no nos permitieron llegar al Cristo.</p>
-<div class="tabla_ciclismo">
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: right;">Variable</th>
-<th>Valor</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;"><strong>Distancia total</strong></td>
-<td>187.18 km</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><strong>Ascenso acumulado</strong></td>
-<td>3,483 m</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"><strong>Velocidad promedio</strong></td>
-<td>14.2 km/h</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><strong>Tiempo en movimiento</strong></td>
-<td>13:09:36</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"><strong>Tiempo total</strong></td>
-<td>20:09:58</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>Muchas gracias a <a href="https://interoceanica.cc/">Interoceanica.cc</a> por organizar este evento!</p>
-<div class="strava centrar">
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10354709772" data-style="standard">
-
-</div>
-<script src="https://strava-embeds.com/embed.js"></script>
-</div>
-
-
-
- ]]></description>
-  <category>ciclismo</category>
-  <category>fotos</category>
-  <guid>https://bastimapache.cl/posts/brevet/el_ancho_de_chile/</guid>
-  <pubDate>Fri, 08 Dec 2023 03:00:00 GMT</pubDate>
-  <media:content url="https://bastimapache.cl/posts/brevet/el_ancho_de_chile/interoceanica_ancho_4.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
