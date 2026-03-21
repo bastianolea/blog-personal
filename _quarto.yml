@@ -8,7 +8,9 @@ website:
   title: "Bastián Olea Herrera"
   favicon: profile.jpg
   open-graph: true
-  twitter-card: true
+  twitter-card: 
+    site: "@bastimapache"
+  # image:
   navbar:
     left:
       - text: Inicio
