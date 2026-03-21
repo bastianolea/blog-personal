@@ -285,10 +285,13 @@ border-top: 1px solid $background !important;
 }
 
 .foto {
-  max-height: 400px;
   margin: 4px;
   margin-bottom: 8px;
-  border: solid 1px $background2;
+  
+  img {
+    border: solid 1px $background2;
+    max-height: 400px;
+  }
 }
 
 .fotito {
@@ -349,3 +352,4 @@ border-top: 1px solid $background !important;
   padding: 4px 8px;
   font-weight: 500;
 }
+

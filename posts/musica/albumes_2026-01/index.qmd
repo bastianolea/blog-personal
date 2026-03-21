@@ -7,7 +7,7 @@ categories: [música]
 
 Álbumes más escuchados según [mi perfil de Last.fm](https://www.last.fm/user/bastimapache). Incluye discazos como el nuevo de Deafheaven, discos de Ragana, y The Body.
 
-::: {.centrar}
+::: {.foto .centrar}
 ![](lastfm-bastimapache-album-grid-2026-01.jpg){style="max-width: 480px;"}
 :::
 

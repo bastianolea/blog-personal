@@ -5,7 +5,7 @@ date: "2026-02-11"
 categories: [música]
 ---
 
-{{< fa music >}} En este post voy a ir anotando los conciertos que he ido, sin contar las tocatas.
+{{< fa music >}} En este post voy a ir anotando los conciertos que he ido, sin contar las tocatas ni conciertos de música clásica.
 
 ### 2026
 - **Psychonaut 4** (11/02/2026)
