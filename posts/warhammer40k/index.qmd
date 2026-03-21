@@ -42,9 +42,9 @@ libros <- data |>
   select(date_read,
          title, author, my_rating, number_of_pages) |> 
   mutate(title = str_remove(title, "\\(.*\\)"),
-         title = str_squish(title)) #|> 
-  # mutate(number_of_pages = case_when(title == "Ravenor" ~ 416,
-                                     # .default = number_of_pages))
+         title = str_squish(title)) |> 
+  mutate(number_of_pages = case_when(title == "Ravenor" ~ 416,
+                                     .default = number_of_pages))
 ```
 
 ```{r}

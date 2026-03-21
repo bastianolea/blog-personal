@@ -321,3 +321,31 @@ border-top: 1px solid $background !important;
 .boton:hover {
   filter: brightness(110%);
 }
+
+
+.brevet_200 {
+  background-color: #F2DE2C;
+  color: $background2;
+  opacity: 90%;
+  border-radius: 5px;
+  padding: 4px 8px;
+  font-weight: 500;
+}
+
+.brevet_300 {
+  background-color: #7FBF0C;
+  color: $background2;
+  opacity: 90%;
+  border-radius: 5px;
+  padding: 4px 8px;
+  font-weight: 500;
+}
+
+.brevet_400 {
+  background-color: #A824C8;
+  color: $background2;
+  opacity: 90%;
+  border-radius: 5px;
+  padding: 4px 8px;
+  font-weight: 500;
+}

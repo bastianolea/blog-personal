@@ -1,0 +1,37 @@
+---
+title: "Brevets que he hecho"
+subtitle: "Lista de mis desafíos de ciclismo de ultradistancia"
+date: "2026-01-31"
+format: html
+categories: [ciclismo, destacado]
+---
+
+Las [brevets](https://www.brevet.cl) son desafíos de **ciclismo de ultradistancia** centrados en la autosuficiencia. Esta es la lista de todas las brevets que he hecho, con enlaces a publiaciones con sus rutas, fotos y mis estadísticas de rendimiento.
+
+Cada desafío recorre una distancia de 200, 300, 400, 600 o 1000 kilómetros, dentro de un límite de **tiempo máximo**, y con puntos de control intermedios con horario de apertura y cierre. 
+
+Las marcadas con _DNF_ significa que no las terminé dentro del tiempo límite, y por consiguiente no se consideran _logradas._
+
+|Temporada | Distancia          | Estado  | Evento               |
+|---------:|:------------------:|---------|----------------------|
+| 2026     | [300]{.brevet_300} | OK      | [Vuelta del Cobre](/posts/brevet/brevet_300_vueltadelcobre/) |
+| 2026     | [200]{.brevet_200} | **DNF** | [Vuelta San Pedro](/posts/brevet/brevet_200_sanpedro/) |
+| 2025     | [200]{.brevet_200} | OK      | [Vuelta Melipilla](/posts/brevet/brevet_200_melipilla/) |
+| 2025     | [300]{.brevet_300} | **DNF** | [Casablanca](/posts/brevet/brevet_300_casablanca/)|
+| 2025     | [200]{.brevet_200} | OK      | [Vuelta del Campo](/posts/brevet/brevet_200_vueltadelcampo/) |
+| 2024     | [300]{.brevet_300} | **DNF** | [Colliguay](/posts/brevet/brevet_300_colliguay/) |
+| 2024     | [200]{.brevet_200} | OK      | Lagunillas |
+| 2024     | [300]{.brevet_300} | **DNF** | Santo Domingo |
+| 2023     | [300]{.brevet_300} | OK      | Vuelta Coínco |
+| 2023     | [200]{.brevet_200} | OK      | Baños Morales |
+| 2023     | [200]{.brevet_200} | OK      | Vuelta Los Maitenes |
+| 2023     | [400]{.brevet_400} | OK      | [Vuelta Coya](/posts/brevet/brevet_400_vueltacoya) |
+| 2023     | [300]{.brevet_300} | OK      | Los Poetas |
+| 2022     | [200]{.brevet_200} | OK      | Chacabuco |
+| 2022     | [400]{.brevet_400} | **DNF** | La Boca |
+| 2022     | [200]{.brevet_200} | OK      | Cajón del Maipo |
+| 2022     | [300]{.brevet_300} | OK      | Centenario |
+| 2021     | [200]{.brevet_200} | OK      | Altos de Cantillana |
+| 2021     | [200]{.brevet_200} | OK      | Bestia Negra |
+| 2020     | [200]{.brevet_200} | OK      | Audax-Húsares |
+| 2019     | [200]{.brevet_200} | OK      | Austral Randonneurs |

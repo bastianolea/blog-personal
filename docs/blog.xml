@@ -98,23 +98,23 @@
 </div>
 <div class="cell">
 <div class="cell-output-display">
-<div id="dbhhyulqzc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#dbhhyulqzc table {
+<div id="omlhmxsqpa" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#omlhmxsqpa table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#dbhhyulqzc thead, #dbhhyulqzc tbody, #dbhhyulqzc tfoot, #dbhhyulqzc tr, #dbhhyulqzc td, #dbhhyulqzc th {
+#omlhmxsqpa thead, #omlhmxsqpa tbody, #omlhmxsqpa tfoot, #omlhmxsqpa tr, #omlhmxsqpa td, #omlhmxsqpa th {
   border-style: none;
 }
 
-#dbhhyulqzc p {
+#omlhmxsqpa p {
   margin: 0;
   padding: 0;
 }
 
-#dbhhyulqzc .gt_table {
+#omlhmxsqpa .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -140,12 +140,12 @@
   border-left-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_caption {
+#omlhmxsqpa .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#dbhhyulqzc .gt_title {
+#omlhmxsqpa .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -157,7 +157,7 @@
   border-bottom-width: 0;
 }
 
-#dbhhyulqzc .gt_subtitle {
+#omlhmxsqpa .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -169,7 +169,7 @@
   border-top-width: 0;
 }
 
-#dbhhyulqzc .gt_heading {
+#omlhmxsqpa .gt_heading {
   background-color: #2F2935;
   text-align: center;
   border-bottom-color: #2F2935;
@@ -181,13 +181,13 @@
   border-right-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_bottom_border {
+#omlhmxsqpa .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #2F2935;
 }
 
-#dbhhyulqzc .gt_col_headings {
+#omlhmxsqpa .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #2F2935;
@@ -202,7 +202,7 @@
   border-right-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_col_heading {
+#omlhmxsqpa .gt_col_heading {
   color: #FFFFFF;
   background-color: #3D3545;
   font-size: 100%;
@@ -222,7 +222,7 @@
   overflow-x: hidden;
 }
 
-#dbhhyulqzc .gt_column_spanner_outer {
+#omlhmxsqpa .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #3D3545;
   font-size: 100%;
@@ -234,15 +234,15 @@
   padding-right: 4px;
 }
 
-#dbhhyulqzc .gt_column_spanner_outer:first-child {
+#omlhmxsqpa .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dbhhyulqzc .gt_column_spanner_outer:last-child {
+#omlhmxsqpa .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dbhhyulqzc .gt_column_spanner {
+#omlhmxsqpa .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #2F2935;
@@ -254,11 +254,11 @@
   width: 100%;
 }
 
-#dbhhyulqzc .gt_spanner_row {
+#omlhmxsqpa .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#dbhhyulqzc .gt_group_heading {
+#omlhmxsqpa .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -284,7 +284,7 @@
   text-align: left;
 }
 
-#dbhhyulqzc .gt_empty_group_heading {
+#omlhmxsqpa .gt_empty_group_heading {
   padding: 0.5px;
   color: #FFFFFF;
   background-color: #2F2935;
@@ -299,15 +299,15 @@
   vertical-align: middle;
 }
 
-#dbhhyulqzc .gt_from_md > :first-child {
+#omlhmxsqpa .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#dbhhyulqzc .gt_from_md > :last-child {
+#omlhmxsqpa .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#dbhhyulqzc .gt_row {
+#omlhmxsqpa .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -326,7 +326,7 @@
   overflow-x: hidden;
 }
 
-#dbhhyulqzc .gt_stub {
+#omlhmxsqpa .gt_stub {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -339,7 +339,7 @@
   padding-right: 5px;
 }
 
-#dbhhyulqzc .gt_stub_row_group {
+#omlhmxsqpa .gt_stub_row_group {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -353,15 +353,15 @@
   vertical-align: top;
 }
 
-#dbhhyulqzc .gt_row_group_first td {
+#omlhmxsqpa .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#dbhhyulqzc .gt_row_group_first th {
+#omlhmxsqpa .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#dbhhyulqzc .gt_summary_row {
+#omlhmxsqpa .gt_summary_row {
   color: #FFFFFF;
   background-color: #2F2935;
   text-transform: inherit;
@@ -371,16 +371,16 @@
   padding-right: 5px;
 }
 
-#dbhhyulqzc .gt_first_summary_row {
+#omlhmxsqpa .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_first_summary_row.thick {
+#omlhmxsqpa .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#dbhhyulqzc .gt_last_summary_row {
+#omlhmxsqpa .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -390,7 +390,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_grand_summary_row {
+#omlhmxsqpa .gt_grand_summary_row {
   color: #FFFFFF;
   background-color: #2F2935;
   text-transform: inherit;
@@ -400,7 +400,7 @@
   padding-right: 5px;
 }
 
-#dbhhyulqzc .gt_first_grand_summary_row {
+#omlhmxsqpa .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -410,7 +410,7 @@
   border-top-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_last_grand_summary_row_top {
+#omlhmxsqpa .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -420,11 +420,11 @@
   border-bottom-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_striped {
+#omlhmxsqpa .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dbhhyulqzc .gt_table_body {
+#omlhmxsqpa .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #2F2935;
@@ -433,7 +433,7 @@
   border-bottom-color: #2F2935;
 }
 
-#dbhhyulqzc .gt_footnotes {
+#omlhmxsqpa .gt_footnotes {
   color: #FFFFFF;
   background-color: #2F2935;
   border-bottom-style: none;
@@ -447,7 +447,7 @@
   border-right-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_footnote {
+#omlhmxsqpa .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -456,7 +456,7 @@
   padding-right: 5px;
 }
 
-#dbhhyulqzc .gt_sourcenotes {
+#omlhmxsqpa .gt_sourcenotes {
   color: #FFFFFF;
   background-color: #2F2935;
   border-bottom-style: none;
@@ -470,7 +470,7 @@
   border-right-color: #D3D3D3;
 }
 
-#dbhhyulqzc .gt_sourcenote {
+#omlhmxsqpa .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -478,72 +478,72 @@
   padding-right: 5px;
 }
 
-#dbhhyulqzc .gt_left {
+#omlhmxsqpa .gt_left {
   text-align: left;
 }
 
-#dbhhyulqzc .gt_center {
+#omlhmxsqpa .gt_center {
   text-align: center;
 }
 
-#dbhhyulqzc .gt_right {
+#omlhmxsqpa .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dbhhyulqzc .gt_font_normal {
+#omlhmxsqpa .gt_font_normal {
   font-weight: normal;
 }
 
-#dbhhyulqzc .gt_font_bold {
+#omlhmxsqpa .gt_font_bold {
   font-weight: bold;
 }
 
-#dbhhyulqzc .gt_font_italic {
+#omlhmxsqpa .gt_font_italic {
   font-style: italic;
 }
 
-#dbhhyulqzc .gt_super {
+#omlhmxsqpa .gt_super {
   font-size: 65%;
 }
 
-#dbhhyulqzc .gt_footnote_marks {
+#omlhmxsqpa .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#dbhhyulqzc .gt_asterisk {
+#omlhmxsqpa .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#dbhhyulqzc .gt_indent_1 {
+#omlhmxsqpa .gt_indent_1 {
   text-indent: 5px;
 }
 
-#dbhhyulqzc .gt_indent_2 {
+#omlhmxsqpa .gt_indent_2 {
   text-indent: 10px;
 }
 
-#dbhhyulqzc .gt_indent_3 {
+#omlhmxsqpa .gt_indent_3 {
   text-indent: 15px;
 }
 
-#dbhhyulqzc .gt_indent_4 {
+#omlhmxsqpa .gt_indent_4 {
   text-indent: 20px;
 }
 
-#dbhhyulqzc .gt_indent_5 {
+#omlhmxsqpa .gt_indent_5 {
   text-indent: 25px;
 }
 
-#dbhhyulqzc .katex-display {
+#omlhmxsqpa .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#dbhhyulqzc div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#omlhmxsqpa div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -629,7 +629,7 @@
 
 
 </div></td>
-<td class="gt_row gt_right" headers="number_of_pages">NA</td>
+<td class="gt_row gt_right" headers="number_of_pages">416</td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_right" headers="date_read">2024-12-27</td>
@@ -1312,6 +1312,165 @@ Ver esta publicación en Instagram
   <category>ciclismo</category>
   <category>fotos</category>
   <guid>https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/</guid>
+  <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Brevets que he hecho</title>
+  <link>https://bastimapache.cl/posts/brevet/brevets.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Las <a href="https://www.brevet.cl">brevets</a> son desafíos de <strong>ciclismo de ultradistancia</strong> centrados en la autosuficiencia. Esta es la lista de todas las brevets que he hecho, con enlaces a publiaciones con sus rutas, fotos y mis estadísticas de rendimiento.</p>
+<p>Cada desafío recorre una distancia de 200, 300, 400, 600 o 1000 kilómetros, dentro de un límite de <strong>tiempo máximo</strong>, y con puntos de control intermedios con horario de apertura y cierre.</p>
+<p>Las marcadas con <em>DNF</em> significa que no las terminé dentro del tiempo límite, y por consiguiente no se consideran <em>logradas.</em></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th style="text-align: right;">Temporada</th>
+<th style="text-align: center;">Distancia</th>
+<th>Estado</th>
+<th>Evento</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">2026</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td>OK</td>
+<td><a href="../../posts/brevet/brevet_300_vueltadelcobre/">Vuelta del Cobre</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2026</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td><strong>DNF</strong></td>
+<td><a href="../../posts/brevet/brevet_200_sanpedro/">Vuelta San Pedro</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2025</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td><a href="../../posts/brevet/brevet_200_melipilla/">Vuelta Melipilla</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2025</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td><strong>DNF</strong></td>
+<td><a href="../../posts/brevet/brevet_300_casablanca/">Casablanca</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2025</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td><a href="../../posts/brevet/brevet_200_vueltadelcampo/">Vuelta del Campo</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2024</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td><strong>DNF</strong></td>
+<td><a href="../../posts/brevet/brevet_300_colliguay/">Colliguay</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2024</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Lagunillas</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2024</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td><strong>DNF</strong></td>
+<td>Santo Domingo</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2023</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td>OK</td>
+<td>Vuelta Coínco</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2023</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Baños Morales</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2023</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Vuelta Los Maitenes</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2023</td>
+<td style="text-align: center;"><span class="brevet_400">400</span></td>
+<td>OK</td>
+<td><a href="../../posts/brevet/brevet_400_vueltacoya">Vuelta Coya</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2023</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td>OK</td>
+<td>Los Poetas</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2022</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Chacabuco</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2022</td>
+<td style="text-align: center;"><span class="brevet_400">400</span></td>
+<td><strong>DNF</strong></td>
+<td>La Boca</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2022</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Cajón del Maipo</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2022</td>
+<td style="text-align: center;"><span class="brevet_300">300</span></td>
+<td>OK</td>
+<td>Centenario</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2021</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Altos de Cantillana</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2021</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Bestia Negra</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">2020</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Audax-Húsares</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">2019</td>
+<td style="text-align: center;"><span class="brevet_200">200</span></td>
+<td>OK</td>
+<td>Austral Randonneurs</td>
+</tr>
+</tbody>
+</table>
+
+
+
+ ]]></description>
+  <category>ciclismo</category>
+  <category>destacado</category>
+  <guid>https://bastimapache.cl/posts/brevet/brevets.html</guid>
   <pubDate>Sat, 31 Jan 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
@@ -2319,28 +2478,6 @@ Ver esta publicación en Instagram
   <category>fotos</category>
   <guid>https://bastimapache.cl/posts/brevet/brevet_400_vueltacoya/</guid>
   <pubDate>Sat, 04 Mar 2023 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Resumen: Nelly Richard - Feminismo, género y diferencia(s): Transgresión y escritura femenina</title>
-  <link>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Resumen del capítulo 1, “¿Tiene sexo la escritura?”, del libro de Nelly Richard, <em>Feminismo, género y diferencia(s).</em> Excelente texto que a crítica distintas concepciones de lo que es considerado “escritura femenina”, tanto desde perspectiva hegemónica/patriarcal como desde un feminismo esencialista, para posteriormente desarrollar una teoría de una <em>feminización de la escritura</em> que no esté anclada en las categorías biológicas de sus autores, sino en la capacidad semiótica de transgresión, flujo y desestructuración de aquellos textos que buscan desafiar las normas sociales mediante lógicas distintas a las del universalismo masculino.</p>
-<p>En la parte superior del mapa conceptual hay un conveniente esquema de dos pistas que describe el proceso de naturalización del género mediante su imposición cultural, y posteriormente su reproducción.</p>
-<p>El segundo nodo del mapa conceptual presenta tres formas en las que Nelly Richard define al feminismo: feminismo como movimiento de mujeres, feminismo como teoría feminista, y feminismo como crítica feminista.</p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf">Clic aquí o en la imagen para acceder al mapa conceptual de resumen.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf"><img src="https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/images/Nelly-Richard-Feminismo-genero-y-diferencia-Tiene-sexo-la-escritura-920x1024.jpg" class="img-fluid"></a></p>
-
-
-
- ]]></description>
-  <category>género</category>
-  <guid>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/</guid>
-  <pubDate>Fri, 17 Feb 2023 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
