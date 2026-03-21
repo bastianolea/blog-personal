@@ -1,14 +1,45 @@
 ---
 title: "El Ancho de Chile"
+subtitle: "Cruzando Chile desde el oceano pacífico (Concón) a la frontera (paso Los Libertadores)"
 format: html
 date: "2023-12-08"
+image: interoceanica_ancho_4.jpeg
 categories: 
   - ciclismo
+  - fotos
 ---
 
-Preciosa ruta, pasando por muchas localidades bonitas para luego adentrarse en la cordillera, conectando el mar con la cordillera a través del río Aconcagua. Llegué solo a Portillo 🙁 Me faltaron como 10 kilómetros para llegar al Cristo Redentor
+Un evento de ciclismo que fue mucho más que una ruta. Fue la experiencia de unir el oceano pacífico con la cordillera de los Andes, cruzando la extensión del país a todo su ancho. Pedalear de noche, dormir en un gimnasio, salir con el amanecer a enfrentar la alta montaña y los Caracoles, rumbo a la frontera.
 
-Muchas gracias a [Interoceanica.cc](https://interoceanica.cc/) por organizar este evento!
+::: {.galeria}
+![](interoceanica_ancho_23.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_24.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_22.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_21.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_20.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_19.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_18.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_17.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_16.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_15.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_14.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_13.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_12.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_11.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_10.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_9.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_8.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_7.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_6.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_5.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_4.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_3.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_2.jpeg){.fotito .lightbox group="ancho"}
+![](interoceanica_ancho_1.jpeg){.fotito .lightbox group="ancho"}
+:::
+
+Preciosa ruta, pasando por muchas localidades bonitas para luego adentrarse en la cordillera, conectando el mar con la cordillera a través del río Aconcagua. Llegué solo a Portillo, porque por las condiciones de la tierra no nos permitieron llegar al Cristo.
+
 
 :::: {.tabla_ciclismo}
 | Variable                | Valor     |
@@ -20,4 +51,8 @@ Muchas gracias a [Interoceanica.cc](https://interoceanica.cc/) por organizar est
 |**Tiempo total**         | 20:09:58  |
 ::::
 
+Muchas gracias a [Interoceanica.cc](https://interoceanica.cc/) por organizar este evento!
+
+::: {.strava .centrar}
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10354709772" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+:::

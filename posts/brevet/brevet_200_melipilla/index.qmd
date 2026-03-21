@@ -1,9 +1,23 @@
 ---
 title: "Brevet 200 Melipilla"
+subtitle: "Beaucheff, cuesta Barriga, María Pinto, Melipilla, Isla de Maipo, Buin, Pirque, Ñuñoa"
 date: "2025-11-19"
 categories: 
   - ciclismo
+  - videos
+  - fotos
 ---
+
+Una ruta preciosa, toda en solitario como casi siempre, dentro de un tiempo aceptable para mi. Un perro chico me mordió en Melipilla 😞
+
+:::: {.galeria}
+![](brevet_melipilla_5.jpeg){.fotito .lightbox group="melipilla"}
+![](brevet_melipilla_1.JPG){.fotito .lightbox group="melipilla"}
+![](brevet_melipilla_7.jpeg){.fotito .lightbox group="melipilla"}
+![](brevet_melipilla_4.jpeg){.fotito .lightbox group="melipilla"}
+![](brevet_melipilla_3.jpeg){.fotito .lightbox group="melipilla"}
+![](brevet_melipilla_2.jpeg){.fotito .lightbox group="melipilla"}
+::::
 
 :::: {.tabla_ciclismo}
 | Variable                | Valor     |
@@ -11,8 +25,14 @@ categories:
 |**Distancia total:**     | 204.37 km |
 |**Ascenso acumulado**    | 1,180 m   |
 |**Velocidad promedio:**  | 23.1 km/h |
-|**Tiempo en movimiento** | 8:49:52  |
+|**Tiempo en movimiento** | 8:49:52   |
 |**Tiempo total**         | 10:59:49  |
 ::::
 
+:::: {.strava .centrar}
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16195631641" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
+::::
+
+:::: {.tiktok .centrar}
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bastimapache/video/7563461146947112212" data-video-id="7563461146947112212" data-embed-from="embed_page" style="border: none; min-width: 340px; margin: auto;"> <section> <a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed">@bastimapache</a> <p>Acompáñame a pedalear 200 kilómetros 🚴🏻‍♀️ Brevet 200 Vuelta Melipilla (partida en Beaucheff, cuesta Barriga, María Pinto, Melipilla, Isla de Maipo, Buin, Pirque, y meta en Ñuñoa) <a title="capcut" target="_blank" href="https://www.tiktok.com/tag/capcut?refer=embed">#CapCut</a> <a title="ciclismo" target="_blank" href="https://www.tiktok.com/tag/ciclismo?refer=embed">#ciclismo</a> <a title="randonneur" target="_blank" href="https://www.tiktok.com/tag/randonneur?refer=embed">#randonneur</a> </p> <a target="_blank" title="♬ La Pajarería - Niños Del Cerro" href="https://www.tiktok.com/music/La-Pajarería-6709395770530859009?refer=embed">♬ La Pajarería - Niños Del Cerro</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+::::
