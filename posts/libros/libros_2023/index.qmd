@@ -1,0 +1,168 @@
+---
+title: "Libros que leí en 2023"
+subtitle: "Lista de lectura personal"
+date: "2023-12-31"
+image: bastimapache_mosaico_libros_2023.jpg
+format: html
+categories: [libros]
+editor_options: 
+  chunk_output_type: console
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+
+```{r cargar}
+library(dplyr)
+library(stringr)
+library(readr)
+library(here)
+library(janitor)
+
+data <- read_csv(here("datos/goodreads_library_export.csv")) |> 
+  clean_names()
+```
+
+```{r revisar}
+#| output: false
+
+glimpse(data)
+
+data |> count(bookshelves)
+
+data |>  
+  filter(!is.na(date_read)) |> 
+  # filter(str_detect(title, "Siege")) |> 
+  select(title, author, date_read)
+```
+
+
+```{r limpiar}
+library(glue)
+library(lubridate)
+
+libros <- data |> 
+  select(date_read,
+         title, author, publisher, my_rating, number_of_pages, 
+         book_id) |> 
+  filter(!is.na(date_read)) |> 
+  filter(year(ymd(date_read)) == 2023) |> 
+  # limpiar datos
+  mutate(title = str_remove(title, "\\(.*\\)"),
+         title = str_squish(title),
+         author = str_squish(author)) |>
+  # columna con portadas de los libros
+  mutate(portada = glue("portadas/{book_id}.jpg"),
+         link = glue("https://www.goodreads.com/book/show/{book_id}"))
+```
+
+Esta es la lista de los **`r (nrow(libros))`** libros que leí durante el 2023, según [mi perfil de GoodReads](https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera).
+
+
+```{r portadas}
+#| output: false
+
+library(purrr)
+library(rvest)
+
+# por cada id de libro, descarga la portada
+walk(libros$book_id, \(id) {
+  message(id)
+  
+  # armar ruta de guardado
+  ruta <- "posts/libros/libros_2023/portadas/"
+  archivo <- glue("{ruta}{id}.jpg")
+  
+  dir.create(here(ruta), showWarnings = FALSE) # crear carpeta si no existe
+  
+  # revisar si existe
+  if (file.exists(here(archivo))) {
+    message("imagen existente, saltando...")
+    return()
+  }
+  
+  url <- glue("https://www.goodreads.com/book/show/{id}")
+  
+  # extraer imagen de portada de la dirección
+  imagen <- read_html(url) |> 
+    html_elements(".BookCover__image") |> 
+    html_element("img") |>
+    html_attr("src") |> 
+    unique()
+  
+  message("falta imagen, descargando...")
+  inicio <- Sys.time() # medir tiempo de descarga
+  
+  # descargar imagen
+  download.file(imagen, 
+                destfile = here(archivo))
+  
+  # tiempo de espera entre descargas
+  Sys.sleep(10* (Sys.time() - inicio)) 
+})
+```
+
+
+```{r funciones}
+source(here("funciones.R"))
+```
+
+
+```{r salida_html}
+#| output: "asis"
+
+library(shiny)
+library(lubridate)
+
+lista_libros <- libros |> 
+  arrange(date_read, book_id) |> 
+  mutate(id = row_number()) |>
+  split(~id)
+
+div(class = "cuadricula", 
+    style = "margin-top: 24px;",
+    
+    # generar elementos por cada libro
+    map(lista_libros, \(libro) {
+      # libro <- lista_libros[[9]]
+      # length(lista_libros)
+      # libro <- lista_libros[["2025-12-31"]]
+      # message(libro$date_read)
+      
+      # libro individual
+      div(class = "contenedor_libro",
+          
+          # portada del libro
+          div(class = "libro_imagen",
+              a(href = libro$link,
+                img(src = libro$portada, alt = libro$title)
+              )
+          ),
+          
+          # datos del libro
+          p(class = "libro_titulo", libro$title),
+          
+          p(class = "libro_autor",libro$author),
+          
+          div(class = "libro_rating", estrellas(libro$my_rating)),
+          
+          p(class = "libro_paginas",
+            glue("Leído en {meses(month(libro$date_read))} de {year(libro$date_read)}, {libro$number_of_pages} páginas")
+          )
+      )
+      
+    })
+)
+```
+
+
+
+```{r mosaico}
+#| output: false
+
+# generar mosaico de libros para portada de post
+source("mosaico.R")
+```
+

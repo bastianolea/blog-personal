@@ -1,5 +1,5 @@
 ---
-title: "Tesis de postgrado: Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la apariencia"
+title: "_Tesis de postgrado:_ Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la apariencia"
 date: 2019-01-29
 categories: 
   - "destacado"
