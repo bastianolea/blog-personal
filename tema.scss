@@ -353,3 +353,81 @@ border-top: 1px solid $background !important;
   font-weight: 500;
 }
 
+
+
+// para cuadrículas de libros
+.cuadricula {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 120px); 
+  grid-gap: 20px; 
+  width: 90%;
+  margin: auto;
+  justify-content: space-between;
+  white-space: wrap;
+}
+
+.contenedor_libro {
+  align-items: center;
+  width: 130px !important;
+  margin: auto;
+  margin-top: 0;
+}
+
+.libro_imagen {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 12px;
+  border-radius: 3px;
+  opacity: 90%;
+  
+  img {
+      height: 170px;
+      border-radius: 3px;
+      border: solid 1px #433B4A;
+  }
+}
+
+.libro:hover {
+  filter: brightness(110%);
+}
+
+.libro_titulo {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 4px;
+  font-weight: bold; 
+  color: $foreground2;
+  text-decoration: none !important;
+  font-size: 90%;
+  line-height: 1;
+  margin-top: -4px;
+}
+
+.libro_autor {
+  margin: auto;
+  text-align: center;
+  text-decoration: none !important;
+  font-size: 78%;
+}
+
+.estrella {
+  font-size: 14px;
+  margin: 1px;
+}
+
+.estrellas {
+  display: inline-flex;
+}
+
+.libro_rating {
+  margin: auto;
+  text-align: center;
+}
+
+.libro_paginas {
+  margin: auto;
+  text-align: center;
+  opacity: 50%;
+  font-size: 65%;
+  margin-top: 1px;
+}
