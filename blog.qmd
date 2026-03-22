@@ -9,8 +9,8 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-  image-height: "220px"
-  max-description-length: 240
+  image-height: "240px"
+  max-description-length: 260
 page-layout: full
 title-block-banner: true
 ---
