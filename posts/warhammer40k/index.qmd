@@ -16,7 +16,9 @@ execute:
 
 Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un **universo de ciencia ficción** basado en un juego de mesa nacido en la Inglaterra de los años '80.
 
-![](Imperial_Palace_Terra2.webp){.foto}
+:::: {.foto .centrar}
+![](Imperial_Palace_Terra2.webp)
+::::
 
 A grandes rasgos, Warhammer 40.000 es un universo compuesto por novelas, libros de reglas, videojuegos y audiovisuales que retrata el escenario de la situación de la humanidad en el milenio 41. La humanidad, unida bajo un gobierno interplanetario totalitario, esclavista y genocida, lucha por su supervivencia en una galaxia oprimida por el caos, la expresión paralela de la realidad material, una dimensión sin tiempo ni orden donde habitan los ecos de las emociones más extremas sufridas por los seres vivos, y que puede ser navegada en riesgosos viajes interdimensionales para atravesar el universo. 
 

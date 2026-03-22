@@ -286,11 +286,12 @@ border-top: 1px solid $background !important;
 
 .foto {
   margin: 4px;
-  margin-bottom: 8px;
-  
+  max-height: 380px;
+  margin-bottom: 18px;
+    
   img {
     border: solid 1px $background2;
-    max-height: 400px;
+    max-height: 380px;
   }
 }
 
