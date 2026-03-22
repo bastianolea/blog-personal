@@ -8,3 +8,7 @@
 - `.galeria` para poner varias fotitos juntas
 - `.centrar` para centrar el contenido
 
+Para fotos grandes y centradas:
+```
+:::: {.foto .centrar}
+```

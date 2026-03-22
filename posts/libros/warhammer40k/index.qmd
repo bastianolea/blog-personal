@@ -14,21 +14,10 @@ execute:
   warning: false
 ---
 
-Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un **universo de ciencia ficción** basado en un juego de mesa nacido en la Inglaterra de los años '80.
-
-:::: {.foto .centrar}
-![](Imperial_Palace_Terra2.webp)
-::::
-
-A grandes rasgos, Warhammer 40.000 es un universo compuesto por novelas, libros de reglas, videojuegos y audiovisuales que retrata el escenario de la situación de la humanidad en el milenio 41. La humanidad, unida bajo un gobierno interplanetario totalitario, esclavista y genocida, lucha por su supervivencia en una galaxia oprimida por el caos, la expresión paralela de la realidad material, una dimensión sin tiempo ni orden donde habitan los ecos de las emociones más extremas sufridas por los seres vivos, y que puede ser navegada en riesgosos viajes interdimensionales para atravesar el universo. 
-
-La historia de Warhammer acontece en varios hilos temporales, el inicial aproximadamente durante el milenio 32, donde se relatan las cruzadas del imperio por reunir a la humanidad bajo un mismo estandarte, y el hilo
-principal, situándose 10.000 años después del quiebre definitivo del proyecto del Imperio de la Humanidad, periodo durante el cual la civilización cayó en una era de oscuridad, degradación y fanatismo religioso.
-
-A continuación están todos los libros de Warhammer que he leído a la fecha, en orden cronológico:
 
 ```{r cargar}
 library(dplyr)
+library(stringr)
 library(readr)
 library(here)
 library(janitor)
@@ -37,9 +26,22 @@ data <- read_csv(here("datos/goodreads_library_export.csv")) |>
   clean_names()
 ```
 
+```{r revisar}
+#| output: false
+
+glimpse(data)
+
+data |> count(bookshelves)
+
+data |>  
+  filter(!is.na(date_read)) |> 
+  filter(str_detect(title, "Siege")) |> 
+  select(title, author, date_read)
+```
+
+
 ```{r limpiar}
 library(glue)
-library(stringr)
 
 libros <- data |> 
   select(date_read,
@@ -51,6 +53,8 @@ libros <- data |>
     when_any(
       str_detect(title, "Warhammer"),
       str_detect(title, "Horus Heresy"),
+      str_detect(title, "Eisenhorn"),
+      str_detect(title, "Siege of Terra"),
       str_detect(publisher, "Black Library")
     )) |> 
   # limpiar datos
@@ -66,6 +70,18 @@ libros <- data |>
 ```
 
 
+Esta es la lista de los **`r (nrow(libros))`** libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un **universo de ciencia ficción** basado en un juego de mesa nacido en la Inglaterra de los años '80.
+
+:::: {.foto .centrar}
+![](Imperial_Palace_Terra2.webp)
+::::
+
+A grandes rasgos, Warhammer 40.000 es un universo compuesto por novelas, libros de reglas, videojuegos y audiovisuales que retrata el escenario de la situación de la humanidad en el milenio 41. La humanidad, unida bajo un gobierno interplanetario totalitario, esclavista y genocida, lucha por su supervivencia en una galaxia oprimida por el caos, la expresión paralela de la realidad material, una dimensión sin tiempo ni orden donde habitan los ecos de las emociones más extremas sufridas por los seres vivos, y que puede ser navegada en riesgosos viajes interdimensionales para atravesar el universo. 
+
+La historia de Warhammer acontece en varios hilos temporales, el inicial aproximadamente durante el milenio 32, donde se relatan las cruzadas del imperio por reunir a la humanidad bajo un mismo estandarte, y el hilo
+principal, situándose 10.000 años después del quiebre definitivo del proyecto del Imperio de la Humanidad, periodo durante el cual la civilización cayó en una era de oscuridad, degradación y fanatismo religioso.
+
+
 ```{r portadas}
 #| output: false
 
@@ -77,7 +93,7 @@ walk(libros$book_id, \(id) {
   message(id)
   
   # armar ruta de guardado
-  ruta <- "posts/warhammer40k/portadas/"
+  ruta <- "posts/libros/warhammer40k/portadas/"
   archivo <- glue("{ruta}{id}.jpg")
   
   # revisar si existe
@@ -109,49 +125,11 @@ walk(libros$book_id, \(id) {
 
 
 ```{r funciones}
-# función para generar estrellas
-estrellas <- function(rating, 
-                      color_punto = "#E2B842", 
-                      color_vacio = "#8F748E") {
-  simbolo <- "\u2605"
-  
-  # por cada número del 1 al 5, hace un span con una estrella y revisa si es parte del puntaje o no, y le asigna un color y una clase; luego retorna los 5 elementos
-  estrellas <- map(1:5, \(i) {
-    
-    # color dependiendo de si está dentro del rating
-    color <- if_else(i <= rating, 
-                     color_punto, 
-                     color_vacio)
-    
-    # estrella individual
-    span(simbolo,
-         class = "estrella",
-         style = glue("color: {color};")
-    )
-  })
-  
-  # salida con las 5 estrellas
-  div(class = "estrellas", estrellas)
-}
-
-
-meses <- function(numero) {
-  case_when(
-    numero == 1 ~ "enero",
-    numero == 2 ~ "febrero",
-    numero == 3 ~ "marzo",
-    numero == 4 ~ "abril",
-    numero == 5 ~ "mayo",
-    numero == 6 ~ "junio",
-    numero == 7 ~ "julio",
-    numero == 8 ~ "agosto",
-    numero == 9 ~ "septiembre",
-    numero == 10 ~ "octubre",
-    numero == 11 ~ "noviembre",
-    numero == 12 ~ "diciembre"
-  )
-}
+source(here("funciones.R"))
 ```
+
+
+A continuación están todos los libros de Warhammer que he leído a la fecha, en orden cronológico:
 
 
 ```{r salida_html}

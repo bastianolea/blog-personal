@@ -1,0 +1,193 @@
+---
+title: "Libros que leí en 2025"
+subtitle: "Lista de lectura personal"
+date: "2025-12-31"
+image: bastimapache_mosaico_libros_2025.jpg
+format: html
+categories: [libros]
+editor_options: 
+  chunk_output_type: console
+execute: 
+  echo: false
+  message: false
+  warning: false
+---
+
+
+```{r cargar}
+library(dplyr)
+library(stringr)
+library(readr)
+library(here)
+library(janitor)
+
+data <- read_csv(here("datos/goodreads_library_export.csv")) |> 
+  clean_names()
+```
+
+```{r revisar}
+#| output: false
+
+glimpse(data)
+
+data |> count(bookshelves)
+
+data |>  
+  filter(!is.na(date_read)) |> 
+  # filter(str_detect(title, "Siege")) |> 
+  select(title, author, date_read)
+
+data |> 
+  filter(author == "Donna J. Haraway") |> 
+  slice(2) |> 
+  glimpse()
+```
+
+
+```{r limpiar}
+library(glue)
+library(lubridate)
+
+libros <- data |> 
+  select(date_read,
+         title, author, publisher, my_rating, number_of_pages, 
+         book_id) |> 
+  filter(!is.na(date_read)) |> 
+  filter(year(ymd(date_read)) == 2025) |> 
+  # limpiar datos
+  mutate(title = str_remove(title, "\\(.*\\)"),
+         title = str_squish(title),
+         author = str_squish(author)) |>
+  # numero de páginas faltantes
+  mutate(number_of_pages = case_when(title == "Ravenor" ~ 416,
+                                     .default = number_of_pages)) |> 
+  # columna con portadas de los libros
+  mutate(portada = glue("portadas/{book_id}.jpg"),
+         link = glue("https://www.goodreads.com/book/show/{book_id}"))
+```
+
+```{r agregar_faltante}
+libros <- libros |> 
+  add_row(
+    date_read = ymd("2025-03-30"),
+    title = "Manifiesto cíborg",
+    author = "Donna J. Haraway",
+    publisher = "Kaótica Libros",
+    my_rating = 4,
+    number_of_pages = 140,
+    book_id = 56752021,
+    portada = glue("portadas/{56752021}.jpg"),
+    link = glue("https://www.goodreads.com/book/show/{56752021}")
+  )
+```
+
+
+Esta es la lista de los **`r (nrow(libros))`** libros que leí durante el 2025, según [mi perfil de GoodReads](https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera).
+
+Durante 2025 me propuse **leer 20 libros**, pero no lo logré 😞
+
+```{r portadas}
+#| output: false
+
+library(purrr)
+library(rvest)
+
+# por cada id de libro, descarga la portada
+walk(libros$book_id, \(id) {
+  message(id)
+  
+  # armar ruta de guardado
+  ruta <- "posts/libros/libros_2025/portadas/"
+  archivo <- glue("{ruta}{id}.jpg")
+  
+  dir.create(here(ruta), showWarnings = FALSE) # crear carpeta si no existe
+  
+  # revisar si existe
+  if (file.exists(here(archivo))) {
+    message("imagen existente, saltando...")
+    return()
+  }
+  
+  url <- glue("https://www.goodreads.com/book/show/{id}")
+  
+  # extraer imagen de portada de la dirección
+  imagen <- read_html(url) |> 
+    html_elements(".BookCover__image") |> 
+    html_element("img") |>
+    html_attr("src") |> 
+    unique()
+  
+  message("falta imagen, descargando...")
+  inicio <- Sys.time() # medir tiempo de descarga
+  
+  # descargar imagen
+  download.file(imagen, 
+                destfile = here(archivo))
+  
+  # tiempo de espera entre descargas
+  Sys.sleep(10* (Sys.time() - inicio)) 
+})
+```
+
+
+```{r funciones}
+source(here("funciones.R"))
+```
+
+
+```{r salida_html}
+#| output: "asis"
+
+library(shiny)
+library(lubridate)
+
+lista_libros <- libros |> 
+  arrange(date_read, book_id) |> 
+  mutate(id = row_number()) |>
+  split(~id)
+
+div(class = "cuadricula", 
+    style = "margin-top: 24px;",
+    
+    # generar elementos por cada libro
+    map(lista_libros, \(libro) {
+      # libro <- lista_libros[[9]]
+      # length(lista_libros)
+      # libro <- lista_libros[["2025-12-31"]]
+      # message(libro$date_read)
+      
+      # libro individual
+      div(class = "contenedor_libro",
+          
+          # portada del libro
+          div(class = "libro_imagen",
+              a(href = libro$link,
+                img(src = libro$portada, alt = libro$title)
+              )
+          ),
+          
+          # datos del libro
+          p(class = "libro_titulo", libro$title),
+          
+          p(class = "libro_autor",libro$author),
+          
+          div(class = "libro_rating", estrellas(libro$my_rating)),
+          
+          p(class = "libro_paginas",
+            glue("Leído en {meses(month(libro$date_read))} de {year(libro$date_read)}, {libro$number_of_pages} páginas")
+          )
+      )
+      
+    })
+)
+```
+
+
+
+```{r mosaico}
+#| output: false
+
+# generar mosaico de libros para portada de post
+source("mosaico.R")
+```
+

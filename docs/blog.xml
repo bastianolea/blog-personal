@@ -10,7 +10,23 @@
 <atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sun, 15 Mar 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Mar 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title></title>
+  <link>https://bastimapache.cl/posts/musica/bosse_de_nage/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/bosse_de_nage/</guid>
+  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title></title>
+  <link>https://bastimapache.cl/posts/musica/the_body/</link>
+  <description><![CDATA[ undefined ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/the_body/</guid>
+  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Por qué crear un sitio web personal</title>
   <link>https://bastimapache.cl/posts/introduccion/introduccion.html</link>
@@ -76,16 +92,16 @@
 </item>
 <item>
   <title>Warhammer 40.000: libros leídos</title>
-  <link>https://bastimapache.cl/posts/warhammer40k/</link>
+  <link>https://bastimapache.cl/posts/libros/warhammer40k/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>Esta es la lista de libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un <strong>universo de ciencia ficción</strong> basado en un juego de mesa nacido en la Inglaterra de los años ’80.</p>
+<p>Esta es la lista de los <strong>34</strong> libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un <strong>universo de ciencia ficción</strong> basado en un juego de mesa nacido en la Inglaterra de los años ’80.</p>
 <div class="foto centrar">
-<p><img src="https://bastimapache.cl/posts/warhammer40k/Imperial_Palace_Terra2.webp" class="img-fluid"></p>
+<p><img src="https://bastimapache.cl/posts/libros/warhammer40k/Imperial_Palace_Terra2.webp" class="img-fluid"></p>
 </div>
 <p>A grandes rasgos, Warhammer 40.000 es un universo compuesto por novelas, libros de reglas, videojuegos y audiovisuales que retrata el escenario de la situación de la humanidad en el milenio 41. La humanidad, unida bajo un gobierno interplanetario totalitario, esclavista y genocida, lucha por su supervivencia en una galaxia oprimida por el caos, la expresión paralela de la realidad material, una dimensión sin tiempo ni orden donde habitan los ecos de las emociones más extremas sufridas por los seres vivos, y que puede ser navegada en riesgosos viajes interdimensionales para atravesar el universo.</p>
 <p>La historia de Warhammer acontece en varios hilos temporales, el inicial aproximadamente durante el milenio 32, donde se relatan las cruzadas del imperio por reunir a la humanidad bajo un mismo estandarte, y el hilo principal, situándose 10.000 años después del quiebre definitivo del proyecto del Imperio de la Humanidad, periodo durante el cual la civilización cayó en una era de oscuridad, degradación y fanatismo religioso.</p>
@@ -94,7 +110,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/625603">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/625603.jpg" alt="Horus Rising">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/625603.jpg" alt="Horus Rising">
 </a>
 </div>
 <p class="libro_titulo">Horus Rising</p>
@@ -113,7 +129,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/381817">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/381817.jpg" alt="False Gods">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/381817.jpg" alt="False Gods">
 </a>
 </div>
 <p class="libro_titulo">False Gods</p>
@@ -132,7 +148,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/815091">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/815091.jpg" alt="Galaxy in Flames">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/815091.jpg" alt="Galaxy in Flames">
 </a>
 </div>
 <p class="libro_titulo">Galaxy in Flames</p>
@@ -151,7 +167,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/80155">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/80155.jpg" alt="The Flight of the Eisenstein">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/80155.jpg" alt="The Flight of the Eisenstein">
 </a>
 </div>
 <p class="libro_titulo">The Flight of the Eisenstein</p>
@@ -170,7 +186,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/957931">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/957931.jpg" alt="Fulgrim">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/957931.jpg" alt="Fulgrim">
 </a>
 </div>
 <p class="libro_titulo">Fulgrim</p>
@@ -189,7 +205,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/1678745">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/1678745.jpg" alt="Legion">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1678745.jpg" alt="Legion">
 </a>
 </div>
 <p class="libro_titulo">Legion</p>
@@ -208,7 +224,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/6465063">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/6465063.jpg" alt="A Thousand Sons">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/6465063.jpg" alt="A Thousand Sons">
 </a>
 </div>
 <p class="libro_titulo">A Thousand Sons</p>
@@ -227,7 +243,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/6057020">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/6057020.jpg" alt="Tales of Heresy">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/6057020.jpg" alt="Tales of Heresy">
 </a>
 </div>
 <p class="libro_titulo">Tales of Heresy</p>
@@ -246,7 +262,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/2941259">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/2941259.jpg" alt="Mechanicum">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/2941259.jpg" alt="Mechanicum">
 </a>
 </div>
 <p class="libro_titulo">Mechanicum</p>
@@ -264,8 +280,27 @@
 </div>
 <div class="contenedor_libro">
 <div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1009259">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1009259.jpg" alt="Xenos">
+</a>
+</div>
+<p class="libro_titulo">Xenos</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2021, 288 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/8697285">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/8697285.jpg" alt="Age of Darkness">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/8697285.jpg" alt="Age of Darkness">
 </a>
 </div>
 <p class="libro_titulo">Age of Darkness</p>
@@ -283,8 +318,27 @@
 </div>
 <div class="contenedor_libro">
 <div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1507375">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1507375.jpg" alt="Malleus">
+</a>
+</div>
+<p class="libro_titulo">Malleus</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2022, 288 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/7922982">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/7922982.jpg" alt="The First Heretic">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/7922982.jpg" alt="The First Heretic">
 </a>
 </div>
 <p class="libro_titulo">The First Heretic</p>
@@ -302,8 +356,27 @@
 </div>
 <div class="contenedor_libro">
 <div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1507378">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1507378.jpg" alt="Hereticus">
+</a>
+</div>
+<p class="libro_titulo">Hereticus</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2022, 320 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/51085980">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/51085980.jpg" alt="Belisarius Cawl: The Great Work">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/51085980.jpg" alt="Belisarius Cawl: The Great Work">
 </a>
 </div>
 <p class="libro_titulo">Belisarius Cawl: The Great Work</p>
@@ -322,7 +395,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/33303512">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/33303512.jpg" alt="The Master of Mankind">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/33303512.jpg" alt="The Master of Mankind">
 </a>
 </div>
 <p class="libro_titulo">The Master of Mankind</p>
@@ -341,7 +414,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/11161595">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/11161595.jpg" alt="The Outcast Dead">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/11161595.jpg" alt="The Outcast Dead">
 </a>
 </div>
 <p class="libro_titulo">The Outcast Dead</p>
@@ -360,7 +433,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/11797636">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/11797636.jpg" alt="Know No Fear">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/11797636.jpg" alt="Know No Fear">
 </a>
 </div>
 <p class="libro_titulo">Know No Fear</p>
@@ -379,7 +452,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/13632835">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/13632835.jpg" alt="Betrayer">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/13632835.jpg" alt="Betrayer">
 </a>
 </div>
 <p class="libro_titulo">Betrayer</p>
@@ -398,7 +471,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/30753525">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/30753525.jpg" alt="The Carrion Throne">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/30753525.jpg" alt="The Carrion Throne">
 </a>
 </div>
 <p class="libro_titulo">The Carrion Throne</p>
@@ -417,7 +490,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/46221875">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/46221875.jpg" alt="The Hollow Mountain">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/46221875.jpg" alt="The Hollow Mountain">
 </a>
 </div>
 <p class="libro_titulo">The Hollow Mountain</p>
@@ -435,8 +508,27 @@
 </div>
 <div class="contenedor_libro">
 <div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/36304173">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/36304173.jpg" alt="The Magos">
+</a>
+</div>
+<p class="libro_titulo">The Magos</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en junio de 2024, 720 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/18143885">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/18143885.jpg" alt="The Unremembered Empire">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/18143885.jpg" alt="The Unremembered Empire">
 </a>
 </div>
 <p class="libro_titulo">The Unremembered Empire</p>
@@ -455,7 +547,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/61661304">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/61661304.jpg" alt="The Dark City">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/61661304.jpg" alt="The Dark City">
 </a>
 </div>
 <p class="libro_titulo">The Dark City</p>
@@ -474,7 +566,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/51085922">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/51085922.jpg" alt="Valdor: Birth of the Imperium">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/51085922.jpg" alt="Valdor: Birth of the Imperium">
 </a>
 </div>
 <p class="libro_titulo">Valdor: Birth of the Imperium</p>
@@ -493,7 +585,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/38450891">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/38450891.jpg" alt="Sons of the Emperor">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/38450891.jpg" alt="Sons of the Emperor">
 </a>
 </div>
 <p class="libro_titulo">Sons of the Emperor</p>
@@ -512,7 +604,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/12998311">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/12998311.jpg" alt="Aurelian">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/12998311.jpg" alt="Aurelian">
 </a>
 </div>
 <p class="libro_titulo">Aurelian</p>
@@ -531,7 +623,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/45734813">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/45734813.jpg" alt="The Solar War">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/45734813.jpg" alt="The Solar War">
 </a>
 </div>
 <p class="libro_titulo">The Solar War</p>
@@ -549,8 +641,27 @@
 </div>
 <div class="contenedor_libro">
 <div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/44451854">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/44451854.jpg" alt="The Lost and the Damned">
+</a>
+</div>
+<p class="libro_titulo">The Lost and the Damned</p>
+<p class="libro_autor">Guy Haley</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2025, 426 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/160382327">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/160382327.jpg" alt="Ravenor">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/160382327.jpg" alt="Ravenor">
 </a>
 </div>
 <p class="libro_titulo">Ravenor</p>
@@ -569,7 +680,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/55610829">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/55610829.jpg" alt="The Infinite and the Divine">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/55610829.jpg" alt="The Infinite and the Divine">
 </a>
 </div>
 <p class="libro_titulo">The Infinite and the Divine</p>
@@ -588,7 +699,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/34466783">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/34466783.jpg" alt="Fulgrim: The Palatine Phoenix">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/34466783.jpg" alt="Fulgrim: The Palatine Phoenix">
 </a>
 </div>
 <p class="libro_titulo">Fulgrim: The Palatine Phoenix</p>
@@ -607,7 +718,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/49090040">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/49090040.jpg" alt="Saturnine">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/49090040.jpg" alt="Saturnine">
 </a>
 </div>
 <p class="libro_titulo">Saturnine</p>
@@ -626,7 +737,7 @@
 <div class="contenedor_libro">
 <div class="libro_imagen">
 <a href="https://www.goodreads.com/book/show/243668688">
-<img src="https://bastimapache.cl/posts/warhammer40k/portadas/243668688.jpg" alt="Archmagos">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/243668688.jpg" alt="Archmagos">
 </a>
 </div>
 <p class="libro_titulo">Archmagos</p>
@@ -648,9 +759,9 @@
 
  ]]></description>
   <category>libros</category>
-  <guid>https://bastimapache.cl/posts/warhammer40k/</guid>
+  <guid>https://bastimapache.cl/posts/libros/warhammer40k/</guid>
   <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://bastimapache.cl/posts/warhammer40k/Imperial_Palace_Terra2.webp" medium="image" type="image/webp"/>
+  <media:content url="https://bastimapache.cl/posts/libros/warhammer40k/Imperial_Palace_Terra2.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Explorando la comuna de Navidad, región de O’Higgins</title>
@@ -1332,6 +1443,370 @@ Martes a las 10 de la noche y ya han pasado casi 2.000 ciclistas por la cicloví
   <pubDate>Tue, 06 Jan 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>Libros que leí en 2025</title>
+  <link>https://bastimapache.cl/posts/libros/libros_2025/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Esta es la lista de los <strong>18</strong> libros que leí durante el 2025, según <a href="https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera">mi perfil de GoodReads</a>.</p>
+<p>Durante 2025 me propuse <strong>leer 20 libros</strong>, pero no lo logré 😞</p>
+<div class="cuadricula" style="margin-top: 24px;">
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/40957778">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/40957778.jpg" alt="Invisible Women: Exposing Data Bias in a World Designed for Men">
+</a>
+</div>
+<p class="libro_titulo">Invisible Women: Exposing Data Bias in a World Designed for Men</p>
+<p class="libro_autor">Caroline Criado Pérez</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en febrero de 2025, 432 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/44451854">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/44451854.jpg" alt="The Lost and the Damned">
+</a>
+</div>
+<p class="libro_titulo">The Lost and the Damned</p>
+<p class="libro_autor">Guy Haley</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2025, 426 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/56752021">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/56752021.jpg" alt="Manifiesto cíborg">
+</a>
+</div>
+<p class="libro_titulo">Manifiesto cíborg</p>
+<p class="libro_autor">Donna J. Haraway</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2025, 140 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/160382327">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/160382327.jpg" alt="Ravenor">
+</a>
+</div>
+<p class="libro_titulo">Ravenor</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2025, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/35085357">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/35085357.jpg" alt="La bebedora de sangre y otros cuentos">
+</a>
+</div>
+<p class="libro_titulo">La bebedora de sangre y otros cuentos</p>
+<p class="libro_autor">Rachilde</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2025, 64 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/35411813">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/35411813.jpg" alt="Las fórmulas">
+</a>
+</div>
+<p class="libro_titulo">Las fórmulas</p>
+<p class="libro_autor">Carolina Rack</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2025, 67 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/7000922">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/7000922.jpg" alt="Soul Hunter">
+</a>
+</div>
+<p class="libro_titulo">Soul Hunter</p>
+<p class="libro_autor">Aaron Dembski-Bowden</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en junio de 2025, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/222260782">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/222260782.jpg" alt="Contra el sexo como categoría biológica: Cómo desmontar las premisas sexistas que limitan nuestra vida">
+</a>
+</div>
+<p class="libro_titulo">Contra el sexo como categoría biológica: Cómo desmontar las premisas sexistas que limitan nuestra vida</p>
+<p class="libro_autor">Lu Ciccia</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en julio de 2025, 327 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/55610829">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/55610829.jpg" alt="The Infinite and the Divine">
+</a>
+</div>
+<p class="libro_titulo">The Infinite and the Divine</p>
+<p class="libro_autor">Robert Rath</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en julio de 2025, 361 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/18714631">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/18714631.jpg" alt="Poco hombre: crónicas reunidas">
+</a>
+</div>
+<p class="libro_titulo">Poco hombre: crónicas reunidas</p>
+<p class="libro_autor">Pedro Lemebel</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2025, 284 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/34466783">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/34466783.jpg" alt="Fulgrim: The Palatine Phoenix">
+</a>
+</div>
+<p class="libro_titulo">Fulgrim: The Palatine Phoenix</p>
+<p class="libro_autor">Joshua Reynolds</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2025, 219 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/44825746">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/44825746.jpg" alt="Nuestra Obsoleta Mentalidad de Mercado">
+</a>
+</div>
+<p class="libro_titulo">Nuestra Obsoleta Mentalidad de Mercado</p>
+<p class="libro_autor">Karl Polanyi</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2025, 126 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/62925523">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/62925523.jpg" alt="Feminismo posthumano">
+</a>
+</div>
+<p class="libro_titulo">Feminismo posthumano</p>
+<p class="libro_autor">Rosi Braidotti</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2025, 288 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/63061873">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/63061873.jpg" alt="Ir más allá de la piel: Repensar, rehacer y reivindicar el cuerpo en el capitalismo contemporáneo">
+</a>
+</div>
+<p class="libro_titulo">Ir más allá de la piel: Repensar, rehacer y reivindicar el cuerpo en el capitalismo contemporáneo</p>
+<p class="libro_autor">Silvia Federici</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2025, 200 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/49090040">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/49090040.jpg" alt="Saturnine">
+</a>
+</div>
+<p class="libro_titulo">Saturnine</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2025, 553 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/61875686">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/61875686.jpg" alt="La invención de los sexos">
+</a>
+</div>
+<p class="libro_titulo">La invención de los sexos</p>
+<p class="libro_autor">Lu Ciccia</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2025, 256 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/59817150">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/59817150.jpg" alt="Cuidados trans">
+</a>
+</div>
+<p class="libro_titulo">Cuidados trans</p>
+<p class="libro_autor">Hil Malatino</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2025, 125 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/126280622">
+<img src="https://bastimapache.cl/posts/libros/libros_2025/portadas/126280622.jpg" alt="amor 8: gordo">
+</a>
+</div>
+<p class="libro_titulo">amor 8: gordo</p>
+<p class="libro_autor">Various</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2025, 232 páginas</p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>libros</category>
+  <guid>https://bastimapache.cl/posts/libros/libros_2025/</guid>
+  <pubDate>Wed, 31 Dec 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/libros/libros_2025/bastimapache_mosaico_libros_2025.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Brevet 200 Melipilla</title>
   <link>https://bastimapache.cl/posts/brevet/brevet_200_melipilla/</link>
   <description><![CDATA[ 
@@ -1746,276 +2221,501 @@ Ver esta publicación en Instagram
   <pubDate>Sat, 10 May 2025 04:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Brevet 300 Vuelta Colliguay</title>
-  <link>https://bastimapache.cl/posts/brevet/brevet_300_colliguay/</link>
+  <title>Libros que leí en 2024</title>
+  <link>https://bastimapache.cl/posts/libros/libros_2024/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>Una linda y desafiante ruta que pasó por tres cuestas: Dormida, Colliguay y Chada, acumulando 3.498 metros de altimetría (la más alta que he hecho hasta el momento! 😨) Pasamos por Tiltil, Limache, Quilpué, Casablanca, María Pinto, y de vuelta a Santiago. Estuvo muy difícil con todo el calor, el sueño y el cansancio acumulado, pero disfruté mucho los paisajes aún verdes de la primavera, y me sentí con muy buen ánimo. La última cuesta bajo las estrellas fue memorable. Aprecio mucho la camaradería en los últimos kilómetros, porque iba perdiendo la conciencia del sueño 😔 Fueron 21 horas de pedaleo, por lo que quedé fuera del tiempo límite de 20 horas. Gracias Néstor Millán por el apañe y por despertarme! Jaja</p>
-<p>Fuera de tiempo, pero se terminó igual!</p>
-<div class="galeria">
-<p><a href="brevet_colliguay_6.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_6.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_12.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_12.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_4.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_4.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_5.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_5.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_8.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_8.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_7.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_7.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_9.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_9.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_11.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_11.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_10.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_10.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_1.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_1.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_2.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_2.jpeg" class="fotito img-fluid"></a> <a href="brevet_colliguay_3.jpeg" class="lightbox" data-gallery="colliguay"><img src="https://bastimapache.cl/posts/brevet/brevet_300_colliguay/brevet_colliguay_3.jpeg" class="fotito img-fluid"></a></p>
-</div>
-<div class="tabla_ciclismo">
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th style="text-align: right;">Variable</th>
-<th>Valor</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: right;"><strong>Distancia total:</strong></td>
-<td>303.05 km</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><strong>Ascenso acumulado</strong></td>
-<td>3,498 m</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"><strong>Velocidad promedio:</strong></td>
-<td>18.6 km/h</td>
-</tr>
-<tr class="even">
-<td style="text-align: right;"><strong>Tiempo en movimiento</strong></td>
-<td>16:17:45</td>
-</tr>
-<tr class="odd">
-<td style="text-align: right;"><strong>Tiempo total</strong></td>
-<td>21:12:20</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="strava centrar">
-<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13020378402" data-style="standard">
-
-</div>
-<script src="https://strava-embeds.com/embed.js"></script>
-</div>
-<div class="tiktok centrar">
-<blockquote class="tiktok-embed blockquote" cite="https://www.tiktok.com/@bastimapache/video/7443818202699779383" data-video-id="7443818202699779383" data-embed-from="embed_page" style="border: none; min-width: 340px; margin: auto;">
-<section>
-<a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed"><span class="citation" data-cites="bastimapache">@bastimapache</span></a>
-<p>
-Acompáñame a hacer una ruta en bici de 300 kilómetros 🚴🏻‍♀️ Fueron 21 horas de paisajes bellos y mucho calor! Pasé por Tiltil, Limache, Quilpué, Casablanca, María Pinto, y de vuelta a Santiago. Fueron tres cuestas: La Dormida, Colliguay, y Barriga. Brevet 300 Vuelta Colliguay brevet ciclismo randonneur ultraciclismo
-</p>
-<a target="_blank" title="♬ sonido original - Bastián Olea - Basti 🌸" href="https://www.tiktok.com/music/sonido-original-Bastián-Olea-7443818244479159095?refer=embed">♬ sonido original - Bastián Olea - Basti 🌸</a>
-</section>
-</blockquote>
-<script async="" src="https://www.tiktok.com/embed.js"></script>
-</div>
-<div class="instagram centrar">
-<blockquote class="instagram-media blockquote" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/DDFEY8OuFMK/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-<div style="padding:16px;">
-<a href="https://www.instagram.com/p/DDFEY8OuFMK/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
-<div style=" display: flex; flex-direction: row; align-items: center;">
-<div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;">
-
-</div>
-<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
-<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;">
-
-</div>
-<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;">
-
-</div>
-</div>
-</div>
-<div style="padding: 19% 0;">
-
-</div>
-<div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
-<svg width="50px" height="50px" viewbox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xlink="https://www.w3.org/1999/xlink">
-<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g>
-</svg>
-</div>
-<div style="padding-top: 8px;">
-<div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">
-Ver esta publicación en Instagram
-</div>
-</div>
-<div style="padding: 12.5% 0;">
-
-</div>
-<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
-<div>
-<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);">
-
-</div>
-<div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;">
-
-</div>
-<div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);">
-
-</div>
-</div>
-<div style="margin-left: 8px;">
-<div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;">
-
-</div>
-<div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)">
-
-</div>
-</div>
-<div style="margin-left: auto;">
-<div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);">
-
-</div>
-<div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);">
-
-</div>
-<div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);">
-
-</div>
-</div>
-</div>
-<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
-<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;">
-
-</div>
-<div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;">
-
-</div>
-</div>
+<p>Esta es la lista de los <strong>25</strong> libros que leí durante el 2024, según <a href="https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera">mi perfil de GoodReads</a>.</p>
+<p>Durante 2024 me propuse <strong>leer 30 libros</strong>, pero no lo logré 😞</p>
+<div class="cuadricula" style="margin-top: 24px;">
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/106155354">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/106155354.jpg" alt="Comunismo de los sentidos - una lectura de Marx">
 </a>
-<p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">
-<a href="https://www.instagram.com/p/DDFEY8OuFMK/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">Una publicación compartida por Basti 🌸 (<span class="citation" data-cites="raccunnie">@raccunnie</span>)</a>
-</p>
 </div>
-</blockquote>
-<script async="" src="//www.instagram.com/embed.js"></script>
+<p class="libro_titulo">Comunismo de los sentidos - una lectura de Marx</p>
+<p class="libro_autor">Carlos Casanova</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2024, NA páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/18770438">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/18770438.jpg" alt="Space Invaders">
+</a>
+</div>
+<p class="libro_titulo">Space Invaders</p>
+<p class="libro_autor">Nona Fernández</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2024, 88 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/57836614">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/57836614.jpg" alt="La segunda venida. Neorreaccionarios, guerra civil global y el día despúes del Apocalipsis.">
+</a>
+</div>
+<p class="libro_titulo">La segunda venida. Neorreaccionarios, guerra civil global y el día despúes del Apocalipsis.</p>
+<p class="libro_autor">Franco "Bifo" Berardi</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2024, 110 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/209302452">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/209302452.jpg" alt="Cuerpos para odiar">
+</a>
+</div>
+<p class="libro_titulo">Cuerpos para odiar</p>
+<p class="libro_autor">Claudia Rodríguez</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2024, 240 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/183060027">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/183060027.jpg" alt="Las manos de mi padre parecen pájaros heridos">
+</a>
+</div>
+<p class="libro_titulo">Las manos de mi padre parecen pájaros heridos</p>
+<p class="libro_autor">Diego Zamora Estay</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2024, 50 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/46221875">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/46221875.jpg" alt="The Hollow Mountain">
+</a>
+</div>
+<p class="libro_titulo">The Hollow Mountain</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2024, 298 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/182628594">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/182628594.jpg" alt="híbridas impostoras intrusas">
+</a>
+</div>
+<p class="libro_titulo">híbridas impostoras intrusas</p>
+<p class="libro_autor">Various</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2024, 183 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/27912418">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/27912418.jpg" alt="La carne y la metáfora: Una reflexión sobre el cuerpo en la teoría queer">
+</a>
+</div>
+<p class="libro_titulo">La carne y la metáfora: Una reflexión sobre el cuerpo en la teoría queer</p>
+<p class="libro_autor">Gerard Coll-Planas</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2024, 112 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/55244656">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/55244656.jpg" alt="Underdogs: Social Deviance and Queer Theory">
+</a>
+</div>
+<p class="libro_titulo">Underdogs: Social Deviance and Queer Theory</p>
+<p class="libro_autor">Heather Love</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en mayo de 2024, 238 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/205797147">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/205797147.jpg" alt="Ciencia Ficción Travesti">
+</a>
+</div>
+<p class="libro_titulo">Ciencia Ficción Travesti</p>
+<p class="libro_autor">Claudia Rodríguez</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en mayo de 2024, 96 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/49129523">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/49129523.jpg" alt="Lo lingüístico es político">
+</a>
+</div>
+<p class="libro_titulo">Lo lingüístico es político</p>
+<p class="libro_autor">Yásnaya Elena Aguilar Gil</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en mayo de 2024, 81 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/59830914">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/59830914.jpg" alt="Travestis Callejeras de Acción Revolucionaria">
+</a>
+</div>
+<p class="libro_titulo">Travestis Callejeras de Acción Revolucionaria</p>
+<p class="libro_autor">Sylvia Rivera</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en junio de 2024, 118 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/36304173">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/36304173.jpg" alt="The Magos">
+</a>
+</div>
+<p class="libro_titulo">The Magos</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en junio de 2024, 720 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/62689813">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/62689813.jpg" alt="Trans-feminismos y politicas postmortem">
+</a>
+</div>
+<p class="libro_titulo">Trans-feminismos y politicas postmortem</p>
+<p class="libro_autor">Sayak Valencia</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2024, 93 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/18143885">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/18143885.jpg" alt="The Unremembered Empire">
+</a>
+</div>
+<p class="libro_titulo">The Unremembered Empire</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2024, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/20668">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/20668.jpg" alt="The Trouble with Testosterone and Other Essays on the Biology of the Human Predicament">
+</a>
+</div>
+<p class="libro_titulo">The Trouble with Testosterone and Other Essays on the Biology of the Human Predicament</p>
+<p class="libro_autor">Robert M. Sapolsky</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2024, 288 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/61661304">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/61661304.jpg" alt="The Dark City">
+</a>
+</div>
+<p class="libro_titulo">The Dark City</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2024, 350 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/51085922">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/51085922.jpg" alt="Valdor: Birth of the Imperium">
+</a>
+</div>
+<p class="libro_titulo">Valdor: Birth of the Imperium</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2024, 200 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/219369190">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/219369190.jpg" alt="La cuestión trans. Un análisis situado de las políticas identitarias en Chile">
+</a>
+</div>
+<p class="libro_titulo">La cuestión trans. Un análisis situado de las políticas identitarias en Chile</p>
+<p class="libro_autor">Shane Águila Cienfuegos Cortés</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2024, 167 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/38450891">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/38450891.jpg" alt="Sons of the Emperor">
+</a>
+</div>
+<p class="libro_titulo">Sons of the Emperor</p>
+<p class="libro_autor">John French</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2024, 247 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/214989726">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/214989726.jpg" alt="Anatomía del espectro digital">
+</a>
+</div>
+<p class="libro_titulo">Anatomía del espectro digital</p>
+<p class="libro_autor">Éric Sadin</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2024, 121 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/12998311">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/12998311.jpg" alt="Aurelian">
+</a>
+</div>
+<p class="libro_titulo">Aurelian</p>
+<p class="libro_autor">Aaron Dembski-Bowden</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2024, 128 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/205983279">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/205983279.jpg" alt="Pensando el Sexo">
+</a>
+</div>
+<p class="libro_titulo">Pensando el Sexo</p>
+<p class="libro_autor">Gayle S. Rubin</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2024, NA páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/213706848">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/213706848.jpg" alt="La vida ya superó a la escritura">
+</a>
+</div>
+<p class="libro_titulo">La vida ya superó a la escritura</p>
+<p class="libro_autor">Tilsa Otta</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2024, 88 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/45734813">
+<img src="https://bastimapache.cl/posts/libros/libros_2024/portadas/45734813.jpg" alt="The Solar War">
+</a>
+</div>
+<p class="libro_titulo">The Solar War</p>
+<p class="libro_autor">John French</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2024, 423 páginas</p>
+</div>
 </div>
 
 
 
  ]]></description>
-  <category>ciclismo</category>
-  <category>videos</category>
-  <category>fotos</category>
-  <guid>https://bastimapache.cl/posts/brevet/brevet_300_colliguay/</guid>
-  <pubDate>Sat, 30 Nov 2024 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Mapa conceptual: bibliografía sobre estigmatización de la gordura en las dimensiones de la apariencia y la salud</title>
-  <link>https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>Éste es el mapa conceptual que usé para ir organizando la bibliografía recopilada para el desarrollo de mi tesis de magíster, titulada <a href="https://bastian.olea.biz/elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/">“<em>Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas. Un análisis desde las dimensiones de la salud y la apariencia”</em>.</a></p>
-<p>Cada nodo representa un texto, agrupado por temática general (color) y sub-temáticas (los sub nodos y ramas del árbol).</p>
-<p>Clic en la imagen para <a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf">acceder al mapa conceptual en PDF.</a></p>
-<p><a href="http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf"><img src="https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/images/Copia-de-Bibliografia-por-temas-2-1024x746.jpg" class="img-fluid"></a></p>
-
-
-
- ]]></description>
-  <category>destacado</category>
-  <category>gordura</category>
-  <guid>https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/</guid>
-  <pubDate>Tue, 05 Nov 2024 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Entrevista: La meritocracia de la delgadez, la insubordinación de la gordura</title>
-  <link>https://bastimapache.cl/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><em>Comparto el texto de una entrevista que me realizó en 2024 año Raúl Nagore, periodista y parte del <a href="https://www.bculinary.com/es/home">Basque Culinary Center</a> de San Sebastián y la asociación de cocineros <a href="https://www.euro-toques.es/public_home/ctrl_home.php">Euro-Toques</a>, que será publicada en un número futuro del <a href="https://www.euro-toques.es/papeles_de_cocina/ctrl_papeles.php">periódico Papeles de Cocina.</a></em> <em>La entrevista viene con una introducción y se da en formato de pregunta/respuesta.</em> <em>¡Muchas gracias Raúl por la conversación y la oportunidad!</em></p>
-<hr>
-<section id="la-meritocracia-de-la-delgadez-la-insubordinación-de-la-gordura" class="level1">
-<h1>La meritocracia de la delgadez, la insubordinación de la gordura</h1>
-<p><em>¿Un cuerpo gordo es necesariamente un cuerpo insano? ¿Cuando sugerimos a alguien que debería adelgazar le estamos ayudando o contribuyendo a su baja autoestima? ¿Es más importante el efecto en su salud física o en su salud mental? ¿Por qué en mayor o menor medida todos somos gordófobos? ¿Juzgamos a los gordos por su falta de salud o por su falta de disciplina? El sociólogx chileno Bastián Olea Herrera, especializado en sociología del cuerpo y del género, ha dedicado buena parte de su trabajo a estudiar estos temas y comparte en la siguiente entrevista una visión nada convencional de la gordura, tratando de identificar herencias culturales, prejuicios, medias verdades y asunciones que terminan por culpabilizar y estigmatizar a las personas gordas y dificultar sus vidas.</em></p>
-<p><strong>Has escrito que “el ideal de belleza moderno determina la</strong> <strong>modificación y normalización de los cuerpos gordos, cuya existencia imperfecta y excesiva significa una transgresión al ideal de belleza y un desafío a sus preceptos”. ¿Son las personas gordas ciudadanos incorrectos?</strong></p>
-<p>La sociedad suele interpretar a las personas gordas como ciudadanos incorrectos por un fenómeno común en nuestra vida en sociedad, que es el hecho de que casi inconscientemente cuando vemos a una persona asumimos cosas sobre ella, tenemos prejuicios basados en lo que estamos viendo, sacamos conclusiones acerca de quién es, aunque no la conozcamos. Por este mismo fenómeno, sumado al hecho de que en nuestra sociedad tenemos ciertos valores, al ver a una persona gorda interpretamos que algo está haciendo mal, que algún error está cometiendo o que alguna decisión incorrecta está tomando. Esto nos invita inmediatamente a una especie de juicio, de sospecha hacia estas personas, y también a una cierta inferiorización de ellas.&nbsp;</p>
-<!--more-->
-<p><strong>La gordura no siempre estuvo estigmatizada. En otras épocas incluso se consideró bella o símbolo de estatus.</strong>&nbsp;</p>
-<p>Ha habido muchos cambios en la valoración de estos cuerpos y en los ideales de belleza. Las producciones culturales de hace 30 o 40.000 años, por ejemplo, representaban cuerpos que eran bastante más voluptuosos. Algunas teorías dicen que se trataba de ideales de belleza, otras hablan de iconos de fertilidad, pero también hay quien apunta a que simplemente aquellos cuerpos tallados eran los de las personas que los tallaban, que por tanto miraban hacia abajo, hacia su propio cuerpo, y la perspectiva que obtenían era así. Entre los siglos XVI y XIX el arte, especialmente en Europa, marcó tendencia en torno a cuerpos que ahora nosotros consideraríamos insanos, obesos o indeseables, cuerpos voluptuosos, con barriga, con traseros grandes… Hoy los vemos en los museos y en algunas personas causan curiosidad y en otras un reflejo bastante positivo: conozco a gente que se sorprende gratamente de verse en esas pinturas, de verse en Rubens.&nbsp;</p>
-<p><strong>También sueles hablar del cristianismo como influencia a este respecto.</strong></p>
-<p>Su auge a nivel global también incide en este tema, porque tiene valores relacionados con el pecado de la gula, con la mortificación de la carne, la penitencia, el ascetismo, la disciplina, el hecho de tener una gran fuerza de voluntad para contraponerse a los pecados carnales, corporales. Esto lleva a la conclusión de que los cuerpos alineados con esta espiritualidad tienen que ser delgados, incluso la figura de Cristo es flaquita, se le ven las costillas…&nbsp; Esto marca también un ideal, si no de belleza, sí de comportamiento, de disciplina.&nbsp;</p>
-<p><strong>Hoy las personas gordas serían en este sentido los herejes de una nueva religión en la que la santidad se alcanzaría por la delgadez. Incluso en la que la delgadez se considera un estado natural, mientras la gordura sería una aberración.</strong></p>
-<p>La misma repetición de estas ideas en los medios de comunicación deforma la idea de lo que pensamos que es lo natural. Muchos de nosotros no sabemos que los cuerpos que consideramos saludables o atléticos son producidos por deshidratación, por el uso de ciertos fármacos, de esteroides… A mí me sorprendió enterarme de que los fisioculturistas pasan días sin beber agua para que se le marque el músculo.&nbsp; A partir simplemente de un indicador de apariencia asumimos cuestiones en cuanto a su comportamiento que son casi espirituales. Por otra parte, la gente que tiene enfermedades muy graves adelgaza muchísimo y hay quien la felicita, como les ha ocurrido a personas que conozco, por haber perdido peso. Se nos olvida que adelgazar tiene que ver con debilitarse, con morir, con perder el sustrato vital…</p>
-<p><strong>Esto ocurre, además, dentro de un sistema en el que hay una abundancia que invita al consumo excesivo y en el que el modo de vida es mayoritariamente sendentario…</strong></p>
-<p>Las personas gordas suelen ser interpretadas como el exceso mismo hecho cuerpo. Son los personajes que elegimos como chivos expiatorios para culparlos y castigarlos en nombre de toda la sociedad y para redimirnos nosotros, que vivimos en ese mismo contexto que nos invita a consumir sin parar para ser felices, pero donde hay una letra pequeña que dice que hay que hacerlo de cierta manera:&nbsp; puedo comer mucho si al día siguiente me privo de hacerlo. Aquí entra de nuevo la religión: podemos excedernos siempre que después paguemos esa culpa.</p>
-<p><strong>Subrayas que las personas gordas son hoy uno de los pocos grupos víctima de una discriminación aceptada por prácticamente todo el mundo, casi sin oposición. ¿Por qué crees que la mayoría, sea del signo ideológico que sea, coincide en esto?</strong></p>
-<p>Aquí hay dos aristas: por un lado no hay que olvidar la historia de los grupos discriminados. Hasta hace poco había justificaciones biológicas para la discriminación racial, por ejemplo. Pensemos en los nazis: según ellos hay una diferencia biológica entre las razas que hace que unas sean superiores y otras inferiores. Lo mismo se aplicaba de forma más aceptada en la ideología de la eugenesia, donde hay ciertos elementos raciales que son mejores y que tienen que ser incentivados dentro de la población. La homosexualidad se consideraba un problema mental hasta hace no mucho tiempo. Creo que son discriminaciones que tienen una función social, generalmente para facilitar formas de explotación y de dominación, pero que buscan argumentos que sean más sólidos que simplemente el “yo tengo plata y tú no y quiero que trabajes para mí”. Se trata de argumentar una posición claramente arbitraria y sesgada con razones más fuertes y por tanto vamos a lo que consideramos más fuerte: el ADN, la sangre, la raza… El problema es que en el caso del racismo, está confirmado que la genética está muy compartida entre las distintas razas y no puedes decir que una sea superior a otra. Pero en la obesidad no hay tanta claridad, porque aún no hay certezas a nivel genético. No se ha descubierto todavía el gen de la obesidad, como tampoco el gen de la homosexualidad… Todavía no hay certezas en esto y el futuro lo dirá.</p>
-<section id="gordos-pero-no-necesariamente-enfermos" class="level2">
-<h2 class="anchored" data-anchor-id="gordos-pero-no-necesariamente-enfermos">Gordos, pero no necesariamente enfermos</h2>
-<p><strong>Empiezan a escucharse voces que llaman a desvincular la gordura de la (mala) salud. Esto es algo que nos cuesta mucho admitir, puesto que inmediatamente asociamos el exceso de peso a dificultades añadidas en un quirófano, problemas de espalda, mayor riesgo cardiovascular, de diabetes…&nbsp; Pero tú afirmas que “urge una revisión de los supuestos que condicionan a las corporalidades gordas como patologías”.</strong></p>
-<p>Hay un respaldo médico y científico para esta discriminación que aún está vigente. Interpretamos los cuerpos a través de categorías médicas: sobrepeso, obesidad… Una persona que tiene tantos kilos tiene sobrepeso. El peso se convierte en una medida para evaluar la salud y por tanto nuestra visión del cuerpo del otro es suficiente para diagnosticar a primera vista a alguien, y es algo que hacemos todos. La medicina nos está dando una herramienta para discriminar de una manera inocente, clasificando a las personas. Incluso quienes no discriminamos de forma explícita a las personas gordas, que no decimos “las odio, me dan asco”, las rechazamos, ya sea porque las relacionamos inmediatamente con mala salud, con una enfermedad, porque nosotros mismos no queremos ser gordos o simplemente por el hecho de que no encontramos románticamente atractiva a la persona gorda. Son formas más minuciosas de rechazo y de discriminación al fin y al cabo</p>
-<p><strong>Aunque no se lo digamos directamente a la persona gorda, es habitual entre los grupos de amigos que tienen a una en común decirse “deberíamos decirle que se cuide más…”</strong></p>
-<p>Cuando hablamos del bienestar de una persona el tema se pone aún más complejo. ¿Qué es más importante, la salud física o la mental? ¿Es más importante que le hagas ver a alguien que necesita adelgazar o que le hagas sentirse mal, que se sienta incómodo contigo y por tanto termine aislándose? Cuando una madre dice a su hija que debe adelgazar es porque quiere que esté sana, que tenga pareja, que no muera a los nosecuántos años… Y así está ayudando en algo, pero perjudicando en otra cosa. Creo que hay muchísimos factores que inciden en la salud y enfocarse solo en uno me parece al menos sospechoso. Y hay que tener cuidado con la forma de decir las cosas, porque a veces estamos haciendo un daño irreparable. Hay quien dice que esta visión supone negar la evidencia, negar la ciencia. Hay médicos que dicen que la gordura genera este problema y este otro, otros afirman que existen personas gordas saludables, que una cosa no se relaciona necesariamente con la otra. Yo mismo no sé qué decir al respecto. Todo esto es complejo.</p>
-<p><strong>¿Qué te sugiere la expresión “epidemia de obesidad” que tanto se escucha hoy en día?</strong></p>
-<p>Creo que es un lenguaje bastante violento. Y pienso en el efecto que tienen estas expresiones en la sociedad en su conjunto, porque cuando hablamos de “epidemia de obesidad” sugerimos que hay un agente externo, una enfermedad que ataca a la población, en lugar de pensar que esa población está experimentando cambios, que hay un contexto social complejo que está engendrando ciertos cuerpos, que en ciertos lugares de la sociedad los cuerpos son de una manera y en otros de otra, en ciertos países son así y en otros de otra forma. Y además culpamos a los individuos por ser azotados por esta enfermedad, cuando muchas veces está fuera de su alcance controlar ciertos factores. Lo convertimos en&nbsp; una responsabilidad individual. Pero ¿tratamos a otras personas enfermas de la misma forma? ¿Criticamos a una persona con cáncer por tenerlo, independientemente de que el cáncer haya podido producirse por decisiones de esa misma persona? Fumaste toda tu vida, tienes cáncer, pero ¿te voy a tratar mal por eso?</p>
-</section>
-<section id="ricos-delgados-pobres-gordos" class="level2">
-<h2 class="anchored" data-anchor-id="ricos-delgados-pobres-gordos">Ricos delgados, pobres gordos</h2>
-<p><strong>Hablando de esa responsabilidad individual, ¿crees que es equiparable el discurso sobre “la voluntad de no estar gordo” al de la meritocracia?</strong></p>
-<p>Creo que esto es dar en el clavo en este tema. Los millonarios lo son porque trabajaron mucho más que tú y por eso tienen mucho más dinero. Pero si te esfuerzas lo suficiente, vas a ser millonario como ellos. Esto es clave en el neoliberalismo: nosotros forjamos nuestro propio destino, y nuestra riqueza es equivalente a lo que nosotros valemos como ciudadanos. Del mismo modo, uno llegaría a la conclusión de que una persona es delgada porque ha sido disciplinada, porque se ha esforzado y ha logrado un cierto éxito. Y por tanto inferimos que la gordura es todo lo contrario, es estar sentado, ser un vago, no hacer las cosas, ser irresponsable, tomar las decisiones incorrectas… Nuestra sociedad depende de que cada uno de nosotros haga las cosas bien y al final esto se convierte en una cuestión moral. ¿Qué cuerpos expresan moralidad? ¿Qué cuerpos expresan que lo han hecho bien, que son buenos ciudadanos? ¿Y qué cuerpos expresan que son malos ciudadanos? Cuando en el día a día nos encontramos con un cuerpo marcadamente particular, parece que nos esté confesando algo, reflejando una cierta desadaptación al orden social. Si una persona es gorda es porque decidió serlo. Pero ignoramos todo el contexto a su alrededor o incluso el hecho de que no tenga capacidad de poder decidir. ¿Puedo elegir qué cuerpo tengo? Podría, si tuviera dinero para hacerme una operación de cirugía estética, si tuviera plata para pagarme el gimnasio… Pero ni siquiera eso me garantiza que pueda tener un cuerpo delgado, lo que aún lo complica más.&nbsp;</p>
-<p><strong>¿Crees que también este tema conlleva un cierto clasismo?</strong></p>
-<p>Los grupos sociales dominantes suelen tratar de distinguirse de los, digamos, subyugados. Si a las clases populares les gusta esto, a nosotros no nos va a gustar. Ha pasado con la música, con el arte… Esto se puede aplicar también en el tema de la belleza: si, como ocurría en otro tiempo, los pobres son flacos, nosotros somos gordos, porque tenemos más riqueza. Pero con la industrialización y la globalización son las personas pobres las que son más gorditas, así que nosotros no vamos a serlo, vamos a aplicar nuestra riqueza en distinguirnos, en construir nuestra identidad a partir de no ser como ellos.</p>
-<p><strong>Además, la comida más barata y accesible es la menos saludable, la que engorda más.&nbsp; Por tanto tiende a identificarse la gordura como un “mal” de las clases más desfavorecidas.</strong>&nbsp;</p>
-<p>Aquí ya no se trata solo de los llamados “desiertos alimentarios” de las grandes ciudades, donde no hay acceso a alimentos saludables, sino de que también ciertas personas no tienen tiempo para prepararse una comida saludable, para ir al mercado a comprar vegetales, para practicar deporte… Son cosas de las que se ven privadas por un tema de escasez de recursos. Se habla también mucho del urbanismo, de que hay ciertos factores urbanos que promueven estas diferencias corporales: hay espacios sociales en la ciudad donde claramente la infraestructura está segregada por clases sociales, entre barrios altos y bajos, y, por así decirlo, incentivan o desincentivan ciertas actividades. Por ejemplo, en un barrio pobre hay pocas oportunidades para salir a pasear o hacer actividad física, por la inseguridad, la delincuencia, porque el lugar no es demasiado habitable… Entonces, ¿las personas son gordas porque son pobres o son pobres porque son gordas?</p>
-</section>
-<section id="el-auge-de-los-body-shamers" class="level2">
-<h2 class="anchored" data-anchor-id="el-auge-de-los-body-shamers">El auge de los <em>body-shamers</em></h2>
-<p><strong>¿La gordura es más aceptable en los hombres?</strong></p>
-<p>Los temas de género son complejos porque dependen de los contextos, las culturas… Nuestros cuerpos son textos que leemos y dependiendo del contexto los interpretamos de distintas maneras. Un cuerpo con panza es distinto si es de un hombre o si es de una mujer. Generalmente en los hombres se aceptan y se celebran valores de la masculinidad, como son el exceso, el tamaño, la fuerza, incluso la gula y el apetito son bastante celebrados, el hecho de crecer, de competir, de comerse todo, de acaparar… En la construcción del género femenino la gordura tiene que ver con la fertilidad, pero ahí terminan las comparaciones positivas… Y los contenidos de la construcción del género femenino ya van en contra de la gordura: la mujer tiene que ser pequeña, ocupar poco espacio, estar muy preocupada de su apariencia física y de controlarla, de maquillarse, de cuidarse, de lo contrario se está dejando ir. Y por otro lado, más allá de lo conceptual, hay tipos de cuerpos que asociamos con alguna forma de masculinidad que no problematizamos: ciertos hombres mayores que tienen cierta forma de panza que no nos parece mal, ciertos deportistas que son grandes, los niños pequeños que tienen que ser más grandecitos porque si no no van a crecer…</p>
-<p><strong>El año pasado la muerte de la actriz española Itziar Castro provocó en redes sociales toda una oleada de insultos. Básicamente decían que se había merecido la muerte “por gorda”.&nbsp; ¿A qué crees que responde este tipo de ataques y el auge de los “body shamers”, principalmente en las redes sociales?</strong></p>
-<p>El anonimato incentiva que podamos decir lo que queramos de forma impune. Creo que es como una&nbsp; extensión del acoso callejero. Yo voy en un auto, le grito algo a una mujer, me voy y no me puede hacer nada. Las redes son como eso, pero&nbsp; además allí las personas se pueden unir para insultar a otro y saben que nada les va a ocurrir. Lo que en el fondo se escucha detrás de eso tiene que ver con una ideología medio fascista que defiende que solamente las personas fuertes podemos vivir. Y más aún, hay que ganarse el derecho a existir con el mérito, el esfuerzo, el trabajo, la moralidad. También se suele decir que las personas gordas son una carga para el sistema de salud, para el dinero público… y por tanto no deberían tener derecho a él. Estamos condicionando el bienestar de una persona basándonos en cuánto nos cuestan, en cómo de difíciles son de tratar… Es una lógica de empresa aseguradora: tanto riesgo para nosotros, tanto te vamos a cobrar. No creo que nuestra sociedad tenga que ser liderada de esta forma.</p>
-<p><strong>Estos mismos gordófobos critican ahora a las celebridades que para adelgazar han utilizado medicamentos contra la diabetes como ozempic o wegovy por tomar un atajo, por no habérselo ganado a base de dieta y ejercicio…</strong></p>
-<p>Si estás criticando a alguien por tomar una pastilla, estás revelando que tu problema no era con la gordura, sino que era un tema moral, estabas criticándola por no hacer lo correcto, por no esforzarse, por no transformar su cuerpo. Aquí se revela lo que está en el fondo, porque hay varias capas que están ofuscando qué es lo que realmente nos molesta. Creo que estas personas son agentes, normales y sanos, de este sistema capitalista y neoliberal, por panfletario que suene esto. Son personas que simplemente están reproduciendo la ideología dominante pero de una forma tenue, sin que lo parezca. En el fondo te están llevando a reproducir el statu quo de distinta manera.&nbsp;</p>
-<p><strong>Por último, ¿qué pasos habría que dar en el camino hacia la desestigmatización de la gordura?</strong></p>
-<p>En estos últimos años ha habido algunos cambios. Encuentro que hay mucha más diversidad de cuerpos y más representaciones positivas de cuerpos gordos en los medios de comunicación… Es importante crear modelos, personas que hagan que los niños, niñas y adolescentes que se sienten mal consigo mismas digan al verlas “yo también soy así”. Esto es extremadamente positivo. También ha habido un cambio en el ideal de belleza, que ahora acepta cierta voluptuosidad, cierta gordura específica en las mujeres, que ya no se encuentra tan negativa, sino que incluso se ha vuelto deseable. Hay ciertas <em>influencers</em>, cantantes&nbsp; y artistas que son gorditas, que tienen la piernas más grandes, el trasero de cierta manera y resulta que ahora eso es aceptable. Pero no sé si este cambio es positivo o si está visto desde la óptica del deseo. Por otro lado, dudo que sea posible desestigmatizar completamente este tipo de cosas. Puede haber campañas de educación y aceptación, pero mientras tengamos ojos, vamos a interpretar lo que vemos, y mientras exista cultura, esas interpretaciones van a estar guiadas por los prejuicios. Es algo inevitable y es nuestra tarea como sociedad generar mecanismos y herramientas para que esos prejuicios no resulten tan negativos o se solucionen de manera positiva para que estas personas puedan vivir su día a día normalmente, sin un peso más encima.</p>
-
-
-</section>
-</section>
-
- ]]></description>
-  <category>gordura</category>
-  <guid>https://bastimapache.cl/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/</guid>
-  <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Presentación de defensa de tesis de magíster</title>
-  <link>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<blockquote class="blockquote">
-<p>Esta es la presentación de diapositivas que usé para defender mi tesis de magíster acerca de los procesos que explican la gordofobia, o el fenómeno de discriminación de las personas gordas.</p>
-</blockquote>
-<ul>
-<li><p>Leer/descargar en <a href="https://es.scribd.com/document/705939074/Defensa-de-tesis-Elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas">Scribd</a></p></li>
-<li><p>Leer/descargar en <a href="https://www.academia.edu/114944107/Defensa_de_tesis_Elementos_teóricos_y_conceptuales_en_torno_a_la_estigmatización_social_de_las_corporalidades_gordas">Academia.edu</a></p></li>
-<li><p>Leer/descargar en <a href="https://www.researchgate.net/publication/378230469_Defensa_de_tesis_Elementos_teoricos_y_conceptuales_en_torno_a_la_estigmatizacion_social_de_las_corporalidades_gordas">ResearchGate</a></p></li>
-</ul>
-<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis-1024x768.jpg" class="img-fluid"></p>
-<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis2-1024x768.jpg" class="img-fluid"></p>
-<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis3-1024x768.jpg" class="img-fluid"></p>
-<p><img src="https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/images/Presentacion-defensa-de-tesis4-1024x768.jpg" class="img-fluid"></p>
-
-
-
- ]]></description>
-  <category>gordura</category>
-  <category>sociología</category>
-  <guid>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/</guid>
-  <pubDate>Thu, 15 Feb 2024 03:00:00 GMT</pubDate>
+  <category>libros</category>
+  <guid>https://bastimapache.cl/posts/libros/libros_2024/</guid>
+  <pubDate>Tue, 31 Dec 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/libros/libros_2024/bastimapache_mosaico_libros_2024.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
