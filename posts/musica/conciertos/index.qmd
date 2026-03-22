@@ -13,10 +13,10 @@ categories: [música]
 
 ### 2025
 - **Wolf Eyes** (06/11/2025)
-- **Boris** (27/11/2025)
+- **[Boris](/posts/musica/live_boris/)** (27/11/2025)
 - **Ulcerate** (24/11/2025)
-- **Sunset Images** (12/11/2025)
-- **Psywarfare** (24/10/2025)
+- **[Sunset Images](/posts/musica/live_sunset_images/)** (12/11/2025)
+- **[Psywarfare](/posts/musica/live_psywarfare/)** (24/10/2025)
 - **Cephalotripsy** (14/08/2025)
 - **Defeating Insanity** (01/05/2025)
 - **Tigran Hamasyan** (13/10/2025)

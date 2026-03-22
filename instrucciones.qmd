@@ -12,3 +12,14 @@ Para fotos grandes y centradas:
 ```
 :::: {.foto .centrar}
 ```
+
+### Embeds
+#### Tiktok
+
+````
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7578732051902237972" height="740" width="400"></iframe>
+:::
+::::
+````

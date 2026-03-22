@@ -1,0 +1,25 @@
+---
+title: "Sunset Images en Chile"
+format: html
+date: "2025-10-12"
+categories: [música, videos]
+---
+
+:::: {.centrar}
+![](sunset_images_chile.jpeg){.foto}
+::::
+
+Excelente concierto de los mexicanos **Sunset Images** en _Warehouse_, junto a los excelentes nacionales **IIII** y **La Bestia de Gevaudan**.
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7572369036311285012" height="740" width="400"></iframe>
+:::
+::::
+
+
+Aquí el afiche:
+
+:::: {.centrar}
+![](sunset_images_afiche.jpg){.foto}
+:::

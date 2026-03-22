@@ -1,0 +1,35 @@
+---
+title: "Psywarfare en Chile"
+format: html
+categories: [música, videos]
+date: "2025-10-23"
+---
+
+
+::: {.galeria}
+![](psywarfare_chile.jpeg){.fotito}
+![](lvz_herminia.jpeg){.fotito}
+![](yesyesyesyesyes_chile.jpeg){.fotito}
+:::
+
+Una noche de noise y electrónica con Xapatal, Lvz Herminia, Yesyesyesyesyes y Psywarfare. Me enteré de este concierto el mismo día, así que fui de la pega a una ferretería a comprar tapones de oídos y partí al spot secreto.
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7564979817049787669" height="740" width="400"></iframe>
+:::
+::::
+
+**Psywarfare** sacó parte de su set en Santiago en su nuevo disco:
+
+:::: {.centrar}
+::: {.playlist}
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cl/album/live-santiago-2026-remastered/1878172858?i=1878172935"></iframe>
+:::
+::::
+
+Aquí el afiche:
+
+:::: {.centrar}
+![](psywarfare_afiche.jpg){.foto}
+:::

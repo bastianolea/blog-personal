@@ -33,6 +33,8 @@ Una ruta preciosa, toda en solitario como casi siempre, dentro de un tiempo acep
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="16195631641" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 ::::
 
-:::: {.tiktok .centrar}
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bastimapache/video/7563461146947112212" data-video-id="7563461146947112212" data-embed-from="embed_page" style="border: none; min-width: 340px; margin: auto;"> <section> <a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed">@bastimapache</a> <p>Acompáñame a pedalear 200 kilómetros 🚴🏻‍♀️ Brevet 200 Vuelta Melipilla (partida en Beaucheff, cuesta Barriga, María Pinto, Melipilla, Isla de Maipo, Buin, Pirque, y meta en Ñuñoa) <a title="capcut" target="_blank" href="https://www.tiktok.com/tag/capcut?refer=embed">#CapCut</a> <a title="ciclismo" target="_blank" href="https://www.tiktok.com/tag/ciclismo?refer=embed">#ciclismo</a> <a title="randonneur" target="_blank" href="https://www.tiktok.com/tag/randonneur?refer=embed">#randonneur</a> </p> <a target="_blank" title="♬ La Pajarería - Niños Del Cerro" href="https://www.tiktok.com/music/La-Pajarería-6709395770530859009?refer=embed">♬ La Pajarería - Niños Del Cerro</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7563461146947112212" height="740" width="400"></iframe>
+:::
 ::::
