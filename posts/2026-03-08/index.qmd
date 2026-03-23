@@ -1,0 +1,32 @@
+---
+title: "Actividad de reforestación del bosque Panul"
+draft: false
+date: "2026-03-08"
+categories: [lugares, fotos, política]
+format: html
+---
+
+El Panul es el último bosque nativo en Santiago, ubicado en la precordillera de la comuna de La Florida. Es un bosque de tipo esclerófilo, por lo que está adaptado al clima cálido y seco de la zona.
+
+En los últimos años ha sido frecuentado cada vez más por la ciudadanía, particularmente desde que ha sido difundido como un **parque comunitario**. Esto es positivo, en tanto más personas pueden conectas con la naturaleza, pero tiene efectos negativos en el bosque, principalmente por la **erosión de los suelos** y el **daño a la biodiversidad**.
+
+:::: {.galeria}
+![](panul_3.jpeg){.fotito .lightbox group="panul"}
+![](panul_4.jpeg){.fotito .lightbox group="panul"}
+![](panul_5.jpeg){.fotito .lightbox group="panul"}
+![](panul_6.jpeg){.fotito .lightbox group="panul"}
+![](panul_1.jpeg){.fotito .lightbox group="panul"}
+![](panul_2.jpeg){.fotito .lightbox group="panul"}
+::::
+
+Luego de una invitación abierta de la organización [Panul Parque Comunitario](https://www.instagram.com/panulparquecomunitario/), asistí a una jornada de riego del sector de reforestación del bosque. La actividad estaba planificada en un momento preciso para el riego de las especies existentes, e incluso determinadas plantas estaban marcadas para riego en esta fecha, lo que demuestra un alto nivel de preocupación y planificación para el cuidado del bosque.
+
+
+:::: {.boton style="width: 400px;"}
+[{{< fa brands instagram size=2x >}} Instagram Panul Parque Comunitario](https://www.instagram.com/panulparquecomunitario/)
+::::
+
+:::: {.boton style="width: 400px;"}
+[{{< fa link size=2x >}} Sitio web Panul Para Todos](https://www.panulparatodos.cl)
+::::
+
