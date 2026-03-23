@@ -23,7 +23,10 @@ Creo que podemos **prefigurar una vida digital libre del dominio de las grandes 
 
 Son necesarios actos tan sencillos como crear tu propio espacio, hacerlo tuyo, y contribuir para que los demás puedan hacer lo mismo.
 
-----
+:::: {.boton style="width: 410px;"}
+[{{< fa link size=2x >}} Tutorial: crea un sitio web con Quarto](https://bastianolea.rbind.io/blog/tutorial_quarto_github_pages/)
+::::
+
 
 La idea de crear un sitio web personal, distinto de mi [sitio web profesional](https://bastianolea.rbind.io), nació de [este post](https://www.linkedin.com/feed/update/urn:li:activity:7437596980849287168/) de [Lisa Charlotte Muth](https://lisacharlottemuth.com/):
 

@@ -28,7 +28,9 @@
 <p>Creo que las cosas pueden ser distintas. Podemos recuperar la <strong>internet como un espacio de expresión personal</strong>, gobernado por nosotros mismos, usando muchas de las tecnologías abiertas que están disponibles. Por esto creo que es importante <strong>recuperar los espacios digitales personales.</strong> Esto nos permite <strong>escapar del dominio de los algoritmos,</strong> y por consiguiente dejar de competir por atención.</p>
 <p>Creo que podemos <strong>prefigurar una vida digital libre del dominio de las grandes empresas que hoy gobiernan internet</strong>, liberando un aspecto tan importante de la vida social como lo es la digitalidad.</p>
 <p>Son necesarios actos tan sencillos como crear tu propio espacio, hacerlo tuyo, y contribuir para que los demás puedan hacer lo mismo.</p>
-<hr>
+<div class="boton" style="width: 410px;">
+<p><a href="https://bastianolea.rbind.io/blog/tutorial_quarto_github_pages/"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Tutorial: crea un sitio web con Quarto</a></p>
+</div>
 <p>La idea de crear un sitio web personal, distinto de mi <a href="https://bastianolea.rbind.io">sitio web profesional</a>, nació de <a href="https://www.linkedin.com/feed/update/urn:li:activity:7437596980849287168/">este post</a> de <a href="https://lisacharlottemuth.com/">Lisa Charlotte Muth</a>:</p>
 <div class="centrar">
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7437596979754573825?collapsed=1" height="480" width="340" frameborder="0" allowfullscreen="" title="Publicación integrada">
@@ -50,7 +52,7 @@
   <pubDate>Sun, 15 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Creando una comunidad de usuarixs de R en Chile</title>
+  <title>Organizando una comunidad de usuarixs de R en Chile</title>
   <link>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</link>
   <description><![CDATA[ 
 
@@ -64,12 +66,14 @@
 <p>Hoy puedo decir que soy un usuario avanzado de R, y que prácticamente cualquier cosa que me proponga puedo lograrla con este lenguaje 🥰</p>
 <p>Pero por las razones anteriores, mi camino hacia la programación ha sido <strong>solitario</strong>. Siempre aprendí por mi propia cuenta, y si bien aprendí gracias a la <strong>solidaridad</strong> de usuarias y usuarios que comparten sus conocimientos y habilidades en Internet, muy pocas veces pude compartir en vivo y en directo con otras personas.</p>
 <p>Por eso tenía la idea de organizar un <strong><a href="https://santiagorusers.github.io">grupo de usuarios de R</a></strong>, donde el apoyo digital pudiera ser un poco más tangible y cercano; por una parte por un tema geográfico, donde la cercanía puede conllevar intereses comunes y experiencias similares, pero también por el hecho de que esta cercanía puede generar redes de otros tipos.</p>
-<p>Esta idea se materializó recintemente gracias al apoyo de Carolina Morales, con quien organizamos un <a href="https://santiagorusers.github.io">grupo de usuari@s de R</a> y ya tuvimos nuestra <a href="https://santiagorusers.github.io/posts/2026-03-18/">primera junta abierta</a>, que fue todo un éxito 🩷</p>
+<p>Esta idea se materializó recientemente gracias al apoyo de Carolina Morales, con quien organizamos un <a href="https://santiagorusers.github.io">grupo de usuari@s de R</a> y ya tuvimos nuestra <a href="https://santiagorusers.github.io/posts/2026-03-18/">primera junta abierta</a>, que fue todo un éxito 🩷</p>
+<div class="boton" style="width: 410px;">
+<p><a href="https://santiagorusers.github.io"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Grupo de Usuari@s de R de Santiago</a></p>
+</div>
 
 
 
  ]]></description>
-  <category>blog</category>
   <category>programación</category>
   <guid>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</guid>
   <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
@@ -748,7 +752,7 @@
   <media:content url="https://bastimapache.cl/posts/libros/warhammer40k/Imperial_Palace_Terra2.webp" medium="image" type="image/webp"/>
 </item>
 <item>
-  <title>Actividad de reforestación del bosque Panul</title>
+  <title>Actividad de riego del bosque Panul</title>
   <link>https://bastimapache.cl/posts/2026-03-08/</link>
   <description><![CDATA[ 
 
@@ -756,24 +760,50 @@
 
 
 
-<p>El Panul es el último bosque nativo en Santiago, ubicado en la precordillera de la comuna de La Florida. Es un bosque de tipo esclerófilo, por lo que está adaptado al clima cálido y seco de la zona.</p>
-<p>En los últimos años ha sido frecuentado cada vez más por la ciudadanía, particularmente desde que ha sido difundido como un <strong>parque comunitario</strong>. Esto es positivo, en tanto más personas pueden conectas con la naturaleza, pero tiene efectos negativos en el bosque, principalmente por la <strong>erosión de los suelos</strong> y el <strong>daño a la biodiversidad</strong>.</p>
+<p>El Panul es el <strong>último bosque nativo</strong> en Santiago, ubicado en la precordillera de la comuna de La Florida. Es un bosque de tipo esclerófilo, por lo que está adaptado al clima cálido y seco de la zona.</p>
+<div class="centrar">
+<div class="openstreetmap">
+<iframe width="380" height="300" src="https://www.openstreetmap.org/export/embed.html?bbox=-70.53850293159486%2C-33.53799651157129%2C-70.5307459831238%2C-33.531852661587585&amp;layer=hot&amp;marker=-33.53492464115856%2C-70.53462445735931" style="border: 1px solid black">
+</iframe>
+</div>
+</div>
+<p>En los últimos años el bosque sido frecuentado cada vez más por la ciudadanía, particularmente desde que ha sido difundido como un <strong>parque comunitario</strong>. Si bien es bueno que más personas puedan conectar con la naturaleza, la popularidad tiene efectos negativos en el bosque, principalmente por la <strong>erosión de los suelos</strong> y el <strong>daño a la biodiversidad</strong>. Las bicicletas de montaña, las motos y las personas que caminan fuera de los senderos habilitados también erosionan el terreno, obstruyendo la regeneración de la vida en el bosque.</p>
 <div class="galeria">
 <p><a href="panul_3.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026-03-08/panul_3.jpeg" class="fotito img-fluid"></a> <a href="panul_4.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026-03-08/panul_4.jpeg" class="fotito img-fluid"></a> <a href="panul_5.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026-03-08/panul_5.jpeg" class="fotito img-fluid"></a> <a href="panul_6.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026-03-08/panul_6.jpeg" class="fotito img-fluid"></a> <a href="panul_1.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026-03-08/panul_1.jpeg" class="fotito img-fluid"></a> <a href="panul_2.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026-03-08/panul_2.jpeg" class="fotito img-fluid"></a></p>
 </div>
-<p>Luego de una invitación abierta de la organización <a href="https://www.instagram.com/panulparquecomunitario/">Panul Parque Comunitario</a>, asistí a una jornada de riego del sector de reforestación del bosque. La actividad estaba planificada en un momento preciso para el riego de las especies existentes, e incluso determinadas plantas estaban marcadas para riego en esta fecha, lo que demuestra un alto nivel de preocupación y planificación para el cuidado del bosque.</p>
+<p>Luego de una invitación abierta de la organización <a href="https://www.instagram.com/panulparquecomunitario/">Panul Parque Comunitario</a>, asistí a una <strong>jornada de riego</strong> del sector de reforestación del bosque. Este sector se encuentra en la entrada del bosque (por la calle Las Tinajas, que es una continuación de Rojas Magallanes), sector más afectado por el tránsito de personas al punto de transformar el terreno en terra compacta y carente de vida.</p>
+<p>La actividad estaba calendarizada con precisión para favorecer con el riego a las especies existentes. Las plantas de la reforestación estaban cercadas con alambre para evitar que se dañen, y también estaban marcadas según la fecha del último riego, lo que demuestra un alto nivel de planificación para el cuidado del bosque.</p>
+<div class="centrar">
+<div class="tiktok">
+<iframe src="https://www.tiktok.com/embed/v2/7620589848604593428" height="740" width="400">
+</iframe>
+</div>
+</div>
+<p>Se llenaron más de 100 botellas con agua en la sede de la <a href="https://beaf.cl">brigada forestal de La Florida</a>, que fueron subidas con auto a la entrada del bosque. Trasladamos las botellas y distribuimos más de <strong>600 litros de agua</strong> entre las plantas que les correspondía riego.</p>
+<p>Conocí personas muy bonitas, con distintos lazos al bosque. Personalmente tengo una conexión con el Panul desde la infancia, cuando venía en bicicleta a explorar bajo sus árboles. Luego de la actividad vimos la puesta de sol con el grupo de voluntari@s y conversamos sobre la situación del bosque.</p>
+<p>Sigue las <a href="https://www.instagram.com/panulparquecomunitario/">redes sociales</a> del bosque para enterarte de las próximas actividades de voluntariado, y si puedes, ¡asiste y cuida el bosque!</p>
 <div class="boton" style="width: 400px;">
 <p><a href="https://www.instagram.com/panulparquecomunitario/"><i class="fa-brands fa-instagram fa-2x" aria-label="instagram"></i> Instagram Panul Parque Comunitario</a></p>
 </div>
 <div class="boton" style="width: 400px;">
 <p><a href="https://www.panulparatodos.cl"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Sitio web Panul Para Todos</a></p>
 </div>
+<p>Si visitas el Panul, recuerda:</p>
+<ul>
+<li>Usa los senderos delimitados</li>
+<li>Lleva una bolsa para llevarte tu basura</li>
+<li>Recoge la basura que encuentres durante tu descenso</li>
+<li>Si te sobra agua, úsala para regar una planta</li>
+<li>No lleves parlantes</li>
+<li>No prendas fuego</li>
+</ul>
 
 
 
  ]]></description>
   <category>lugares</category>
   <category>fotos</category>
+  <category>videos</category>
   <category>política</category>
   <guid>https://bastimapache.cl/posts/2026-03-08/</guid>
   <pubDate>Sun, 08 Mar 2026 03:00:00 GMT</pubDate>

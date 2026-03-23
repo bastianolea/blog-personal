@@ -282,6 +282,14 @@ border-top: 1px solid $background !important;
   width: 90%;
 }
 
+.openstreetmap {
+  margin-top: 8px;
+  iframe {
+    border: none !important;
+    border-radius: 7px;
+  }
+}
+
 .centrar {
   display: flex;
   flex-direction: column;
