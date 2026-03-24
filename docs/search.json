@@ -1670,7 +1670,7 @@
     "href": "instrucciones.html",
     "title": "Bastián Olea Herrera",
     "section": "",
-    "text": "Shortcodes\n\n\n\nBotones\n:::: {.boton style=\"width: 210px;\"}\n[ Ver infografía](https://bastianolea.github.io/violaciones_ddhh_chile/)\n::::\n\n\nClases\n\n.foto para fotos grandes, limitando su alto\n.fotito + .lightbox para fotos pequeñas que se amplían al tocarlas\n.galeria para poner varias fotitos juntas\n.centrar para centrar el contenido\n\nPara fotos grandes y centradas:\n:::: {.foto .centrar}\n\n\nEmbeds\n\nTiktok\n:::: {.centrar}\n::: {.tiktok}\n&lt;iframe src=\"https://www.tiktok.com/embed/v2/7578732051902237972\" height=\"740\" width=\"400\"&gt;&lt;/iframe&gt;\n:::\n::::"
+    "text": "Shortcodes\nÍconos Font Awesome \n\n\nBotones\nAplicar estilo al div:\n:::: {.boton style=\"width: 210px;\"}\n[ Ver infografía](https://bastianolea.github.io/violaciones_ddhh_chile/)\n::::\n\n\nClases\n\n.foto para fotos grandes, limitando su alto\n.fotito + .lightbox para fotos pequeñas que se amplían al tocarlas\n.galeria para poner varias fotitos juntas\n.centrar para centrar el contenido\n\nPara fotos grandes y centradas:\n:::: {.foto .centrar}\n\n\nEmbeds\n\nTiktok\n:::: {.centrar}\n::: {.tiktok}\n&lt;iframe src=\"https://www.tiktok.com/embed/v2/7578732051902237972\" height=\"740\" width=\"400\"&gt;&lt;/iframe&gt;\n:::\n::::\n\n\nApple Music\nBorrar el max-width:660px;\n:::: {.centrar}\n::: {.playlist}\n...\n:::\n::::"
   },
   {
     "objectID": "posts/2026-01-06/index.html",

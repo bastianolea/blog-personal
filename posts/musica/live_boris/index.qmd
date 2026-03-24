@@ -35,6 +35,6 @@ Dejo por acá una **playlist** que mantengo de esta increíble banda, con una di
 
 :::: {.centrar}
 ::: {.playlist}
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cl/playlist/favs-boris/pl.u-aZb0brvtVAYZ8g"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cl/playlist/favs-boris/pl.u-aZb0brvtVAYZ8g"></iframe>
 :::
 ::::

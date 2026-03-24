@@ -1,8 +1,11 @@
 
 ### Shortcodes
+Íconos Font Awesome
 `{{< fa music >}}`
 
+
 ### Botones
+Aplicar estilo al div:
 ```
 :::: {.boton style="width: 210px;"}
 [{{< fa link size=2x >}} Ver infografía](https://bastianolea.github.io/violaciones_ddhh_chile/)
@@ -20,6 +23,8 @@ Para fotos grandes y centradas:
 :::: {.foto .centrar}
 ```
 
+
+
 ### Embeds
 #### Tiktok
 
@@ -30,3 +35,14 @@ Para fotos grandes y centradas:
 :::
 ::::
 ````
+
+#### Apple Music
+Borrar el `max-width:660px;`
+```
+:::: {.centrar}
+::: {.playlist}
+...
+:::
+::::
+```
+
