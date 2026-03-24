@@ -376,10 +376,10 @@ border-top: 1px solid $background !important;
 .cuadricula {
   display: grid;
   grid-template-columns: repeat(auto-fill, 120px); 
-  grid-gap: 20px; 
-  width: 90%;
+  grid-gap: 16px; 
+  width: 100%;
   margin: auto;
-  justify-content: space-between;
+  justify-content: space-evenly;
   white-space: wrap;
 }
 
@@ -395,12 +395,12 @@ border-top: 1px solid $background !important;
   text-align: center;
   margin-bottom: 12px;
   border-radius: 3px;
-  opacity: 90%;
+  opacity: 97%;
   
   img {
       height: 170px;
-      border-radius: 3px;
-      border: solid 1px #433B4A;
+      border-radius: 4px;
+      border: solid 1px #26222E;
   }
 }
 
