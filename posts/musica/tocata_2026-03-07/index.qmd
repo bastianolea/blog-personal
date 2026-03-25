@@ -1,0 +1,28 @@
+---
+title: "Tocata: Comarca Deathgrindslam"
+format: html
+date: "2026-03-07"
+image: "comarca.jpg"
+categories: [música, videos]
+---
+
+:::: {.columns}
+
+::: {.column}
+Tocata en la Comarca, epicentro de la escena del brutal death metal. **Comarca Death Grind Slam** reunió a tremendas bandas nacionales como **Flaytectomy, Esophagus, Nun Immolation** y **Visceral Wormhole**.
+
+Aquí dejo un videito de algunos momentos, incluyendo al Pito de Flaytectomy bajando a sacarnos la chucha.
+:::
+
+::: {.column}
+::: {.foto}
+![](afiche_tocata.jpg)
+:::
+:::
+::::
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7620969177469308181" height="740" width="400"></iframe>
+:::
+::::

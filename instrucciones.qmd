@@ -20,7 +20,7 @@ Aplicar estilo al div:
 
 Para fotos grandes y centradas:
 ```
-:::: {.foto .centrar}
+::: {.foto .centrar}
 ```
 
 

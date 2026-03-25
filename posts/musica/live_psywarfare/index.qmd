@@ -1,6 +1,7 @@
 ---
 title: "Psywarfare en Chile"
 format: html
+image: "psywarfare_chile_2.jpeg"
 categories: [música, videos]
 date: "2025-10-23"
 ---
