@@ -303,12 +303,18 @@ border-top: 1px solid $background !important;
 
 .foto {
   margin: 12px !important;
-  max-height: 380px;
+  /*max-height: 380px;*/
   margin-bottom: 18px;
     
   img {
     border: solid 1px $background2;
     max-height: 380px;
+  }
+  
+  figcaption {
+  font-size: 75%; opacity: 70%;
+  font-style: italic;
+  text-align: center;
   }
 }
 
@@ -458,4 +464,24 @@ border-top: 1px solid $background !important;
   opacity: 50%;
   margin-top: -28px !important;
   margin-bottom: 32px !important;
+}
+
+
+
+
+// lightbox
+
+/* color de texto de descripción en lightbox móvil */
+.glightbox-mobile .glightbox-container .gslide-title {
+  color: #fff !important;
+  text-shadow: black 2px 2px 19px !important;
+}
+
+/* fondo de lightbox en pantalla */
+body:not(.glightbox-mobile) div.gslide div.gslide-description, body:not(.glightbox-mobile) div.gslide-description .gslide-title, body:not(.glightbox-mobile) div.gslide-description .gslide-desc {
+  background-color: transparent !important;
+}
+div.gslide-description .gslide-title {
+  color: #fff !important;
+  text-shadow: black 2px 2px 19px !important;
 }

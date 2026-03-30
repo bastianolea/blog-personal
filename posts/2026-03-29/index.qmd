@@ -1,0 +1,43 @@
+---
+title: "Jornada de limpieza del bosque Panul"
+format: html
+categories: [fotos, videos, lugares]
+date: "2026-03-28"
+---
+
+El sábado nos organizamos entre personas de la **Red comunitaria de cuidado del Panul** para una jornada de limpieza del bosque. Fuimos con bolsas de basura y guantes, y dimos una vuelta por el bosque recogiendo toda basura que encontramos, también pasando por unos puntos de basura concentrada.
+
+::: {.centrar}
+![Bosque Panul, sector del espinal](bosque_panul.jpeg){.foto}
+:::
+
+Afortunadamente el bosque no estaba tan sucio como otras veces, pero siempre es importante poder eliminar todo rastro humano que peuda perturbar el ecosistema.
+
+En la ruta aprovechamos de visitar algunos puntos del bosque, como el **árbol de la Machi.**
+
+::: {.centrar}
+![Árbol de la Machi, bosque Panul](panul_arbol_de_la_machi.jpeg){.foto .lightbox}
+:::
+
+Durante esta época del año (finales del verano) florecen muchas **Añañucas**, flores endémicas de Chile, en preciosas tonalidades rosadas, amarillas, rojizas y coral.
+
+::: {.galeria}
+![Añañucas](añañucas_1.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](añañucas_2.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](añañucas_3.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](añañucas_4.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](añañucas_5.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](añañucas_6.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](añañucas_7.jpeg){.fotito .lightbox group="Añañucas"}
+:::
+
+:::: {.boton style="width: 400px;"}
+[{{< fa brands instagram size=2x >}} Instagram Panul Parque Comunitario](https://www.instagram.com/panulparquecomunitario/)
+::::
+
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7622730022054268181" height="740" width="400"></iframe>
+:::
+::::
