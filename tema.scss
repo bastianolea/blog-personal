@@ -392,7 +392,7 @@ border-top: 1px solid $background !important;
 
 .contenedor_libro {
   align-items: center;
-  width: 130px !important;
+  /*width: 130px !important;*/
   margin: auto;
   margin-top: 0;
 }
@@ -405,7 +405,7 @@ border-top: 1px solid $background !important;
   opacity: 97%;
   
   img {
-      height: 170px;
+      height: 160px;
       border-radius: 4px;
       border: solid 1px #26222E;
   }
