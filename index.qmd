@@ -4,24 +4,37 @@ image: imagenes/bastian_olea.jpg
 about:
   template: jolla
   links:
-    - icon: heart
+    - icon: heart-fill
       text: Blog
       href: blog.qmd
+    - icon: file-earmark-bar-graph-fill
+      text: Blog de análisis de datos y R
+      href: https://bastianolea.rbind.io
     - icon: twitter
       text: Twitter
       href: https://x.com/bastimapache
     - icon: instagram
       text: Instagram
       href: https://www.instagram.com/raccunnie
+    - icon: tiktok
+      text: Tiktok
+      href: https://www.tiktok.com/@bastimapache
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/bastianolea
-    - icon: github
+    - icon: file-earmark-code-fill
       text: Github
       href: https://github.com/bastianolea
-    - icon: link
-      text: Blog de análisis de datos
-      href: https://bastianolea.rbind.io
+    - icon: bicycle
+      text: Strava
+      href: https://www.strava.com/athletes/12471558
+    - icon: book-fill
+      text: Goodreads
+      href: https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera
+    - icon: music-note-beamed
+      text: LastFm
+      href: https://www.last.fm/user/bastimapache
+
 
 ---
 

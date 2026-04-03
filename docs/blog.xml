@@ -10,7 +10,32 @@
 <atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Sat, 28 Mar 2026 03:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 31 Mar 2026 03:00:00 GMT</lastBuildDate>
+<item>
+  <title>Álbumes del mes: marzo 2026</title>
+  <link>https://bastimapache.cl/posts/musica/albumes_2026-03/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen de los álbumes más escuchados durante marzo de 2026 según <a href="https://www.last.fm/user/bastimapache">mi perfil de Last.fm</a>.</p>
+<div class="foto centrar">
+<p><a href="lastfm-bastimapache-album-grid-2025-03.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://bastimapache.cl/posts/musica/albumes_2026-03/lastfm-bastimapache-album-grid-2025-03.jpg" class="img-fluid"></a></p>
+</div>
+<p>Este mes sigue liderando <em>Hidden Fires Burn Hottest</em>, lo nuevo de <strong>Bosse-de-Nage</strong> con su post black metal lleno de emoción y crudeza poética.</p>
+<p>También hay álbumes increíbles como <em><a href="https://www.last.fm/music/Boris+with+Merzbow/Rock+Dream">Rock Dream</a></em> de <strong>Boris con Merzbow</strong>, un disco en vivo que potencia el rock pesado y psicodélico de Boris con el implacable ruido improvizado de Masami Akita.</p>
+<p>Hay harto ruido con <strong><a href="https://www.last.fm/music/Psywarfare">Psywarfare</a></strong>, <strong><a href="https://www.last.fm/music/Alberich">Alberich</a></strong> y <strong><a href="https://www.last.fm/music/Yellow+Swans">Yellow Swans</a></strong>, y también destaco el <em>blackened hardcore</em> de <strong><a href="https://www.last.fm/music/The+Secret">The Secret</a></strong>.</p>
+<p>Como siempre, mucho de mi jazzista favorita, <strong><a href="https://www.last.fm/music/Mary+Halvorson">Mary Halvorson</a></strong>, en sus múltiples colaboraciones.</p>
+
+
+
+ ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/albumes_2026-03/</guid>
+  <pubDate>Tue, 31 Mar 2026 03:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Jornada de limpieza del bosque Panul</title>
   <link>https://bastimapache.cl/posts/2026-03-29/</link>
@@ -2082,38 +2107,6 @@ Martes a las 10 de la noche y ya han pasado casi 2.000 ciclistas por la cicloví
   <guid>https://bastimapache.cl/posts/musica/live_psywarfare/</guid>
   <pubDate>Thu, 23 Oct 2025 03:00:00 GMT</pubDate>
   <media:content url="https://bastimapache.cl/posts/musica/live_psywarfare/psywarfare_chile_2.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Sunset Images en Chile</title>
-  <link>https://bastimapache.cl/posts/musica/live_sunset_images/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="centrar">
-<p><img src="https://bastimapache.cl/posts/musica/live_sunset_images/sunset_images_chile.jpeg" class="foto img-fluid"></p>
-</div>
-<p>Excelente concierto de los mexicanos <strong>Sunset Images</strong> en <em>Warehouse</em>, junto a los excelentes nacionales <strong>IIII</strong> y <strong>La Bestia de Gevaudan</strong>.</p>
-<div class="centrar">
-<div class="tiktok">
-<iframe src="https://www.tiktok.com/embed/v2/7572369036311285012" height="740" width="400">
-</iframe>
-</div>
-</div>
-<p>Aquí el afiche:</p>
-<div class="centrar">
-<p><img src="https://bastimapache.cl/posts/musica/live_sunset_images/sunset_images_afiche.jpg" class="foto img-fluid"></p>
-</div>
-
-
-
- ]]></description>
-  <category>música</category>
-  <category>videos</category>
-  <guid>https://bastimapache.cl/posts/musica/live_sunset_images/</guid>
-  <pubDate>Sun, 12 Oct 2025 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
