@@ -5,12 +5,15 @@ format: html
 categories: [ciclismo]
 ---
 
+Uso diariamente la nueva Ciclovía Alameda, y realmente ha cambiado mi forma de movilizarme por la ciudad. El tiempo de ahorro en el traslado es considerable, pero por sobre todo, la seguridad que ganas al contar con una vía para bicicletas versus tener que compartir la Alameda con otros autos. Sumado a eso, el hecho de contar ocn una ciclovía de primer nivel vuelve factibles de usar a otras ciclovías que conectaban con la Alameda, potenciándolas también.
+
+Fuera de exageración, creo que es la política de Estado que más me ha beneficiado 🥹
 
 
-![](IMG_7609.jpeg){.foto}
+![Infraestructura para reparar bicicletas en la ciclovía Alameda](IMG_7609.jpeg){.foto}
 
 
-![](IMG_7348.jpeg){.foto}
+![Contador de bicicletas en la Ciclovía Alameda](IMG_7348.jpeg){.foto}
 
 ::: {.twitter .centrar}
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Martes a las 10 de la noche y ya han pasado casi 2.000 ciclistas por la ciclovía de la Alameda. Para los que dicen que esta infraestructura está de más 🚲 <a href="https://t.co/C1UTZS19In">pic.twitter.com/C1UTZS19In</a></p>&mdash; Bastián Olea 🌸 (@bastimapache) <a href="https://twitter.com/bastimapache/status/2008711597116846121?ref_src=twsrc%5Etfw">January 7, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
