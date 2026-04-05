@@ -5,7 +5,7 @@ library(ggview)
 library(here)
 library(glue)
 
-año <- 2025
+año <- 2026
 color_fondo <- "#26222E"
 
 # imágenes de la carpeta
@@ -32,14 +32,14 @@ imagen_a_ggplot <- function(ruta) {
 plots <- lapply(archivos, imagen_a_ggplot)
 
 # unir gráficos en un mosaico
-mosaico <- wrap_plots(plots, ncol = 8) &
+mosaico <- wrap_plots(plots, ncol = 6) &
   theme(plot.background = element_rect(fill = color_fondo, colour = NA),
         panel.background = element_rect(fill = color_fondo, colour = NA))
 
 # previsualizar
 mosaico +
   canvas(width = 10, 
-         height = 7.7,
+         height = 5.4,
          units = "in", 
          bg = color_fondo)
 
