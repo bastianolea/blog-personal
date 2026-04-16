@@ -1,0 +1,40 @@
+---
+title: "Álbumes favoritos"
+# subtitle: ""
+date: "2026-03-20"
+draft: true
+categories: [música]
+---
+
+<!---  
+::: {.playlist .centrar}
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cl/playlist/favs-the-body/pl.u-mJy8y9JuBAM8JK"></iframe>
+:::
+--->
+
+### Kayo Dot: Choirs of the Eye
+rock progresivo, rock avant-garde
+
+### Magma: 1.001° Centigrades
+rock progresivo, jazz rock
+
+### Between the Buried and Me: Colors
+metal progresivo
+
+### Maudlin of the Well: Part the Second
+rock progresivo, rock avant-garde
+
+### Rosetta: The Galilean Satellites
+sludge, post metal
+
+### Mary Halvorson: Code Girl
+jazz avant-garde
+
+### Cynic: Traced In Air
+death metal progresivo, metal fusion
+
+### The Faceless: Planetary Duality
+death metal técnico
+
+### Victory Over The Sun: Dance You Monster to my Soft Song!
+metal progresivo, black metal, metal avant-garde
