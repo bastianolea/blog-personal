@@ -1,8 +1,10 @@
 ---
 title: "Defensa de tesis: Elementos teóricos y conceptuales en torno a la estigmatización social de las corporalidades gordas"
+subtitle: "Defensa de tesis para optar al grado de magíster en sociología"
 date: 2020-10-30
 categories: 
   - "gordura"
+  - "destacado"
 tags: 
   - "abyeccion"
   - "apariencia"
@@ -15,7 +17,7 @@ tags:
   - "sociologia-del-cuerpo"
 ---
 
-> El siguiente texto son los apuntes que usé para resumir la totalidad de mi [tesis de magíster](http://bastian.olea.biz/elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/) manteniendo los detalles de conceptos y autorxs, y de ese modo prepararme para su defensa ante la comisión. Leí estos apuntes demasiadas veces antes de defender. Comparto este material pues puede servir como resumen de argumentos, conceptos y fuentes académicas para otras personas que deseen estudiar la temática de la gordofobia o gordo odio. Las ideas van en formato “cascada”, por lo que la indentación de los puntos indica que son unas temáticas dentro de otras. Las [diapositivas de apoyo también están disponibles en este post.](https://bastian.olea.biz/presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/)
+> El siguiente texto son los apuntes que usé para resumir la totalidad de mi [tesis de magíster](/posts/2019/2019-01-29-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/) manteniendo los detalles de conceptos y autorxs, y de ese modo prepararme para su defensa ante la comisión. Leí estos apuntes demasiadas veces antes de defender. Comparto este material pues puede servir como resumen de argumentos, conceptos y fuentes académicas para otras personas que deseen estudiar la temática de la gordofobia o gordo odio. Las ideas van en formato “cascada”, por lo que la indentación de los puntos indica que son unas temáticas dentro de otras. Las [diapositivas de apoyo también están disponibles en este post.](/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/index.html)
 
 **Objetivo general de la tesis:**
 
