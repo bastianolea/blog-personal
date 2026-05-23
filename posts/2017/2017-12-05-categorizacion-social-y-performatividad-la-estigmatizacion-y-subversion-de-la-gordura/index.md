@@ -18,7 +18,7 @@ tags:
   - "salud"
 ---
 
-\[caption id="attachment\_162" align="aligncenter" width="840"\]![](images/Danae-17th-1024x736.jpg) Danae (c. siglo XVII)\[/caption\]
+![Danae (c. siglo XVII)](images/Danae-17th-1024x736.jpg)
 
 _Ensayo final para el seminario de teoría sociológica contemporánea, dictado en el doctorado de sociología de la Universidad Católica de Chile. En este texto se esboza un modelo teórico del mecanismo de estigmatización de la gordura, el cual contempla la repetición performativa de discursos acerca de  las múltiples dimensiones de desigualdad social que producen o tipifican a las corporalidades gordas, imprimiendo y reproduciendo significados negativos sobre dichos cuerpos, lo cual marca simbólicamente a la gordura, ubicando a dichos cuerpos en posiciones discursivas que resultan cruciales para la reproducción de ciertas formas de discriminación y opresión social._<!--more-->
 

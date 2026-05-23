@@ -4,6 +4,7 @@ date: 2018-02-17
 categories: 
   - "destacado"
   - "gordura"
+  - "cuerpo"
 tags: 
   - "belleza"
   - "cuerpo"

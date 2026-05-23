@@ -2,7 +2,7 @@
 title: "Resumen: La lucha contra el cuerpo rebelde - Silvia Federici"
 date: 2021-07-26
 categories: 
-  - "gordura"
+  - "cuerpo"
   - "sociología"
 tags: 
   - "capitalismo"

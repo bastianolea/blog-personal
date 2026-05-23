@@ -4,7 +4,6 @@ date: 2021-08-12
 categories: 
   - "destacado"
   - "género"
-  - "gordura"
   - "masculinidades"
   - "sociología"
 tags: 

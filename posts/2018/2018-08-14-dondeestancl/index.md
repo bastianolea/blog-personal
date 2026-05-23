@@ -9,10 +9,8 @@ tags:
   - "dictadura"
   - "terrorismo-estatal"
   - "violencia"
-coverImage: "Donde-están-thumbx2.jpg"
+image: "1.-Título-infografía-violaciones-a-los-derechos-humanos-dictadura.jpg"
 ---
-
-![](images/ToySoldiers_SimonBrannThorpe_L_Budraiga_02.4d8d87b20d8145fc9c86ad50451806c1.jpg)
 
 #### [Existe una nueva versión de esta infografía en su propio sitio web, con más datos, nueva información y más gráficos. Has clic aquí para visitar la nueva versión.](https://bastianolea.github.io/violaciones_ddhh_chile/)
 

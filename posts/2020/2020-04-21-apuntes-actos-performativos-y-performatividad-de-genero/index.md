@@ -3,7 +3,6 @@ title: "Apuntes: Actos performativos y performatividad de género - Judith Butle
 date: 2020-04-21
 categories: 
   - "género"
-  - "gordura"
   - "sociología"
 tags: 
   - "butler"

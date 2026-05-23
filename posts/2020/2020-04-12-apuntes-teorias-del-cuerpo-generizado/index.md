@@ -3,7 +3,7 @@ title: "Apuntes: Teoría feminista y el cuerpo"
 date: 2020-04-12
 categories: 
   - "género"
-  - "gordura"
+  - "cuerpo"
   - "sociología"
 tags: 
   - "cuerpo"
