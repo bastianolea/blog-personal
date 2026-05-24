@@ -23,6 +23,13 @@ Para fotos grandes y centradas:
 ::: {.foto .centrar}
 ```
 
+Para galería de fotos:
+```
+:::: {.galeria}
+![](brevet_300_rapel_1.jpeg){.fotito .lightbox group="rapel"}
+![](brevet_300_rapel_1.jpeg){.fotito .lightbox group="rapel"}
+:::
+```
 
 
 ### Embeds
