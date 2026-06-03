@@ -33,6 +33,13 @@ Para galería de fotos:
 
 
 ### Embeds
+
+#### Instagram
+
+````
+:::: {.instagram .centrar}
+````
+
 #### Tiktok
 
 ````

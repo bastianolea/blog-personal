@@ -1,0 +1,33 @@
+---
+title: "Centro de detención y tortura 3 y 4 Álamos"
+subtitle: "Día de los patrimonios 2026"
+date: "2026-05-31"
+categories: 
+  - "política"
+  - "fotos"
+  - "videos"
+format: html
+image: "3y4alamos_1.jpeg"
+---
+
+:::: {.galeria}
+![](3y4alamos_10.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_2.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_11.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_4.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_5.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_3.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_12.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_6.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_7.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_8.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_13.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_14.jpeg){.fotito .lightbox group="alamos"}
+![](3y4alamos_9.jpeg){.fotito .lightbox group="alamos"}
+:::
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7646306749414198549" height="740" width="400"></iframe>
+:::
+::::

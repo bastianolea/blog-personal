@@ -1,0 +1,29 @@
+---
+title: "Tocata: Inside's Death"
+subtitle: "Bar Óxido"
+date: "2026-05-29"
+categories: 
+  - "música"
+  - "videos"
+image: "banner.jpg"
+format: html
+---
+
+
+:::: {.galeria}
+![](tocata_1.jpeg){.fotito .lightbox group="tocata"}
+![](tocata_3.jpeg){.fotito .lightbox group="tocata"}
+![](tocata_4.jpeg){.fotito .lightbox group="tocata"}
+![](tocata_5.jpeg){.fotito .lightbox group="tocata"}
+:::
+
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7646230791546080532" height="740" width="400"></iframe>
+:::
+::::
+
+
+::: {.foto .centrar}
+![](afiche.jpg)
+:::

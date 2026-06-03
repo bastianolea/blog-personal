@@ -4,8 +4,8 @@ date: "2026-05-24"
 categories: 
   - "yo"
   - "videos"
+image: false
 format: html
-image: "portada.jpg"
 ---
 
 A veces el algoritmo de TikTok les da muchas visitas a videos equis. Me pasó con uno mostrando un outfit que llegó a 25 mil visitas, y por consiguiente se llenó de **cientos de comentarios de odio.** 

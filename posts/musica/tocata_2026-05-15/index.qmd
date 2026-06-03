@@ -1,5 +1,6 @@
 ---
-title: "Tocata: Worms Fest 3 en Bar Óxido"
+title: "Tocata: Worms Fest 3"
+subtitle: "Bar Óxido"
 format: html
 date: "2026-05-15"
 image: IMG_1914.jpeg
