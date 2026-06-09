@@ -4,6 +4,7 @@ date: 2017-08-09
 categories: 
   - "género"
   - "masculinidades"
+  - "yo"
 tags: 
   - "antifeminismo"
   - "feminismo"
@@ -15,7 +16,7 @@ tags:
   - "patriarcado"
 ---
 
-\[caption id="attachment\_128" align="alignright" width="241"\]![Judit decapitando a Holofernes (1614), por Artemisia Gentileschi](images/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust-241x300.jpg) “Judit decapitando a Holofernes” (1614), por Artemisia Gentileschi.\[/caption\]
+![Judit decapitando a Holofernes (1614), por Artemisia Gentileschi](images/Artemisia_Gentileschi_-_Giuditta_decapita_Oloferne_-_Google_Art_Project-Adjust-241x300.jpg) 
 
 Hace casi dos semanas, he sido foco de intenso hostigamiento por redes sociales, por el mero hecho de sostener opiniones distintas y opuestas a la de machistas y anti-feministas. Durante estos días, fotos mías, de mi perfil de Twitter, y tuits míos han rondado por páginas de estas tendencias en Facebook, y por diversos foros. El ataque ha tenido tal alcance que personas desconocidas me han reconocido en la calle al ver memes o publicaciones denostándome, y muchísimas personas me han contactado por redes sociales al verme expuesto y humillado por otros medios.
 
@@ -51,7 +52,7 @@ Poseer un pene y recordarlo de forma constante, así como violentar y repudiar a
 
 Jotear _minas_, subir y compartir porno, llamar a sus amigos _maricones_ y bromear con la homosexualidad como inferiorización, denostar a cualquier hombre “sin falo”, rechazar la homosexualidad, repudio y violencia contra las mujeres con apariencias no normativas y transgénero, enviar mensajes indeseados a mujeres, fobia a cualquier indicio de feminidad en ellos mismos o cualquier otro hombre, reafirmación a lo que es y no es de hombre (por muy tonta que sea la distinción), valorar o repudiar mujeres bajo criterios sexistas... Aquellos son algunos de los comportamientos masculino-patriarcales que indican estrategias para demarcar la pertenencia al género, afirmando a la vez que diferenciando las distintas posiciones identitarias y genéricas dentro del ideal binario patriarcal. De ahí que tantos insultos recurran a una apariencia afeminada u homosexual, o a una supuesta falta de genitales. Un curioso producto de esta lógica falocéntrica es la fijación de los machistas y antifeministas con los denominados “bragapenes" (o _strap-on_ en inglés: penes plásticos acoplados a un calzón). Los bragapenes les producen gracia porque son literalmente penes postizos (o _falos desacoplables_ en la jerga de Lacan) que simbolizan una falsa masculinidad, un supuesto deseo de pertenencia a este grupo de los machos que se trunca al no poseer el falo que tanto aprecian, su supuesto certificado de inclusión en el grupo de los privilegiados. La contraparte de este concepto es la burla contra el hombre que gusta de ser penetrado, basada en un sencillo mecanismo de demarcación del nosotros vs. ellos, nosotros "los machos" en contraposición a "los huecos, las maracas, los negros", es decir, _los penetrados,_ todos aquellos no merecen compartir el privilegio masculino que los machistas tan fehacientemente defienden. Es sencillamente una lógica de discriminación cuyo objetivo es el de mantener la ficción de que los machos hétero merecen los privilegios especiales que gozan.
 
-### **Porsilaponguismo**
+### Porsilaponguismo
 
 Otra acusación fue la de que los hombres feministas son _porsilaponguistas_. “_Por si la pongo”_ es un concepto que refiere a actitudes realizadas con el puro objetivo de “ponerlo”, es decir, de convencer mujeres para que accedan al sexo. La premisa del _porsilapongo_ es que las acciones de los machistas remiten a engañar mujeres, pretendiendo ser de cierta manera con el objetivo de que accedan a tener sexo con ellos. Esto implica que el hombre genera un falso relato: por ejemplo, se dice _feminista_ para atraer mujeres; pero también significa que la mujer _cae_ en el engaño del porsilaponguista, de lo cual se deriva (según el discurso de estos machistas) que las mujeres son _tontas_ o _fáciles_ por haber creído en el engaño. En este sentido, _porsilapongo_ es más un insulto contra las mujeres que le creen a los machistas, quienes ven y usan a las mujeres como objetos sexuales que deben ser _conquistados_ con engaños (o violencia psicológica) para satisfacer el deseo masculino.
 
@@ -59,6 +60,4 @@ Una acusación de este tipo no sorprende, puesto que este grupo de hombres proba
 
 * * *
 
-Finalmente, queda enfrentar las críticas en mi contra de parte de otras y otros feministas (o antifeministas aprovechándose de una retórica esencialista y separatista de la militancia feminista), lo cual intento en [este breve texto.](http://bastian.olea.biz/la-im-posibilidad-de-ser-un-hombre-feminista/)
-
-Bastián Olea Herrera
+Finalmente, queda enfrentar las críticas en mi contra de parte de otras y otros feministas (o antifeministas aprovechándose de una retórica esencialista y separatista de la militancia feminista), lo cual intento en [este breve texto.](/posts/2018/2018-03-14-la-im-posibilidad-de-ser-un-hombre-feminista/)

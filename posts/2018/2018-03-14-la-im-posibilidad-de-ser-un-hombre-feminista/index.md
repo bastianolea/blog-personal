@@ -4,6 +4,7 @@ date: 2018-03-14
 categories: 
   - "género"
   - "masculinidades"
+  - "yo"
 tags: 
   - "feminismo"
   - "masculinidades"
@@ -24,9 +25,3 @@ Entiendo que la lucha feminista se ejerce contra las prácticas e ideas patriarc
 Ser un hombre feminista tiene que implicar participación activa en la desmantelación del patriarcado en todos los aspectos del mundo social, particularmente en aquellos que son propiamente masculinos. Implica luchar por el feminismo como proyecto político y social desde nuestra trinchera, y colaborar en la trinchera de las feministas siempre que ellas lo consideren necesario.
 
 Nuestra participación no pretende socavar las necesidades de espacios seguros para mujeres, removidos del oportunismo masculino (que tanto sobra en la política) y la voz masculina (tan sobre-representada en todos los aspectos), ni tampoco negar la completa validez de los espacios separatistas dentro de la lucha feminista. El hombre en el feminismo, en tanto sujeto antipatriarcal, puede participar en el movimiento social feminista mediante organizaciones donde su presencia sea pertinente, y siempre en un segundo nivel, ejerciendo apoyo y solidaridad sin intervenir ni aspirar al protagonismo; es decir, siempre bajo una actitud activamente antipatriarcal. Al fin y al cabo, la posibilidad de _ser_ o no un hombre feminista depende de nuestras compañeras, pero el compromiso con la despatriarcalización de la sociedad es algo a lo que, como hombres afines al proyecto feminista, no podemos renunciar.
-
-Bastián Olea Herrera.
-
-* * *
-
-_Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, licenciado y magíster en sociología (Pontificia Universidad Católica de Chile)._
