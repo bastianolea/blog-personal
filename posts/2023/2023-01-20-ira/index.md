@@ -4,6 +4,7 @@ date: 2023-01-20
 categories: 
   - "género"
   - "masculinidades"
+  - "yo"
 tags: 
   - "masculinidades"
   - "poesia"

@@ -1,40 +1,34 @@
 ---
-title: "Comentarios de odio parte 4.564"
+title: "Comentarios de odio, parte 4.564"
+subtitle: "Odio y burlas en TikTok"
 date: "2026-05-24"
 categories: 
   - "yo"
-  - "videos"
-image: false
+image: acoso_3.jpeg
 format: html
 ---
 
 A veces el algoritmo de TikTok les da muchas visitas a videos equis. Me pasó con uno mostrando un outfit que llegó a 25 mil visitas, y por consiguiente se llenó de **cientos de comentarios de odio.** 
 
-:::: {.centrar}
-::: {.tiktok}
-<iframe src="https://www.tiktok.com/embed/v2/7599152591737539851" height="740" width="400"></iframe>
-:::
-::::
-
 Se llenó de gente burlándose de mi apariencia, haciendo bromas de mi género, y lamentándose por el estado de la humanidad. Como si pintarse un poco y ponerse ropa escasamente femenina fuera algo terrible.
 
 :::: {.galeria}
-![](IMG_2154.jpeg){.fotito .lightbox group="tiktok"}
-![](IMG_2153.jpeg){.fotito .lightbox group="tiktok"}
-![](IMG_2152.jpeg){.fotito .lightbox group="tiktok"}
-![](IMG_2151.jpeg){.fotito .lightbox group="tiktok"}
-![](IMG_2150.jpeg){.fotito .lightbox group="tiktok"}
-![](IMG_2149.jpeg){.fotito .lightbox group="tiktok"}
+![](acoso_1.jpeg){.fotito .lightbox group="tiktok"}
+![](acoso_2.jpeg){.fotito .lightbox group="tiktok"}
+![](acoso_3.jpeg){.fotito .lightbox group="tiktok"}
+![](acoso_4.jpeg){.fotito .lightbox group="tiktok"}
+![](acoso_5.jpeg){.fotito .lightbox group="tiktok"}
+![](acoso_6.jpeg){.fotito .lightbox group="tiktok"}
 ::::
 
 Ya me había pasado antes en todo caso. Me pasa siempre que algo que digo llega al lado incorrecto de internet y la gente se burla por mi foto de perfil o cualquier indicio de feminidad. Por lo menos salieron amiguitas mías a defenderme 🩷
 
-El outfit en cuestión:
+El video en cuestión:
 
-:::: {.galeria}
-![](outfit_1.jpeg){.fotito .lightbox group="outfit"}
-![](outfit_2.jpeg){.fotito .lightbox group="outfit"}
-![](outfit_3.jpeg){.fotito .lightbox group="outfit"}
+:::: {.centrar}
+::: {.tiktok}
+<iframe src="https://www.tiktok.com/embed/v2/7599152591737539851" height="740" width="400"></iframe>
+:::
 ::::
 
 Lo único bueno de la situación fue exponer a 25 mil personas a el medio tema de **Bosse-de-Nage**:

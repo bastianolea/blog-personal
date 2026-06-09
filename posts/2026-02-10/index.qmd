@@ -3,7 +3,8 @@ title: "Cambio de carnet de identidad"
 date: "2026-02-10"
 image: "IMG_8470.jpeg"
 format: html
-categories: [género]
+categories: 
+  - "yo"
 ---
 
 Luego de años de tramitación judicial, pude cambiar el sexo registral de mi partida de nacimiento y carnet de identidad por el marcador _X_, que representa al género **no binario**.

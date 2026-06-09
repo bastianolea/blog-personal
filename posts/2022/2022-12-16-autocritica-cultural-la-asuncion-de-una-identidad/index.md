@@ -5,6 +5,7 @@ categories:
   - "destacado"
   - "género"
   - "masculinidades"
+  - "yo"
 tags: 
   - "estudios-de-genero"
   - "feminismo"
