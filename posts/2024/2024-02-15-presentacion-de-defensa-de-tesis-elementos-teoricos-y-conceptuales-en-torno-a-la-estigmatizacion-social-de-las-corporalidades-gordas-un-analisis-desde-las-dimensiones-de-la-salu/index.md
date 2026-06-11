@@ -13,7 +13,7 @@ tags:
   - "salud"
 ---
 
-> Esta es la presentación de diapositivas que usé para defender mi [tesis de magíster](/posts/2019/2019-01-29-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/) acerca de los procesos que explican la gordofobia, o el fenómeno de discriminación de las personas gordas. También puedes [leer los apuntes](/posts/2020/2020-10-30-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas/) que hice para prepararme.
+> Esta es la presentación de diapositivas que usé para defender mi [tesis de magíster](/posts/2019/2019-01-29-tesis-magister-estigmatizacion-gordura-salud-apariencia/) acerca de los procesos que explican la gordofobia, o el fenómeno de discriminación de las personas gordas. También puedes [leer los apuntes](/posts/2020/2020-10-30-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas/) que hice para prepararme.
 
 - Leer/descargar en [Scribd](https://es.scribd.com/document/705939074/Defensa-de-tesis-Elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas)
 

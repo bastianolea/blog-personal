@@ -1,7 +1,7 @@
 ---
 title: "Ponencia: La estigmatización social de las corporalidades gordas"
 subtitle: "Ponencia presentada en el 10° Congreso de Sociología Pre-ALAS 2018"
-date: 2020-10-30
+date: 2018-10-30
 categories: 
   - "gordura"
   - "destacado"
@@ -17,7 +17,7 @@ coverImage: "Presentacion-ponencia.001.jpeg"
 
 ![](images/Presentacion-ponencia.001.jpeg)
 
-> Este texto es un resumen de una ponencia basada en mi [tesis de magíster,](/posts/2019/2019-01-29-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/) presentada en el [10° Congreso de Sociología Pre-ALAS 2018](http://sociologia-alas.org/2018/08/21/pre-alas-diciembre-2018-chile/) en la Universidad Arturo Prat, Iquique, en el grupo de trabajo (GT) 17 [Sociología del cuerpo y las emociones.](http://www.facso.uchile.cl/sociologia/investigacion/61718/nucleo-sociologia-del-cuerpo)
+> Este texto es un resumen de una ponencia basada en mi [tesis de magíster,](/posts/2019/2019-01-29-tesis-magister-estigmatizacion-gordura-salud-apariencia/) presentada en el [10° Congreso de Sociología Pre-ALAS 2018](http://sociologia-alas.org/2018/08/21/pre-alas-diciembre-2018-chile/) en la Universidad Arturo Prat, Iquique, en el grupo de trabajo (GT) 17 [Sociología del cuerpo y las emociones.](http://www.facso.uchile.cl/sociologia/investigacion/61718/nucleo-sociologia-del-cuerpo)
 
 Esta ponencia se basa en mi investigación de tesis de magíster, terminada hace pocas semanas.
 
@@ -37,7 +37,7 @@ Cuando hablamos de la estigmatización social de la gordura, nos referimos a la 
 
 Vivimos en una **sociedad gordofóbica,** donde ya sea en medios de comunicación, en conversaciones, en las imágenes que nos rodean, en redes sociales, y en las producciones culturales, percibimos cómo la gordura se ha vuelto un **atributo profundamente desacreditante,**siguiendo el concepto de Erving Goffman.
 
-Por lo tanto, a partir de la estigmatización se **atribuyen significados** sociales a un atributo físico, **construyéndolo** de manera negativa.
+Por lo tanto, a partir de la estigmatización se **atribuyen significados** sociales a un atributo físico, **construyéndolo** de manera negativa.
 
 Para el análisis de este fenómeno, se divide la temática en dos dimensiones.
 

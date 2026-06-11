@@ -1,636 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bastianolea.github.io/index.html</loc>
-    <lastmod>2026-03-19T13:58:12.852Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/blog.html</loc>
-    <lastmod>2026-03-18T15:45:52.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2026-03-05.html</loc>
-    <lastmod>2026-03-18T20:15:03.138Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2016/2016-11-07-la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/index.html</loc>
-    <lastmod>2026-03-18T20:17:30.476Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2016/2016-10-31-discriminacion-de-la-gordura-y-su-relacion-con-el-capitalismo-el-genero-y-la-clase/index.html</loc>
-    <lastmod>2026-03-18T20:16:43.224Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2016/2016-12-24-la-estigmatizacion-de-la-gordura-femenina-reproduccion-simbolico-cultural-del-estatus-social-de-la-delgadez/index.html</loc>
-    <lastmod>2026-03-18T21:03:55.390Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/introduccion.html</loc>
-    <lastmod>2026-03-18T20:15:07.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-14-la-im-posibilidad-de-ser-un-hombre-feminista/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.967Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-31-materialidad-capitalismo/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-04-20-disatisfaccion-corporal-en-cuerpos-femeninos-racializados/index.html</loc>
-    <lastmod>2026-03-17T14:00:34.971Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-12-06-gordofobia-prejuicios/index.html</loc>
-    <lastmod>2026-03-17T14:00:35.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-07-03-racismo-y-xenofobia-al-alero-del-nacionalismo/index.html</loc>
-    <lastmod>2026-03-18T20:18:49.494Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-05-29-desigualdad-de-ingresos/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-02-gordofobicos/index.html</loc>
-    <lastmod>2026-03-18T20:18:04.310Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-10-hombres-contra-el-machismo/index.html</loc>
-    <lastmod>2026-03-18T20:18:12.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-01-26-escuela-libre-la-cisterna/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.875Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-12-06-la-practica-de-la-dieta-y-su-referencia-al-pecado-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-18T20:19:37.365Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-30-apuntes-genero-y-actos-performativos/index.html</loc>
-    <lastmod>2026-03-18T20:18:31.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-06-04-contexto-y-cambio-social-desde-la-linguistica-sistemico-funcional/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-04-21-apuntes-actos-performativos-y-performatividad-de-genero/index.html</loc>
-    <lastmod>2026-03-18T20:20:00.648Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-10-30-ponencia-la-estigmatizacion-social-de-las-corporalidades-gordas/index.html</loc>
-    <lastmod>2026-03-18T20:20:16.908Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-04-13-apuntes-diferencia-sexual-lo-abyecto-y-la-performatividad-cuerpos-que-importan-judith-butler/index.html</loc>
-    <lastmod>2026-03-18T20:19:52.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-04-12-apuntes-teorias-del-cuerpo-generizado/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.859Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-10-05-nelly-richard-la-critica-feminista-como-modelo-de-critica-cultural/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.039Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-03-19-apuntes-introduccion-al-concepto-de-genero-desde-una-perspectiva-historica/index.html</loc>
-    <lastmod>2026-03-18T20:21:26.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-18-griselda-pollock-vision-voz-y-poder-historias-feministas-del-arte-y-marxismo/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.856Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-09-05-rosi-braidotti-por-la-senda-del-nomadismo/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.032Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-09-13-figurando-una-subjetividad-no-binaria/index.html</loc>
-    <lastmod>2026-03-18T20:48:03.655Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-18-karen-cordero-la-escritura-de-la-historia-del-arte-sumandose-subjetividades-nuevas-objetivaciones/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.852Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-las-teorias-de-genero-o-el-lenguaje-es-un-virus/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.052Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-24-teresita-de-barbieri-sobre-la-categoria-de-genero-una-introduccion-teorico-metodologica/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.004Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-12-mapa-conceptual-la-dominacion-masculina-pierre-bourdieu/index.html</loc>
-    <lastmod>2026-03-18T20:48:04.235Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-10-05-rosi-braidotti-organos-sin-cuerpos/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.845Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-06-06-mapa-conceptual-variaciones-sobre-sexo-y-genero-judith-butler/index.html</loc>
-    <lastmod>2026-03-18T20:21:59.637Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-04-15-apuntes-el-concepto-de-genero/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.986Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-la-etica-de-la-diferencia-sexual-el-caso-de-foucault-e-irigaray/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.840Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-18-judith-butler-politica-de-genero-y-el-derecho-a-aparecer/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.024Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-16-julieta-kirkwood-el-feminismo-como-negacion-del-autoritarismo/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.020Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-24-julia-kristeva-stabat-mater/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-07-18-mapa-conceptual-ideologia-terry-eagleton/index.html</loc>
-    <lastmod>2026-03-18T20:22:19.856Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-21-giorgio-agamben-gusto/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.836Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-04-09-apuntes-igualdad-versus-diferencia-en-el-feminismo/index.html</loc>
-    <lastmod>2026-03-18T20:21:21.762Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-08-09-analisis-critico-del-hostigamiento-machista-en-mi-contra-y-un-comentario-acerca-de-los-hombres-y-el-feminismo/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-06-24-marx-y-bourdieu-sobre-la-constitucion-de-la-estructura-social-actual/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.831Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-10-24-apuntes-sociologia-del-cuerpo/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.826Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-06-27-video-que-es-la-gordofobia/index.html</loc>
-    <lastmod>2026-03-17T14:00:34.472Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-05-12-democracia-y-la-sociologia-como-arma-de-la-critica/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.825Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-08-07-mestizaje-como-fuente-de-identidad-racial/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.821Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-06-24-latour-y-giddens-el-poder-en-la-reproduccion-del-marco-social/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.819Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.818Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.062Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-17T14:34:57.010Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-18T15:36:16.092Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2022/2022-12-16-gordofobia-sus-razones-sus-prejuicios-y-su-superacion/index.html</loc>
-    <lastmod>2026-03-17T14:00:36.522Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2022/2022-12-17-resumen-r-w-connell-masculinidades-capitulo-1-la-ciencia-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2022/2022-12-16-autocritica-cultural-la-asuncion-de-una-identidad/index.html</loc>
-    <lastmod>2026-03-18T20:15:24.115Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-feminidad-poder-y-disciplina/index.html</loc>
-    <lastmod>2026-03-18T20:48:04.818Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-fenomenologia-de-la-conciencia-femenina/index.html</loc>
-    <lastmod>2026-03-18T20:48:05.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-opresion-y-alienacion-en-la-feminidad/index.html</loc>
-    <lastmod>2026-03-18T20:47:59.470Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/index.html</loc>
-    <lastmod>2026-03-18T15:32:26.502Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/index.html</loc>
-    <lastmod>2026-03-17T14:00:36.797Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2023/2023-01-20-ira/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.061Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-17T14:34:57.011Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-12-05-categorizacion-social-y-performatividad-la-estigmatizacion-y-subversion-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-17T14:00:34.646Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-08-07-violencia-en-america-latina-dos-aproximaciones/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.823Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-06-09-feminidad-y-gordofobia-ideales-de-belleza-como-estrategias-de-opresion-femenina/index.html</loc>
-    <lastmod>2026-03-17T14:00:34.347Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-01-10-que-es-la-gordofobia/index.html</loc>
-    <lastmod>2026-03-18T20:17:17.456Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-08-07-el-rastro-de-los-huesos-las-desapariciones-forzosas-desde-dos-perspectivas/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.829Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2017/2017-08-07-intolerancia-estereotipos-y-exclusion-grupal/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2019/2019-01-29-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.834Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-04-26-apuntes-indagaciones-acerca-de-los-significados-sexuales/index.html</loc>
-    <lastmod>2026-03-18T20:21:15.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-31-apuntes-los-origenes-de-la-jerarquia-de-genero/index.html</loc>
-    <lastmod>2026-03-18T20:21:54.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-04-20-apuntes-el-trafico-de-mujeres-notas-sobre-la-economia-politica-del-sexo/index.html</loc>
-    <lastmod>2026-03-18T20:21:18.710Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-04-27-apuntes-el-segundo-sexo-introduccion-simone-de-beauvoir/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.991Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-04-09-apuntes-genero-y-lenguaje/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.984Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-24-alejandra-castillo-el-desorden-de-la-democracia/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.994Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-03-23-apuntes-el-genero-una-categoria-util-para-el-analisis-historico/index.html</loc>
-    <lastmod>2026-03-18T20:21:24.326Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-24-judith-butler-actos-performativos-y-constitucion-del-genero-un-ensayo-sobre-fenomenologia-y-teoria-feminista/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.999Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-07-26-silvia-federici-la-lucha-contra-el-cuerpo-rebelde/index.html</loc>
-    <lastmod>2026-03-18T20:22:29.291Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-07-20-kate-millett-teoria-de-la-politica-sexual/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-10-05-genara-pulido-violencia-epistemica-y-descolonizacion-del-conocimiento/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-24-joan-scott-releer-la-historia-del-feminismo/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.996Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-08-18-rosi-braidotti-la-diferencia-sexual-como-proyecto-politico-nomade/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.029Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-06-08-mapa-conceptual-maria-lugones-hacia-un-feminismo-descolonial/index.html</loc>
-    <lastmod>2026-03-18T20:22:03.195Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-10-09-rosi-braidotti-hacia-una-nueva-representacion-del-sujeto/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.854Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-08-apuntes-sobre-la-categoria-de-genero-teresita-de-barbieri/index.html</loc>
-    <lastmod>2026-03-18T20:20:54.758Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-07-11-feminismo-neoliberal-y-neoliberalizacion-del-feminismo/index.html</loc>
-    <lastmod>2026-03-18T20:22:12.342Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-11-27-rosi-braidotti-devenires-discontinuos-deleuze-y-el-devenir-mujer-de-la-filosofia/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.857Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2021/2021-05-30-bell-hooks-teoria-feminista-de-los-margenes-al-centro/index.html</loc>
-    <lastmod>2026-03-17T14:35:31.007Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-02-23-apuntes-el-concepto-de-ideologia/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.860Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-02-23-apuntes-sociologia-y-critica-social/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.861Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-02-23-apuntes-la-presentacion-de-la-persona-en-la-vida-cotidiana/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.865Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2020/2020-10-30-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas/index.html</loc>
-    <lastmod>2026-03-17T14:00:35.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-02-02-el-piropo-es-machismo/index.html</loc>
-    <lastmod>2026-03-18T20:17:28.700Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-08-14-dondeestancl/index.html</loc>
-    <lastmod>2026-03-18T20:19:17.824Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-30-apuntes-ciencia-desde-una-perspectiva-feminista/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.872Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-04-22-estudio-de-las-corporalidades-gordas-femeninas-desde-las-intersecciones/index.html</loc>
-    <lastmod>2026-03-18T20:18:40.149Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-30-apuntes-formacion-racial-y-proyectos-raciales/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-02-17-efecto-de-los-medios-comunicacionales-en-la-evaluacion-de-la-corporalidad-femenina-en-belgica-suiza-y-estados-unidos/index.html</loc>
-    <lastmod>2026-03-18T20:21:40.383Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-07-25-masculinidad-hegemonica-y-patriarcal/index.html</loc>
-    <lastmod>2026-03-18T20:18:57.275Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-04-20-revision-bibliografica-1/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.887Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-05-29-transmision-intergeneracional-de-la-desigualdad/index.html</loc>
-    <lastmod>2026-03-17T14:35:55.888Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-03-30-apuntes-historia-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.970Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-10-08-capital-corporal-y-el-privilegio-de-la-belleza/index.html</loc>
-    <lastmod>2026-03-18T20:19:27.925Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2018/2018-07-11-sexismo-en-la-publicidad-chilena-y-el-desnudo-como-protesta/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.973Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2016/2016-11-06-la-democracia-represiva/index.html</loc>
-    <lastmod>2026-03-18T20:17:30.025Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2016/2016-11-01-la-corporalidad-femenina-a-traves-de-la-historia-y-el-arte/index.html</loc>
-    <lastmod>2026-03-17T14:00:34.172Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/2016/2016-11-02-la-gordura-femenina-como-una-problematica-social-genero-deseo-y-diferencia/index.html</loc>
-    <lastmod>2026-03-17T14:35:30.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/grupo_usuarios_r.html</loc>
-    <lastmod>2026-03-19T13:58:33.903Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/readme.html</loc>
-    <lastmod>2026-03-19T13:47:14.898Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/ahora.html</loc>
-    <lastmod>2026-03-19T15:08:48.844Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet_300_cobre/index.html</loc>
-    <lastmod>2026-03-19T14:13:39.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_200_sanpedro/index.html</loc>
-    <lastmod>2026-03-19T14:28:38.061Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_300_vueltadelcobre/index.html</loc>
-    <lastmod>2026-03-19T14:28:22.050Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/vacaciones_navidad.html</loc>
-    <lastmod>2026-03-19T14:51:12.827Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_200_vueltadelcampo/index.html</loc>
-    <lastmod>2026-03-19T14:56:23.098Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_300_colliguay/index.html</loc>
-    <lastmod>2026-03-19T14:57:27.048Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_300_casablanca/index.html</loc>
-    <lastmod>2026-03-19T14:55:17.820Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_200_melipilla/index.html</loc>
-    <lastmod>2026-03-19T14:54:47.837Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/brevet_400_vueltacoya/index.html</loc>
-    <lastmod>2026-03-19T15:03:24.862Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastianolea.github.io/posts/brevet/el_ancho_de_chile/index.html</loc>
-    <lastmod>2026-03-19T15:06:46.304Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/index.html</loc>
-    <lastmod>2026-04-16T16:15:54.308Z</lastmod>
-  </url>
-  <url>
     <loc>https://bastimapache.cl/blog.html</loc>
     <lastmod>2026-03-26T13:18:30.979Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/vacaciones_navidad.html</loc>
-    <lastmod>2026-03-19T14:51:12.827Z</lastmod>
+    <loc>https://bastimapache.cl/readme.html</loc>
+    <lastmod>2026-03-19T13:47:14.898Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/explorando_navidad/explorando_navidad.html</loc>
-    <lastmod>2026-03-21T01:43:50.936Z</lastmod>
+    <loc>https://bastimapache.cl/instrucciones.html</loc>
+    <lastmod>2026-06-09T16:46:55.032Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/introduccion.html</loc>
-    <lastmod>2026-03-20T13:27:22.641Z</lastmod>
+    <loc>https://bastimapache.cl/posts/musica/albumes_2026-03/index.html</loc>
+    <lastmod>2026-04-16T16:15:54.342Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/grupo_usuarios_r.html</loc>
-    <lastmod>2026-03-20T13:32:19.416Z</lastmod>
+    <loc>https://bastimapache.cl/posts/musica/live_boris/index.html</loc>
+    <lastmod>2026-03-24T21:20:03.073Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/index.html</loc>
-    <lastmod>2026-06-09T17:10:01.911Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/infografia_ddhh_dictadura/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.945Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/ahora.html</loc>
-    <lastmod>2026-04-03T22:56:26.156Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/2026-03/index.html</loc>
-    <lastmod>2026-03-20T15:42:57.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/conciertos/index.html</loc>
-    <lastmod>2026-03-23T20:55:53.347Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/2026-02/index.html</loc>
-    <lastmod>2026-03-20T16:02:03.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/2026-01/index.html</loc>
-    <lastmod>2026-03-20T16:02:03.699Z</lastmod>
+    <loc>https://bastimapache.cl/posts/musica/tocata_2026-06-29/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.138Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/musica/albumes_2026-01/index.html</loc>
-    <lastmod>2026-03-22T16:34:34.341Z</lastmod>
+    <lastmod>2026-03-23T20:55:53.345Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/musica/albumes_2026-02/index.html</loc>
-    <lastmod>2026-03-22T16:34:03.041Z</lastmod>
+    <loc>https://bastimapache.cl/posts/musica/live_sunset_images/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.359Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</loc>
-    <lastmod>2026-03-24T17:34:19.108Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2026-02-10/index.html</loc>
+    <lastmod>2026-06-09T17:10:29.356Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.935Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2026-05-31/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.080Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_200_sanpedro/index.html</loc>
-    <lastmod>2026-03-23T20:55:53.095Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2016/2016-11-07-la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/index.html</loc>
+    <lastmod>2026-03-18T20:17:30.476Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_200_melipilla/index.html</loc>
-    <lastmod>2026-03-23T20:55:53.095Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2016/2016-10-31-discriminacion-de-la-gordura-y-su-relacion-con-el-capitalismo-el-genero-y-la-clase/index.html</loc>
+    <lastmod>2026-03-18T20:16:43.224Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/warhammer40k/index.html</loc>
-    <lastmod>2026-03-22T16:53:07.218Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2016/2016-12-24-la-estigmatizacion-de-la-gordura-femenina-reproduccion-simbolico-cultural-del-estatus-social-de-la-delgadez/index.html</loc>
+    <lastmod>2026-03-18T21:03:55.390Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/readme.html</loc>
-    <lastmod>2026-03-21T01:43:50.951Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-07-11-sexismo-en-la-publicidad-chilena-y-el-desnudo-como-protesta/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.973Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2016/2016-11-02-la-gordura-femenina-como-una-problematica-social-genero-deseo-y-diferencia/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.501Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-10-08-capital-corporal-y-el-privilegio-de-la-belleza/index.html</loc>
+    <lastmod>2026-03-18T20:19:27.925Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2016/2016-11-01-la-corporalidad-femenina-a-traves-de-la-historia-y-el-arte/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.496Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-historia-de-la-gordura/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.970Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2016/2016-11-06-la-democracia-represiva/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.502Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-05-29-transmision-intergeneracional-de-la-desigualdad/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.888Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-14-la-im-posibilidad-de-ser-un-hombre-feminista/index.html</loc>
-    <lastmod>2026-06-09T17:15:12.364Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-04-20-revision-bibliografica-1/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.887Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-31-materialidad-capitalismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.579Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-07-25-masculinidad-hegemonica-y-patriarcal/index.html</loc>
+    <lastmod>2026-03-18T20:18:57.275Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-04-20-disatisfaccion-corporal-en-cuerpos-femeninos-racializados/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.580Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-02-17-efecto-de-los-medios-comunicacionales-en-la-evaluacion-de-la-corporalidad-femenina-en-belgica-suiza-y-estados-unidos/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.034Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-12-06-gordofobia-prejuicios/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.611Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-formacion-racial-y-proyectos-raciales/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.878Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-07-03-racismo-y-xenofobia-al-alero-del-nacionalismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.582Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-04-22-estudio-de-las-corporalidades-gordas-femeninas-desde-las-intersecciones/index.html</loc>
+    <lastmod>2026-03-18T20:18:40.149Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-05-29-desigualdad-de-ingresos/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-02-gordofobicos/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.555Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-10-hombres-contra-el-machismo/index.html</loc>
-    <lastmod>2026-03-18T20:18:12.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-01-26-escuela-libre-la-cisterna/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.548Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-12-06-la-practica-de-la-dieta-y-su-referencia-al-pecado-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.611Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-ciencia-desde-una-perspectiva-feminista/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.872Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-genero-y-actos-performativos/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.573Z</lastmod>
+    <lastmod>2026-03-18T20:18:31.087Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2018/2018-06-04-contexto-y-cambio-social-desde-la-linguistica-sistemico-funcional/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.582Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.868Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2020/2020-04-21-apuntes-actos-performativos-y-performatividad-de-genero/index.html</loc>
@@ -638,7 +106,7 @@
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2020/2020-10-30-ponencia-la-estigmatizacion-social-de-las-corporalidades-gordas/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.041Z</lastmod>
+    <lastmod>2026-06-11T17:42:01.848Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2020/2020-04-13-apuntes-diferencia-sexual-lo-abyecto-y-la-performatividad-cuerpos-que-importan-judith-butler/index.html</loc>
@@ -649,88 +117,104 @@
     <lastmod>2026-06-09T16:46:55.038Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-30-bell-hooks-teoria-feminista-de-los-margenes-al-centro/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.833Z</lastmod>
+    <loc>https://bastimapache.cl/posts/infografia_ddhh_dictadura/index.html</loc>
+    <lastmod>2026-03-20T19:49:57.468Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-11-27-rosi-braidotti-devenires-discontinuos-deleuze-y-el-devenir-mujer-de-la-filosofia/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.877Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-10-05-nelly-richard-la-critica-feminista-como-modelo-de-critica-cultural/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.039Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-07-11-feminismo-neoliberal-y-neoliberalizacion-del-feminismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.844Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-03-19-apuntes-introduccion-al-concepto-de-genero-desde-una-perspectiva-historica/index.html</loc>
+    <lastmod>2026-03-18T20:21:26.833Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-08-apuntes-sobre-la-categoria-de-genero-teresita-de-barbieri/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.831Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-18-griselda-pollock-vision-voz-y-poder-historias-feministas-del-arte-y-marxismo/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.856Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-10-09-rosi-braidotti-hacia-una-nueva-representacion-del-sujeto/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.877Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-09-05-rosi-braidotti-por-la-senda-del-nomadismo/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.032Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-06-08-mapa-conceptual-maria-lugones-hacia-un-feminismo-descolonial/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.843Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-09-13-figurando-una-subjetividad-no-binaria/index.html</loc>
+    <lastmod>2026-03-18T20:48:03.655Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-18-rosi-braidotti-la-diferencia-sexual-como-proyecto-politico-nomade/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.873Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-18-karen-cordero-la-escritura-de-la-historia-del-arte-sumandose-subjetividades-nuevas-objetivaciones/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.852Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-24-joan-scott-releer-la-historia-del-feminismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.832Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-11-27-rosi-braidotti-las-teorias-de-genero-o-el-lenguaje-es-un-virus/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.052Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-10-05-genara-pulido-violencia-epistemica-y-descolonizacion-del-conocimiento/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.877Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-24-teresita-de-barbieri-sobre-la-categoria-de-genero-una-introduccion-teorico-metodologica/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.004Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-07-20-kate-millett-teoria-de-la-politica-sexual/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.852Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-07-26-silvia-federici-la-lucha-contra-el-cuerpo-rebelde/index.html</loc>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-12-mapa-conceptual-la-dominacion-masculina-pierre-bourdieu/index.html</loc>
     <lastmod>2026-06-09T16:46:55.043Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-24-judith-butler-actos-performativos-y-constitucion-del-genero-un-ensayo-sobre-fenomenologia-y-teoria-feminista/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.832Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-10-05-rosi-braidotti-organos-sin-cuerpos/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.845Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-03-23-apuntes-el-genero-una-categoria-util-para-el-analisis-historico/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.747Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-06-06-mapa-conceptual-variaciones-sobre-sexo-y-genero-judith-butler/index.html</loc>
+    <lastmod>2026-03-18T20:21:59.637Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-24-alejandra-castillo-el-desorden-de-la-democracia/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.831Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-04-15-apuntes-el-concepto-de-genero/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.986Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-04-09-apuntes-genero-y-lenguaje/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.748Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-11-27-rosi-braidotti-la-etica-de-la-diferencia-sexual-el-caso-de-foucault-e-irigaray/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.840Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-04-27-apuntes-el-segundo-sexo-introduccion-simone-de-beauvoir/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.809Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-18-judith-butler-politica-de-genero-y-el-derecho-a-aparecer/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.024Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-04-20-apuntes-el-trafico-de-mujeres-notas-sobre-la-economia-politica-del-sexo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.785Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-16-julieta-kirkwood-el-feminismo-como-negacion-del-autoritarismo/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.020Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-31-apuntes-los-origenes-de-la-jerarquia-de-genero/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.835Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-24-julia-kristeva-stabat-mater/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.002Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-04-26-apuntes-indagaciones-acerca-de-los-significados-sexuales/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.808Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-07-18-mapa-conceptual-ideologia-terry-eagleton/index.html</loc>
+    <lastmod>2026-03-18T20:22:19.856Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2019/2019-01-29-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salud-y-la-apariencia/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.035Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-21-giorgio-agamben-gusto/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.836Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_300_casablanca/index.html</loc>
-    <lastmod>2026-03-23T20:55:53.149Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2021/2021-04-09-apuntes-igualdad-versus-diferencia-en-el-feminismo/index.html</loc>
+    <lastmod>2026-03-18T20:21:21.762Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_400_vueltacoya/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.191Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_200_melipilla/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.095Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_300_colliguay/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.171Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_200_vueltadelcampo/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.134Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_300_vueltadelcobre/index.html</loc>
+    <lastmod>2026-03-20T16:51:27.203Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-08-09-analisis-critico-del-hostigamiento-machista-en-mi-contra-y-un-comentario-acerca-de-los-hombres-y-el-feminismo/index.html</loc>
@@ -738,87 +222,139 @@
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-06-24-marx-y-bourdieu-sobre-la-constitucion-de-la-estructura-social-actual/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.508Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.831Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-10-24-apuntes-sociologia-del-cuerpo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.544Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.826Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-06-27-video-que-es-la-gordofobia/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.510Z</lastmod>
+    <lastmod>2026-03-17T14:00:34.472Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-05-12-democracia-y-la-sociologia-como-arma-de-la-critica/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.506Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.825Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-08-07-mestizaje-como-fuente-de-identidad-racial/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.510Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.821Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-06-24-latour-y-giddens-el-poder-en-la-reproduccion-del-marco-social/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.508Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.819Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/warhammer40k/index.html</loc>
+    <lastmod>2026-03-24T17:34:19.110Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/libros_2024/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.290Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/libros_2022/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.231Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/libros_2026/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.127Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/introduccion/introduccion.html</loc>
     <lastmod>2026-03-24T17:34:19.109Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.902Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/index.html</loc>
+    <lastmod>2026-03-17T14:34:57.011Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.900Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.905Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2022/2022-12-16-gordofobia-sus-razones-sus-prejuicios-y-su-superacion/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2022/2022-12-17-resumen-r-w-connell-masculinidades-capitulo-1-la-ciencia-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.889Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2022/2022-12-16-autocritica-cultural-la-asuncion-de-una-identidad/index.html</loc>
-    <lastmod>2026-06-09T17:10:54.923Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-feminidad-poder-y-disciplina/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-fenomenologia-de-la-conciencia-femenina/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-opresion-y-alienacion-en-la-feminidad/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.885Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.044Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.907Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.060Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2023/2023-01-20-ira/index.html</loc>
     <lastmod>2026-06-09T17:11:53.327Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2023/2023-01-12-resumen-r-w-connell-masculinidades-capitulo-2-organizacion-social-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.893Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2024/2024-11-05-mapa-conceptual-bibliografia-sobre-estigmatizacion-de-la-gordura-en-las-dimensiones-de-la-apariencia-y-la-salud/index.html</loc>
+    <lastmod>2026-03-17T14:00:36.797Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-9-politicas-de-la-masculinidad/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.901Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2024/2024-02-15-presentacion-de-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas-un-analisis-desde-las-dimensiones-de-la-salu/index.html</loc>
+    <lastmod>2026-06-11T17:42:01.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-opresion-y-alienacion-en-la-feminidad/index.html</loc>
+    <lastmod>2026-03-18T20:47:59.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-fenomenologia-de-la-conciencia-femenina/index.html</loc>
+    <lastmod>2026-03-18T20:48:05.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2022/2022-07-08-apuntes-sandra-lee-bartky-feminidad-poder-y-disciplina/index.html</loc>
+    <lastmod>2026-03-18T20:48:04.818Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/explorando_navidad/explorando_navidad.html</loc>
+    <lastmod>2026-03-20T16:47:45.954Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2026-06-09/index.html</loc>
+    <lastmod>2026-06-09T17:18:03.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2022/2022-12-16-autocritica-cultural-la-asuncion-de-una-identidad/index.html</loc>
+    <lastmod>2026-06-09T17:10:54.923Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2022/2022-12-17-resumen-r-w-connell-masculinidades-capitulo-1-la-ciencia-de-la-masculinidad/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.059Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2022/2022-12-16-gordofobia-sus-razones-sus-prejuicios-y-su-superacion/index.html</loc>
+    <lastmod>2026-03-17T14:00:36.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2024/2024-06-13-entrevista-la-meritocracia-de-la-delgadez-la-insubordinacion-de-la-gordura/index.html</loc>
+    <lastmod>2026-03-18T15:36:16.092Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2023/2023-01-27-resumen-r-w-connell-masculinidades-capitulo-8-historia-de-la-masculinidad/index.html</loc>
+    <lastmod>2026-03-17T14:34:57.010Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2023/2023-02-17-resumen-nelly-richard-feminismo-genero-y-diferencias-transgresion-y-escritura-femenina/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.062Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2023/2023-01-20-relato-autobiografico-de-mi-cuerpo/index.html</loc>
+    <lastmod>2026-06-09T17:10:01.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/explorando_loica/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.100Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2026-03-08/index.html</loc>
+    <lastmod>2026-03-24T17:34:19.107Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/libros_2021/index.html</loc>
+    <lastmod>2026-04-16T16:15:54.310Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/libros_2025/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/libros/libros_2023/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.258Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</loc>
+    <lastmod>2026-03-24T17:34:19.108Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-12-05-categorizacion-social-y-performatividad-la-estigmatizacion-y-subversion-de-la-gordura/index.html</loc>
@@ -826,286 +362,234 @@
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-08-07-violencia-en-america-latina-dos-aproximaciones/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.510Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.823Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-06-09-feminidad-y-gordofobia-ideales-de-belleza-como-estrategias-de-opresion-femenina/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.507Z</lastmod>
+    <lastmod>2026-03-17T14:00:34.347Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-01-10-que-es-la-gordofobia/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.505Z</lastmod>
+    <lastmod>2026-03-18T20:17:17.456Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-08-07-el-rastro-de-los-huesos-las-desapariciones-forzosas-desde-dos-perspectivas/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.510Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.829Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2017/2017-08-07-intolerancia-estereotipos-y-exclusion-grupal/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.510Z</lastmod>
+    <lastmod>2026-03-17T14:35:55.833Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/brevet/el_ancho_de_chile/index.html</loc>
     <lastmod>2026-03-23T20:55:53.192Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_200_vueltadelcampo/index.html</loc>
-    <lastmod>2026-03-23T20:55:53.134Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_300_colliguay/index.html</loc>
-    <lastmod>2026-03-21T02:22:11.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevet_400_vueltacoya/index.html</loc>
+    <loc>https://bastimapache.cl/posts/brevet/brevets.html</loc>
     <lastmod>2026-03-23T20:55:53.191Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-04-09-apuntes-igualdad-versus-diferencia-en-el-feminismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.758Z</lastmod>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_300_casablanca/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.149Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-21-giorgio-agamben-gusto/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-07-18-mapa-conceptual-ideologia-terry-eagleton/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.848Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-24-julia-kristeva-stabat-mater/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.832Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-16-julieta-kirkwood-el-feminismo-como-negacion-del-autoritarismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-18-judith-butler-politica-de-genero-y-el-derecho-a-aparecer/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-11-27-rosi-braidotti-la-etica-de-la-diferencia-sexual-el-caso-de-foucault-e-irigaray/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-04-15-apuntes-el-concepto-de-genero/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.759Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-06-06-mapa-conceptual-variaciones-sobre-sexo-y-genero-judith-butler/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-10-05-rosi-braidotti-organos-sin-cuerpos/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-12-mapa-conceptual-la-dominacion-masculina-pierre-bourdieu/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.043Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-05-24-teresita-de-barbieri-sobre-la-categoria-de-genero-una-introduccion-teorico-metodologica/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.832Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-11-27-rosi-braidotti-las-teorias-de-genero-o-el-lenguaje-es-un-virus/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-18-karen-cordero-la-escritura-de-la-historia-del-arte-sumandose-subjetividades-nuevas-objetivaciones/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-09-13-figurando-una-subjetividad-no-binaria/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.876Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-09-05-rosi-braidotti-por-la-senda-del-nomadismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-08-18-griselda-pollock-vision-voz-y-poder-historias-feministas-del-arte-y-marxismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.864Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-03-19-apuntes-introduccion-al-concepto-de-genero-desde-una-perspectiva-historica/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.724Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2021/2021-10-05-nelly-richard-la-critica-feminista-como-modelo-de-critica-cultural/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2020/2020-02-23-apuntes-el-concepto-de-ideologia/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.619Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2020/2020-02-23-apuntes-sociologia-y-critica-social/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.627Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2020/2020-02-23-apuntes-la-presentacion-de-la-persona-en-la-vida-cotidiana/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2020/2020-10-30-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.040Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-02-02-el-piropo-es-machismo/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.549Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-ciencia-desde-una-perspectiva-feminista/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-04-22-estudio-de-las-corporalidades-gordas-femeninas-desde-las-intersecciones/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.581Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-formacion-racial-y-proyectos-raciales/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.569Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-02-17-efecto-de-los-medios-comunicacionales-en-la-evaluacion-de-la-corporalidad-femenina-en-belgica-suiza-y-estados-unidos/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.034Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-07-25-masculinidad-hegemonica-y-patriarcal/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-04-20-revision-bibliografica-1/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.580Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-05-29-transmision-intergeneracional-de-la-desigualdad/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-03-30-apuntes-historia-de-la-gordura/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-10-08-capital-corporal-y-el-privilegio-de-la-belleza/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.610Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2018/2018-07-11-sexismo-en-la-publicidad-chilena-y-el-desnudo-como-protesta/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.583Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2016/2016-12-24-la-estigmatizacion-de-la-gordura-femenina-reproduccion-simbolico-cultural-del-estatus-social-de-la-delgadez/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2016/2016-10-31-discriminacion-de-la-gordura-y-su-relacion-con-el-capitalismo-el-genero-y-la-clase/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.485Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2016/2016-11-07-la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/index.html</loc>
-    <lastmod>2026-03-21T01:43:50.503Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/brevet/brevets.html</loc>
-    <lastmod>2026-03-21T03:34:35.773Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2026-02-10/index.html</loc>
-    <lastmod>2026-06-09T17:10:29.356Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/instrucciones.html</loc>
-    <lastmod>2026-06-09T16:46:55.032Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2026-01-06/index.html</loc>
-    <lastmod>2026-04-16T16:15:54.308Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/warhammer40k/index.html</loc>
-    <lastmod>2026-03-24T01:03:22.428Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/libros_2025/index.html</loc>
-    <lastmod>2026-03-22T17:45:19.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/libros_2024/index.html</loc>
-    <lastmod>2026-03-22T17:45:35.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/libros_2023/index.html</loc>
-    <lastmod>2026-03-22T18:21:12.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/libros_2022/index.html</loc>
-    <lastmod>2026-03-22T18:41:16.389Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/live_boris/index.html</loc>
-    <lastmod>2026-03-25T00:06:10.957Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/live_psywarfare/index.html</loc>
-    <lastmod>2026-03-26T13:18:31.009Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/live_sunset_images/index.html</loc>
-    <lastmod>2026-03-23T20:55:53.359Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2026-03-08/index.html</loc>
-    <lastmod>2026-03-23T23:43:32.315Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/tocata_2026-03-07/index.html</loc>
-    <lastmod>2026-03-26T13:18:31.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/2026-03-29/index.html</loc>
-    <lastmod>2026-03-30T00:56:08.330Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/musica/albumes_2026-03/index.html</loc>
-    <lastmod>2026-04-16T16:15:54.342Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/libros_2021/index.html</loc>
-    <lastmod>2026-04-16T16:15:54.310Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/libros/libros_2026/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/explorando_loica/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.100Z</lastmod>
+    <loc>https://bastimapache.cl/posts/brevet/brevet_200_sanpedro/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.095Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/brevet/brevet_300_rapel/index.html</loc>
     <lastmod>2026-06-09T16:46:55.100Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/musica/tocata_2026-05-15/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.137Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2019/2019-01-29-tesis-magister-estigmatizacion-gordura-salud-apariencia/index.html</loc>
+    <lastmod>2026-06-11T17:47:14.032Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-04-26-apuntes-indagaciones-acerca-de-los-significados-sexuales/index.html</loc>
+    <lastmod>2026-03-18T20:21:15.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-31-apuntes-los-origenes-de-la-jerarquia-de-genero/index.html</loc>
+    <lastmod>2026-03-18T20:21:54.091Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-04-20-apuntes-el-trafico-de-mujeres-notas-sobre-la-economia-politica-del-sexo/index.html</loc>
+    <lastmod>2026-03-18T20:21:18.710Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-04-27-apuntes-el-segundo-sexo-introduccion-simone-de-beauvoir/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-04-09-apuntes-genero-y-lenguaje/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-24-alejandra-castillo-el-desorden-de-la-democracia/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.994Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-03-23-apuntes-el-genero-una-categoria-util-para-el-analisis-historico/index.html</loc>
+    <lastmod>2026-03-18T20:21:24.326Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-24-judith-butler-actos-performativos-y-constitucion-del-genero-un-ensayo-sobre-fenomenologia-y-teoria-feminista/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-07-26-silvia-federici-la-lucha-contra-el-cuerpo-rebelde/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.043Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-07-20-kate-millett-teoria-de-la-politica-sexual/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-10-05-genara-pulido-violencia-epistemica-y-descolonizacion-del-conocimiento/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-24-joan-scott-releer-la-historia-del-feminismo/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-08-18-rosi-braidotti-la-diferencia-sexual-como-proyecto-politico-nomade/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.029Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-06-08-mapa-conceptual-maria-lugones-hacia-un-feminismo-descolonial/index.html</loc>
+    <lastmod>2026-03-18T20:22:03.195Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-10-09-rosi-braidotti-hacia-una-nueva-representacion-del-sujeto/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.854Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-08-apuntes-sobre-la-categoria-de-genero-teresita-de-barbieri/index.html</loc>
+    <lastmod>2026-03-18T20:20:54.758Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-07-11-feminismo-neoliberal-y-neoliberalizacion-del-feminismo/index.html</loc>
+    <lastmod>2026-03-18T20:22:12.342Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-11-27-rosi-braidotti-devenires-discontinuos-deleuze-y-el-devenir-mujer-de-la-filosofia/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.857Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2021/2021-05-30-bell-hooks-teoria-feminista-de-los-margenes-al-centro/index.html</loc>
+    <lastmod>2026-03-17T14:35:31.007Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/posts/2026-05-24/index.html</loc>
     <lastmod>2026-06-09T17:02:00.840Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2026-05-31/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.080Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2020/2020-02-23-apuntes-el-concepto-de-ideologia/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.860Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/musica/tocata_2026-06-29/index.html</loc>
-    <lastmod>2026-06-09T16:46:55.138Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2020/2020-02-23-apuntes-sociologia-y-critica-social/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.861Z</lastmod>
   </url>
   <url>
-    <loc>https://bastimapache.cl/posts/2026-06-09/index.html</loc>
-    <lastmod>2026-06-09T17:18:03.338Z</lastmod>
+    <loc>https://bastimapache.cl/posts/2020/2020-02-23-apuntes-la-presentacion-de-la-persona-en-la-vida-cotidiana/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.865Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2020/2020-10-30-defensa-de-tesis-elementos-teoricos-y-conceptuales-en-torno-a-la-estigmatizacion-social-de-las-corporalidades-gordas/index.html</loc>
+    <lastmod>2026-06-11T17:42:01.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-02-02-el-piropo-es-machismo/index.html</loc>
+    <lastmod>2026-03-18T20:17:28.700Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-12-06-la-practica-de-la-dieta-y-su-referencia-al-pecado-de-la-gordura/index.html</loc>
+    <lastmod>2026-03-18T20:19:37.365Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-01-26-escuela-libre-la-cisterna/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.875Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-10-hombres-contra-el-machismo/index.html</loc>
+    <lastmod>2026-03-18T20:18:12.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-02-gordofobicos/index.html</loc>
+    <lastmod>2026-03-18T20:18:04.310Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-05-29-desigualdad-de-ingresos/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-07-03-racismo-y-xenofobia-al-alero-del-nacionalismo/index.html</loc>
+    <lastmod>2026-03-18T20:18:49.494Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-12-06-gordofobia-prejuicios/index.html</loc>
+    <lastmod>2026-03-17T14:00:35.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-04-20-disatisfaccion-corporal-en-cuerpos-femeninos-racializados/index.html</loc>
+    <lastmod>2026-03-17T14:00:34.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-31-materialidad-capitalismo/index.html</loc>
+    <lastmod>2026-03-17T14:35:55.889Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2018/2018-03-14-la-im-posibilidad-de-ser-un-hombre-feminista/index.html</loc>
+    <lastmod>2026-06-09T17:15:12.364Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2016/2016-11-06-la-democracia-represiva/index.html</loc>
+    <lastmod>2026-03-18T20:17:30.025Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2016/2016-11-01-la-corporalidad-femenina-a-traves-de-la-historia-y-el-arte/index.html</loc>
+    <lastmod>2026-03-17T14:00:34.172Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2016/2016-11-02-la-gordura-femenina-como-una-problematica-social-genero-deseo-y-diferencia/index.html</loc>
+    <lastmod>2026-03-17T14:35:30.952Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2026-03-29/index.html</loc>
+    <lastmod>2026-03-31T20:01:24.127Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/2026-01-06/index.html</loc>
+    <lastmod>2026-04-16T16:15:54.308Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/musica/tocata_2026-03-07/index.html</loc>
+    <lastmod>2026-03-26T13:18:31.013Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/musica/conciertos/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.347Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/musica/live_psywarfare/index.html</loc>
+    <lastmod>2026-03-26T13:18:31.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/musica/tocata_2026-05-15/index.html</loc>
+    <lastmod>2026-06-09T16:46:55.137Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/posts/musica/albumes_2026-02/index.html</loc>
+    <lastmod>2026-03-23T20:55:53.346Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/index.html</loc>
+    <lastmod>2026-06-11T17:42:16.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bastimapache.cl/ahora.html</loc>
+    <lastmod>2026-04-16T16:15:54.235Z</lastmod>
   </url>
 </urlset>

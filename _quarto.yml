@@ -28,6 +28,9 @@ website:
         href: https://www.tiktok.com/@bastimapache
       - icon: twitter
         href: https://twitter.com
+  search: 
+    location: navbar
+    type: overlay
 
 format:
   html:
