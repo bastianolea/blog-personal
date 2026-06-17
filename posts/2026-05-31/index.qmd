@@ -10,6 +10,8 @@ format: html
 image: "3y4alamos_1.jpeg"
 ---
 
+Para el Día del patrimonio 2026 visité el Centro de detención y tortura 3 y 4 Álamos, ubicado en la comuna de San Joaquín.
+
 :::: {.galeria}
 ![](3y4alamos_10.jpeg){.fotito .lightbox group="alamos"}
 ![](3y4alamos_2.jpeg){.fotito .lightbox group="alamos"}

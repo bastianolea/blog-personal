@@ -34,12 +34,18 @@ about:
     - icon: music-note-beamed
       text: LastFm
       href: https://www.last.fm/user/bastimapache
-
-
+engine: knitr
 ---
 
+```{r}
+#| echo: false
+fecha <- as.Date("1993-03-09")
+días <- as.numeric(Sys.Date() - fecha)
+edad <- round(días / 365.25)
+```
+
 ::: {.descripcion}
-Basti. Sociólogx, 33 años, Chile
+Basti. Sociólogx, `{r} edad` años, Chile
 :::
 
 Mi nombre es Bastián Olea Herrera, y este es mi [**blog personal**,](blog.html) donde subo cosas sobre [ciclismo,](blog.html#category=ciclismo) [música,](blog.html#category=música) [libros,](blog.html#category=libros) y cualquier cosa que se me ocurra.
