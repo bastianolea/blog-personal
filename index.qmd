@@ -2,6 +2,7 @@
 title: "Holis {{< fa heart >}}"
 image: imagenes/bastian_olea.jpg
 about:
+  image-alt: "Bastián Olea Herrera"
   template: jolla
   links:
     - icon: heart-fill
@@ -53,3 +54,17 @@ Mi nombre es Bastián Olea Herrera, y este es mi [**blog personal**,](blog.html)
 Estudié [sociología](blog.html#category=sociología) y luego hice un [magíster](posts/2019/2019-01-29-tesis-magister-estigmatizacion-gordura-salud-apariencia/) en sociología, y en el camino descubrí el gusto por los [datos](https://bastianolea.rbind.io) y la programación.
 
 También tengo un [**blog profesional**](https://bastianolea.rbind.io) donde comparto contenido sobre análisis de datos, [tutoriales](https://bastianolea.rbind.io/tutoriales) para aprender R, [visualizaciones de datos](https://bastianolea.rbind.io/tags/visualización-de-datos/) y más.
+
+```{=html}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const img = document.querySelector('.about-image');
+    if (img) {
+      const link = document.createElement('a');
+      link.href = 'blog.html';
+      img.parentNode.insertBefore(link, img);
+      link.appendChild(img);
+    }
+  });
+</script>
+```

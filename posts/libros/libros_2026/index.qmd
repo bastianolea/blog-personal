@@ -1,7 +1,7 @@
 ---
 title: "Libros que he leído este 2026"
 subtitle: "Lista de lectura personal"
-date: "2026-05-23"
+date: "2026-06-25"
 image: bastimapache_mosaico_libros_2026.jpg
 format: html
 categories: [libros]
@@ -45,7 +45,7 @@ libros <- data |>
          link = glue("https://www.goodreads.com/book/show/{book_id}"))
 ```
 
-Esta es la lista de los **`r (nrow(libros))`** libros que he leído en lo que va del año, según [mi perfil de GoodReads](https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera). La voy a ir actualizando de vez en cuando para reflejar las últimas lecturas!
+Esta es la lista de los **`r (nrow(libros))`** libros que he leído en lo que va del año, según [mi perfil de GoodReads](https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera), ordenados desde el más reciente. 
 
 ```{r portadas}
 #| output: false
@@ -87,7 +87,7 @@ walk(libros$book_id, \(id) {
                 destfile = here(archivo))
   
   # tiempo de espera entre descargas
-  Sys.sleep(10* (Sys.time() - inicio)) 
+  Sys.sleep(10 * (Sys.time() - inicio)) 
 })
 ```
 
@@ -105,12 +105,12 @@ library(purrr)
 library(lubridate)
 
 lista_libros <- libros |> 
-  arrange(date_read, book_id) |> 
+  arrange(desc(date_read), book_id) |> 
   mutate(id = row_number()) |>
   split(~id)
 
 div(class = "cuadricula", 
-    style = "margin-top: 24px;",
+    style = "margin-top: 24px; margin-bottom: 24px;",
     
     # generar elementos por cada libro
     map(lista_libros, \(libro) {
@@ -151,6 +151,7 @@ div(class = "cuadricula",
 #| output: false
 
 # generar mosaico de libros para portada de post
-source("mosaico.R")
+# source("mosaico.R")
 ```
 
+Voy a ir actualizando esta lista de vez en cuando para reflejar las últimas lecturas! [En esta publicación escribí un tutorial](https://bastianolea.rbind.io/blog/2026-03-26/) sobre cómo creé esta página.

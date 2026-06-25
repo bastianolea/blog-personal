@@ -15,7 +15,7 @@ tags:
   - "nomadismo"
 ---
 
-_[Ensayo publicado en Revista Origami,](https://revistaorigami.wpcomstaging.com/2022/01/04/autocritica-cultural-la-asuncion-de-una-identidad/) originalmente ensayo final para el curso de Crítica Cultural de la profesora Patricia Espinoza, en el marco del [diplomado en Estética, Feminismo y Crítica](https://estetica.uc.cl/diplomados/diplomado-estetica-feminismo-critica) de la Facultad de Estética de la Universidad Católica, evaluado con nota máxima._ _Muchas gracias a Gabriela Alburquenque por la edición y por gestionar la publicación en Revista Origami._
+_[Ensayo publicado en Revista Origami,](https://revistaorigami.cl/2022/01/04/autocritica-cultural-la-asuncion-de-una-identidad/) originalmente ensayo final para el curso de Crítica Cultural de la profesora Patricia Espinoza, en el marco del [diplomado en Estética, Feminismo y Crítica](https://estetica.uc.cl/diplomados/diplomado-estetica-feminismo-critica) de la Facultad de Estética de la Universidad Católica, evaluado con nota máxima._ _Muchas gracias a Gabriela Alburquenque por la edición y por gestionar la publicación en Revista Origami._
 
 ![](images/At_the_mirror_Gerda_Wegener.jpeg)
 
