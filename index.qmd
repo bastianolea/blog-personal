@@ -6,7 +6,7 @@ about:
   template: jolla
   links:
     - icon: heart-fill
-      text: Blog
+      text: Ir al blog
       href: blog.qmd
     - icon: file-earmark-bar-graph-fill
       text: Blog de análisis de datos y R
@@ -53,7 +53,7 @@ Mi nombre es Bastián Olea Herrera, y este es mi [**blog personal**,](blog.html)
 
 Estudié [sociología](blog.html#category=sociología) y luego hice un [magíster](posts/2019/2019-01-29-tesis-magister-estigmatizacion-gordura-salud-apariencia/) en sociología, y en el camino descubrí el gusto por los [datos](https://bastianolea.rbind.io) y la programación.
 
-También tengo un [**blog profesional**](https://bastianolea.rbind.io) donde comparto contenido sobre análisis de datos, [tutoriales](https://bastianolea.rbind.io/tutoriales) para aprender R, [visualizaciones de datos](https://bastianolea.rbind.io/tags/visualización-de-datos/) y más.
+También tengo un [**blog profesional**](https://bastianolea.rbind.io) donde comparto contenido sobre análisis de datos, [tutoriales](https://bastianolea.rbind.io/tutoriales) para [aprender R](https://bastianolea.github.io/aprende_r/), [visualizaciones de datos](https://bastianolea.rbind.io/tags/visualización-de-datos/) y más.
 
 ```{=html}
 <script>

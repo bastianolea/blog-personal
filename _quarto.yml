@@ -7,7 +7,12 @@ website:
   site-url: https://bastimapache.cl
   title: "Bastián Olea Herrera"
   favicon: profile.jpg
-  open-graph: true
+  open-graph:
+    locale: es_ES
+  page-footer:
+    left: "© 2026 Bastián Olea Herrera · @bastimapache"
+    center: "[Inicio](index.qmd) · [Blog](blog.qmd) · [Blog profesional](https://bastianolea.rbind.io)"
+    right: "Hecho con [Quarto](https://quarto.org), [R](https://bastianolea.github.io/aprende_r/) y [RStudio](https://posit.co/downloads)"
   twitter-card: 
     site: "@bastimapache"
   # image:

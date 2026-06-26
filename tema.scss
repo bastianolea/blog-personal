@@ -10,6 +10,7 @@ $line-height-base: 1.2 !default;
 $background: #2F2935; // #39343E;
 $background2: #26222E;
 $background3: #A389A3;
+$background4: #342E3A;
 $foreground: #F0BFE7; // #F9B4ED;
 $foreground2: #DD2594; // #C52184;
 
@@ -20,7 +21,8 @@ $body-color: $foreground;
 $link-color: $foreground2;
 $input-bg: $background2;
 $popover-bg: $background2;
-$footer-bg: $background3;
+$footer-fg: #8F738E;
+$footer-bg: $background4;
 
 $primary: $foreground;
 $secondary: $foreground2;

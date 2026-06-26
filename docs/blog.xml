@@ -10,7 +10,141 @@
 <atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Thu, 25 Jun 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 26 Jun 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Porcentaje de Santiago (y de Chile) recorridos en bicicleta</title>
+  <link>https://bastimapache.cl/posts/2026-06-26/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Uno de mis pasatiempos es recorrer lugares nuevos (para mi) de Santiago en bicicleta. Según el sitio web <a href="https://wandrer.earth">wandrer.earth</a>, voy en el <strong>1er lugar</strong> de ciclistas que han recorrido más porcentaje de la superficie de la Región Metropolitana: <strong>4552,3 kilómetros únicos</strong><sup>1</sup> de un total de 25.229 kilómetros pedaleables; es decir, he recorrido un <strong>18% de la Región Metropolitana de Santiago</strong>.</p>
+<p>Puede sonar a poco, pero si lo vemos en un mapa de calor, es caleta:</p>
+<div class="foto centrar">
+<p><img src="https://bastimapache.cl/posts/2026-06-26/mapa_recorrido_region_metropolitana.jpg" class="img-fluid"></p>
+</div>
+<p>A nivel de Chile, he recorrido <strong>5.867,4 kilómetros únicos</strong>.</p>
+<p>Aquí está la tabla de posiciones de la Región Metropolitana a la fecha (26 de junio 2026):</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 3%">
+<col style="width: 32%">
+<col style="width: 10%">
+<col style="width: 15%">
+<col style="width: 15%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>N°</th>
+<th>Atleta</th>
+<th>Puntos</th>
+<th>Porcentaje</th>
+<th>Kilómetros</th>
+<th>Progreso este año</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><strong>Bastián Olea Herrera</strong></td>
+<td>3388</td>
+<td>18,044%</td>
+<td>4552.3 km</td>
+<td>141.1 km (0.55%)</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td><strong>Pablocito Gonzalez</strong></td>
+<td>2739</td>
+<td>13,023%</td>
+<td>3174.7 km</td>
+<td>232.1 km (0.95%)</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td><strong>Javier J</strong></td>
+<td>2461</td>
+<td>11,208%</td>
+<td>2825.1 km</td>
+<td>61.8 km (0.24%)</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><strong>Patrick Mac Kay</strong></td>
+<td>869</td>
+<td>3,864%</td>
+<td>974.9 km</td>
+<td>6.6 km (0.02%)</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td><strong>Laura Möller</strong></td>
+<td>846</td>
+<td>5,134%</td>
+<td>1295.4 km</td>
+<td>0.0 km (0.0%)</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td><strong>Tomas Gueneau de Mussy</strong></td>
+<td>641</td>
+<td>3,827%</td>
+<td>965.2 km</td>
+<td>50.9 km (0.2%)</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td><strong>Alejandro López</strong></td>
+<td>607</td>
+<td>3,608%</td>
+<td>910.5 km</td>
+<td>0.0 km (0.0%)</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td><strong>Alejandro Silva</strong></td>
+<td>594</td>
+<td>2,98%</td>
+<td>751.8 km</td>
+<td>0.0 km (0.0%)</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td><strong>Igor Alarcon</strong></td>
+<td>572</td>
+<td>3,075%</td>
+<td>775.1 km</td>
+<td>72.1 km (0.28%)</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td><strong>Diego Aviles</strong></td>
+<td>503</td>
+<td>3,209%</td>
+<td>809.8 km</td>
+<td>14.1 km (0.05%)</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Notas</h2>
+
+<ol>
+<li id="fn1"><p>Kilómetros en calles nuevas, excluyendo calles repetidas↩︎</p></li>
+</ol>
+</section></div> ]]></description>
+  <category>yo</category>
+  <category>ciclismo</category>
+  <guid>https://bastimapache.cl/posts/2026-06-26/</guid>
+  <pubDate>Fri, 26 Jun 2026 04:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/2026-06-26/mapa_recorrido_region_metropolitana.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Libros que he leído este 2026</title>
   <link>https://bastimapache.cl/posts/libros/libros_2026/</link>
@@ -369,7 +503,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>libros</category>
   <guid>https://bastimapache.cl/posts/libros/libros_2026/</guid>
   <pubDate>Thu, 25 Jun 2026 04:00:00 GMT</pubDate>
@@ -401,7 +535,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>yo</category>
   <category>programación</category>
   <guid>https://bastimapache.cl/posts/2026-06-17/</guid>
@@ -433,7 +567,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>yo</category>
   <guid>https://bastimapache.cl/posts/2026-06-09/</guid>
   <pubDate>Tue, 09 Jun 2026 04:00:00 GMT</pubDate>
@@ -461,7 +595,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>política</category>
   <category>fotos</category>
   <category>videos</category>
@@ -493,7 +627,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>música</category>
   <category>videos</category>
   <guid>https://bastimapache.cl/posts/musica/tocata_2026-06-29/</guid>
@@ -532,7 +666,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>yo</category>
   <guid>https://bastimapache.cl/posts/2026-05-24/</guid>
   <pubDate>Sun, 24 May 2026 04:00:00 GMT</pubDate>
@@ -560,7 +694,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>música</category>
   <category>videos</category>
   <guid>https://bastimapache.cl/posts/musica/tocata_2026-05-15/</guid>
@@ -601,7 +735,7 @@
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>lugares</category>
   <category>fotos</category>
   <guid>https://bastimapache.cl/posts/explorando_loica/</guid>
@@ -762,7 +896,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>ciclismo</category>
   <category>fotos</category>
   <category>videos</category>
@@ -790,7 +924,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>música</category>
   <guid>https://bastimapache.cl/posts/musica/albumes_2026-03/</guid>
   <pubDate>Tue, 31 Mar 2026 03:00:00 GMT</pubDate>
@@ -839,36 +973,12 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>fotos</category>
   <category>videos</category>
   <category>lugares</category>
   <guid>https://bastimapache.cl/posts/2026-03-29/</guid>
   <pubDate>Sat, 28 Mar 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://bastimapache.cl/posts/musica/albumes_favoritos/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/albumes_favoritos/</guid>
-  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://bastimapache.cl/posts/musica/bosse_de_nage/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/bosse_de_nage/</guid>
-  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title></title>
-  <link>https://bastimapache.cl/posts/musica/the_body/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/the_body/</guid>
-  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Por qué crear un sitio web personal</title>
@@ -904,7 +1014,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>programación</category>
   <category>tecnología</category>
   <guid>https://bastimapache.cl/posts/introduccion/introduccion.html</guid>
@@ -932,7 +1042,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>programación</category>
   <guid>https://bastimapache.cl/posts/grupo_usuarios_r/grupo_usuarios_r.html</guid>
   <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
@@ -1604,7 +1714,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>libros</category>
   <guid>https://bastimapache.cl/posts/libros/warhammer40k/</guid>
   <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
@@ -1659,7 +1769,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>lugares</category>
   <category>fotos</category>
   <category>videos</category>
@@ -1695,7 +1805,7 @@ Ver esta publicación en Instagram
 
 
 
- ]]></description>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
   <category>música</category>
   <category>videos</category>
   <guid>https://bastimapache.cl/posts/musica/tocata_2026-03-07/</guid>
@@ -1791,7 +1901,7 @@ Ver esta publicación en Instagram
 </section>
 
 
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Notas</h2>
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p><div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Notas</h2>
 
 <ol>
 <li id="fn1"><p>Quería irme de Santiago en bicicleta (lo había hecho antes) pero mejor decidí guardar piernas para la estadía allá.↩︎</p></li>
@@ -1802,6 +1912,113 @@ Ver esta publicación en Instagram
   <category>ciclismo</category>
   <guid>https://bastimapache.cl/posts/explorando_navidad/explorando_navidad.html</guid>
   <pubDate>Thu, 05 Mar 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Álbumes del mes: febrero 2026</title>
+  <link>https://bastimapache.cl/posts/musica/albumes_2026-02/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Resumen de los álbumes más escuchados según <a href="https://www.last.fm/user/bastimapache">mi perfil de Last.fm</a>. Me llama la atención que este mes incluye varios discos que no son de mi rotación común.</p>
+<div class="foto centrar">
+<p><a href="lastfm-bastimapache-album-grid-2026-02.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://bastimapache.cl/posts/musica/albumes_2026-02/lastfm-bastimapache-album-grid-2026-02.jpg" class="img-fluid"></a></p>
+</div>
+<p>Este mes escuché más black metal, metal progresivo, y jazz fusión.</p>
+<section id="álbumes-destacados" class="level3">
+<h3 class="anchored" data-anchor-id="álbumes-destacados">Álbumes destacados</h3>
+<ul>
+<li><em>Manifeste</em> y <em>The Call Within</em> de <a href="https://www.last.fm/music/Tigran+Hamasyan">Tigran Hamasyan</a>, uno de mis artistas favoritos por su mezcla de piano, jazz, poliritmos de metal o <em>djent</em> y música oriental/armenia.</li>
+<li><em>Vida Blue</em> de <a href="https://www.last.fm/music/Mamaleek">Mamaleek</a>, un gran álbum de post black metal experimental.</li>
+<li><em>Further Still</em> y <em>All Fours</em> de <a href="https://www.last.fm/music/Bosse-de-Nage">Bosse-de-Nage</a>, una de mis bandas favoritas por su experimentación con un black metal atmosférico y cargado de emociones.</li>
+<li><em>Erotik</em> de <a href="https://www.last.fm/music/Lifelover">Lifelover</a>, porque me compré la entrada para el concierto que van a tener en septiembre de este año en Santiago.</li>
+<li><em>Labyrinthine</em> de <a href="https://www.last.fm/music/Faetooth">Faetooth</a>, un disco pesado y lento con voces femeninas.</li>
+</ul>
+
+
+</section>
+
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/albumes_2026-02/</guid>
+  <pubDate>Sat, 28 Feb 2026 03:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Conciertos a los que he ido</title>
+  <link>https://bastimapache.cl/posts/musica/conciertos/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><i class="fa-solid fa-music" aria-label="music"></i> En este post voy a ir anotando los conciertos que he ido, sin contar las tocatas ni conciertos de música clásica.</p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">2026</h3>
+<ul>
+<li><strong>Litvrgy</strong> (solo) (20/06/2026)</li>
+<li><strong>Psychonaut 4</strong> (11/02/2026)</li>
+<li><strong>Cynic, Imperial Triumphant</strong> (15/01/2026)</li>
+</ul>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2025</h3>
+<ul>
+<li><strong>Wolf Eyes</strong> (06/11/2025)</li>
+<li><strong><a href="../../../posts/musica/live_boris/">Boris</a></strong> (27/11/2025)</li>
+<li><strong>Ulcerate</strong> (24/11/2025)</li>
+<li><strong><a href="../../../posts/musica/live_sunset_images/">Sunset Images</a></strong> (12/11/2025)</li>
+<li><strong><a href="../../../posts/musica/live_psywarfare/">Psywarfare</a></strong> (24/10/2025)</li>
+<li><strong>Cephalotripsy</strong> (14/08/2025)</li>
+<li><strong>Defeating Insanity</strong> (01/05/2025)</li>
+<li><strong>Tigran Hamasyan</strong> (13/10/2025)</li>
+<li><strong>Suffocation</strong> (05/04/2025)</li>
+<li><strong>Escafism</strong> (14/12/2025)</li>
+</ul>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">2024</h3>
+<ul>
+<li><strong>Meshuggah</strong> (22/10/2024)</li>
+</ul>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">2023</h3>
+<ul>
+<li><strong>Tigran Hamasyan</strong> (24(05/2023)</li>
+<li><strong>Magma</strong> (29/04/2023)</li>
+<li><strong>Magma</strong> (28/04/2023)</li>
+<li><strong>Cynic, Beyond Creation</strong> (20/04/2023)</li>
+</ul>
+</section>
+<section id="antes" class="level3">
+<h3 class="anchored" data-anchor-id="antes">Antes</h3>
+<ul>
+<li><strong>Between The Buried and Me</strong> (13/03/2020)</li>
+<li><strong>Stephen O’Malley</strong> (16/05/2019)</li>
+<li><strong>Rosetta</strong> (08/03/2019)</li>
+<li><strong>Premiata Forneria Marconi</strong> (04/04/2016)</li>
+<li><strong>Deafheaven</strong> (09/12/2015)</li>
+<li><strong>Tosin Abasi</strong> (15/09/2014)</li>
+<li><strong>Magma</strong> (08/12/2013)</li>
+<li><strong>Opeth</strong> (28/03/2012)</li>
+<li><strong>Mastodon, Deftones</strong> (10/11/2012)</li>
+<li><strong>Avenged Sevenfold</strong> (02/03/2012)</li>
+<li><strong>Job For A Cowboy</strong> (21/07/2010)</li>
+<li><strong>Opeth</strong> (4/4/2009)</li>
+<li><strong>The Black Dahlia Murder</strong> (05/04/2008)</li>
+<li><strong>Arch Enemy</strong> (27/01/2007)</li>
+</ul>
+
+
+</section>
+
+<p>Blog personal de Bastián Olea Herrera (<span class="citation" data-cites="bastimapache">@bastimapache</span>)</p> ]]></description>
+  <category>música</category>
+  <guid>https://bastimapache.cl/posts/musica/conciertos/</guid>
+  <pubDate>Wed, 11 Feb 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
