@@ -13,8 +13,6 @@ Una brevet con paisajes otoñales preciosos. Tuve un buen desempeño, pero como 
 
 Vi dos zorros, una lechuza, dos ratitas, arañas pollito, y gansos.
 
-
-
 :::: {.tabla_ciclismo}
 | Variable                | Valor     |
 |------------------------:|-----------|

@@ -366,32 +366,52 @@ border-top: 1px solid $background !important;
 
 
 .brevet_200 {
-  background-color: #F2DE2C;
+  background-color: color-mix(in oklab, #F2DE2C 90%, #F0BFE7);
   color: $background2;
-  opacity: 90%;
+  opacity: 94%;
   border-radius: 5px;
-  padding: 4px 8px;
+  padding: 2px 8px;
   font-weight: 500;
 }
 
 .brevet_300 {
-  background-color: #7FBF0C;
+  background-color: color-mix(in oklab, #7FBF0C 90%, #F0BFE7);
   color: $background2;
-  opacity: 90%;
+  opacity: 94%;
   border-radius: 5px;
-  padding: 4px 8px;
+  padding: 2px 8px;
   font-weight: 500;
 }
 
 .brevet_400 {
-  background-color: #A824C8;
+  background-color: color-mix(in oklab, #A824C8 90%, #F0BFE7);
   color: $background2;
-  opacity: 90%;
+  opacity: 94%;
   border-radius: 5px;
-  padding: 4px 8px;
+  padding: 2px 8px;
   font-weight: 500;
 }
 
+
+.oton {
+  color: color-mix(in oklab, #9B642A 90%, #F0BFE7);
+  font-size: 110%;
+}
+
+.invi {
+  color: color-mix(in oklab, #366C7C 90%, #F0BFE7);
+  font-size: 110%;
+}
+
+.prim {
+  color: color-mix(in oklab, #3C9882 90%, #F0BFE7);
+  font-size: 110%;
+}
+
+.vera {
+  color: color-mix(in oklab, #8B3424 90%, #F0BFE7);
+  font-size: 110%;
+}
 
 
 // para cuadrículas de libros

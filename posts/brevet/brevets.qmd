@@ -1,37 +1,59 @@
 ---
 title: "Brevets que he hecho"
 subtitle: "Lista de mis desafíos de ciclismo de ultradistancia"
-date: "2026-01-31"
+date: "2026-05-09"
 format: html
 categories: [ciclismo, destacado]
 ---
 
-Las [brevets](https://www.brevet.cl) son desafíos de **ciclismo de ultradistancia** centrados en la autosuficiencia. Esta es la lista de todas las brevets que he hecho, con enlaces a publiaciones con sus rutas, fotos y mis estadísticas de rendimiento.
+Las [brevets](www.brevet.cl) son desafíos de **ciclismo de ultradistancia** centrados en la autosuficiencia. Cada desafío recorre una distancia de 200, 300, 400, 600 o 1000 kilómetros, dentro de un límite de **tiempo máximo**, y con puntos de control intermedios con horario de apertura y cierre. 
 
-Cada desafío recorre una distancia de 200, 300, 400, 600 o 1000 kilómetros, dentro de un límite de **tiempo máximo**, y con puntos de control intermedios con horario de apertura y cierre. 
+Esta es la lista de todas las **22 brevets** que he hecho, con enlaces a publicaciones con sus rutas, fotos y mis estadísticas de rendimiento.
+
+
+### Mis brevets
+
+|Año   | Estación  | Distancia          | Estado  | Evento               |
+|-----:|-----------|:------------------:|---------|----------------------|
+| 2026 | Otoño [●]{.oton}     | [300]{.brevet_300} | OK      | [Central Rapel](/posts/brevet/brevet_300_rapel/) |
+| 2026 | Verano [●]{.vera}    | [300]{.brevet_300} | OK      | [Vuelta del Cobre](/posts/brevet/brevet_300_vueltadelcobre/) |
+| 2026 | Verano [●]{.vera}    | [200]{.brevet_200} | **DNF** | [Vuelta San Pedro](/posts/brevet/brevet_200_sanpedro/) |
+| 2025 | Primavera [●]{.prim} | [200]{.brevet_200} | OK      | [Vuelta Melipilla](/posts/brevet/brevet_200_melipilla/) |
+| 2025 | Invierno [●]{.invi}  | [300]{.brevet_300} | **DNF** | [Casablanca](/posts/brevet/brevet_300_casablanca/)|
+| 2025 | Otoño [●]{.oton}     | [200]{.brevet_200} | OK      | [Vuelta del Campo](/posts/brevet/brevet_200_vueltadelcampo/) |
+| 2024 | Otoño [●]{.oton}     | [300]{.brevet_300} | **DNF** | [Vuelta Colliguay](/posts/brevet/brevet_300_colliguay/) |
+| 2024 | Otoño [●]{.oton}     | [200]{.brevet_200} | OK      | Lagunillas |
+| 2024 | Verano [●]{.vera}    | [300]{.brevet_300} | **DNF** | Santo Domingo |
+| 2023 | Primavera [●]{.prim} | [200]{.brevet_200} | OK      | Baños Morales |
+| 2023 | Invierno [●]{.invi}  | [200]{.brevet_200} | OK      | Vuelta Los Maitenes |
+| 2023 | Invierno [●]{.invi}  | [300]{.brevet_300} | OK      | Vuelta Coínco |
+| 2023 | Verano [●]{.vera}    | [400]{.brevet_400} | OK      | [Vuelta Coya](/posts/brevet/brevet_400_vueltacoya) |
+| 2023 | Verano [●]{.vera}    | [300]{.brevet_300} | OK      | Los Poetas |
+| 2022 | Verano [●]{.vera}    | [200]{.brevet_200} | OK      | Chacabuco |
+| 2022 | Invierno [●]{.invi}  | [400]{.brevet_400} | **DNF** | La Boca |
+| 2022 | Otoño [●]{.oton}     | [300]{.brevet_300} | OK      | Centenario |
+| 2022 | Otoño [●]{.oton}     | [200]{.brevet_200} | OK      | Cajón del Maipo |
+| 2021 | Invierno [●]{.invi}  | [200]{.brevet_200} | OK      | Altos de Cantillana |
+| 2021 | Verano [●]{.vera}    | [200]{.brevet_200} | OK      | Bestia Negra |
+| 2020 | Primavera [●]{.prim} | [200]{.brevet_200} | OK      | Audax-Húsares |
+| 2019 | Primavera [●]{.prim} | [200]{.brevet_200} | OK      | Austral Randonneurs |
 
 Las marcadas con _DNF_ significa que no las terminé dentro del tiempo límite, y por consiguiente no se consideran _logradas._
 
-|Temporada | Distancia          | Estado  | Evento               |
-|---------:|:------------------:|---------|----------------------|
-| 2026     | [300]{.brevet_300} | OK      | [Vuelta del Cobre](/posts/brevet/brevet_300_vueltadelcobre/) |
-| 2026     | [200]{.brevet_200} | **DNF** | [Vuelta San Pedro](/posts/brevet/brevet_200_sanpedro/) |
-| 2025     | [200]{.brevet_200} | OK      | [Vuelta Melipilla](/posts/brevet/brevet_200_melipilla/) |
-| 2025     | [300]{.brevet_300} | **DNF** | [Casablanca](/posts/brevet/brevet_300_casablanca/)|
-| 2025     | [200]{.brevet_200} | OK      | [Vuelta del Campo](/posts/brevet/brevet_200_vueltadelcampo/) |
-| 2024     | [300]{.brevet_300} | **DNF** | [Colliguay](/posts/brevet/brevet_300_colliguay/) |
-| 2024     | [200]{.brevet_200} | OK      | Lagunillas |
-| 2024     | [300]{.brevet_300} | **DNF** | Santo Domingo |
-| 2023     | [300]{.brevet_300} | OK      | Vuelta Coínco |
-| 2023     | [200]{.brevet_200} | OK      | Baños Morales |
-| 2023     | [200]{.brevet_200} | OK      | Vuelta Los Maitenes |
-| 2023     | [400]{.brevet_400} | OK      | [Vuelta Coya](/posts/brevet/brevet_400_vueltacoya) |
-| 2023     | [300]{.brevet_300} | OK      | Los Poetas |
-| 2022     | [200]{.brevet_200} | OK      | Chacabuco |
-| 2022     | [400]{.brevet_400} | **DNF** | La Boca |
-| 2022     | [200]{.brevet_200} | OK      | Cajón del Maipo |
-| 2022     | [300]{.brevet_300} | OK      | Centenario |
-| 2021     | [200]{.brevet_200} | OK      | Altos de Cantillana |
-| 2021     | [200]{.brevet_200} | OK      | Bestia Negra |
-| 2020     | [200]{.brevet_200} | OK      | Audax-Húsares |
-| 2019     | [200]{.brevet_200} | OK      | Austral Randonneurs |
+
+### Brevets por año
+
+::: {style="max-width: 200px;"}
+
+| Año  | Brevets |
+|-----:|:--------|
+| 2026 | 3 | 
+| 2025 | 3 | 
+| 2024 | 3 | 
+| 2023 | 5 | 
+| 2022 | 4 | 
+| 2021 | 2 | 
+| 2020 | 1 | 
+| 2019 | 1 | 
+
+:::

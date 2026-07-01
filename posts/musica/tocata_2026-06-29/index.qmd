@@ -9,6 +9,7 @@ image: "banner.jpg"
 format: html
 ---
 
+Tocata culiá entera wena en el Bar Óxido, con la presentación principal de Northgarden, ex Inside, junto a los gigantes Betrayal Devours Cowards, Own Omnipresence, entre otros.
 
 :::: {.galeria}
 ![](tocata_1.jpeg){.fotito .lightbox group="tocata"}
