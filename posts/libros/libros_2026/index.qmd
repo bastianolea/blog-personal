@@ -149,9 +149,10 @@ div(class = "cuadricula",
 
 ```{r mosaico}
 #| output: false
+#| eval: false
 
 # generar mosaico de libros para portada de post
-# source("mosaico.R")
+source("mosaico.R")
 ```
 
 Voy a ir actualizando esta lista de vez en cuando para reflejar las últimas lecturas! [En esta publicación escribí un tutorial](https://bastianolea.rbind.io/blog/2026-03-26/) sobre cómo creé esta página.

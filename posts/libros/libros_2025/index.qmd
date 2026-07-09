@@ -186,6 +186,7 @@ div(class = "cuadricula",
 
 ```{r mosaico}
 #| output: false
+#| eval: false
 
 # generar mosaico de libros para portada de post
 source("mosaico.R")

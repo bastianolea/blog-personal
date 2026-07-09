@@ -10,7 +10,7 @@ website:
   open-graph:
     locale: es_ES
   page-footer:
-    left: "© 2026 Bastián Olea Herrera · @bastimapache"
+    left: "© 2026 Bastián Olea Herrera · [@bastimapache](https://x.com/bastimapache)"
     center: "[Inicio](index.qmd) · [Blog](blog.qmd) · [Blog profesional](https://bastianolea.rbind.io)"
     right: "Hecho con [Quarto](https://quarto.org), [R](https://bastianolea.github.io/aprende_r/) y [RStudio](https://posit.co/downloads). Sitio alojado en [Netlify](https://www.netlify.com/)."
   twitter-card: 
@@ -33,6 +33,8 @@ website:
         href: https://www.tiktok.com/@bastimapache
       - icon: twitter
         href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bastianolea/
   search: 
     location: navbar
     type: overlay

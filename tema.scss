@@ -532,3 +532,15 @@ div.gslide-description .gslide-title {
 .maplibregl-canvas {
   border-radius: 12px;
 }
+
+.left {
+  float: left;
+  max-width: 200px;
+  margin-right: 12px;
+}
+
+.right {
+  float: right;
+  max-width: 200px;
+  margin-left: 12px;
+}
