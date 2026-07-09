@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 website:
-  description: "Sitio personal de Bastián Olea Herrera"
-  site-url: https://bastimapache.cl
   title: "Bastián Olea Herrera"
+  description: "Sitio personal de Bastián Olea Herrera"
+  site-url: "https://bastimapache.cl"
   favicon: profile.jpg
   open-graph:
     locale: es_ES
