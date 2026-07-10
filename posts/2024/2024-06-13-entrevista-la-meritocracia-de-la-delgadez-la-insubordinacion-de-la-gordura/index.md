@@ -9,7 +9,11 @@ tags:
   - "gordura"
 ---
 
-_Comparto el texto de una entrevista que me realizó en 2024 año Raúl Nagore, periodista y parte del [Basque Culinary Center](https://www.bculinary.com/es/home) de San Sebastián y la asociación de cocineros [Euro-Toques](https://www.euro-toques.es/public_home/ctrl_home.php), que será publicada en un número futuro del [periódico Papeles de Cocina.](https://www.euro-toques.es/papeles_de_cocina/ctrl_papeles.php)_ _La entrevista viene con una introducción y se da en formato de pregunta/respuesta._ _¡Muchas gracias Raúl por la conversación y la oportunidad!_
+_Comparto el texto de una [entrevista](https://www.dialogosdecocina.com/papeles-de-cocina/gordofobia-con-cuchillo-y-tenedor-bastian-olea/) que me realizó en 2024 año Raúl Nagore, periodista y parte del [Basque Culinary Center](https://www.bculinary.com/es/home) de San Sebastián y la asociación de cocineros [Euro-Toques](https://www.euro-toques.es/public_home/ctrl_home.php), que fue publicada en [Diálogos de Cocina.](https://www.dialogosdecocina.com/papeles-de-cocina/gordofobia-con-cuchillo-y-tenedor-bastian-olea/)_ 
+
+_¡Muchas gracias Raúl por la conversación y la oportunidad!_ 
+
+[Lee el artículo completo aquí.](https://www.dialogosdecocina.com/papeles-de-cocina/gordofobia-con-cuchillo-y-tenedor-bastian-olea/)
 
 * * *
 
