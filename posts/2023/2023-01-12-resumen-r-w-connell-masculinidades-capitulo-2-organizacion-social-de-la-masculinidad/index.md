@@ -15,6 +15,6 @@ Resumen del capítulo 2 del libro Masculinidades, de R. W. Connell, que plantea 
 
 _R. W. Connell. (1995). Masculinities. Polity Press_
 
-Clic en el mapa conceptual o en [este link para acceder al resumen.](http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf)
+Clic en el mapa conceptual o en [este link para acceder al resumen.](Connell-Organizacion-social-de-la-masculinidad-1.pdf)
 
-[![](images/Connell-Organizacion-social-de-la-masculinidad-950x1024.png)](http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Organizacion-social-de-la-masculinidad-1.pdf)
+[![](images/Connell-Organizacion-social-de-la-masculinidad-950x1024.png)](Connell-Organizacion-social-de-la-masculinidad-1.pdf)

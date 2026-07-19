@@ -16,6 +16,6 @@ tags:
 
 Cada nodo representa un texto, agrupado por temática general (color) y sub-temáticas (los sub nodos y ramas del árbol).
 
-Clic en la imagen para [acceder al mapa conceptual en PDF.](http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf)
+Clic en la imagen para [acceder al mapa conceptual en PDF.](Bibliografia-por-temas.pdf)
 
-[![](images/Copia-de-Bibliografia-por-temas-2-1024x746.jpg)](http://bastian.olea.biz/wp-content/uploads/2024/11/Bibliografia-por-temas.pdf)
+[![](images/Copia-de-Bibliografia-por-temas-2-1024x746.jpg)](Bibliografia-por-temas.pdf)

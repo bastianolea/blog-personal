@@ -19,9 +19,9 @@ Este artículo corresponde a un análisis del capítulo séptimo, _Discutir con 
 
 <!--more-->
 
-- [Leer/descargar en PDF.](http://bastian.olea.biz/wp-content/uploads/2018/08/La-posibilidad-de-resignificar-el-lenguaje.-Judith-Butler-y-la-belleza-como-significante-político-Olea.pdf)
+- [Leer/descargar en PDF.](La-posibilidad-de-resignificar-el-lenguaje.-Judith-Butler-y-la-belleza-como-significante-político-Olea.pdf)
 - [Ver en ResearchGate.](https://www.researchgate.net/publication/309736197_La_posibilidad_de_resignificar_el_lenguaje_Judith_Butler_y_la_belleza_como_significante_politico)
-- Citar como: Olea, B. (2016). La posibilidad de resignificar el lenguaje: Judith Butler y la belleza como significante político. Bastián Olea H. Sociología, género, y la estigmatización de la gordura. Disponible en: [http://bastian.olea.biz/la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/](http://bastian.olea.biz/la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/)
+- Citar como: Olea, B. (2016). La posibilidad de resignificar el lenguaje: Judith Butler y la belleza como significante político. Bastián Olea H. Sociología, género, y la estigmatización de la gordura. Disponible en: [www.bastimapache.cl/posts/2016/2016-11-07-la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/](www.bastimapache.cl/posts/2016/2016-11-07-la-posibilidad-de-resignificar-el-lenguaje-judith-butler-y-la-belleza-como-significante-politico/)
 
 * * *
 

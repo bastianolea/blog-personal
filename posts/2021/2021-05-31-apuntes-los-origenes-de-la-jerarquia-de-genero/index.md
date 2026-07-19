@@ -15,9 +15,9 @@ Este mapa conceptual resume las ideas principales del texto _La revolución de g
 
 <!--more-->
 
-[![](images/Cucchiari-La-revolucion-de-genero.png)](http://bastian.olea.biz/wp-content/uploads/2021/05/Cucchiari-La-revolucion-de-genero.pdf)
+[![](images/Cucchiari-La-revolucion-de-genero.png)](Cucchiari-La-revolucion-de-genero.pdf)
 
-[Toca la imagen o este enlace para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/05/Cucchiari-La-revolucion-de-genero.pdf)
+[Toca la imagen o este enlace para descargar el mapa conceptual.](Cucchiari-La-revolucion-de-genero.pdf)
 
 La fuente del texto desde el que realicé el mapa conceptual es _La revolución de género y la transición de la horda bisexual a la banda patrilocal: los orígenes de la jerarquía de género,_ de Salvatore Cucchiari, publicado en el libro de Marta Lamas (compiladora) (2015), _El género: La construcción cultural de la diferencia sexual._ México: Bonilla Artigas Editores.
 

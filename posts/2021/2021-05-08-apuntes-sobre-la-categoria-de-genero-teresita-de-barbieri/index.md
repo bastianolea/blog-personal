@@ -29,9 +29,9 @@ Luego, define los sistemas se sexo/género como:
 
 La fuente del texto es: De Barbieri, T. (1993). _Sobre la categoría de género. Una introducción teórico-metodológica._ Debates en Sociología. Nº8.
 
-[Clic en este enlace o en la imagen para acceder al mapa conceptual:](http://bastian.olea.biz/wp-content/uploads/2021/05/Barbieri-Sobre-la-categoria-de-genero.pdf)
+[Clic en este enlace o en la imagen para acceder al mapa conceptual:](Barbieri-Sobre-la-categoria-de-genero.pdf)
 
-[![](images/Barbieri-Sobre-la-categoria-de-genero.png)](http://bastian.olea.biz/wp-content/uploads/2021/05/Barbieri-Sobre-la-categoria-de-genero.pdf)
+[![](images/Barbieri-Sobre-la-categoria-de-genero.png)](Barbieri-Sobre-la-categoria-de-genero.pdf)
 
 * * *
 

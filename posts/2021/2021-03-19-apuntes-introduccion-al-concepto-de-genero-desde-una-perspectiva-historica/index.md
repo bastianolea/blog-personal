@@ -17,6 +17,6 @@ Este mapa conceptual proviene de la lectura de la introducción del libro Géner
 
 La fuente de este mapa es: Scott, J., (1988). _Gender and the Politics of History._ Columbia University Press.
 
-[Clic aquí o en la imagen para descargar el mapa conceptual](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Gender-and-the-Politics-of-History-Intro.pdf)
+[Clic aquí o en la imagen para descargar el mapa conceptual](Scott-Gender-and-the-Politics-of-History-Intro.pdf)
 
-[![](images/6A1F9B7B-D6C4-42A8-96EA-9E4CB5611D6B.png)](http://bastian.olea.biz/wp-content/uploads/2021/03/Scott-Gender-and-the-Politics-of-History-Intro.pdf)
+[![](images/6A1F9B7B-D6C4-42A8-96EA-9E4CB5611D6B.png)](Scott-Gender-and-the-Politics-of-History-Intro.pdf)

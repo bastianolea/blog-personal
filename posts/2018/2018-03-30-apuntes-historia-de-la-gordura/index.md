@@ -18,7 +18,7 @@ El siguiente es un mapa conceptual que ordena los conceptos principales del libr
 
 Clic en la imagen para abrir el mapa conceptual en PDF.
 
-[![](images/Historia-de-la-gordura-Stearns-2002-1-674x1024.png)](http://bastian.olea.biz/wp-content/uploads/2018/03/Historia-de-la-gordura.pdf)
+[![](images/Historia-de-la-gordura-Stearns-2002-1-674x1024.png)](Historia-de-la-gordura.pdf)
 
 Nota: Los números entre paréntesis corresponden a la posición de cada fragmento en la versión digital (Kindle) del texto. Pueden pedirme por interno el archivo para que los números calcen con el documento.
 

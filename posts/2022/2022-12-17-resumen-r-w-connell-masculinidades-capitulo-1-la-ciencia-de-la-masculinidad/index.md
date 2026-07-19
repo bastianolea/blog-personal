@@ -14,6 +14,6 @@ Resumen del capítulo 1 del libro Masculinidades, de R. W. Connell, que habla so
 
 _R. W. Connell. (1995). Masculinities. Polity Press_
 
-Clic en el mapa conceptual o en [este link para acceder al resumen.](http://bastian.olea.biz/wp-content/uploads/2022/12/Connell-Masculinidades-cap.-1.pdf)
+Clic en el mapa conceptual o en [este link para acceder al resumen.](Connell-Masculinidades-cap.-1.pdf)
 
-[![](images/Masculinities-cap-1-1024x665.png)](http://bastian.olea.biz/wp-content/uploads/2022/12/Connell-Masculinidades-cap.-1.pdf)
+[![](images/Masculinities-cap-1-1024x665.png)](Connell-Masculinidades-cap.-1.pdf)

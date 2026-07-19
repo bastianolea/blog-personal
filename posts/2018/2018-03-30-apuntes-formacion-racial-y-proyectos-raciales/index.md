@@ -9,7 +9,7 @@ tags:
   - "raza"
 ---
 
-[![](images/Formación-y-proyectos-raciales-Omi-2014-1024x570.png)](http://bastian.olea.biz/wp-content/uploads/2018/03/Formación-y-proyectos-raciales-Omi-2014.pdf)
+[![](images/Formación-y-proyectos-raciales-Omi-2014-1024x570.png)](Formación-y-proyectos-raciales-Omi-2014.pdf)
 
 Clic en la imagen para abrir en PDF.
 

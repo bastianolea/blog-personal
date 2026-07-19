@@ -26,7 +26,7 @@ Los datos provienen de los resultados del la encuesta _International Body Projec
 
 <!--more-->
 
-- [Leer/descargar en PDF.](http://bastian.olea.biz/wp-content/uploads/2018/08/Imagen-corporal-y-exposición-a-medios-de-comunicación-censurado-Olea.pdf)
+- [Leer/descargar en PDF.](Imagen-corporal-y-exposición-a-medios-de-comunicación-censurado-Olea.pdf)
 - [Ver en ResearchGate.](https://www.researchgate.net/publication/326720310_Efecto_de_los_medios_comunicacionales_en_la_evaluacion_de_la_corporalidad_femenina_en_Belgica_Suiza_y_Estados_Unidos)
 - Citar como: Olea, B. (2017). Efecto de los medios comunicacionales en la evaluación de la corporalidad femenina en Bélgica, Suiza y Estados Unidos. _Bastián Olea H. Sociología, género, y la estigmatización de la gordura femenina._ Disponible en: [http://bastian.olea.biz/efecto-de-los-medios-comunicacionales-en-la-evaluacion-de-la-corporalidad-femenina-en-belgica-suiza-y-estados-unidos/](https://wp.me/p5E5dC-3O)
 

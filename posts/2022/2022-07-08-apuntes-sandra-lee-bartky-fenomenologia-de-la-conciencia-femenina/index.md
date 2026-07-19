@@ -13,9 +13,9 @@ Mapa conceptual de las ideas principales del capítulo _Towards a Phenomenology 
 
 Bartky, Sandra Lee. (1990). Femininity and Domination. Studies in the Phenomenology of Oppression. (Thinking Gender). New York: Routledge.
 
-Toca en la imagen o en [este enlace](http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-1-Towards-a-Phenomenology-of-Feminist-Consciousness.pdf) para acceder al mapa conceptual del texto.
+Toca en la imagen o en [este enlace](Bartky-1-Towards-a-Phenomenology-of-Feminist-Consciousness.pdf) para acceder al mapa conceptual del texto.
 
-[![](images/429271EA-E239-4F6F-99C2-6F9EC92FA2D6.jpeg)](http://bastian.olea.biz/wp-content/uploads/2022/07/Bartky-1-Towards-a-Phenomenology-of-Feminist-Consciousness.pdf)
+[![](images/429271EA-E239-4F6F-99C2-6F9EC92FA2D6.jpeg)](Bartky-1-Towards-a-Phenomenology-of-Feminist-Consciousness.pdf)
 
 * * *
 

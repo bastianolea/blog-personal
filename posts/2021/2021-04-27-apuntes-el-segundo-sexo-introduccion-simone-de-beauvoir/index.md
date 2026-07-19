@@ -16,9 +16,9 @@ Este mapa conceptual resume las ideas principales de la introducción del libro 
 
 La edición citada es la Vintage Feminism Short Edition, “Extracts from: The Second Sex”, (2015) de la editorial Vintage Classics.
 
-[![](images/De-Beauvoir-El-segundo-sexo-1024x627.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/De-Beauvoir-El-segundo-sexo.pdf)
+[![](images/De-Beauvoir-El-segundo-sexo-1024x627.png)](De-Beauvoir-El-segundo-sexo.pdf)
 
-[Clic en la imagen o en este enlace para descargar el mapa conceptual](http://bastian.olea.biz/wp-content/uploads/2021/04/De-Beauvoir-El-segundo-sexo.pdf)
+[Clic en la imagen o en este enlace para descargar el mapa conceptual](De-Beauvoir-El-segundo-sexo.pdf)
 
 * * *
 

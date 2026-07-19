@@ -16,6 +16,6 @@ En este breve mapa conceptual se relacionan líneas de argumentación acerca del
 
 La fuente de este mapa es: Scott, J., (1988). _Gender and the Politics of History._ Columbia University Press.
 
-[Clic en este enlace o en la imagen para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/04/Scott-Genero-y-lenguaje-p.-53-67.pdf)
+[Clic en este enlace o en la imagen para descargar el mapa conceptual.](Scott-Genero-y-lenguaje-p.-53-67.pdf)
 
-[![](images/Scott-Genero-y-lenguaje-p.-53-67-1024x609.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Scott-Genero-y-lenguaje-p.-53-67.pdf)
+[![](images/Scott-Genero-y-lenguaje-p.-53-67-1024x609.png)](Scott-Genero-y-lenguaje-p.-53-67.pdf)

@@ -22,7 +22,7 @@ tags:
 
 _Ensayo final para el seminario de teoría sociológica contemporánea, dictado en el doctorado de sociología de la Universidad Católica de Chile. En este texto se esboza un modelo teórico del mecanismo de estigmatización de la gordura, el cual contempla la repetición performativa de discursos acerca de  las múltiples dimensiones de desigualdad social que producen o tipifican a las corporalidades gordas, imprimiendo y reproduciendo significados negativos sobre dichos cuerpos, lo cual marca simbólicamente a la gordura, ubicando a dichos cuerpos en posiciones discursivas que resultan cruciales para la reproducción de ciertas formas de discriminación y opresión social._<!--more-->
 
-- [Leer/descargar en PDF.](http://bastian.olea.biz/wp-content/uploads/2018/08/Categorización-social-y-performatividad.-Estigmatización-y-subversión-de-la-gordura.pdf)
+- [Leer/descargar en PDF.](Categorización-social-y-performatividad.-Estigmatización-y-subversión-de-la-gordura.pdf)
 - [Leer en ResearchGate.](https://www.researchgate.net/publication/326720291_Categorizacion_social_y_performatividad_la_estigmatizacion_y_subversion_de_la_gordura)
 - Citar como: Olea, B. (2017). Categorización social y performatividad: la estigmatización (y subversión) de la gordura. Bastián Olea H. _Sociología, género, y la estigmatización de la gordura._ Disponible en: [http://bastian.olea.biz/categorizacion-social-y-performatividad-la-estigmatizacion-y-subversion-de-la-gordura/](https://wp.me/p5E5dC-2B)
 

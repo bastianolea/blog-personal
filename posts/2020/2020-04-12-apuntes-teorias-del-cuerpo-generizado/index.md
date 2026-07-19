@@ -19,7 +19,7 @@ En el mapa conceptual se resumen algunos conceptos y puntos clave de los argumen
 
 Toca la imagen para descargar.
 
-[![](images/Feminist-Theory-and-the-Body-Introducciones-1-300x287.png)](http://bastian.olea.biz/wp-content/uploads/2020/04/Feminist-Theory-and-the-Body-Introducciones.pdf)
+[![](images/Feminist-Theory-and-the-Body-Introducciones-1-300x287.png)](Feminist-Theory-and-the-Body-Introducciones.pdf)
 
 * * *
 

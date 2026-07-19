@@ -20,8 +20,8 @@ Este es un mapa conceptual que resume el concepto de performatividad de género 
 
 La fuente de este resumen se encuentra en el capítulo “Bodily Inscriptions, Performative Subvertions” de Judith Butler, en el libro _Feminist Theory and The Body, A Reader_ (Janet Price y Margrit Shildrick, editoras, 1999, Routledge)
 
-_Toca en la imagen para_ [_descargar el mapa conceptual._](http://bastian.olea.biz/wp-content/uploads/2020/04/Actos-performativos-Butler-7.1.pdf)
+_Toca en la imagen para_ [_descargar el mapa conceptual._](Actos-performativos-Butler-7.1.pdf)
 
-[![](images/IMG_8871-1-1024x655.png)](http://bastian.olea.biz/wp-content/uploads/2020/04/Actos-performativos-Butler-7.1.pdf)
+[![](images/IMG_8871-1-1024x655.png)](Actos-performativos-Butler-7.1.pdf)
 
 _Apuntes y ensayos sobre estudios de género, sociología del cuerpo y teoría feminista por Bastián Olea Herrera, licenciado y magíster en sociología (Pontificia Universidad Católica de Chile)._

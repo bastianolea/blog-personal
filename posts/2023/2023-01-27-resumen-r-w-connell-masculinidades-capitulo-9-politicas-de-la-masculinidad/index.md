@@ -12,6 +12,6 @@ Resumen del capítulo 9 del libro Masculinidades, de R. W. Connell, donde se pro
 
 _R. W. Connell. (1995). Masculinities. Polity Press_
 
-Clic en el mapa conceptual o en [este link para acceder al resumen.](http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf)
+Clic en el mapa conceptual o en [este link para acceder al resumen.](Connell-Politicas-de-la-masculinidad.pdf)
 
-[![](images/9455DE3A-2A54-449D-9633-5E72DFE13488-1024x370.jpeg)](http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Politicas-de-la-masculinidad.pdf)
+[![](images/9455DE3A-2A54-449D-9633-5E72DFE13488-1024x370.jpeg)](Connell-Politicas-de-la-masculinidad.pdf)

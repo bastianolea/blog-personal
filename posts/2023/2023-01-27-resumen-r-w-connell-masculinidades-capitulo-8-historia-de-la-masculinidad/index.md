@@ -13,6 +13,6 @@ Resumen del capítulo 8 del libro Masculinidades, de R. W. Connell, que entrega 
 
 _R. W. Connell. (1995). Masculinities. Polity Press_
 
-Clic en el mapa conceptual o en [este link para acceder al resumen.](http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf)
+Clic en el mapa conceptual o en [este link para acceder al resumen.](Connell-Historia-de-la-masculinidad.pdf)
 
-[![](images/6FE0E506-2B07-4264-8598-91F56F5CD50D-857x1024.jpeg)](http://bastian.olea.biz/wp-content/uploads/2023/01/Connell-Historia-de-la-masculinidad.pdf)
+[![](images/6FE0E506-2B07-4264-8598-91F56F5CD50D-857x1024.jpeg)](Connell-Historia-de-la-masculinidad.pdf)

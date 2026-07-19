@@ -17,6 +17,6 @@ En la parte superior del mapa conceptual hay un conveniente esquema de dos pista
 
 El segundo nodo del mapa conceptual presenta tres formas en las que Nelly Richard define al feminismo: feminismo como movimiento de mujeres, feminismo como teoría feminista, y feminismo como crítica feminista.
 
-[Clic aquí o en la imagen para acceder al mapa conceptual de resumen.](http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf)
+[Clic aquí o en la imagen para acceder al mapa conceptual de resumen.](Nelly-Richard-Feminismo-genero-y-diferencia.pdf)
 
-[![](images/Nelly-Richard-Feminismo-genero-y-diferencia-Tiene-sexo-la-escritura-920x1024.jpg)](http://bastian.olea.biz/wp-content/uploads/2023/02/Nelly-Richard-Feminismo-genero-y-diferencia.pdf)
+[![](images/Nelly-Richard-Feminismo-genero-y-diferencia-Tiene-sexo-la-escritura-920x1024.jpg)](Nelly-Richard-Feminismo-genero-y-diferencia.pdf)

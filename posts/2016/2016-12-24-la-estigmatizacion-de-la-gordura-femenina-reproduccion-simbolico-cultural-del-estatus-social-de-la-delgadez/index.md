@@ -25,7 +25,7 @@ En la actualidad, los cuerpos gordos femeninos son negativizados y des-represent
 
 <!--more-->
 
-- [**Leer/descargar en PDF.**](http://bastian.olea.biz/wp-content/uploads/2018/10/la-estigmatización-de-la-gordura-femenina-olea.pdf)
+- [**Leer/descargar en PDF.**](la-estigmatización-de-la-gordura-femenina-olea.pdf)
 - Ver en [ResearchGate](https://www.researchgate.net/publication/311872887_La_estigmatizacion_de_la_gordura_femenina_Reproduccion_simbolico-cultural_del_estatus_social_de_la_delgadez)
 - Leer desde [Scribd](https://es.scribd.com/document/334980953/La-estigmatizacion-de-la-gordura-femenina-Reproduccion-simbolico-cultural-del-estatus-social-de-la-delgadez)
 - Citar como: Olea, B. (2017). La estigmatización de la gordura femenina. Reproducción simbólico-cultural del estatus social de la delgadez. En J. Pavez (Ed.), _(Des)Orden de género. Políticas y mercados del cuerpo en Chile_ (pp. 299–329). CRANN Editores.

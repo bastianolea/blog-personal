@@ -11,9 +11,9 @@ tags:
 
 Comparto un mapa conceptual sobre algunos de los conceptos expuestos por Erving Goffman en su clásico ["The Presentation of Self in Everyday Life"](https://www.goodreads.com/book/show/720664.The_Presentation_of_Self_in_Everyday_Life) (1959).
 
-[![](images/40A2ACFE-88B3-4861-8E10-606F47DD095D-1024x768.png)](http://bastian.olea.biz/wp-content/uploads/2020/02/Goffman.pdf)
+[![](images/40A2ACFE-88B3-4861-8E10-606F47DD095D-1024x768.png)](Goffman.pdf)
 
-[Clic para acceder al mapa conceptual](http://bastian.olea.biz/wp-content/uploads/2020/02/Goffman.pdf)[Descargar](http://bastian.olea.biz/wp-content/uploads/2020/02/Goffman.pdf)
+[Clic para acceder al mapa conceptual](Goffman.pdf)[Descargar](Goffman.pdf)
 
 * * *
 

@@ -21,9 +21,9 @@ Mapa conceptual que resume esta obra del sociólogo Pierre Bourdieu, la cual ofr
 
 Se trata de un mapa conceptual enorme, cuyos temas principales son la **masculinidad** (la virilidad, la socialización de lo masculio, el honor), el **cuerpo** (la diferencia corporal, la naturalización del género binario, la transformación de los cuerpos, la percepción del cuerpo, la mirada), y la **dominación** (la violencia simbólica, el orden masculino, la división sexual).
 
-[Haz clic en la imagen o en este link para descargar el resumen de _La dominación masculina_](http://bastian.olea.biz/wp-content/uploads/2021/08/Bourdieu-La-dominacion-masculina.pdf)
+[Haz clic en la imagen o en este link para descargar el resumen de _La dominación masculina_](Bourdieu-La-dominacion-masculina.pdf)
 
-[![](images/Bourdieu-La-dominacion-masculina.png)](http://bastian.olea.biz/wp-content/uploads/2021/08/Bourdieu-La-dominacion-masculina.pdf)
+[![](images/Bourdieu-La-dominacion-masculina.png)](Bourdieu-La-dominacion-masculina.pdf)
 
 Fuente: Bourdieu, P. (2019). La dominación masculina (14ª edición). Barcelona: Editorial Anagrama.
 

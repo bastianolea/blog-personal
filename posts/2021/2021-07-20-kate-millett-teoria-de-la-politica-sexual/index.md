@@ -12,9 +12,9 @@ tags:
 
 Resumen del capítulo de _Política sexual_ (Madrid: Cátedra, 1995), originalmente publicado en 1970.
 
-[Clic aquí o en la imagen para descargar el mapa conceptual en PDF](http://bastian.olea.biz/wp-content/uploads/2021/07/Kate-Millett-Politica-sexual.pdf)
+[Clic aquí o en la imagen para descargar el mapa conceptual en PDF](Kate-Millett-Politica-sexual.pdf)
 
-[![](images/Kate-Millett-Politica-sexual-1024x706.png)](http://bastian.olea.biz/wp-content/uploads/2021/07/Kate-Millett-Politica-sexual.pdf)
+[![](images/Kate-Millett-Politica-sexual-1024x706.png)](Kate-Millett-Politica-sexual.pdf)
 
 ### Poder y política
 

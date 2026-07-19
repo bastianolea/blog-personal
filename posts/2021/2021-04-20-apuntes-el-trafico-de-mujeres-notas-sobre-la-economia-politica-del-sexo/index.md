@@ -22,9 +22,9 @@ Este desplante teórico destaca por la introducción del concepto de sistema sex
 
 La fuente del mapa conceptual es: _El tráfico de mujeres: notas sobre la “economía política” del sexo_, por Gayle Rubin, disponible en el libro de Marta Lamas (compiladora) (2015), _El género: La construcción cultural de la diferencia sexual._ México: Bonilla Artigas Editores.
 
-[Haz clic aquí o en la imagen para descargar el mapa conceptual.](http://bastian.olea.biz/wp-content/uploads/2021/04/Rubin-El-trafico-de-mujeres.pdf)
+[Haz clic aquí o en la imagen para descargar el mapa conceptual.](Rubin-El-trafico-de-mujeres.pdf)
 
-[![](images/Rubin-El-trafico-de-mujeres.png)](http://bastian.olea.biz/wp-content/uploads/2021/04/Rubin-El-trafico-de-mujeres.pdf)
+[![](images/Rubin-El-trafico-de-mujeres.png)](Rubin-El-trafico-de-mujeres.pdf)
 
 * * *
 

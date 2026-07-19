@@ -22,7 +22,7 @@ coverImage: "Rubens-Susana-y-los-viejos-1609-2.jpg"
 
 _Ensayo final para el curso de Sociología del Cuerpo, impartido en el magíster en Sociología (2018) de la Pontificia Universidad Católica de Chile. Profesora: Claudia Giacoman._
 
-- [Descargar en PDF.](http://bastian.olea.biz/wp-content/uploads/2018/12/La-práctica-de-la-dieta-y-su-referencia-al-pecado-de-la-gordura.pdf)
+- [Descargar en PDF.](La-práctica-de-la-dieta-y-su-referencia-al-pecado-de-la-gordura.pdf)
 - Leer en [ResearchGate.](https://www.researchgate.net/publication/329440677_La_practica_de_la_dieta_y_su_referencia_al_pecado_de_la_gordura)
 
 * * *
