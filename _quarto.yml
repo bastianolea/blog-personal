@@ -47,6 +47,8 @@ format:
       - brand
       - tema.scss
     include-after-body: goatcounter.html
+    template-partials:
+      - title-metadata.html
 
 
 
