@@ -14,7 +14,7 @@ tags:
   - "feminismo"
   - "foucault"
   - "haraway"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "simmel"
   - "sociología"
 ---

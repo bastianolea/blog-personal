@@ -4,7 +4,7 @@ date: 2018-03-30
 categories: 
   - "sociología"
 tags: 
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "racismo"
   - "raza"
 ---

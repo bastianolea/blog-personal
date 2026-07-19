@@ -8,7 +8,7 @@ tags:
   - "estigmatizacion"
   - "género"
   - "gordura"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "moda"
   - "moralidad"
   - "salud"

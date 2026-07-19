@@ -5,7 +5,7 @@ categories:
   - "sociología"
 tags: 
   - "interaccionismo-simbolico"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "sociología"
 ---
 

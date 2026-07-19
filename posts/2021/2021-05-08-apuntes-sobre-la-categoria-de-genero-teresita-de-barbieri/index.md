@@ -4,7 +4,7 @@ date: 2021-05-08
 categories: 
   - "género"
 tags: 
-  - "estudios-de-genero"
+  - "estudios de género"
   - "género"
   - "pare"
   - "parentesco"

@@ -5,7 +5,7 @@ categories:
   - "sociología"
 tags: 
   - "critica"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "sociología"
 ---
 

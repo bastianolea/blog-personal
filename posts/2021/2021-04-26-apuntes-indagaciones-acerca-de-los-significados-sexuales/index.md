@@ -7,7 +7,7 @@ tags:
   - "antropologia"
   - "cultura"
   - "género"
-  - "logica-oposicional"
+  - "lógica oposicional"
   - "parentesco"
   - "poder"
   - "reproduccion"

@@ -1,5 +1,6 @@
 ---
 title: "La posibilidad de resignificar el lenguaje: Judith Butler y la belleza como significante político"
+subtitle: "Análisis del capítulo _Discutir con lo real_, de “Cuerpos que importan: Sobre los límites materiales y discursivos del sexo” de Judith Butler"
 date: 2016-11-07
 categories: 
   - "destacado"
@@ -8,9 +9,9 @@ tags:
   - "belleza"
   - "gordura"
   - "lenguaje"
-  - "logica-oposicional"
+  - "lógica oposicional"
   - "performatividad"
-  - "resignificacion-politica"
+  - "resignificación política"
 ---
 
 ![](images/Renoir-Las-bañistas-1919.jpg)

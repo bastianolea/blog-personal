@@ -7,7 +7,7 @@ tags:
   - "cuerpo"
   - "feminidad"
   - "género"
-  - "logica-oposicional"
+  - "lógica oposicional"
   - "masculinidades"
   - "sexo"
 ---

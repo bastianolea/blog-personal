@@ -12,7 +12,7 @@ tags:
   - "foucault"
   - "heteronorma"
   - "kristeva"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "performatividad"
   - "sexo"
   - "sociologia-del-cuerpo"

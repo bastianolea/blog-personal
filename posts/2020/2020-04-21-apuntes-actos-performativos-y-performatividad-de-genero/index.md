@@ -9,7 +9,7 @@ tags:
   - "cuerpo"
   - "género"
   - "heteronorma"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "performatividad"
 coverImage: "IMG_8871-1.png"
 ---

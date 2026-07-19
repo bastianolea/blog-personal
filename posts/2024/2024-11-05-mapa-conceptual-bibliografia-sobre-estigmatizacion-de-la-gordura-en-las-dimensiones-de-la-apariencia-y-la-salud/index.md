@@ -8,7 +8,7 @@ tags:
   - "apariencia"
   - "gordofobia"
   - "gordura"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "salud"
 ---
 

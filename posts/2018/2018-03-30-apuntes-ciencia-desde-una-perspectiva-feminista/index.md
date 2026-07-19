@@ -10,7 +10,7 @@ tags:
   - "experiencia"
   - "feminismo"
   - "género"
-  - "mapa-conceptual"
+  - "mapa conceptual"
 ---
 
 [![](images/Ciencia-y-conocimiento-desde-del-feminismo-Murphy-2012-1024x471.png)](Ciencia-y-conocimiento-desde-del-feminismo-Murphy-2012.pdf)

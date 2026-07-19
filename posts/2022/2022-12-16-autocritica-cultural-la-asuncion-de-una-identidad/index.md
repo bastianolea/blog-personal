@@ -7,7 +7,7 @@ categories:
   - "masculinidades"
   - "yo"
 tags: 
-  - "estudios-de-genero"
+  - "estudios de género"
   - "feminismo"
   - "género"
   - "identidad"

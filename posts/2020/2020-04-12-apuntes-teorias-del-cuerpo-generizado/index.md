@@ -9,7 +9,7 @@ tags:
   - "cuerpo"
   - "feminismo"
   - "género"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "sociologia-del-cuerpo"
 ---
 

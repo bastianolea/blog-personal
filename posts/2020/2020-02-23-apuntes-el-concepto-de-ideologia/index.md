@@ -5,7 +5,7 @@ categories:
   - "sociología"
 tags: 
   - "ideologia"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "sociología"
 ---
 

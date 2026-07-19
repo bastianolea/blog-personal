@@ -5,7 +5,7 @@ categories:
   - "género"
   - "masculinidades"
 tags: 
-  - "estudios-de-genero"
+  - "estudios de género"
   - "género"
   - "masculinidades"
 ---

@@ -8,7 +8,7 @@ tags:
   - "feminismo"
   - "género"
   - "historia"
-  - "logica-oposicional"
+  - "lógica oposicional"
   - "politica"
 coverImage: "6A1F9B7B-D6C4-42A8-96EA-9E4CB5611D6B.png"
 ---

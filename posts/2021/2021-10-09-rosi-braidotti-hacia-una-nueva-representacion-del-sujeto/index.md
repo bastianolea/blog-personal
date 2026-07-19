@@ -11,7 +11,7 @@ tags:
   - "filosofia"
   - "género"
   - "haraway"
-  - "logica-oposicional"
+  - "lógica oposicional"
   - "razon"
 ---
 

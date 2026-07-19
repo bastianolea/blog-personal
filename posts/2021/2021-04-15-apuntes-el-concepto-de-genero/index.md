@@ -5,7 +5,7 @@ categories:
   - "género"
 tags: 
   - "género"
-  - "logica-oposicional"
+  - "lógica oposicional"
 ---
 
 Este breve mapa conceptual presenta algunas líneas sobre el concepto de _género_ y los avances y las preguntas que se plantean sobre éste desde distintas disciplinas, tales como las ciencias sociales, psicología y economía. También se presentan ideas sobre el origen de las categorías de género, y la función de las mismas.

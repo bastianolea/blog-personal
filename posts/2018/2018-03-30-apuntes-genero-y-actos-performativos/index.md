@@ -5,7 +5,7 @@ categories:
   - "sociología"
 tags: 
   - "género"
-  - "mapa-conceptual"
+  - "mapa conceptual"
   - "performatividad"
 coverImage: "Género-y-actos-performativos-Butler-1988.png"
 ---
