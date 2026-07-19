@@ -48,7 +48,7 @@ tags:           # etiquetas heredadas de WordPress (no visibles por defecto)
 ---
 ```
 
-`categories` se usa como agrupación visible en el listado y en el header. `tags` existe en posts importados de WordPress pero no se muestra en el blog actualmente.
+`categories` se usa como agrupación visible en el listado y en el header. `tags` existe en posts importados de WordPress y se muestran al lado de la fecha, como texto.
 
 ## Configuración global (`_quarto.yml`)
 
@@ -85,9 +85,8 @@ Paleta oscura con tonos rosa/púrpura:
 
 Clases personalizadas destacadas:
 - `.foto`, `.fotito`, `.galeria` — galería de imágenes
-- `.brevet_200`, `.brevet_300`, `.brevet_400` — eventos ciclismo
 - `.cuadricula` — grid de libros
-- `.oton`, `.invi`, `.prim`, `.vera` — clases por autor/temporada
+- `.centrar` para centrar divs
 
 ## Extensiones activas
 
