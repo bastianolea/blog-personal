@@ -66,3 +66,22 @@ Borrar el `max-width:660px;`
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="17544173681" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script>
 :::
 ```
+
+### Twitter
+
+
+```
+::: {.twitter .centrar}
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Ayer escribí un <a href="https://x.com/hashtag/Apruebo?src=hash&amp;ref_src=twsrc%5Etfw">#Apruebo</a> GIGANTE andando en bici 100 kilómetros por Pudahuel, Cerro Navia, Lo Prado y Stgo Centro 🚴🏻‍♀️💞 <a href="https://t.co/BmrDr8PZme">pic.twitter.com/BmrDr8PZme</a></p>&mdash; Bastián Olea 🌸 (@bastimapache) <a href="https://x.com/bastimapache/status/1563190570243092485?ref_src=twsrc%5Etfw">August 26, 2022</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+:::
+
+```
+
+
+#### Iframes
+
+```
+::: {.centrar}
+<iframe class="iframe" style="width:100%; height: 700px;"  src="https://eldesconcierto.cl/2022/08/26/video-ciclista-crea-un-recorrido-en-gps-y-escribe-apruebo-por-las-calles-de-santiago"></iframe>
+:::
+```
