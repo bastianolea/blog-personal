@@ -1,0 +1,32 @@
+---
+title: "Prueba de un post hecho con R"
+format: html
+draft: true
+---
+
+Probando un gráfico dentro de un post!
+
+```{r}
+#| message: false
+#| echo: false
+
+library(ggplot2)
+
+theme_set(
+  theme_grey(
+    base_family = "Atkinson Hyperlegible",
+    paper = "#2F2935",
+    accent = "#E3467C",
+    ink = "#F0BFE7")
+)
+
+iris |> 
+  ggplot() +
+  aes(Petal.Width, Sepal.Width, color = Sepal.Length) +
+  geom_point(size = 3, alpha = 0.9) +
+  # usar la paleta "Sunset" para una variable continua
+  # colorspace::scale_color_continuous_sequential(palette = "Sunset") +
+  scale_color_gradient(low ="#6A3274" , high = "#E3467C") +
+  scale_y_continuous(expand = expansion(c(0, 0.1)))
+```
+
