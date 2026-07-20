@@ -26,8 +26,6 @@ La iglesia se veía en mal estado de conservación por fuera, con una reja para 
 
 ::: {.mapa}
 ```{r}
-#| cache: true
-
 library(mapgl)
 library(sf)
 
