@@ -46,7 +46,8 @@ format:
       - minty
       - brand
       - tema.scss
-    include-after-body: goatcounter.html
+    include-after-body: 
+      - file: goatcounter.html
     template-partials:
       - title-metadata.html
 

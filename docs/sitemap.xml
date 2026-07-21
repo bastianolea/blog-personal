@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bastimapache.cl/blog.html</loc>
-    <lastmod>2026-03-26T13:18:30.979Z</lastmod>
+    <lastmod>2026-03-25T01:28:44.088Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/readme.html</loc>
@@ -594,7 +594,7 @@
   </url>
   <url>
     <loc>https://bastimapache.cl/index.html</loc>
-    <lastmod>2026-06-26T20:30:02.173Z</lastmod>
+    <lastmod>2026-07-16T03:49:16.451Z</lastmod>
   </url>
   <url>
     <loc>https://bastimapache.cl/ahora.html</loc>
@@ -627,9 +627,5 @@
   <url>
     <loc>https://bastimapache.cl/posts/2026-05-14/index.knit.html</loc>
     <lastmod>2026-07-20T01:52:20.990Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bastimapache.cl/posts/prueba.html</loc>
-    <lastmod>2026-07-20T20:27:27.559Z</lastmod>
   </url>
 </urlset>
