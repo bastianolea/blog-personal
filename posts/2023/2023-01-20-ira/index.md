@@ -4,10 +4,10 @@ date: 2023-01-20
 categories: 
   - "género"
   - "masculinidades"
-  - "yo"
+  - "arte"
 tags: 
   - "masculinidades"
-  - "poesia"
+  - "poesía"
 ---
 
 Siento una rabia que es conmigo  

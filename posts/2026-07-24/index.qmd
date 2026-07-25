@@ -44,4 +44,6 @@ Alguna vez me puse a hacer imágenes ruidosas así que las dejo aquí. Varias la
 ![](glitch_32.jpeg){.fotito .lightbox group="glitch"}
 ![](glitch_33.jpeg){.fotito .lightbox group="glitch"}
 ![](glitch_34.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_35.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_36.jpeg){.fotito .lightbox group="glitch"}
 :::
