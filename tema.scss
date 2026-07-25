@@ -550,3 +550,41 @@ div.gslide-description .gslide-title {
   border: none !important;
   border-radius: 7px;
 }
+
+
+video {
+  padding-top: 8px;
+  padding-bottom: 16px;
+}
+
+/* codigo */ 
+div.sourceCode {
+  background-color: #26222e !important;
+  border: 1px solid #26222e !important;
+}
+
+code {
+  background-color: #26222e !important;
+  color: #f0bfe7 !important;
+}
+
+pre code {
+  color: #dd2694 !important;
+}
+
+code span.co {
+  color: #5e526a !important;
+}
+
+code span.fu {
+  color: #dd2694 !important;
+}
+
+pre > code.sourceCode > span {
+color: #f0bfe7 !important;
+}
+
+
+#quarto-appendix.default {
+  border-top: 1px solid #4a3f54 !important;
+}

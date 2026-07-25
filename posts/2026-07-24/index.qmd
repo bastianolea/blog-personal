@@ -1,0 +1,47 @@
+---
+title: "Glitches visuales"
+date: "2026-07-24"
+categories: 
+  - "arte"
+image: "glitch_34.jpeg"
+format: html
+---
+
+Alguna vez me puse a hacer imágenes ruidosas así que las dejo aquí. Varias las usé como portadas de para mis playlists.
+
+::: {.galeria}
+![](glitch_10.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_1.JPG){.fotito .lightbox group="glitch"}
+![](glitch_2.jpg){.fotito .lightbox group="glitch"}
+![](glitch_3.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_4.JPG){.fotito .lightbox group="glitch"}
+![](glitch_5.jpg){.fotito .lightbox group="glitch"}
+![](glitch_6.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_8.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_7.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_11.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_9.jpg){.fotito .lightbox group="glitch"}
+![](glitch_12.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_13.JPG){.fotito .lightbox group="glitch"}
+![](glitch_14.jpg){.fotito .lightbox group="glitch"}
+![](glitch_15.JPG){.fotito .lightbox group="glitch"}
+![](glitch_16.JPG){.fotito .lightbox group="glitch"}
+![](glitch_17.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_18.JPG){.fotito .lightbox group="glitch"}
+![](glitch_19.JPG){.fotito .lightbox group="glitch"}
+![](glitch_20.jpg){.fotito .lightbox group="glitch"}
+![](glitch_21.jpg){.fotito .lightbox group="glitch"}
+![](glitch_22.jpg){.fotito .lightbox group="glitch"}
+![](glitch_23.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_24.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_25.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_26.jpg){.fotito .lightbox group="glitch"}
+![](glitch_27.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_28.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_29.jpg){.fotito .lightbox group="glitch"}
+![](glitch_30.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_31.JPG){.fotito .lightbox group="glitch"}
+![](glitch_32.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_33.jpeg){.fotito .lightbox group="glitch"}
+![](glitch_34.jpeg){.fotito .lightbox group="glitch"}
+:::

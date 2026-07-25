@@ -46,6 +46,7 @@ format:
       - minty
       - brand
       - tema.scss
+    highlight-style: dracula
     include-after-body: 
       - file: goatcounter.html
     template-partials:

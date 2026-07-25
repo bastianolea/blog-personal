@@ -1,3 +1,9 @@
+Para previsualizar:
+
+````
+servr::httd("docs")
+```
+
 
 ### Shortcodes
 Íconos Font Awesome
@@ -25,7 +31,7 @@ Para fotos grandes y centradas:
 
 Para galería de fotos:
 ```
-:::: {.galeria}
+::: {.galeria}
 ![](brevet_300_rapel_1.jpeg){.fotito .lightbox group="rapel"}
 ![](brevet_300_rapel_1.jpeg){.fotito .lightbox group="rapel"}
 :::
