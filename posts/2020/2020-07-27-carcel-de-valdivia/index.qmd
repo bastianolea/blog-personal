@@ -1,0 +1,24 @@
+---
+title: "Cárcel de Valdivia"
+subtitle: "Pieza de noise en base a grabaciones de protesta"
+date: "2020-07-27"
+categories:
+  - arte
+  - música
+image: a1895936219_1x1_700.avif
+format: html
+---
+
+::: {.foto .centrar}
+[![](a1895936219_1x1_700.avif)](https://rioneva.bandcamp.com)
+:::
+
+Pieza compuesta por seis pistas que deforman digitalmente dos grabaciones ambientales del cacerolazo contra el arresto domiciliario del violador Martín Pradenas (22 de julio de 2020)
+
+Grabaciones propias alteradas mediante software. El software se usó en un iPad mediante la consola de audio AUM para grabar la pista en vivo. Software usado: FieldScaper (sample reverberado de cacerolazo al inicio y al final), Dedalus y Kosmonaut (samples invertidos en rápida sucesión), SpaceCraft (patrón granular de cacerolas), GlitchCore y Phase Delay Array (sampling aleatorio), Shaper (distorsión de ruido ambiente) y Grind (sub-bajos a partir de ruido ambiente). 
+
+<br>
+
+::: {.centrar}
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1870723985/size=large/bgcol=111517/linkcol=056cc4/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://rioneva.bandcamp.com/track/c-rcel-de-valdivia">Cárcel de Valdivia by Neva</a></iframe>
+:::
