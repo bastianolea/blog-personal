@@ -314,6 +314,11 @@ border-top: 1px solid $background !important;
 }
 
 .galeria {
+  p {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 112px); // 100px imagen + 4px margen a cada lado
+    justify-content: center;
+  }
 }
 
 .foto {

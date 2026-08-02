@@ -23,7 +23,7 @@ Para más profundidad, leer publicaciones [Autocrítica cultural: la asunción d
 ![](collage_olea.jpeg){.lightbox group="collage"}
 :::
 
-:::: {.galeria .centrar}
+:::: {.galeria}
 ![](collage_olea_1.jpeg){.fotito .lightbox group="collage"}
 ![](collage_olea_5.jpeg){.fotito .lightbox group="collage"}
 ![](collage_olea_2.jpeg){.fotito .lightbox group="collage"}

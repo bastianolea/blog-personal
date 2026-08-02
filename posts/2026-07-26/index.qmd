@@ -1,0 +1,28 @@
+---
+title: 'Taller de creación de hidrófonos'
+author: Bastián Olea
+date: '2026-07-26'
+image: "bowerbankii_hidrofonos_7.jpeg"
+categories: [arte]
+---
+
+El sábado asistí al taller taller _Hidrofonías_ organizado por la artista transmedia [Camila Cijka](https://www.instagram.com/camilacijka), donde construimos desde cero un hidrófono: un micrófono para grabar sonidos del agua.
+
+[Bowerbankii](https://www.instagram.com/bowerbankii) es un laboratorio de electrónica sonora y microfonía experimental. Nos dieron todos los materiales necesarios, así como las herramientas, explicándonos cada paso hasta lograr la manufactura del instrumento. Aprendí a usar bien un cautín para soldar! Al final pudimos probar los hidrófonos con grabadora y audífonos profesionales.
+
+
+::: {.galeria}
+![](bowerbankii_hidrofonos_1.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_2.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_3.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_4.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_5.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_6.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_7.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_8.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_9.jpeg){.fotito .lightbox}
+![](bowerbankii_hidrofonos_10.jpeg){.fotito .lightbox}
+:::
+
+
+Hace muchos años había creado mi propio hidrófono usando una cajita metálica de crema de manos, y fui a grabar los sonidos del canal San Carlos, en La Florida, pero quería reforzar esos conocimientos y tener un hidrófono de buena calidad.

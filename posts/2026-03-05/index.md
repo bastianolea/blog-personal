@@ -13,7 +13,7 @@ Me fui de vacaciones en solitario a **La Boca**, comuna de Navidad, región de O
 
 El territorio de Navidad se caracteriza por la **desembocadura del Río Rapel**, pero también por sus **campos y cerros**, muchos de ellos con caminos de tierra, así que andar con neumáticos de **gravel** fue perfecto.
 
-::: {.galeria .centrar}
+::: {.galeria}
 ![](navidad_2.JPG){.fotito .lightbox group="navidad"}
 ![](navidad_4.jpeg){.fotito .lightbox group="navidad"}
 ![](navidad_1.JPG){.fotito .lightbox group="navidad"}

@@ -9,7 +9,7 @@ categories:
 
 No alcancé a terminar esta brevet dentro del tiempo reglamentario (13 horas), principalmente porque pinché muchas veces, pero la disfruté igual porque estuve con mi amigo de rutas Óscar casi todo el transcurso (hasta que se retiró en Melipilla), y después conocí a Sebastián, con quien hice el último tramo.
 
-::: {.galeria .centrar}
+::: {.galeria}
 ![](brevet_sanpedro_2.JPG){.fotito .lightbox group="sanpedro"}
 ![](brevet_sanpedro_1.JPG){.fotito .lightbox group="sanpedro"}
 ![](brevet_sanpedro_3.JPG){.fotito .lightbox group="sanpedro"}

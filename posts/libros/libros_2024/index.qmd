@@ -8,6 +8,7 @@ categories: [libros]
 editor_options: 
   chunk_output_type: console
 execute: 
+  freeze: true
   echo: false
   message: false
   warning: false

@@ -27,7 +27,7 @@ Una Brevet compleja, pero que enfrenté con un muy buen rendimiento, y que termi
 
 Al partir la Brevet me sumé a una grupeta con la que avanzamos a muy buena velocidad hasta Lonquén, donde ya no pude aguantarme las ganas de pipí y me tuve que separar. Realmente ayuda mucho ir en grupo!
 
-::: {.galeria .centrar}
+::: {.galeria}
 ![](brevet_cobre_2.jpg){.fotito .lightbox group="cobre"}
 ![](brevet_cobre_9.jpg){.fotito .lightbox group="cobre"}
 ![](brevet_cobre_3.JPG){.fotito .lightbox group="cobre"}
