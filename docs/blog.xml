@@ -10,7 +10,39 @@
 <atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 26 Jul 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Aug 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Mi primer paquete R: facilitando el análisis de datos sociales de Chile con {territorial}</title>
+  <link>https://bastimapache.cl/posts/2026/2026-08-01/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Si has trabajado con datos sociales o públicos de Chile antes, sabrás que uno de los desafíos es lidiar con los nombres de regiones y comunas: nombres mal escritos, faltas de tildes, mayúsculas inconsistentes. Esta complicación me llevó a crear un <a href="https://bastianolea.rbind.io/blog/territorial/">paquete de R</a> para a simplificar la limpieza y procesamiento de datos territoriales chilenos.</p>
+<section id="objetivos-principales" class="level3">
+<h3 class="anchored" data-anchor-id="objetivos-principales">Objetivos principales</h3>
+<p>El objetivo principal es facilitar tareas de <strong>limpieza de datos</strong> que, si se hacen manualmente, son tediosas y propensas a errores:</p>
+<ol type="1">
+<li><strong>Validación de nombres:</strong> Antes de asumir la calidad de tus datos, puedes usar funciones como <code>validar_comunas()</code> para detectar inconsistencias (p.&nbsp;ej., casos donde una comuna está en minúsculas o le falta una tilde).</li>
+<li><strong>Limpieza automática:</strong> Con <code>limpiar_comunas()</code>, el paquete estandariza los nombres mediante diversas técnicas de limpieza.</li>
+<li><strong>Contextualización:</strong> Si tienes solo los nombres de comunas o sus <a href="https://bastianolea.github.io/territorial/articles/codigos_unicos_territoriales.html">códigos únicos territoriales</a>, la función <code>contextualizar()</code> agrega todas las variables territoriales faltantes (región, provincia, etc.).</li>
+<li><strong>Organización:</strong> Funciones útiles como <code>ordenar_regiones()</code> o <code>agregar_macrozona()</code> ayudan al análisis geográfico de los datos.</li>
+</ol>
+<p>En la <a href="https://bastianolea.github.io/territorial/">documentación del paquete</a> agregué varios ejemplos y casos reales de uso del paquete para detectar y limpiar datos territoriales. Si no sabes por dónde empezar, lee la guía de <a href="https://bastianolea.github.io/territorial/articles/territorial.html">primeros pasos</a></p>
+<p>Instala la versión de desarrollo del paquete directamente desde GitHub con <code>pak::pak("bastianolea/territorial")</code>.</p>
+<p>Para mi ha sido algo muy nuevo aprender a desarrollar paquetes en R, y todo fue gracias al <a href="../../../posts/2026/2026-06-17/">programa de Campeones/as de rOpenSci</a>, quienes nos han formado durante todo este año para contribuir a la comunidad de software libre.</p>
+<p>Si bien antes pensaba que el desarrollo de paquetes era algo súper complicado, ha sido muy agradable notar que el sistema de desarrollo en R es amigable y estructurado, con muchas herramientas que te ayudan a ir avanzando con todas las precauciones para producir software de calidad. Incluso llega a ser entretenido el <em>loop</em> de crear funciones, documentarlas, crear sus tests, aplicar los tests, chequear que todo funciona, actualizar el sitio, y repetir. Quiero escribir pronto un <a href="https://bastianolea.rbind.io">tutorial en mi blog de R</a> para compartir esta experiencia más a fondo!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>programación</category>
+  <guid>https://bastimapache.cl/posts/2026/2026-08-01/</guid>
+  <pubDate>Sun, 02 Aug 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Taller de creación de hidrófonos</title>
   <dc:creator>Bastián Olea</dc:creator>
@@ -2081,41 +2113,6 @@ Ver esta publicación en Instagram
   <category>política</category>
   <guid>https://bastimapache.cl/posts/2026/2026-03-08/</guid>
   <pubDate>Sun, 08 Mar 2026 03:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Tocata: Comarca Deathgrindslam</title>
-  <link>https://bastimapache.cl/posts/musica/tocata_2026-03-07/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<div class="columns">
-<div class="column">
-<p>Tocata en la Comarca, epicentro de la escena del brutal death metal. <strong>Comarca Death Grind Slam</strong> reunió a tremendas bandas nacionales como <strong>Flaytectomy, Esophagus, Nun Immolation</strong> y <strong>Visceral Wormhole</strong>.</p>
-<p>Aquí dejo un videito de algunos momentos, incluyendo al Pito de Flaytectomy bajando a sacarnos la chucha.</p>
-</div><div class="column">
-<div class="foto">
-<p><img src="https://bastimapache.cl/posts/musica/tocata_2026-03-07/afiche_tocata.jpg" class="img-fluid"></p>
-</div>
-</div>
-</div>
-<div class="centrar">
-<div class="tiktok">
-<iframe src="https://www.tiktok.com/embed/v2/7620969177469308181" height="740" width="400">
-</iframe>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>música</category>
-  <category>videos</category>
-  <guid>https://bastimapache.cl/posts/musica/tocata_2026-03-07/</guid>
-  <pubDate>Sat, 07 Mar 2026 03:00:00 GMT</pubDate>
-  <media:content url="https://bastimapache.cl/posts/musica/tocata_2026-03-07/comarca.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

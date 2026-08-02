@@ -1,0 +1,1 @@
+Siempre carga y aplica la skill `blog-quarto` para comprender el funcionamiento y estructura de este blog.

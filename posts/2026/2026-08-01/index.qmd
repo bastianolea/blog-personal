@@ -1,0 +1,25 @@
+---
+title: "Mi primer paquete R: facilitando el análisis de datos sociales de Chile con `{territorial}`"
+date: 2026-08-02
+categories: [programación]
+tags: [R, Chile, paquetes, comunas, regiones, software]
+---
+
+Si has trabajado con datos sociales o públicos de Chile antes, sabrás que uno de los desafíos es lidiar con los nombres de regiones y comunas: nombres mal escritos, faltas de tildes, mayúsculas inconsistentes. Esta complicación me llevó a crear un [paquete de R](https://bastianolea.rbind.io/blog/territorial/) para a simplificar la limpieza y procesamiento de datos territoriales chilenos.
+
+### Objetivos principales
+
+El objetivo principal es facilitar tareas de **limpieza de datos** que, si se hacen manualmente, son tediosas y propensas a errores:
+
+1.  **Validación de nombres:** Antes de asumir la calidad de tus datos, puedes usar funciones como `validar_comunas()` para detectar inconsistencias (p. ej., casos donde una comuna está en minúsculas o le falta una tilde).
+2.  **Limpieza automática:** Con `limpiar_comunas()`, el paquete estandariza los nombres mediante diversas técnicas de limpieza.
+3.  **Contextualización:** Si tienes solo los nombres de comunas o sus [códigos únicos territoriales](https://bastianolea.github.io/territorial/articles/codigos_unicos_territoriales.html), la función `contextualizar()` agrega todas las variables territoriales faltantes (región, provincia, etc.).
+4.  **Organización:** Funciones útiles como `ordenar_regiones()` o `agregar_macrozona()` ayudan al análisis geográfico de los datos.
+
+En la [documentación del paquete](https://bastianolea.github.io/territorial/) agregué varios ejemplos y casos reales de uso del paquete para detectar y limpiar datos territoriales. Si no sabes por dónde empezar, lee la guía de [primeros pasos](https://bastianolea.github.io/territorial/articles/territorial.html)
+
+Instala la versión de desarrollo del paquete directamente desde GitHub con `pak::pak("bastianolea/territorial")`.
+
+Para mi ha sido algo muy nuevo aprender a desarrollar paquetes en R, y todo fue gracias al [programa de Campeones/as de rOpenSci](/posts/2026/2026-06-17/), quienes nos han formado durante todo este año para contribuir a la comunidad de software libre.
+
+Si bien antes pensaba que el desarrollo de paquetes era algo súper complicado, ha sido muy agradable notar que el sistema de desarrollo en R es amigable y estructurado, con muchas herramientas que te ayudan a ir avanzando con todas las precauciones para producir software de calidad. Incluso llega a ser entretenido el _loop_ de crear funciones, documentarlas, crear sus tests, aplicar los tests, chequear que todo funciona, actualizar el sitio, y repetir. Quiero escribir pronto un [tutorial en mi blog de R](https://bastianolea.rbind.io) para compartir esta experiencia más a fondo!
