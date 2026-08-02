@@ -1,0 +1,17 @@
+{
+  "hash": "1203eff6a817ec4a8f43e203c358b68e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Prueba de un post hecho con R\"\nformat: html\ndraft: true\n---\n\nProbando un gráfico dentro de un post!\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](prueba_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n",
+    "supporting": [
+      "prueba_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
