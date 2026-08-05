@@ -40,7 +40,7 @@ maplibre(
   center = coordenadas,
   zoom = 13,
   tilt = 30,
-  attribution_control = FALSE
+  attributionControl = FALSE
 ) |>
   add_markers(data = punto,
               color = "#DD2694")

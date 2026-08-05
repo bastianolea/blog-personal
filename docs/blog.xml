@@ -10,7 +10,666 @@
 <atom:link href="https://bastimapache.cl/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Sitio personal de Bastián Olea Herrera</description>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Sun, 02 Aug 2026 04:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 04 Aug 2026 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Lugares secretos</title>
+  <dc:creator>Bastián Olea</dc:creator>
+  <link>https://bastimapache.cl/posts/lugares_secretos/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Durante mis <a href="../../blog.html#category=ciclismo">paseos y rutas en bicicleta</a>, siempre me detengo cuando me encuentro en lugares extraños, misteriosos, u ocultos. Les digo <em>lugares secretos</em> porque me imagino que poca gente los debe conocer, y me inspiran un aura de misterio y a veces peligro. También en referencia a los videojuegos antiguos, que te avisaban cuando entrabas a una zona secreta del mapa.</p>
+<section id="mapa-de-lugares-secretos" class="level2">
+<h2 class="anchored" data-anchor-id="mapa-de-lugares-secretos">Mapa de lugares secretos</h2>
+<p>Presiona un marcador en el mapa para revelar el lugar secreto y su foto.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="htmlwidget-1801bae26bf23c1da7af" style="width:100%;height:576px;" class="maplibregl html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1801bae26bf23c1da7af">{"x":{"style":"https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json","center":[0,0],"zoom":13,"bearing":0,"pitch":0,"projection":"globe","additional_params":{"minZoom":7,"maxZoom":13,"attributionControl":false,"bounds":[-71.83821111111109,-34.0175805555556,-70.16634999999999,-32.8277444444444]},"markers":[{"id":"marker_1","lng":-71.4951166666667,"lat":-33.7970111111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla Las Peñuelas, sector de Quincanque<code style=\"display:none;\">lugar_secreto_1.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_1.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_2","lng":-71.4814694444444,"lat":-33.9685527777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Viceparroquia Nuestra Señora de los Dolores, Loica, San Pedro<code style=\"display:none;\">lugar_secreto_2.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_2.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_3","lng":-71.2534638888889,"lat":-33.9304083333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en la cumbre de la cuesta Los Guindos<code style=\"display:none;\">lugar_secreto_3.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_3.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_4","lng":-71.7824777777778,"lat":-33.9372277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta de la Virgen de Los Motores, Licancheu, Navidad<code style=\"display:none;\">lugar_secreto_4.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_4.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_5","lng":-71.7943111111111,"lat":-34.0175805555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Espantapájaros<code style=\"display:none;\">lugar_secreto_11.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_11.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_6","lng":-71.83821111111109,"lat":-33.9282333333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infraestructura hídrica, La Boca, Navidad<code style=\"display:none;\">lugar_secreto_5.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_5.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_7","lng":-71.06180555555559,"lat":-33.0611722222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla de La Dormida<code style=\"display:none;\">lugar_secreto_17.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_17.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_8","lng":-70.7553333333333,"lat":-33.7572833333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en el árbol, sector Cervera<code style=\"display:none;\">lugar_secreto_20.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_20.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_9","lng":-71.33140555555561,"lat":-33.155025,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Vehículo de Infantería motorizada abandonado<code style=\"display:none;\">lugar_secreto_12.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_12.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_10","lng":-70.92800277777781,"lat":-33.0857,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infraestructura ferroviaria abandonada en Tiltil<code style=\"display:none;\">lugar_secreto_13.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_13.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_11","lng":-70.5560222222222,"lat":-33.54795,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Camino de tierra al canal Las Perdices<code style=\"display:none;\">lugar_secreto_22.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_22.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_12","lng":-70.6498638888889,"lat":-33.4970194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Relieve en San Miguel<code style=\"display:none;\">lugar_secreto_14.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_14.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_13","lng":-71.0033111111111,"lat":-33.7101861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casona abandonada cerca de El Monte<code style=\"display:none;\">lugar_secreto_6.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_6.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_14","lng":-70.6332388888889,"lat":-33.4797888888889,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túneles del parque inundable Víctor Jara<code style=\"display:none;\">lugar_secreto_15.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_15.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_15","lng":-71.2274944444444,"lat":-32.8277444444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Escultura de palta en plaza de La Cruz<code style=\"display:none;\">lugar_secreto_31.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_31.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_16","lng":-71.06168333333331,"lat":-33.0611222222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Cementerio viejo de La Dormida<code style=\"display:none;\">lugar_secreto_16.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_16.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_17","lng":-71.0689,"lat":-33.0630833333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta sobre riachuelo después de La Dormida, camino a Olmúe<code style=\"display:none;\">lugar_secreto_25.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_25.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_18","lng":-70.5872722222222,"lat":-33.456525,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Ruinas dentro de biblioteca de Ñuñoa<code style=\"display:none;\">lugar_secreto_32.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_32.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_19","lng":-70.16634999999999,"lat":-33.8157361111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Pueblo de El Volcán, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_18.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_18.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_20","lng":-70.2891083333333,"lat":-33.60975,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Refugio abandonado en Lagunillas, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_19.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_19.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_21","lng":-71.4680111111111,"lat":-33.3497055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casonas antiguas en camino viejo a Casablanca<code style=\"display:none;\">lugar_secreto_7.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_7.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_22","lng":-70.9375138888889,"lat":-33.4751194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en la cima de la cuesta Lo Prado<code style=\"display:none;\">lugar_secreto_8.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_8.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_23","lng":-70.6748666666667,"lat":-33.5411,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Torre Eiffel en un patio<code style=\"display:none;\">lugar_secreto_9.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_9.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_24","lng":-70.6866916666667,"lat":-33.5386277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Barco abandonado cerca del terminal pesquero de Lo Espejo<code style=\"display:none;\">lugar_secreto_110.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_110.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_25","lng":-70.66404722222219,"lat":-33.5571583333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Caballitos en una plaza de El Bosque<code style=\"display:none;\">lugar_secreto_33.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_33.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_26","lng":-70.6350027777778,"lat":-33.4695166666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Soldador de metal en Matta Sur<code style=\"display:none;\">lugar_secreto_10.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_10.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_27","lng":-70.48144444444441,"lat":-33.3790027777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túnel en el sector de Las Varas, camino a Farellones<code style=\"display:none;\">lugar_secreto_111.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_111.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_28","lng":-70.7023694444444,"lat":-33.6896861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Plaza e iglesia de El Recurso<code style=\"display:none;\">lugar_secreto_21.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_21.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_29","lng":-70.4800111111111,"lat":-33.3586194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en una escalera de Lo Barnechea<code style=\"display:none;\">lugar_secreto_23.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_23.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_30","lng":-70.85823888888891,"lat":-33.8196,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta cerca de Valdivia de Paine<code style=\"display:none;\">lugar_secreto_24.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_24.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_31","lng":-70.5755833333333,"lat":-33.5982972222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Molino en Las Mercedes, Puente Alto<code style=\"display:none;\">lugar_secreto_34.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_34.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_32","lng":-70.2586888888889,"lat":-33.5315861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Carro sobre riel cerca de hidroeléctrica, camino al Alfalfal, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_35.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_35.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_33","lng":-70.8938,"lat":-33.0085055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Subestación eléctrica abandonada de Rungue<code style=\"display:none;\">lugar_secreto_112.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_112.jpeg\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}}]},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+</section>
+<section id="tabla-de-lugares-secretos" class="level2">
+<h2 class="anchored" data-anchor-id="tabla-de-lugares-secretos">Tabla de lugares secretos</h2>
+<p>Lista de lugares secretos, ordenados por fecha. Presiona una imagen para verla en tamaño grande.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div id="ybclshpchf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#ybclshpchf table {
+  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#ybclshpchf thead, #ybclshpchf tbody, #ybclshpchf tfoot, #ybclshpchf tr, #ybclshpchf td, #ybclshpchf th {
+  border-style: none;
+}
+
+#ybclshpchf p {
+  margin: 0;
+  padding: 0;
+}
+
+#ybclshpchf .gt_table {
+  display: table;
+  border-collapse: collapse;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFFFFF;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #2F2935;
+  width: auto;
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#ybclshpchf .gt_title {
+  color: #FFFFFF;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-color: #2F2935;
+  border-bottom-width: 0;
+}
+
+#ybclshpchf .gt_subtitle {
+  color: #FFFFFF;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-color: #2F2935;
+  border-top-width: 0;
+}
+
+#ybclshpchf .gt_heading {
+  background-color: #2F2935;
+  text-align: center;
+  border-bottom-color: #2F2935;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_col_heading {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#ybclshpchf .gt_column_spanner_outer {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#ybclshpchf .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#ybclshpchf .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#ybclshpchf .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#ybclshpchf .gt_spanner_row {
+  border-bottom-style: hidden;
+}
+
+#ybclshpchf .gt_group_heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#ybclshpchf .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#ybclshpchf .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#ybclshpchf .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#ybclshpchf .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #342E3A;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#ybclshpchf .gt_stub {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ybclshpchf .gt_stub_row_group {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#ybclshpchf .gt_row_group_first td {
+  border-top-width: 2px;
+}
+
+#ybclshpchf .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
+#ybclshpchf .gt_summary_row {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ybclshpchf .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#ybclshpchf .gt_last_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_grand_summary_row {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ybclshpchf .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#ybclshpchf .gt_table_body {
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_footnotes {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ybclshpchf .gt_sourcenotes {
+  color: #FFFFFF;
+  background-color: #2F2935;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#ybclshpchf .gt_sourcenote {
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#ybclshpchf .gt_left {
+  text-align: left;
+}
+
+#ybclshpchf .gt_center {
+  text-align: center;
+}
+
+#ybclshpchf .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#ybclshpchf .gt_font_normal {
+  font-weight: normal;
+}
+
+#ybclshpchf .gt_font_bold {
+  font-weight: bold;
+}
+
+#ybclshpchf .gt_font_italic {
+  font-style: italic;
+}
+
+#ybclshpchf .gt_super {
+  font-size: 65%;
+}
+
+#ybclshpchf .gt_footnote_marks {
+  font-size: 75%;
+  vertical-align: 0.4em;
+  position: initial;
+}
+
+#ybclshpchf .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#ybclshpchf .gt_indent_1 {
+  text-indent: 5px;
+}
+
+#ybclshpchf .gt_indent_2 {
+  text-indent: 10px;
+}
+
+#ybclshpchf .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#ybclshpchf .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#ybclshpchf .gt_indent_5 {
+  text-indent: 25px;
+}
+
+#ybclshpchf .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#ybclshpchf div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
+}
+</style>
+
+<table class="gt_table caption-top table table-sm table-striped small" data-quarto-bootstrap="false">
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_1.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_1.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Capilla Las Peñuelas, sector de Quincanque</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2026-05-09</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_2.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_2.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Viceparroquia Nuestra Señora de los Dolores, Loica, San Pedro</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2026-05-09</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_3.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_3.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Animita en la cumbre de la cuesta Los Guindos</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2026-05-09</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_4.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_4.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Gruta de la Virgen de Los Motores, Licancheu, Navidad</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2026-03-04</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_11.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_11.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Espantapájaros</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2026-03-03</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_5.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_5.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Infraestructura hídrica, La Boca, Navidad</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2026-03-01</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_17.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_17.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Capilla de La Dormida</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2025-12-08</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_20.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_20.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Virgen en el árbol, sector Cervera</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2025-10-19</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_12.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_12.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Vehículo de Infantería motorizada abandonado</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-11-30</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_13.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_13.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Infraestructura ferroviaria abandonada en Tiltil</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-11-30</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_22.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_22.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Camino de tierra al canal Las Perdices</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-08-18</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_14.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_14.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Relieve en San Miguel</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-07-17</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_6.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_6.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Casona abandonada cerca de El Monte</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-05-05</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_15.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_15.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Túneles del parque inundable Víctor Jara</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-02-09</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_31.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_31.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Escultura de palta en plaza de La Cruz</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-08</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_16.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_16.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Cementerio viejo de La Dormida</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-10-16</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_25.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_25.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Gruta sobre riachuelo después de La Dormida, camino a Olmúe</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-10-16</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_32.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_32.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Ruinas dentro de biblioteca de Ñuñoa</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-08-30</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_18.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_18.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Pueblo de El Volcán, Cajón del Maipo</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-05-06</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_19.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_19.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Refugio abandonado en Lagunillas, Cajón del Maipo</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-03-26</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_7.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_7.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Casonas antiguas en camino viejo a Casablanca</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-02-25</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_8.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_8.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Animita en la cima de la cuesta Lo Prado</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-02-18</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_9.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_9.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Torre Eiffel en un patio</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-01-21</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_110.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_110.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Barco abandonado cerca del terminal pesquero de Lo Espejo</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-01-21</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_33.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_33.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Caballitos en una plaza de El Bosque</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-12-31</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_10.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_10.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Soldador de metal en Matta Sur</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-12-17</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_111.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_111.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Túnel en el sector de Las Varas, camino a Farellones</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-10-23</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_21.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_21.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Plaza e iglesia de El Recurso</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-10-09</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_23.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_23.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Animita en una escalera de Lo Barnechea</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-10-01</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_24.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_24.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Gruta cerca de Valdivia de Paine</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2021-01-04</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_34.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_34.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Molino en Las Mercedes, Puente Alto</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2020-10-25</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_35.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_35.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Carro sobre riel cerca de hidroeléctrica, camino al Alfalfal, Cajón del Maipo</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2020-10-23</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_112.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_112.jpeg" class="fotito img-fluid" style="margin:0px 6px;"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Subestación eléctrica abandonada de Rungue</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2020-03-15</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <category>lugares</category>
+  <category>fotos</category>
+  <guid>https://bastimapache.cl/posts/lugares_secretos/</guid>
+  <pubDate>Tue, 04 Aug 2026 04:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Mi primer paquete R: facilitando el análisis de datos sociales de Chile con {territorial}</title>
   <link>https://bastimapache.cl/posts/2026/2026-08-01/</link>
@@ -798,8 +1457,8 @@
 <div class="mapa">
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-102b2ada76147fe8688a" style="width:100%;height:480px;" class="maplibregl html-widget"></div>
-<script type="application/json" data-for="htmlwidget-102b2ada76147fe8688a">{"x":{"style":"https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json","center":[-71.48135000000001,-33.9685],"zoom":13,"bearing":0,"pitch":0,"projection":"globe","additional_params":{"tilt":30,"attribution_control":false},"markers":[{"id":"marker_1","lng":-71.48135000000001,"lat":-33.9685,"color":"#DD2694","rotation":0,"popup":null,"options":{"draggable":false}}]},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-2470004d81d873358ed1" style="width:100%;height:480px;" class="maplibregl html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2470004d81d873358ed1">{"x":{"style":"https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json","center":[-71.48135000000001,-33.9685],"zoom":13,"bearing":0,"pitch":0,"projection":"globe","additional_params":{"tilt":30,"attributionControl":false},"markers":[{"id":"marker_1","lng":-71.48135000000001,"lat":-33.9685,"color":"#DD2694","rotation":0,"popup":null,"options":{"draggable":false}}]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
 </div>
@@ -2056,63 +2715,6 @@ Ver esta publicación en Instagram
   <guid>https://bastimapache.cl/posts/libros/warhammer40k/</guid>
   <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
   <media:content url="https://bastimapache.cl/posts/libros/warhammer40k/Imperial_Palace_Terra2.webp" medium="image" type="image/webp"/>
-</item>
-<item>
-  <title>Actividad de riego del bosque Panul</title>
-  <link>https://bastimapache.cl/posts/2026/2026-03-08/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>El Panul es el <strong>último bosque nativo</strong> en Santiago, ubicado en la precordillera de la comuna de La Florida. Es un bosque de tipo esclerófilo, por lo que está adaptado al clima cálido y seco de la zona.</p>
-<div class="centrar">
-<div class="openstreetmap">
-<iframe width="380" height="300" src="https://www.openstreetmap.org/export/embed.html?bbox=-70.53850293159486%2C-33.53799651157129%2C-70.5307459831238%2C-33.531852661587585&amp;layer=hot&amp;marker=-33.53492464115856%2C-70.53462445735931" style="border: 1px solid black">
-</iframe>
-</div>
-</div>
-<p>En los últimos años el bosque sido frecuentado cada vez más por la ciudadanía, particularmente desde que ha sido difundido como un <strong>parque comunitario</strong>. Si bien es bueno que más personas puedan conectar con la naturaleza, la popularidad tiene efectos negativos en el bosque, principalmente por la <strong>erosión de los suelos</strong> y el <strong>daño a la biodiversidad</strong>. Las bicicletas de montaña, las motos y las personas que caminan fuera de los senderos habilitados también erosionan el terreno, obstruyendo la regeneración de la vida en el bosque.</p>
-<div class="galeria">
-<p><a href="panul_3.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026/2026-03-08/panul_3.jpeg" class="fotito img-fluid"></a> <a href="panul_4.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026/2026-03-08/panul_4.jpeg" class="fotito img-fluid"></a> <a href="panul_5.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026/2026-03-08/panul_5.jpeg" class="fotito img-fluid"></a> <a href="panul_6.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026/2026-03-08/panul_6.jpeg" class="fotito img-fluid"></a> <a href="panul_1.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026/2026-03-08/panul_1.jpeg" class="fotito img-fluid"></a> <a href="panul_2.jpeg" class="lightbox" data-gallery="panul"><img src="https://bastimapache.cl/posts/2026/2026-03-08/panul_2.jpeg" class="fotito img-fluid"></a></p>
-</div>
-<p>Luego de una invitación abierta de la organización <a href="https://www.instagram.com/panulparquecomunitario/">Panul Parque Comunitario</a>, asistí a una <strong>jornada de riego</strong> del sector de reforestación del bosque. Este sector se encuentra en la entrada del bosque (por la calle Las Tinajas, que es una continuación de Rojas Magallanes), sector más afectado por el tránsito de personas al punto de transformar el terreno en terra compacta y carente de vida.</p>
-<p>La actividad estaba calendarizada con precisión para favorecer con el riego a las especies existentes. Las plantas de la reforestación estaban cercadas con alambre para evitar que se dañen, y también estaban marcadas según la fecha del último riego, lo que demuestra un alto nivel de planificación para el cuidado del bosque.</p>
-<div class="centrar">
-<div class="tiktok">
-<iframe src="https://www.tiktok.com/embed/v2/7620589848604593428" height="740" width="400">
-</iframe>
-</div>
-</div>
-<p>Se llenaron más de 100 botellas con agua en la sede de la <a href="https://beaf.cl">brigada forestal de La Florida</a>, que fueron subidas con auto a la entrada del bosque. Trasladamos las botellas y distribuimos más de <strong>600 litros de agua</strong> entre las plantas que les correspondía riego.</p>
-<p>Conocí personas muy bonitas, con distintos lazos al bosque. Personalmente tengo una conexión con el Panul desde la infancia, cuando venía en bicicleta a explorar bajo sus árboles. Luego de la actividad vimos la puesta de sol con el grupo de voluntari@s y conversamos sobre la situación del bosque.</p>
-<p>Sigue las <a href="https://www.instagram.com/panulparquecomunitario/">redes sociales</a> del bosque para enterarte de las próximas actividades de voluntariado, y si puedes, ¡asiste y cuida el bosque!</p>
-<div class="boton" style="width: 400px;">
-<p><a href="https://www.instagram.com/panulparquecomunitario/"><i class="fa-brands fa-instagram fa-2x" aria-label="instagram"></i> Instagram Panul Parque Comunitario</a></p>
-</div>
-<div class="boton" style="width: 400px;">
-<p><a href="https://www.panulparatodos.cl"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Sitio web Panul Para Todos</a></p>
-</div>
-<p>Si visitas el Panul, recuerda:</p>
-<ul>
-<li>Usa los senderos delimitados</li>
-<li>Lleva una bolsa para llevarte tu basura</li>
-<li>Recoge la basura que encuentres durante tu descenso</li>
-<li>Si te sobra agua, úsala para regar una planta</li>
-<li>No lleves parlantes</li>
-<li>No prendas fuego</li>
-</ul>
-
-
-
- ]]></description>
-  <category>lugares</category>
-  <category>fotos</category>
-  <category>videos</category>
-  <category>política</category>
-  <guid>https://bastimapache.cl/posts/2026/2026-03-08/</guid>
-  <pubDate>Sun, 08 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -595,3 +595,51 @@ color: #f0bfe7 !important;
 #quarto-appendix.default {
   border-top: 1px solid #4a3f54 !important;
 }
+
+/* mapas maplibre {mapgl} */
+.maplibregl-popup-content {
+  background: #26222e !important;
+  border-radius: 12px !important;
+}
+
+.maplibregl-popup-anchor-top-left .maplibregl-popup-content {
+  border-radius: 12px !important;
+  border-top-left-radius: 0 !important;
+}
+.maplibregl-popup-anchor-top-right .maplibregl-popup-content {
+  border-radius: 12px !important;
+  border-top-right-radius: 0 !important;
+}
+.maplibregl-popup-anchor-bottom-left .maplibregl-popup-content {
+  border-radius: 12px !important;
+  border-bottom-left-radius: 0 !important;
+}
+.maplibregl-popup-anchor-bottom-right .maplibregl-popup-content {
+  border-radius: 12px !important;
+  border-bottom-right-radius: 0 !important;
+}
+.maplibregl-popup-anchor-top .maplibregl-popup-tip {
+  border-radius: 12px !important;
+  border-bottom-color: #26222e !important;
+}
+.maplibregl-popup-anchor-bottom .maplibregl-popup-tip {
+  border-radius: 12px !important;
+  border-top-color: #26222e !important;
+}
+.maplibregl-popup-anchor-top-left .maplibregl-popup-tip {
+border-bottom-color: #26222e !important;
+}
+.maplibregl-popup-anchor-top-right .maplibregl-popup-tip {
+border-bottom-color: #26222e !important;
+}
+.maplibregl-popup-anchor-bottom-left .maplibregl-popup-tip {
+border-top-color: #26222e !important;
+}
+.maplibregl-popup-anchor-bottom-right .maplibregl-popup-tip {
+border-top-color: #26222e !important;
+}
+
+
+.maplibregl-popup-close-button {
+  color: #DD2694 !important;
+}

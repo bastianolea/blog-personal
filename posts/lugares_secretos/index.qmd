@@ -1,0 +1,115 @@
+---
+title: Lugares secretos
+subtitle: Mapa y galería de fotos de lugares misteriosos, curiosos o abandonados en Chile
+author: Bastián Olea
+date: '2026-08-04'
+categories: ["lugares", "fotos"]
+resources: ["fotos"]
+lightbox: true
+freeze: true
+execute: 
+  message: false
+  echo: false
+  warning: false
+---
+
+Durante mis [paseos y rutas en bicicleta](/blog.html#category=ciclismo), siempre me detengo cuando me encuentro en lugares extraños, misteriosos, u ocultos. Les digo _lugares secretos_ porque me imagino que poca gente los debe conocer, y me inspiran un aura de misterio y a veces peligro. También en referencia a los videojuegos antiguos, que te avisaban cuando entrabas a una zona secreta del mapa.
+
+```{r datos}
+library(mapgl)
+library(sf)
+library(dplyr)
+library(here)
+library(glue)
+
+puntos <- readr::read_rds(here("posts/lugares_secretos/lugares.rds"))
+```
+
+```{r popups}
+puntos_popup <- puntos |> 
+  mutate(
+    popup_html = glue(
+      '<div style="text-align: center;">
+       <p style="margin-top:0;font-size:120%;max-width:250px;">{texto}<code style="display:none;">{filename}</code></p>
+       <img src="fotos/{filename}" width="250px" style="border-radius: 4px; margin: 0px 4px; max-height: 300px;">
+       </div>'
+    )
+  )
+```
+
+```{r revisar}
+#| eval: false
+puntos_popup |> 
+  filter(is.na(texto))
+```
+
+## Mapa de lugares secretos
+
+Presiona un marcador en el mapa para revelar el lugar secreto y su foto.
+
+```{r mapa}
+#| fig-height: 6
+maplibre(
+  style = carto_style("dark-matter"),
+  bounds = puntos,
+  zoom = 13,
+  minZoom = 7,
+  maxZoom = 13,
+  attributionControl = FALSE
+) |> 
+  add_markers(
+    data = puntos_popup,
+    
+    color = "#DD2694",
+    popup = "popup_html",
+  )
+```
+
+## Tabla de lugares secretos
+
+```{r datos_tabla}
+library(lubridate)
+
+tabla <- puntos |> 
+  st_drop_geometry() |> 
+  mutate(
+    imagen_html = glue::glue(
+      '![](fotos/{filename}){{.fotito .lightbox group="secretos" style="margin:0px 6px;"}}'
+    )
+  ) |> 
+  select(imagen_html, texto, fecha) |> 
+  mutate(fecha = as_datetime(fecha),
+         fecha = as_date(fecha))
+```
+
+Lista de lugares secretos, ordenados por fecha. Presiona una imagen para verla en tamaño grande.
+```{r tabla}
+library(gt)
+tabla |> 
+  gt() |> 
+  cols_label(
+    imagen_html = "",
+    texto = ""
+  ) |> 
+  fmt_markdown(columns = imagen_html) |> 
+  tab_options(
+    table.background.color = "#2F2935",
+    table.font.color = "#F0BFE7",
+    column_labels.hidden = TRUE,
+    table.border.top.style = "none",
+    table.border.bottom.style = "none",
+    table_body.border.top.style = "none",
+    table_body.border.bottom.style = "none",
+    table_body.hlines.color = "#342E3A"
+  ) |>
+  tab_style(
+    style = cell_text(color = "#F0BFE7", align = "left", v_align = "middle"),
+    locations = cells_body(columns = texto)
+  ) |>
+  tab_style(
+    style = cell_text(color = "#F0BFE770", size = "small", align = "left", v_align = "middle"),
+    locations = cells_body(columns = fecha)
+  ) |>
+  cols_width(fecha ~ "180px") |> 
+  opt_row_striping(row_striping = FALSE)
+```
