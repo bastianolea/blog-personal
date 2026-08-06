@@ -45,6 +45,7 @@ Presiona un marcador en el mapa para revelar el lugar secreto y su foto.
 
 ```{r mapa}
 #| fig-height: 6
+
 maplibre(
   style = carto_style("dark-matter"),
   bounds = puntos,
@@ -75,7 +76,7 @@ maplibre(
   #     (el lightbox de Quarto solo procesa imágenes presentes al cargar la página,
   #     pero estos popups se crean dinámicamente).
   htmlwidgets::onRender(
-    r"(
+    "(
     function(el, x) {
       function setup() {
         var map = el.map;
