@@ -25,22 +25,18 @@ library(glue)
 puntos <- readr::read_rds(here("posts/lugares_secretos/lugares.rds"))
 ```
 
+En esta publicación actualmente hay `{r} nrow(puntos)` fotos de lugares secretos georeferenciados, ubicados principalmente en la Región Metropolitana de Chile y alrededores. Con el tiempo voy a ir agregando más. Si conoces otro lugar secreto para visitar, o si sabes algo sobre alguno de los que anoté aquí, [escríbeme!](https://bastianolea.rbind.io/contacto/)
+
 ```{r popups}
 puntos_popup <- puntos |> 
   mutate(
     popup_html = glue(
       '<div style="text-align: center;">
        <p style="margin-top:0;font-size:120%;max-width:250px;">{texto}<code style="display:none;">{filename}</code></p>
-       <img src="fotos/{filename}" width="250px" style="border-radius: 4px; margin: 0px 4px; max-height: 300px;">
+       <img src="fotos/{filename}" class="lightbox" width="250px" style="border-radius: 4px; margin: 0px 4px; max-height: 300px;">
        </div>'
     )
   )
-```
-
-```{r revisar}
-#| eval: false
-puntos_popup |> 
-  filter(is.na(texto))
 ```
 
 ## Mapa de lugares secretos
@@ -59,9 +55,57 @@ maplibre(
 ) |> 
   add_markers(
     data = puntos_popup,
-    
     color = "#DD2694",
-    popup = "popup_html",
+    popup = "popup_html"
+  ) |> 
+  # `onRender()` inyecta JavaScript que se ejecuta en el navegador cuando el
+  # mapa ya está creado (esto funciona aunque el post sea estático, sin Shiny).
+  # mapgl guarda los marcadores en `window.maplibreglMarkers` y expone el mapa
+  # como `el.map`, así que enlazamos, para cada marcador, el evento `open` de su
+  # popup para hacer dos cosas al presionarlo:
+  #  1) Centrar el mapa con `easeTo(offset: [0, 180])`, dejando el marcador 180px
+  #     bajo el centro; como el popup abre hacia arriba, la foto queda completa y
+  #     centrada en la ventana.
+  #  2) Hacer clickeable la imagen del popup: el lightbox de Quarto solo procesa
+  #     las imágenes presentes al cargar la página, pero los popups se crean
+  #     dinámicamente al hacer clic, así que enlazamos el click de la imagen a una
+  #     instancia de GLightbox para verla a pantalla completa.
+  htmlwidgets::onRender(
+    r"(
+    function(el, x) {
+      function setup() {
+        var markers = window.maplibreglMarkers || [];
+        markers.forEach(function(marker) {
+          var popup = marker.getPopup();
+          if (!popup || popup._mapglBound) return;
+          popup._mapglBound = true;
+          popup.on('open', function() {
+            // Centrar el mapa dejando el marcador bajo el centro,
+            // para que el popup (que abre hacia arriba) quede completo y centrado.
+            el.map.easeTo({
+              center: marker.getLngLat(),
+              offset: [0, 180],
+              duration: 600
+            });
+            // Hacer la imagen del popup clickeable a pantalla completa vía lightbox.
+            var img = popup.getElement().querySelector('img.lightbox');
+            if (img && !img._lightboxBound) {
+              img._lightboxBound = true;
+              img.style.cursor = 'zoom-in';
+              img.addEventListener('click', function() {
+                if (window.GLightbox) {
+                  var lb = GLightbox({ elements: [{ href: img.src, type: 'image' }] });
+                  lb.open();
+                }
+              });
+            }
+          });
+        });
+      }
+      if (el.map && el.map.loaded()) { setup(); }
+      else if (el.map) { el.map.on('load', setup); }
+    }
+    )"
   )
 ```
 
@@ -74,7 +118,7 @@ tabla <- puntos |>
   st_drop_geometry() |> 
   mutate(
     imagen_html = glue::glue(
-      '![](fotos/{filename}){{.fotito .lightbox group="secretos" style="margin:0px 6px;"}}'
+      '![](fotos/{filename}){{.fotito .lightbox group="secretos" loading="lazy" decoding="async" style="margin:0px 6px;"}}'
     )
   ) |> 
   select(imagen_html, texto, fecha) |> 
@@ -85,6 +129,7 @@ tabla <- puntos |>
 Lista de lugares secretos, ordenados por fecha. Presiona una imagen para verla en tamaño grande.
 ```{r tabla}
 library(gt)
+
 tabla |> 
   gt() |> 
   cols_label(
