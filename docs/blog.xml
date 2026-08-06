@@ -22,14 +22,14 @@
 
 
 <p>Durante mis <a href="../../blog.html#category=ciclismo">paseos y rutas en bicicleta</a>, siempre me detengo cuando me encuentro en lugares extraños, misteriosos, u ocultos. Les digo <em>lugares secretos</em> porque me imagino que poca gente los debe conocer, y me inspiran un aura de misterio y a veces peligro. También en referencia a los videojuegos antiguos, que te avisaban cuando entrabas a una zona secreta del mapa.</p>
-<p>En esta publicación actualmente hay 43 fotos de lugares secretos georeferenciados, ubicados principalmente en la Región Metropolitana de Chile y alrededores. Con el tiempo voy a ir agregando más. Si conoces otro lugar secreto para visitar, o si sabes algo sobre alguno de los que anoté aquí, <a href="https://bastianolea.rbind.io/contacto/">escríbeme!</a></p>
+<p>En esta publicación actualmente hay 50 fotos de lugares secretos georeferenciados, ubicados principalmente en la Región Metropolitana de Chile y alrededores. Con el tiempo voy a ir agregando más. Si conoces otro lugar secreto para visitar, o si sabes algo sobre alguno de los que anoté aquí, <a href="https://bastianolea.rbind.io/contacto/">escríbeme!</a></p>
 <section id="mapa-de-lugares-secretos" class="level2">
 <h2 class="anchored" data-anchor-id="mapa-de-lugares-secretos">Mapa de lugares secretos</h2>
 <p>Presiona un marcador en el mapa para revelar el lugar secreto y su foto.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="htmlwidget-8522d2bcff9825bfc1e1" style="width:100%;height:576px;" class="maplibregl html-widget"></div>
-<script type="application/json" data-for="htmlwidget-8522d2bcff9825bfc1e1">{"x":{"style":"https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json","center":[0,0],"zoom":13,"bearing":0,"pitch":0,"projection":"globe","additional_params":{"minZoom":7,"maxZoom":13,"attributionControl":false,"bounds":[-71.83821111111109,-34.2598416666667,-70.16634999999999,-32.7840388888889]},"markers":[{"id":"marker_1","lng":-71.4951166666667,"lat":-33.7970111111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla Las Peñuelas, sector de Quincanque<code style=\"display:none;\">lugar_secreto_1.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_1.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_2","lng":-71.4814694444444,"lat":-33.9685527777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Viceparroquia Nuestra Señora de los Dolores, Loica, San Pedro<code style=\"display:none;\">lugar_secreto_2.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_2.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_3","lng":-71.2534638888889,"lat":-33.9304083333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en la cumbre de la cuesta Los Guindos<code style=\"display:none;\">lugar_secreto_3.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_3.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_4","lng":-71.7824777777778,"lat":-33.9372277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta de la Virgen de Los Motores, Licancheu, Navidad<code style=\"display:none;\">lugar_secreto_4.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_4.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_5","lng":-71.7943111111111,"lat":-34.0175805555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Espantapájaros<code style=\"display:none;\">lugar_secreto_11.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_11.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_6","lng":-71.8350916666667,"lat":-33.9041472222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita sobre cerro en la desembocadura del Río Rapel, La Boca<code style=\"display:none;\">lugar_secreto_41.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_41.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_7","lng":-71.83821111111109,"lat":-33.9282333333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infraestructura hídrica, La Boca, Navidad<code style=\"display:none;\">lugar_secreto_5.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_5.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_8","lng":-70.5170583333333,"lat":-33.5327722222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Cruz en el bosque esclerófilo Panul, La Florida<code style=\"display:none;\">lugar_secreto_42.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_42.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_9","lng":-70.6267861111111,"lat":-34.2598416666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infreaestructura minera en la carretera del ácido, Coya<code style=\"display:none;\">lugar_secreto_43.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_43.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_10","lng":-71.3011694444444,"lat":-33.7999944444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Río Cholqui debajo de una pasarela, cerca de Melipilla<code style=\"display:none;\">lugar_secreto_44.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_44.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_11","lng":-71.06180555555559,"lat":-33.0611722222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla de La Dormida<code style=\"display:none;\">lugar_secreto_17.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_17.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_12","lng":-70.7553333333333,"lat":-33.7572833333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en el árbol, sector Cervera<code style=\"display:none;\">lugar_secreto_20.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_20.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_13","lng":-70.7402888888889,"lat":-34.1816444444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casa de Chayanne, Rancagua<code style=\"display:none;\">lugar_secreto_45.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_45.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_14","lng":-71.33140555555561,"lat":-33.155025,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Vehículo de Infantería motorizada abandonado<code style=\"display:none;\">lugar_secreto_12.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_12.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_15","lng":-70.92800277777781,"lat":-33.0857,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infraestructura ferroviaria abandonada en Tiltil<code style=\"display:none;\">lugar_secreto_13.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_13.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_16","lng":-70.2986916666667,"lat":-33.5530555555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en las rocas, Río Colorado, camino al Alfalfal, San José de Maipo<code style=\"display:none;\">lugar_secreto_55.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_55.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_17","lng":-70.5560222222222,"lat":-33.54795,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Camino de tierra al canal Las Perdices<code style=\"display:none;\">lugar_secreto_22.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_22.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_18","lng":-70.6498638888889,"lat":-33.4970194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Relieve en San Miguel<code style=\"display:none;\">lugar_secreto_14.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_14.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_19","lng":-71.0033111111111,"lat":-33.7101861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casona abandonada cerca de El Monte<code style=\"display:none;\">lugar_secreto_6.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_6.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_20","lng":-70.6332388888889,"lat":-33.4797888888889,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túneles del parque inundable Víctor Jara<code style=\"display:none;\">lugar_secreto_15.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_15.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_21","lng":-70.6896666666667,"lat":-32.7840388888889,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta de la Virgen de Lourdes, Curimón, San Felipe<code style=\"display:none;\">lugar_secreto_51.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_51.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_22","lng":-71.2274944444444,"lat":-32.8277444444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Escultura de palta en plaza de La Cruz<code style=\"display:none;\">lugar_secreto_31.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_31.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_23","lng":-71.06168333333331,"lat":-33.0611222222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Cementerio viejo de La Dormida<code style=\"display:none;\">lugar_secreto_16.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_16.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_24","lng":-71.0689,"lat":-33.0630833333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta sobre riachuelo después de La Dormida, camino a Olmúe<code style=\"display:none;\">lugar_secreto_25.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_25.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_25","lng":-70.5872722222222,"lat":-33.456525,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Ruinas dentro de biblioteca de Ñuñoa<code style=\"display:none;\">lugar_secreto_32.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_32.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_26","lng":-70.9012444444444,"lat":-34.2374694444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita, Olivar Bajo<code style=\"display:none;\">lugar_secreto_52.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_52.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_27","lng":-70.6413722222222,"lat":-33.9470527777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en una caída de agua, después de la cuesta Chada, La Punta<code style=\"display:none;\">lugar_secreto_53.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_53.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_28","lng":-70.16634999999999,"lat":-33.8157361111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Pueblo de El Volcán, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_18.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_18.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_29","lng":-70.7340916666667,"lat":-33.6412416666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Iglesia de madera, sector El Barrancón, San Bernardo<code style=\"display:none;\">lugar_secreto_54.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_54.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_30","lng":-70.2891083333333,"lat":-33.60975,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Refugio abandonado en Lagunillas, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_19.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_19.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_31","lng":-71.4680111111111,"lat":-33.3497055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casonas antiguas en camino viejo a Casablanca<code style=\"display:none;\">lugar_secreto_7.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_7.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_32","lng":-70.9375138888889,"lat":-33.4751194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en la cima de la cuesta Lo Prado<code style=\"display:none;\">lugar_secreto_8.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_8.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_33","lng":-70.6748666666667,"lat":-33.5411,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Torre Eiffel en un patio<code style=\"display:none;\">lugar_secreto_9.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_9.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_34","lng":-70.6866916666667,"lat":-33.5386277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Barco abandonado cerca del terminal pesquero de Lo Espejo<code style=\"display:none;\">lugar_secreto_110.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_110.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_35","lng":-70.66404722222219,"lat":-33.5571583333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Caballitos en una plaza de El Bosque<code style=\"display:none;\">lugar_secreto_33.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_33.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_36","lng":-70.6350027777778,"lat":-33.4695166666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Soldador de metal en Matta Sur<code style=\"display:none;\">lugar_secreto_10.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_10.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_37","lng":-70.48144444444441,"lat":-33.3790027777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túnel en el sector de Las Varas, camino a Farellones<code style=\"display:none;\">lugar_secreto_111.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_111.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_38","lng":-70.7023694444444,"lat":-33.6896861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Plaza e iglesia de El Recurso<code style=\"display:none;\">lugar_secreto_21.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_21.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_39","lng":-70.4800111111111,"lat":-33.3586194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en una escalera de Lo Barnechea<code style=\"display:none;\">lugar_secreto_23.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_23.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_40","lng":-70.85823888888891,"lat":-33.8196,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta cerca de Valdivia de Paine<code style=\"display:none;\">lugar_secreto_24.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_24.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_41","lng":-70.5755833333333,"lat":-33.5982972222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Molino en Las Mercedes, Puente Alto<code style=\"display:none;\">lugar_secreto_34.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_34.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_42","lng":-70.2586888888889,"lat":-33.5315861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Carro sobre riel cerca de hidroeléctrica, camino al Alfalfal, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_35.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_35.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_43","lng":-70.8938,"lat":-33.0085055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Subestación eléctrica abandonada de Rungue<code style=\"display:none;\">lugar_secreto_112.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_112.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}}]},"evals":[],"jsHooks":{"render":[{"code":"\n    function(el, x) {\n      function setup() {\n        var markers = window.maplibreglMarkers || [];\n        markers.forEach(function(marker) {\n          var popup = marker.getPopup();\n          if (!popup || popup._mapglBound) return;\n          popup._mapglBound = true;\n          popup.on('open', function() {\n            // Centrar el mapa dejando el marcador bajo el centro,\n            // para que el popup (que abre hacia arriba) quede completo y centrado.\n            el.map.easeTo({\n              center: marker.getLngLat(),\n              offset: [0, 180],\n              duration: 600\n            });\n            // Hacer la imagen del popup clickeable a pantalla completa vía lightbox.\n            var img = popup.getElement().querySelector('img.lightbox');\n            if (img && !img._lightboxBound) {\n              img._lightboxBound = true;\n              img.style.cursor = 'zoom-in';\n              img.addEventListener('click', function() {\n                if (window.GLightbox) {\n                  var lb = GLightbox({ elements: [{ href: img.src, type: 'image' }] });\n                  lb.open();\n                }\n              });\n            }\n          });\n        });\n      }\n      if (el.map && el.map.loaded()) { setup(); }\n      else if (el.map) { el.map.on('load', setup); }\n    }\n    ","data":null}]}}</script>
+<div id="htmlwidget-6edb32558af32241576a" style="width:100%;height:576px;" class="maplibregl html-widget"></div>
+<script type="application/json" data-for="htmlwidget-6edb32558af32241576a">{"x":{"style":"https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json","center":[0,0],"zoom":13,"bearing":0,"pitch":0,"projection":"globe","additional_params":{"minZoom":7,"maxZoom":13,"attributionControl":false,"bounds":[-71.83821111111109,-34.2598416666667,-70.1349805555556,-32.7840388888889]},"markers":[{"id":"marker_1","lng":-71.4951166666667,"lat":-33.7970111111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla Las Peñuelas, sector de Quincanque<code style=\"display:none;\">lugar_secreto_1.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_1.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_2","lng":-71.4814694444444,"lat":-33.9685527777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Viceparroquia Nuestra Señora de los Dolores, Loica, San Pedro<code style=\"display:none;\">lugar_secreto_2.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_2.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_3","lng":-71.2534638888889,"lat":-33.9304083333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en la cumbre de la cuesta Los Guindos<code style=\"display:none;\">lugar_secreto_3.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_3.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_4","lng":-71.7824777777778,"lat":-33.9372277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta de la Virgen de Los Motores, Licancheu, Navidad<code style=\"display:none;\">lugar_secreto_4.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_4.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_5","lng":-71.7943111111111,"lat":-34.0175805555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Espantapájaros<code style=\"display:none;\">lugar_secreto_11.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_11.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_6","lng":-71.8350916666667,"lat":-33.9041472222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita sobre cerro en la desembocadura del Río Rapel, La Boca<code style=\"display:none;\">lugar_secreto_41.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_41.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_7","lng":-71.83821111111109,"lat":-33.9282333333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infraestructura hídrica, La Boca, Navidad<code style=\"display:none;\">lugar_secreto_5.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_5.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_8","lng":-70.5170583333333,"lat":-33.5327722222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Cruz en el bosque esclerófilo Panul, La Florida<code style=\"display:none;\">lugar_secreto_42.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_42.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_9","lng":-70.6267861111111,"lat":-34.2598416666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infreaestructura minera en la carretera del ácido, Coya<code style=\"display:none;\">lugar_secreto_43.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_43.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_10","lng":-71.3011694444444,"lat":-33.7999944444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Río Cholqui debajo de una pasarela, cerca de Melipilla<code style=\"display:none;\">lugar_secreto_44.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_44.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_11","lng":-71.06180555555559,"lat":-33.0611722222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla de La Dormida<code style=\"display:none;\">lugar_secreto_17.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_17.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_12","lng":-70.7553333333333,"lat":-33.7572833333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en el árbol, sector Cervera<code style=\"display:none;\">lugar_secreto_20.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_20.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_13","lng":-70.7402888888889,"lat":-34.1816444444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casa de Chayanne, Rancagua<code style=\"display:none;\">lugar_secreto_45.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_45.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_14","lng":-71.33140555555561,"lat":-33.155025,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Vehículo de Infantería motorizada abandonado<code style=\"display:none;\">lugar_secreto_12.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_12.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_15","lng":-70.92800277777781,"lat":-33.0857,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Infraestructura ferroviaria abandonada en Tiltil<code style=\"display:none;\">lugar_secreto_13.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_13.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_16","lng":-70.2986916666667,"lat":-33.5530555555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en las rocas, Río Colorado, camino al Alfalfal, San José de Maipo<code style=\"display:none;\">lugar_secreto_55.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_55.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_17","lng":-70.5560222222222,"lat":-33.54795,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Camino de tierra al canal Las Perdices<code style=\"display:none;\">lugar_secreto_22.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_22.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_18","lng":-70.6498638888889,"lat":-33.4970194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Relieve en San Miguel<code style=\"display:none;\">lugar_secreto_14.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_14.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_19","lng":-71.0033111111111,"lat":-33.7101861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casona abandonada cerca de El Monte<code style=\"display:none;\">lugar_secreto_6.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_6.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_20","lng":-70.6332388888889,"lat":-33.4797888888889,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túneles del parque inundable Víctor Jara<code style=\"display:none;\">lugar_secreto_15.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_15.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_21","lng":-70.1349805555556,"lat":-32.8517694444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Galpón en los caracoles del Paso Internacional Los Libertadores<code style=\"display:none;\">lugar_secreto_71.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_71.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_22","lng":-70.1529527777778,"lat":-32.8657583333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Estructura abandonada antes de los caracoles del Paso Internacional Los Libertadores<code style=\"display:none;\">lugar_secreto_72.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_72.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_23","lng":-70.3065555555556,"lat":-32.9093055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Iglesia pasado Los Andes, camino al Paso Internacional Los Libertadores<code style=\"display:none;\">lugar_secreto_73.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_73.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_24","lng":-70.3629,"lat":-32.908775,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túneles ferroviarios abandonados sobre el río Aconcagua, Los Andes<code style=\"display:none;\">lugar_secreto_74.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_74.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_25","lng":-70.4080361111111,"lat":-32.8669277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Iglesia pasado Los Andes, camino al Paso Internacional Los Libertadores<code style=\"display:none;\">lugar_secreto_75.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_75.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_26","lng":-70.6896666666667,"lat":-32.7840388888889,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta de la Virgen de Lourdes, Curimón, San Felipe<code style=\"display:none;\">lugar_secreto_51.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_51.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_27","lng":-71.2274944444444,"lat":-32.8277444444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Escultura de palta en plaza de La Cruz<code style=\"display:none;\">lugar_secreto_31.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_31.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_28","lng":-71.06168333333331,"lat":-33.0611222222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Cementerio viejo de La Dormida<code style=\"display:none;\">lugar_secreto_16.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_16.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_29","lng":-71.0689,"lat":-33.0630833333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta sobre riachuelo después de La Dormida, camino a Olmúe<code style=\"display:none;\">lugar_secreto_25.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_25.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_30","lng":-70.5872722222222,"lat":-33.456525,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Ruinas dentro de biblioteca de Ñuñoa<code style=\"display:none;\">lugar_secreto_32.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_32.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_31","lng":-70.8385694444444,"lat":-34.2539055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Capilla, sector El Abra, Requínoa<code style=\"display:none;\">lugar_secreto_76.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_76.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_32","lng":-70.9012444444444,"lat":-34.2374694444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita, Olivar Bajo<code style=\"display:none;\">lugar_secreto_52.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_52.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_33","lng":-70.6413722222222,"lat":-33.9470527777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Virgen en una caída de agua, después de la cuesta Chada, La Punta<code style=\"display:none;\">lugar_secreto_53.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_53.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_34","lng":-70.16634999999999,"lat":-33.8157361111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Pueblo de El Volcán, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_18.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_18.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_35","lng":-70.7340916666667,"lat":-33.6412416666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Iglesia de madera, sector El Barrancón, San Bernardo<code style=\"display:none;\">lugar_secreto_54.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_54.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_36","lng":-70.2891083333333,"lat":-33.60975,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Refugio abandonado en Lagunillas, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_19.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_19.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_37","lng":-71.4680111111111,"lat":-33.3497055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casonas antiguas en camino viejo a Casablanca<code style=\"display:none;\">lugar_secreto_7.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_7.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_38","lng":-70.9375138888889,"lat":-33.4751194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en la cima de la cuesta Lo Prado<code style=\"display:none;\">lugar_secreto_8.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_8.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_39","lng":-70.6748666666667,"lat":-33.5411,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Torre Eiffel en un patio<code style=\"display:none;\">lugar_secreto_9.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_9.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_40","lng":-70.6866916666667,"lat":-33.5386277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Barco abandonado cerca del terminal pesquero de Lo Espejo<code style=\"display:none;\">lugar_secreto_110.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_110.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_41","lng":-71.26551944444449,"lat":-33.4976277777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Casona abandonada y derrumbada, sector Chorombo, Ibacache<code style=\"display:none;\">lugar_secreto_77.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_77.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_42","lng":-70.66404722222219,"lat":-33.5571583333333,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Caballitos en una plaza de El Bosque<code style=\"display:none;\">lugar_secreto_33.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_33.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_43","lng":-70.6350027777778,"lat":-33.4695166666667,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Soldador de metal en Matta Sur<code style=\"display:none;\">lugar_secreto_10.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_10.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_44","lng":-70.48144444444441,"lat":-33.3790027777778,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Túnel en el sector de Las Varas, camino a Farellones<code style=\"display:none;\">lugar_secreto_111.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_111.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_45","lng":-70.7023694444444,"lat":-33.6896861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Plaza e iglesia de El Recurso<code style=\"display:none;\">lugar_secreto_21.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_21.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_46","lng":-70.4800111111111,"lat":-33.3586194444444,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Animita en una escalera de Lo Barnechea<code style=\"display:none;\">lugar_secreto_23.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_23.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_47","lng":-70.85823888888891,"lat":-33.8196,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Gruta cerca de Valdivia de Paine<code style=\"display:none;\">lugar_secreto_24.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_24.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_48","lng":-70.5755833333333,"lat":-33.5982972222222,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Molino en Las Mercedes, Puente Alto<code style=\"display:none;\">lugar_secreto_34.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_34.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_49","lng":-70.2586888888889,"lat":-33.5315861111111,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Carro sobre riel cerca de hidroeléctrica, camino al Alfalfal, Cajón del Maipo<code style=\"display:none;\">lugar_secreto_35.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_35.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}},{"id":"marker_50","lng":-70.8938,"lat":-33.0085055555556,"color":"#DD2694","rotation":0,"popup":"<div style=\"text-align: center;\">\n<p style=\"margin-top:0;font-size:120%;max-width:250px;\">Subestación eléctrica abandonada de Rungue<code style=\"display:none;\">lugar_secreto_112.jpeg<\/code><\/p>\n<img src=\"fotos/lugar_secreto_112.jpeg\" class=\"lightbox\" width=\"250px\" style=\"border-radius: 4px; margin: 0px 4px; max-height: 300px;\">\n<\/div>","options":{"draggable":false}}]},"evals":[],"jsHooks":{"render":[{"code":"\n    function(el, x) {\n      function setup() {\n        var map = el.map;\n        var markers = window.maplibreglMarkers || [];\n        // Lista compartida de todos los popups, para poder cerrar los demás.\n        var popups = [];\n        markers.forEach(function(marker) {\n          if (marker._mapglBound) return;\n          var popup = marker.getPopup();\n          if (!popup) return;\n          marker._mapglBound = true;\n          popups.push(popup);\n\n          // Desvincular el popup para controlar cuándo se abre.\n          marker.setPopup();\n          popup.setLngLat(marker.getLngLat());\n\n          // Lightbox cada vez que el popup se abre.\n          popup.on('open', function() {\n            var pel = popup.getElement();\n            if (!pel) return;\n            var img = pel.querySelector('img.lightbox');\n            if (img && !img._lightboxBound) {\n              img._lightboxBound = true;\n              img.style.cursor = 'zoom-in';\n              img.addEventListener('click', function() {\n                if (window.GLightbox) {\n                  GLightbox({ elements: [{ href: img.src, type: 'image' }] }).open();\n                }\n              });\n            }\n          });\n\n          var mel = marker.getElement();\n          mel.style.cursor = 'pointer';\n          mel.addEventListener('click', function(e) {\n            e.stopPropagation();\n            // Segundo clic sobre el mismo marcador: cerrar.\n            if (popup.isOpen()) { popup.remove(); return; }\n            // Cerrar cualquier otro popup que esté abierto.\n            popups.forEach(function(p) { if (p !== popup && p.isOpen()) p.remove(); });\n            // Primero reposicionar el mapa, luego abrir el popup al terminar.\n            map.easeTo({ center: marker.getLngLat(), offset: [0, 180], duration: 300 });\n            var opened = false;\n            function openPopup() {\n              if (opened || popup.isOpen()) return;\n              opened = true;\n              popup.addTo(map);\n            }\n            map.once('moveend', openPopup);\n            // Respaldo por si el mapa ya estaba centrado y no emite 'moveend'.\n            setTimeout(openPopup, 700);\n          });\n        });\n      }\n      if (el.map && el.map.loaded()) { setup(); }\n      else if (el.map) { el.map.on('load', setup); }\n    }\n    ","data":null}]}}</script>
 </div>
 </div>
 </section>
@@ -38,23 +38,23 @@
 <p>Lista de lugares secretos, ordenados por fecha. Presiona una imagen para verla en tamaño grande.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="fcsyfbbjlg" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#fcsyfbbjlg table {
+<div id="osvktcbxkc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#osvktcbxkc table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#fcsyfbbjlg thead, #fcsyfbbjlg tbody, #fcsyfbbjlg tfoot, #fcsyfbbjlg tr, #fcsyfbbjlg td, #fcsyfbbjlg th {
+#osvktcbxkc thead, #osvktcbxkc tbody, #osvktcbxkc tfoot, #osvktcbxkc tr, #osvktcbxkc td, #osvktcbxkc th {
   border-style: none;
 }
 
-#fcsyfbbjlg p {
+#osvktcbxkc p {
   margin: 0;
   padding: 0;
 }
 
-#fcsyfbbjlg .gt_table {
+#osvktcbxkc .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -80,12 +80,12 @@
   border-left-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_caption {
+#osvktcbxkc .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#fcsyfbbjlg .gt_title {
+#osvktcbxkc .gt_title {
   color: #FFFFFF;
   font-size: 125%;
   font-weight: initial;
@@ -97,7 +97,7 @@
   border-bottom-width: 0;
 }
 
-#fcsyfbbjlg .gt_subtitle {
+#osvktcbxkc .gt_subtitle {
   color: #FFFFFF;
   font-size: 85%;
   font-weight: initial;
@@ -109,7 +109,7 @@
   border-top-width: 0;
 }
 
-#fcsyfbbjlg .gt_heading {
+#osvktcbxkc .gt_heading {
   background-color: #2F2935;
   text-align: center;
   border-bottom-color: #2F2935;
@@ -121,13 +121,13 @@
   border-right-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_bottom_border {
+#osvktcbxkc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_col_headings {
+#osvktcbxkc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -142,7 +142,7 @@
   border-right-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_col_heading {
+#osvktcbxkc .gt_col_heading {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -162,7 +162,7 @@
   overflow-x: hidden;
 }
 
-#fcsyfbbjlg .gt_column_spanner_outer {
+#osvktcbxkc .gt_column_spanner_outer {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -174,15 +174,15 @@
   padding-right: 4px;
 }
 
-#fcsyfbbjlg .gt_column_spanner_outer:first-child {
+#osvktcbxkc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fcsyfbbjlg .gt_column_spanner_outer:last-child {
+#osvktcbxkc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fcsyfbbjlg .gt_column_spanner {
+#osvktcbxkc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -194,11 +194,11 @@
   width: 100%;
 }
 
-#fcsyfbbjlg .gt_spanner_row {
+#osvktcbxkc .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#fcsyfbbjlg .gt_group_heading {
+#osvktcbxkc .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -224,7 +224,7 @@
   text-align: left;
 }
 
-#fcsyfbbjlg .gt_empty_group_heading {
+#osvktcbxkc .gt_empty_group_heading {
   padding: 0.5px;
   color: #FFFFFF;
   background-color: #2F2935;
@@ -239,15 +239,15 @@
   vertical-align: middle;
 }
 
-#fcsyfbbjlg .gt_from_md > :first-child {
+#osvktcbxkc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fcsyfbbjlg .gt_from_md > :last-child {
+#osvktcbxkc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fcsyfbbjlg .gt_row {
+#osvktcbxkc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -266,7 +266,7 @@
   overflow-x: hidden;
 }
 
-#fcsyfbbjlg .gt_stub {
+#osvktcbxkc .gt_stub {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -279,7 +279,7 @@
   padding-right: 5px;
 }
 
-#fcsyfbbjlg .gt_stub_row_group {
+#osvktcbxkc .gt_stub_row_group {
   color: #FFFFFF;
   background-color: #2F2935;
   font-size: 100%;
@@ -293,15 +293,15 @@
   vertical-align: top;
 }
 
-#fcsyfbbjlg .gt_row_group_first td {
+#osvktcbxkc .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#fcsyfbbjlg .gt_row_group_first th {
+#osvktcbxkc .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#fcsyfbbjlg .gt_summary_row {
+#osvktcbxkc .gt_summary_row {
   color: #FFFFFF;
   background-color: #2F2935;
   text-transform: inherit;
@@ -311,16 +311,16 @@
   padding-right: 5px;
 }
 
-#fcsyfbbjlg .gt_first_summary_row {
+#osvktcbxkc .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_first_summary_row.thick {
+#osvktcbxkc .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#fcsyfbbjlg .gt_last_summary_row {
+#osvktcbxkc .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -330,7 +330,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_grand_summary_row {
+#osvktcbxkc .gt_grand_summary_row {
   color: #FFFFFF;
   background-color: #2F2935;
   text-transform: inherit;
@@ -340,7 +340,7 @@
   padding-right: 5px;
 }
 
-#fcsyfbbjlg .gt_first_grand_summary_row {
+#osvktcbxkc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -350,7 +350,7 @@
   border-top-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_last_grand_summary_row_top {
+#osvktcbxkc .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -360,11 +360,11 @@
   border-bottom-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_striped {
+#osvktcbxkc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fcsyfbbjlg .gt_table_body {
+#osvktcbxkc .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -373,7 +373,7 @@
   border-bottom-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_footnotes {
+#osvktcbxkc .gt_footnotes {
   color: #FFFFFF;
   background-color: #2F2935;
   border-bottom-style: none;
@@ -387,7 +387,7 @@
   border-right-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_footnote {
+#osvktcbxkc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -396,7 +396,7 @@
   padding-right: 5px;
 }
 
-#fcsyfbbjlg .gt_sourcenotes {
+#osvktcbxkc .gt_sourcenotes {
   color: #FFFFFF;
   background-color: #2F2935;
   border-bottom-style: none;
@@ -410,7 +410,7 @@
   border-right-color: #D3D3D3;
 }
 
-#fcsyfbbjlg .gt_sourcenote {
+#osvktcbxkc .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -418,72 +418,72 @@
   padding-right: 5px;
 }
 
-#fcsyfbbjlg .gt_left {
+#osvktcbxkc .gt_left {
   text-align: left;
 }
 
-#fcsyfbbjlg .gt_center {
+#osvktcbxkc .gt_center {
   text-align: center;
 }
 
-#fcsyfbbjlg .gt_right {
+#osvktcbxkc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fcsyfbbjlg .gt_font_normal {
+#osvktcbxkc .gt_font_normal {
   font-weight: normal;
 }
 
-#fcsyfbbjlg .gt_font_bold {
+#osvktcbxkc .gt_font_bold {
   font-weight: bold;
 }
 
-#fcsyfbbjlg .gt_font_italic {
+#osvktcbxkc .gt_font_italic {
   font-style: italic;
 }
 
-#fcsyfbbjlg .gt_super {
+#osvktcbxkc .gt_super {
   font-size: 65%;
 }
 
-#fcsyfbbjlg .gt_footnote_marks {
+#osvktcbxkc .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#fcsyfbbjlg .gt_asterisk {
+#osvktcbxkc .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#fcsyfbbjlg .gt_indent_1 {
+#osvktcbxkc .gt_indent_1 {
   text-indent: 5px;
 }
 
-#fcsyfbbjlg .gt_indent_2 {
+#osvktcbxkc .gt_indent_2 {
   text-indent: 10px;
 }
 
-#fcsyfbbjlg .gt_indent_3 {
+#osvktcbxkc .gt_indent_3 {
   text-indent: 15px;
 }
 
-#fcsyfbbjlg .gt_indent_4 {
+#osvktcbxkc .gt_indent_4 {
   text-indent: 20px;
 }
 
-#fcsyfbbjlg .gt_indent_5 {
+#osvktcbxkc .gt_indent_5 {
   text-indent: 25px;
 }
 
-#fcsyfbbjlg .katex-display {
+#osvktcbxkc .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#fcsyfbbjlg div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#osvktcbxkc div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -591,29 +591,59 @@
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2024-02-09</td>
 </tr>
 <tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_71.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_71.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Galpón en los caracoles del Paso Internacional Los Libertadores</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-09</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_72.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_72.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Estructura abandonada antes de los caracoles del Paso Internacional Los Libertadores</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-09</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_73.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_73.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Iglesia pasado Los Andes, camino al Paso Internacional Los Libertadores</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-09</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_74.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_74.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Túneles ferroviarios abandonados sobre el río Aconcagua, Los Andes</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-09</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_75.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_75.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Iglesia pasado Los Andes, camino al Paso Internacional Los Libertadores</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-09</td>
+</tr>
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_51.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_51.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Gruta de la Virgen de Lourdes, Curimón, San Felipe</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-09</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_31.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_31.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Escultura de palta en plaza de La Cruz</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-12-08</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_16.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_16.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Cementerio viejo de La Dormida</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-10-16</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_25.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_25.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Gruta sobre riachuelo después de La Dormida, camino a Olmúe</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-10-16</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_32.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_32.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Ruinas dentro de biblioteca de Ñuñoa</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-08-30</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_76.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_76.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Capilla, sector El Abra, Requínoa</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-08-12</td>
 </tr>
 <tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_52.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_52.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
@@ -661,46 +691,51 @@
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-01-21</td>
 </tr>
 <tr class="odd">
+<td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_77.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_77.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
+<td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Casona abandonada y derrumbada, sector Chorombo, Ibacache</td>
+<td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2023-01-07</td>
+</tr>
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_33.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_33.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Caballitos en una plaza de El Bosque</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-12-31</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_10.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_10.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Soldador de metal en Matta Sur</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-12-17</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_111.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_111.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Túnel en el sector de Las Varas, camino a Farellones</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-10-23</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_21.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_21.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Plaza e iglesia de El Recurso</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-10-09</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_23.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_23.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Animita en una escalera de Lo Barnechea</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2022-10-01</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_24.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_24.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Gruta cerca de Valdivia de Paine</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2021-01-04</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_34.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_34.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Molino en Las Mercedes, Puente Alto</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2020-10-25</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_35.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_35.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Carro sobre riel cerca de hidroeléctrica, camino al Alfalfal, Cajón del Maipo</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2020-10-23</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="gt_row gt_center" headers="imagen_html"><a href="fotos/lugar_secreto_112.jpeg" class="lightbox" data-gallery="secretos"><img src="https://bastimapache.cl/posts/lugares_secretos/fotos/lugar_secreto_112.jpeg" class="fotito img-fluid" style="margin:0px 6px;" loading="lazy" decoding="async"></a></td>
 <td class="gt_row gt_left" headers="texto" style="text-align: left; color: #F0BFE7; vertical-align: middle;">Subestación eléctrica abandonada de Rungue</td>
 <td class="gt_row gt_right" headers="fecha" style="text-align: left; color: rgba(240,191,231,0.44); font-size: small; vertical-align: middle;">2020-03-15</td>
@@ -2009,28 +2044,763 @@ Ver esta publicación en Instagram
   <pubDate>Sat, 28 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
-  <title></title>
-  <link>https://bastimapache.cl/posts/musica/albumes_favoritos/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/albumes_favoritos/</guid>
-  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
+  <title>Por qué crear un sitio web personal</title>
+  <link>https://bastimapache.cl/posts/2026/2026-03-15/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>La forma en que las personas habitan la internet ha cambiado muchísimo. Antes las personas creaban sus propias páginas web, personalizaban su presencia online, y formaban comunidades en torno a intereses y experiencias de vida.</p>
+<p>Hoy, <strong>la internet es un espacio dominado por grandes empresas</strong>, que nos ofrecen servicios “gratuitos” para tener una vida digital, pero bajo el trasfondo de utilizar nuestros datos y nuestro comportamiento para <strong>obtener beneficios económicos</strong>. Prácticamente la totalidad de nuestra experiencia web actual está intermediada por corporaciones que usan nuestros datos para vendernos publicidad de vuelta.</p>
+<p>Siguiendo estos motivos publicitarios, el objetivo de la internet actual parece ser la <strong>competencia por obtener nuestra atención</strong>. Distintas empresas y agentes económicos buscan este fin analizando nuestro comportamiento para entregarnos contenido altamente personalizado mediante <strong>algoritmos que explotan nuestros gustos, ideas y opiniones.</strong> Esto tiene la consecuencia de agobiarnos con contenido personalizado. Los usuarios no deciden lo que consumen, sino que <strong>los algoritmos deciden por nosotros</strong>, encerrándonos en burbujas de contenido y cámaras de eco desde las cuales se nos puede influenciar.</p>
+<p>El contenido generado por estas empresas es minuciosamente diseñado para <strong>influenciarnos</strong>en los niveles más profundos. La lucha por la atención y por la influencia ha derivado en el descubrimiento de que las <strong>emociones negativas suelen ser las que más nos movilizan a actuar.</strong> Por consiguiente, gran parte del contenido de las interacciones que vemos en internet son productos de la polarización, la indignación, el odio, y la humillación.</p>
+<p>Si bien todo lo anterior ocurre principalmente para optimizar la industria publicitaria, sabemos que también puede ser usado para influenciar opiniones políticas y posturas ideológicas.</p>
+<p>Creo que las cosas pueden ser distintas. Podemos recuperar la <strong>internet como un espacio de expresión personal</strong>, gobernado por nosotros mismos, usando muchas de las tecnologías abiertas que están disponibles. Por esto creo que es importante <strong>recuperar los espacios digitales personales.</strong> Esto nos permite <strong>escapar del dominio de los algoritmos,</strong> y por consiguiente dejar de competir por atención.</p>
+<p>Creo que podemos <strong>prefigurar una vida digital libre del dominio de las grandes empresas que hoy gobiernan internet</strong>, liberando un aspecto tan importante de la vida social como lo es la digitalidad.</p>
+<p>Son necesarios actos tan sencillos como crear tu propio espacio, hacerlo tuyo, y contribuir para que los demás puedan hacer lo mismo.</p>
+<div class="boton" style="width: 410px;">
+<p><a href="https://bastianolea.rbind.io/blog/tutorial_quarto_github_pages/"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Tutorial: crea un sitio web con Quarto</a></p>
+</div>
+<p>La idea de crear un sitio web personal, distinto de mi <a href="https://bastianolea.rbind.io">sitio web profesional</a>, nació de <a href="https://www.linkedin.com/feed/update/urn:li:activity:7437596980849287168/">este post</a> de <a href="https://lisacharlottemuth.com/">Lisa Charlotte Muth</a>:</p>
+<div class="centrar">
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7437596979754573825?collapsed=1" height="480" width="340" frameborder="0" allowfullscreen="" title="Publicación integrada">
+</iframe>
+</div>
+<p>En este post se plantean dos conceptos clave:</p>
+<ul>
+<li><strong>POSSE:</strong> <em>Publish (on your) Own Site, Syndicate Elsewhere</em> (publica en tu propio sitio, comparte en las demás partes), como se plantea en <a href="https://indieweb.org/POSSE">Indie Web Camp</a>, para centrar tu presencia online en un <strong>espacio digital propio</strong>, y en <em>segundo lugar</em> usar las plataformas privadas que se usan mayoritariamente.</li>
+<li><strong>ROOTS:</strong> <em>Return Old Online Things to your own Site,</em> como un acto de recuperación de nuestro pasado digital, en caso de que <strong>plataformas desaparezcan</strong> (como ha ocurrido) y se lleven con ellas todo tu contenido, o bien, que plataformas decidan <strong>eliminar tu contenido</strong> o <strong>eliminar tus cuentas</strong> por cualquier razón.</li>
+</ul>
+<p>Creo que ambos conceptos son importantes para volver a hacer que la internet sea el espacio de libertad y libre expresión que <del>solía ser</del> siempre hemos soñado.</p>
+
+
+
+ ]]></description>
+  <category>programación</category>
+  <category>tecnología</category>
+  <guid>https://bastimapache.cl/posts/2026/2026-03-15/</guid>
+  <pubDate>Sun, 15 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
-  <title></title>
-  <link>https://bastimapache.cl/posts/musica/bosse_de_nage/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/bosse_de_nage/</guid>
-  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
+  <title>Organizando una comunidad de usuarixs de R en Chile</title>
+  <link>https://bastimapache.cl/posts/2026/2026-03-14/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Llevo más de cinco años usando el lenguaje de programación estadística <strong>R</strong>, tanto para trabajo como para fines personales. Me parece un lenguaje elegante, intuitivo, y con una comunidad viva y brillante.</p>
+<p>Si bien yo vengo de una <a href="blog.html#category=sociología">disciplina completamente distinta, la sociología</a>, siempre interesó mucho la tecnología, a pesar de sentir sus aspectos más técnicos como algo alejado de mis capacidades. Tengo que reconocer que siempre fue mi padre quien incentivó mi curiosidad por la tecnología, y nos ayudó a acercarnos a ella de una forma peculiar entregándonos sus antiguos computadores Mac cuando le tocaba renovarlos por modelos más modernos.</p>
+<p>Pasé de ser una persona que <strong>pensaba que programar era imposible</strong>, a aprender a programar de manera <strong>autodidacta</strong>. Y lo único que necesité fue confiar en mí misme y plantearme proyectos personales que me incentivaran a aprender.</p>
+<p>Hoy puedo decir que soy un usuario avanzado de R, y que prácticamente cualquier cosa que me proponga puedo lograrla con este lenguaje 🥰</p>
+<p>Pero por las razones anteriores, mi camino hacia la programación ha sido <strong>solitario</strong>. Siempre aprendí por mi propia cuenta, y si bien aprendí gracias a la <strong>solidaridad</strong> de usuarias y usuarios que comparten sus conocimientos y habilidades en Internet, muy pocas veces pude compartir en vivo y en directo con otras personas.</p>
+<p>Por eso tenía la idea de organizar un <strong><a href="https://santiagorusers.github.io">grupo de usuarios de R</a></strong>, donde el apoyo digital pudiera ser un poco más tangible y cercano; por una parte por un tema geográfico, donde la cercanía puede conllevar intereses comunes y experiencias similares, pero también por el hecho de que esta cercanía puede generar redes de otros tipos.</p>
+<p>Esta idea se materializó recientemente gracias al apoyo de Carolina Morales, con quien organizamos un <a href="https://santiagorusers.github.io">grupo de usuari@s de R</a> y ya tuvimos nuestra <a href="https://santiagorusers.github.io/posts/2026-03-18/">primera junta abierta</a>, que fue todo un éxito 🩷</p>
+<div class="boton" style="width: 410px;">
+<p><a href="https://santiagorusers.github.io"><i class="fa-solid fa-link fa-2x" aria-label="link"></i> Grupo de Usuari@s de R de Santiago</a></p>
+</div>
+
+
+
+ ]]></description>
+  <category>programación</category>
+  <guid>https://bastimapache.cl/posts/2026/2026-03-14/</guid>
+  <pubDate>Sat, 14 Mar 2026 03:00:00 GMT</pubDate>
 </item>
 <item>
-  <title></title>
-  <link>https://bastimapache.cl/posts/musica/the_body/</link>
-  <description><![CDATA[ undefined ]]></description>
-  <category>música</category>
-  <guid>https://bastimapache.cl/posts/musica/the_body/</guid>
-  <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
+  <title>Warhammer 40.000: libros leídos</title>
+  <link>https://bastimapache.cl/posts/libros/warhammer40k/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>Esta es la lista de los <strong>35</strong> libros de Warhammer que he leído hasta la fecha. Warhammer 40.000 es un <strong>universo de ciencia ficción</strong> basado en un juego de mesa nacido en la Inglaterra de los años ’80.</p>
+<div class="foto centrar">
+<p><img src="https://bastimapache.cl/posts/libros/warhammer40k/Imperial_Palace_Terra2.webp" class="img-fluid"></p>
+</div>
+<p>A grandes rasgos, <strong>Warhammer 40.000</strong> es un universo literario compuesto por novelas, libros de reglas, videojuegos y audiovisuales. En él se retrata la oscura situación de la humanidad en el milenio 41. La humanidad, unida bajo un gobierno interplanetario de carácter <strong>totalitario, esclavista y genocida</strong>, lucha por su supervivencia en una galaxia oprimida por el <strong>caos</strong>, la expresión paralela de la realidad material, una dimensión sin tiempo ni orden donde habitan los ecos de las emociones más extremas sufridas por los seres vivos, y que puede ser navegada mediante riesgosos viajes interdimensionales para atravesar el universo.</p>
+<p>La historia de Warhammer acontece en varios hilos temporales. Uno de ellos, aproximadamente durante el milenio 32, relata las numerosas cruzadas del imperio por reunir a la humanidad bajo un mismo estandarte, mientras el Emperador se reúne con sus hijos, los primarcas, soldados genéticamente diseñados para la conquista de la galaxia. Por otro lado, 10.000 años después del quiebre definitivo del proyecto del Imperio de la Humanidad debido a una traición herética devenida guerra civil, la civilización se ve sumida en una era de oscuridad, degradación y fanatismo religioso. El Emperador se ha vuelto un cadáver inmortal, y el caos, aniquilador primordial, continúa corrompiendo la dimensión material de un universo que sólo conoce el sufrimiento y la guerra.</p>
+<p>A continuación están todos los libros de Warhammer que he leído a la fecha, en orden cronológico:</p>
+<div class="cuadricula" style="margin-top: 24px;">
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/625603">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/625603.jpg" alt="Horus Rising">
+</a>
+</div>
+<p class="libro_titulo">Horus Rising</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2020, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/381817">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/381817.jpg" alt="False Gods">
+</a>
+</div>
+<p class="libro_titulo">False Gods</p>
+<p class="libro_autor">Graham McNeill</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2020, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/815091">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/815091.jpg" alt="Galaxy in Flames">
+</a>
+</div>
+<p class="libro_titulo">Galaxy in Flames</p>
+<p class="libro_autor">Ben Counter</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2020, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/80155">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/80155.jpg" alt="The Flight of the Eisenstein">
+</a>
+</div>
+<p class="libro_titulo">The Flight of the Eisenstein</p>
+<p class="libro_autor">James Swallow</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2020, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/957931">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/957931.jpg" alt="Fulgrim">
+</a>
+</div>
+<p class="libro_titulo">Fulgrim</p>
+<p class="libro_autor">Graham McNeill</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2021, 512 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1678745">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1678745.jpg" alt="Legion">
+</a>
+</div>
+<p class="libro_titulo">Legion</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2021, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/6465063">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/6465063.jpg" alt="A Thousand Sons">
+</a>
+</div>
+<p class="libro_titulo">A Thousand Sons</p>
+<p class="libro_autor">Graham McNeill</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en julio de 2021, 558 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/6057020">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/6057020.jpg" alt="Tales of Heresy">
+</a>
+</div>
+<p class="libro_titulo">Tales of Heresy</p>
+<p class="libro_autor">Nick Kyme</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2021, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/2941259">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/2941259.jpg" alt="Mechanicum">
+</a>
+</div>
+<p class="libro_titulo">Mechanicum</p>
+<p class="libro_autor">Graham McNeill</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2021, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1009259">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1009259.jpg" alt="Xenos">
+</a>
+</div>
+<p class="libro_titulo">Xenos</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2021, 288 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/8697285">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/8697285.jpg" alt="Age of Darkness">
+</a>
+</div>
+<p class="libro_titulo">Age of Darkness</p>
+<p class="libro_autor">Christian Z. Dunn</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en junio de 2022, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1507375">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1507375.jpg" alt="Malleus">
+</a>
+</div>
+<p class="libro_titulo">Malleus</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2022, 288 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/7922982">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/7922982.jpg" alt="The First Heretic">
+</a>
+</div>
+<p class="libro_titulo">The First Heretic</p>
+<p class="libro_autor">Aaron Dembski-Bowden</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2022, 503 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/1507378">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/1507378.jpg" alt="Hereticus">
+</a>
+</div>
+<p class="libro_titulo">Hereticus</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2022, 320 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/51085980">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/51085980.jpg" alt="Belisarius Cawl: The Great Work">
+</a>
+</div>
+<p class="libro_titulo">Belisarius Cawl: The Great Work</p>
+<p class="libro_autor">Guy Haley</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2022, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/33303512">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/33303512.jpg" alt="The Master of Mankind">
+</a>
+</div>
+<p class="libro_titulo">The Master of Mankind</p>
+<p class="libro_autor">Aaron Dembski-Bowden</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2023, 404 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/11161595">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/11161595.jpg" alt="The Outcast Dead">
+</a>
+</div>
+<p class="libro_titulo">The Outcast Dead</p>
+<p class="libro_autor">Graham McNeill</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en mayo de 2023, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/11797636">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/11797636.jpg" alt="Know No Fear">
+</a>
+</div>
+<p class="libro_titulo">Know No Fear</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en julio de 2023, 412 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/13632835">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/13632835.jpg" alt="Betrayer">
+</a>
+</div>
+<p class="libro_titulo">Betrayer</p>
+<p class="libro_autor">Aaron Dembski-Bowden</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2023, 343 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/30753525">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/30753525.jpg" alt="The Carrion Throne">
+</a>
+</div>
+<p class="libro_titulo">The Carrion Throne</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2023, 304 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/46221875">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/46221875.jpg" alt="The Hollow Mountain">
+</a>
+</div>
+<p class="libro_titulo">The Hollow Mountain</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2024, 298 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/36304173">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/36304173.jpg" alt="The Magos">
+</a>
+</div>
+<p class="libro_titulo">The Magos</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en junio de 2024, 720 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/18143885">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/18143885.jpg" alt="The Unremembered Empire">
+</a>
+</div>
+<p class="libro_titulo">The Unremembered Empire</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2024, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/61661304">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/61661304.jpg" alt="The Dark City">
+</a>
+</div>
+<p class="libro_titulo">The Dark City</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2024, 350 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/51085922">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/51085922.jpg" alt="Valdor: Birth of the Imperium">
+</a>
+</div>
+<p class="libro_titulo">Valdor: Birth of the Imperium</p>
+<p class="libro_autor">Chris Wraight</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en septiembre de 2024, 200 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/38450891">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/38450891.jpg" alt="Sons of the Emperor">
+</a>
+</div>
+<p class="libro_titulo">Sons of the Emperor</p>
+<p class="libro_autor">John French</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2024, 247 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/12998311">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/12998311.jpg" alt="Aurelian">
+</a>
+</div>
+<p class="libro_titulo">Aurelian</p>
+<p class="libro_autor">Aaron Dembski-Bowden</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en noviembre de 2024, 128 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/45734813">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/45734813.jpg" alt="The Solar War">
+</a>
+</div>
+<p class="libro_titulo">The Solar War</p>
+<p class="libro_autor">John French</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en diciembre de 2024, 423 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/44451854">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/44451854.jpg" alt="The Lost and the Damned">
+</a>
+</div>
+<p class="libro_titulo">The Lost and the Damned</p>
+<p class="libro_autor">Guy Haley</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2025, 426 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/160382327">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/160382327.jpg" alt="Ravenor">
+</a>
+</div>
+<p class="libro_titulo">Ravenor</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en abril de 2025, 416 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/55610829">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/55610829.jpg" alt="The Infinite and the Divine">
+</a>
+</div>
+<p class="libro_titulo">The Infinite and the Divine</p>
+<p class="libro_autor">Robert Rath</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en julio de 2025, 361 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/34466783">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/34466783.jpg" alt="Fulgrim: The Palatine Phoenix">
+</a>
+</div>
+<p class="libro_titulo">Fulgrim: The Palatine Phoenix</p>
+<p class="libro_autor">Joshua Reynolds</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en agosto de 2025, 219 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/49090040">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/49090040.jpg" alt="Saturnine">
+</a>
+</div>
+<p class="libro_titulo">Saturnine</p>
+<p class="libro_autor">Dan Abnett</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en octubre de 2025, 553 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/243668688">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/243668688.jpg" alt="Archmagos">
+</a>
+</div>
+<p class="libro_titulo">Archmagos</p>
+<p class="libro_autor">Guy Haley</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #8F748E;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en marzo de 2026, 371 páginas</p>
+</div>
+<div class="contenedor_libro">
+<div class="libro_imagen">
+<a href="https://www.goodreads.com/book/show/199313930">
+<img src="https://bastimapache.cl/posts/libros/warhammer40k/portadas/199313930.jpg" alt="Genefather">
+</a>
+</div>
+<p class="libro_titulo">Genefather</p>
+<p class="libro_autor">Guy Haley</p>
+<div class="libro_rating">
+<div class="estrellas">
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+<span class="estrella" style="color: #E2B842;">★</span>
+</div>
+</div>
+<p class="libro_paginas">Leído en mayo de 2026, 340 páginas</p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>libros</category>
+  <guid>https://bastimapache.cl/posts/libros/warhammer40k/</guid>
+  <pubDate>Thu, 12 Mar 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://bastimapache.cl/posts/libros/warhammer40k/Imperial_Palace_Terra2.webp" medium="image" type="image/webp"/>
 </item>
 </channel>
 </rss>

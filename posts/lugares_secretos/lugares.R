@@ -18,7 +18,7 @@ metadata <- metadata |>
   as_tibble() |>
   clean_names()
 
-glimpse(metadata)
+# glimpse(metadata)
 
 coordenadas <- metadata |>
   select(
@@ -30,10 +30,18 @@ coordenadas <- metadata |>
   filter(!is.na(lat) & !is.na(lon)) |>
   arrange(desc(fecha))
 
+message(paste(nrow(coordenadas), "lugares secretos"))
+
 # unir metadatos con textos
 datos <- coordenadas |>
   mutate(filename = basename(path)) |>
   left_join(textos, join_by(filename))
+
+sin_textos <- datos |> filter(is.na(texto)) |> nrow()
+
+if (sin_textos > 0) {
+  stop("Imágenes sin texto!")
+}
 
 # convertir a sf
 puntos <- datos |>
