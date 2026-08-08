@@ -9,7 +9,7 @@ library(tidyverse)
 
 # cargar datos
 imagenes <- dir_info("posts/lugares_secretos/fotos/")
-textos <- read_csv2("posts/lugares_secretos/lugares.csv")
+textos <- read_tsv("posts/lugares_secretos/lugares.tsv")
 
 # extraer metadatos de imágenes
 metadata <- exif_read(imagenes$path)

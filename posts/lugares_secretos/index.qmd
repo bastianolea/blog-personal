@@ -5,6 +5,7 @@ author: Bastián Olea
 date: '2026-08-04'
 categories: ["lugares", "fotos"]
 resources: ["fotos"]
+image: mapa.jpg
 lightbox: true
 freeze: true
 execute: 
@@ -23,23 +24,62 @@ library(here)
 library(glue)
 
 puntos <- readr::read_rds(here("posts/lugares_secretos/lugares.rds"))
+
+paleta <- c(
+  principal = "#DD2694",
+  religioso = "#8E44AD",
+  misterioso = "#384F65",
+  industrial = "#854b34",
+  histórico = "#9c884d",
+  curioso = "#C52D69",
+  cultural = "#95507A",
+  social = "#2678AD",
+  naturaleza = "#18856c"
+)
+
+# construye una píldora html coloreada para un tipo (o vector de tipos)
+pildora_tipo <- function(tipo) {
+  glue(
+    '<span style="background-color:{paleta[tipo]}; color:#FFFFFF; padding:2px 8px; margin-top:2px; margin-bottom: 2px; border-radius:999px; font-size:0.8em; opacity: .8; white-space:nowrap;">{tipo}</span>'
+  )
+}
 ```
 
-En esta publicación actualmente hay `{r} nrow(puntos)` fotos de lugares secretos georeferenciados, ubicados principalmente en la Región Metropolitana de Chile y alrededores. Con el tiempo voy a ir agregando más. Si conoces otro lugar secreto para visitar, o si sabes algo sobre alguno de los que anoté aquí, [escríbeme!](https://bastianolea.rbind.io/contacto/)
+En esta publicación actualmente hay **`{r} nrow(puntos)` fotos** de lugares secretos georeferenciados, ubicados principalmente en la Región Metropolitana de Chile y alrededores. 
+
+Con el tiempo voy a ir agregando más! Si conoces otro, o si quieres complementar algo, [escríbeme!](https://bastianolea.rbind.io/contacto/)
+
+
+```{r tipos_pildoras}
+#| results: asis
+
+tipos_presentes <- puntos |> 
+  st_drop_geometry() |> 
+  distinct(tipo) |> 
+  arrange(tipo) |> 
+  pull(tipo)
+
+tipos_html <- pildora_tipo(tipos_presentes) |> 
+  glue::glue_collapse(sep = " ")
+
+cat(glue("<span style='line-height: 1.4 !important;'>Los lugares secretos se clasifican en los siguientes tipos: {tipos_html}"))
+```
+
+
+## Mapa de lugares secretos
 
 ```{r popups}
 puntos_popup <- puntos |> 
   mutate(
     popup_html = glue(
       '<div style="text-align: center;">
-       <p style="margin-top:0;font-size:120%;max-width:250px;">{texto}<code style="display:none;">{filename}</code></p>
-       <img src="fotos/{filename}" class="lightbox" width="250px" style="border-radius: 4px; margin: 0px 4px; max-height: 300px;">
+       <p style="margin-top:0;margin-bottom: 4px !important;font-size:120%;max-width:230px;">{texto}<code style="display:none;">{filename}</code></p>
+       <div style="margin-top: 0px;">{pildora_tipo(tipo)}</div>
+       <img src="fotos/{filename}" class="lightbox" width="200px" style="border-radius: 4px; margin: 4px 4px; max-height: 300px;">
        </div>'
     )
   )
 ```
-
-## Mapa de lugares secretos
 
 Presiona un marcador en el mapa para revelar el lugar secreto y su foto.
 
@@ -55,87 +95,56 @@ maplibre(
   attributionControl = FALSE
 ) |> 
   add_markers(
-    data = puntos_popup,
-    color = "#DD2694",
-    popup = "popup_html"
+    data = puntos_popup |> filter(tipo == "religioso"),
+    color = paleta[["religioso"]],
+    popup = "popup_html",
+    scale = 0.8
   ) |> 
-  # `onRender()` inyecta JavaScript que se ejecuta en el navegador cuando el
-  # mapa ya está creado (esto funciona aunque el post sea estático, sin Shiny).
-  # mapgl guarda los marcadores en `window.maplibreglMarkers` y expone el mapa
-  # como `el.map`. El problema a resolver: por defecto el popup se abre al instante
-  # (anclado hacia donde haya espacio, p. ej. hacia abajo), y luego al centrar el
-  # mapa MapLibre recalcula el anclaje y lo voltea hacia arriba, generando un salto
-  # feo. Para evitarlo, tomamos control del momento de apertura:
-  #  1) Desvinculamos el popup del marcador (`setPopup()`), así el clic ya no lo
-  #     abre automáticamente.
-  #  2) En nuestro propio clic, primero reposicionamos el mapa con
-  #     `easeTo(offset: [0, 180])`, dejando el marcador bajo el centro.
-  #  3) Recién cuando el mapa termina de moverse (`moveend`) abrimos el popup, por
-  #     lo que el anclaje se calcula una sola vez en la posición final (sin salto).
-  #  4) La imagen del popup se hace clickeable a pantalla completa con GLightbox
-  #     (el lightbox de Quarto solo procesa imágenes presentes al cargar la página,
-  #     pero estos popups se crean dinámicamente).
+  add_markers(
+    data = puntos_popup |> filter(tipo == "misterioso"),
+    color = paleta[["misterioso"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  add_markers(
+    data = puntos_popup |> filter(tipo == "industrial"),
+    color = paleta[["industrial"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  add_markers(
+    data = puntos_popup |> filter(tipo == "curioso"),
+    color = paleta[["curioso"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  add_markers(
+    data = puntos_popup |> filter(tipo == "social"),
+    color = paleta[["social"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  add_markers(
+    data = puntos_popup |> filter(tipo == "histórico"),
+    color = paleta[["histórico"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  add_markers(
+    data = puntos_popup |> filter(tipo == "cultural"),
+    color = paleta[["cultural"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  add_markers(
+    data = puntos_popup |> filter(tipo == "naturaleza"),
+    color = paleta[["naturaleza"]],
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  # popups
   htmlwidgets::onRender(
-    "(
-    function(el, x) {
-      function setup() {
-        var map = el.map;
-        var markers = window.maplibreglMarkers || [];
-        // Lista compartida de todos los popups, para poder cerrar los demás.
-        var popups = [];
-        markers.forEach(function(marker) {
-          if (marker._mapglBound) return;
-          var popup = marker.getPopup();
-          if (!popup) return;
-          marker._mapglBound = true;
-          popups.push(popup);
-
-          // Desvincular el popup para controlar cuándo se abre.
-          marker.setPopup();
-          popup.setLngLat(marker.getLngLat());
-
-          // Lightbox cada vez que el popup se abre.
-          popup.on('open', function() {
-            var pel = popup.getElement();
-            if (!pel) return;
-            var img = pel.querySelector('img.lightbox');
-            if (img && !img._lightboxBound) {
-              img._lightboxBound = true;
-              img.style.cursor = 'zoom-in';
-              img.addEventListener('click', function() {
-                if (window.GLightbox) {
-                  GLightbox({ elements: [{ href: img.src, type: 'image' }] }).open();
-                }
-              });
-            }
-          });
-
-          var mel = marker.getElement();
-          mel.style.cursor = 'pointer';
-          mel.addEventListener('click', function(e) {
-            e.stopPropagation();
-            // Segundo clic sobre el mismo marcador: cerrar.
-            if (popup.isOpen()) { popup.remove(); return; }
-            // Cerrar cualquier otro popup que esté abierto.
-            popups.forEach(function(p) { if (p !== popup && p.isOpen()) p.remove(); });
-            // Primero reposicionar el mapa, luego abrir el popup al terminar.
-            map.easeTo({ center: marker.getLngLat(), offset: [0, 180], duration: 500 });
-            var opened = false;
-            function openPopup() {
-              if (opened || popup.isOpen()) return;
-              opened = true;
-              popup.addTo(map);
-            }
-            map.once('moveend', openPopup);
-            // Respaldo por si el mapa ya estaba centrado y no emite 'moveend'.
-            setTimeout(openPopup, 700);
-          });
-        });
-      }
-      if (el.map && el.map.loaded()) { setup(); }
-      else if (el.map) { el.map.on('load', setup); }
-    }
-    )"
+    readLines(here("posts/lugares_secretos/popup.js"))
   )
 ```
 
@@ -149,9 +158,10 @@ tabla <- puntos |>
   mutate(
     imagen_html = glue::glue(
       '![](fotos/{filename}){{.fotito .lightbox group="secretos" loading="lazy" decoding="async" style="margin:0px 6px;"}}'
-    )
+    ),
+    tipo_html = pildora_tipo(tipo)
   ) |> 
-  select(imagen_html, texto, fecha) |> 
+  select(imagen_html, texto, tipo_html, fecha) |> 
   mutate(fecha = as_datetime(fecha),
          fecha = as_date(fecha))
 ```
@@ -164,9 +174,11 @@ tabla |>
   gt() |> 
   cols_label(
     imagen_html = "",
-    texto = ""
+    texto = "",
+    tipo_html = ""
   ) |> 
-  fmt_markdown(columns = imagen_html) |> 
+  fmt_markdown(columns = c(imagen_html, tipo_html)) |> 
+  cols_width(tipo_html ~ "130px") |> 
   tab_options(
     table.background.color = "#2F2935",
     table.font.color = "#F0BFE7",
@@ -185,6 +197,11 @@ tabla |>
     style = cell_text(color = "#F0BFE770", size = "small", align = "left", v_align = "middle"),
     locations = cells_body(columns = fecha)
   ) |>
-  cols_width(fecha ~ "180px") |> 
+  tab_style(
+    style = cell_text(align = "center", v_align = "middle"),
+    locations = cells_body(columns = tipo_html)
+  ) |>
+  cols_width(texto ~ "300px",
+             fecha ~ "200px") |> 
   opt_row_striping(row_striping = FALSE)
 ```
