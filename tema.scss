@@ -643,3 +643,7 @@ border-top-color: #26222e !important;
 .maplibregl-popup-close-button {
   color: #DD2694 !important;
 }
+
+.footnote-ref:has(+ .footnote-ref) {
+  margin-right: 3px;
+}

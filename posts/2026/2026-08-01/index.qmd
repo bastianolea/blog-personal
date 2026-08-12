@@ -1,5 +1,5 @@
 ---
-title: "Mi primer paquete R: facilitando el análisis de datos sociales de Chile con `{territorial}`"
+title: "Mi primer paquete de R: facilitando el análisis de datos sociales de Chile con `{territorial}`"
 date: 2026-08-02
 categories: [programación]
 tags: [R, Chile, paquetes, comunas, regiones, software]

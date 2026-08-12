@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mi primer paquete de R: facilitando el análisis de datos sociales de Chile con {territorial} – Bastián Olea Herrera</title>
+<title>Gente que habla de su vida con la IA – Bastián Olea Herrera</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -72,11 +72,11 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Mi primer paquete de R: facilitando el análisis de datos sociales de Chile con {territorial} – Bastián Olea Herrera">
+<meta property="og:title" content="Gente que habla de su vida con la IA – Bastián Olea Herrera">
 <meta property="og:description" content="Sitio personal de Bastián Olea Herrera">
 <meta property="og:site_name" content="Bastián Olea Herrera">
 <meta property="og:locale" content="es_ES">
-<meta name="twitter:title" content="Mi primer paquete de R: facilitando el análisis de datos sociales de Chile con {territorial} – Bastián Olea Herrera">
+<meta name="twitter:title" content="Gente que habla de su vida con la IA – Bastián Olea Herrera">
 <meta name="twitter:description" content="Sitio personal de Bastián Olea Herrera">
 <meta name="twitter:site" content="@bastimapache">
 <meta name="twitter:card" content="summary">
@@ -148,9 +148,9 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Mi primer paquete de R: facilitando el análisis de datos sociales de Chile con <code>{territorial}</code></h1>
+      <h1 class="title">Gente que habla de su vida con la IA</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">programación</div>
+                <div class="quarto-category">tecnología</div>
               </div>
                   </div>
   </div>
@@ -162,18 +162,12 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Fecha de publicación</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">2 de agosto de 2026</p>
+        <p class="date">12 de agosto de 2026</p>
       </div>
     </div>
     
       
     
-      <div>
-      <div class="quarto-title-meta-heading">Temáticas principales</div>
-      <div class="quarto-title-meta-contents">
-        <p class="post-tags">R, Chile, paquetes, comunas, regiones, software</p>
-      </div>
-    </div>
     
   </div>
     
@@ -189,25 +183,32 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>Si has trabajado con datos sociales o públicos de Chile antes, sabrás que uno de los desafíos es lidiar con los nombres de regiones y comunas: nombres mal escritos, faltas de tildes, mayúsculas inconsistentes. Esta complicación me llevó a crear un <a href="https://bastianolea.rbind.io/blog/territorial/">paquete de R</a> para a simplificar la limpieza y procesamiento de datos territoriales chilenos.</p>
-<section id="objetivos-principales" class="level3">
-<h3 class="anchored" data-anchor-id="objetivos-principales">Objetivos principales</h3>
-<p>El objetivo principal es facilitar tareas de <strong>limpieza de datos</strong> que, si se hacen manualmente, son tediosas y propensas a errores:</p>
-<ol type="1">
-<li><strong>Validación de nombres:</strong> Antes de asumir la calidad de tus datos, puedes usar funciones como <code>validar_comunas()</code> para detectar inconsistencias (p.&nbsp;ej., casos donde una comuna está en minúsculas o le falta una tilde).</li>
-<li><strong>Limpieza automática:</strong> Con <code>limpiar_comunas()</code>, el paquete estandariza los nombres mediante diversas técnicas de limpieza.</li>
-<li><strong>Contextualización:</strong> Si tienes solo los nombres de comunas o sus <a href="https://bastianolea.github.io/territorial/articles/codigos_unicos_territoriales.html">códigos únicos territoriales</a>, la función <code>contextualizar()</code> agrega todas las variables territoriales faltantes (región, provincia, etc.).</li>
-<li><strong>Organización:</strong> Funciones útiles como <code>ordenar_regiones()</code> o <code>agregar_macrozona()</code> ayudan al análisis geográfico de los datos.</li>
+<p>Qué miedo por la gente que habla con inteligencias artificiales sobre sus vidas personales. Los modelos de lenguaje no piensan, no saben cosas, no razonan, no comprenden, no te entienden, no les importas.</p>
+<p>Hablarle a modelos de lenguaje como si fueran humanos, o peor, amigos o terapeutas, produce psicosis y otros efectos psicológicos nocivos<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a><a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a><a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a>, porque no están diseñados para ayudarte, están diseñados para simular lenguaje humano prescindiendo de humanidad.</p>
+<div class="twitter centrar">
+<blockquote class="twitter-tweet blockquote">
+<p lang="es" dir="ltr">
+Qué miedo por la gente que habla con inteligencias artificiales sobre sus vidas personales. Los modelos de lenguaje no piensan, no saben cosas, no razonan, no comprenden, no te entienden, no les importas.
+</p>
+— Bastián Olea 🌸 (<span class="citation" data-cites="bastimapache">@bastimapache</span>) <a href="https://x.com/bastimapache/status/2087343018982490116?ref_src=twsrc%5Etfw">August 12, 2026</a>
+</blockquote>
+<script async="" src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+</div>
+<p>Escribí esto en respuesta al <em>trend</em> de preguntarle a ChatGPT que te describa en una palabra.</p>
+<p>Obviamente <a href="https://x.com/bastimapache/status/2087343018982490116?ref_src=twsrc%5Etfw">publiqué esto mismo en Twitter</a> y llegó gente a burlarse de mi apariencia y género:</p>
+<p><img src="acoso.jpg" class="img-fluid"></p>
+
+
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://arxiv.org/html/2602.19141v1">Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p><a href="https://www.nature.com/articles/d41586-025-03020-9">Can AI chatbots trigger psychosis? What the science says</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13278220/">Characterizing artificial intelligence (AI) psychosis in a large academic medical setting: evidence of the new clinical phenomenon and the vulnerability of those in early phases of psychosis</a><a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
-<p>En la <a href="https://bastianolea.github.io/territorial/">documentación del paquete</a> agregué varios ejemplos y casos reales de uso del paquete para detectar y limpiar datos territoriales. Si no sabes por dónde empezar, lee la guía de <a href="https://bastianolea.github.io/territorial/articles/territorial.html">primeros pasos</a></p>
-<p>Instala la versión de desarrollo del paquete directamente desde GitHub con <code>pak::pak("bastianolea/territorial")</code>.</p>
-<p>Para mi ha sido algo muy nuevo aprender a desarrollar paquetes en R, y todo fue gracias al <a href="../../../posts/2026/2026-06-17/">programa de Campeones/as de rOpenSci</a>, quienes nos han formado durante todo este año para contribuir a la comunidad de software libre.</p>
-<p>Si bien antes pensaba que el desarrollo de paquetes era algo súper complicado, ha sido muy agradable notar que el sistema de desarrollo en R es amigable y estructurado, con muchas herramientas que te ayudan a ir avanzando con todas las precauciones para producir software de calidad. Incluso llega a ser entretenido el <em>loop</em> de crear funciones, documentarlas, crear sus tests, aplicar los tests, chequear que todo funciona, actualizar el sitio, y repetir. Quiero escribir pronto un <a href="https://bastianolea.rbind.io">tutorial en mi blog de R</a> para compartir esta experiencia más a fondo!</p>
-
-
-</section>
-
-</main> <!-- /main -->
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -615,7 +616,7 @@ ul.task-list li input[type="checkbox"] {
 <p>© 2026 Bastián Olea Herrera · <a href="https://x.com/bastimapache"><span class="citation" data-cites="bastimapache">@bastimapache</span></a></p>
 </div>   
     <div class="nav-footer-center">
-<p><a href="../../../posts/2026/2026-08-01/index.html">Inicio</a> · <a href="blog.qmd">Blog</a> · <a href="https://bastianolea.rbind.io">Blog profesional</a></p>
+<p><a href="../../../posts/2026/2026-08-12/index.html">Inicio</a> · <a href="blog.qmd">Blog</a> · <a href="https://bastianolea.rbind.io">Blog profesional</a></p>
 </div>
     <div class="nav-footer-right">
 <p>Hecho con <a href="https://quarto.org">Quarto</a>, <a href="https://bastianolea.github.io/aprende_r/">R</a> y <a href="https://posit.co/downloads">RStudio</a>. Sitio alojado en <a href="https://www.netlify.com/">Netlify</a>.</p>

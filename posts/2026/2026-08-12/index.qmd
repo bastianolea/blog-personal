@@ -1,0 +1,25 @@
+---
+title: "Gente que habla de su vida con la IA"
+date: "2026-08-12"
+categories: [tecnología]
+image: false
+format: html
+---
+
+Qué miedo por la gente que habla con inteligencias artificiales sobre sus vidas personales. Los modelos de lenguaje no piensan, no saben cosas, no razonan, no comprenden, no te entienden, no les importas.
+
+Hablarle a modelos de lenguaje como si fueran humanos, o peor, amigos o terapeutas, produce psicosis y otros efectos psicológicos nocivos[^1][^2][^3], porque no están diseñados para ayudarte, están diseñados para simular lenguaje humano prescindiendo de humanidad.
+
+[^1]: [Sycophantic Chatbots Cause Delusional Spiraling, Even in Ideal Bayesians](https://arxiv.org/html/2602.19141v1)
+[^2]: [Can AI chatbots trigger psychosis? What the science says](https://www.nature.com/articles/d41586-025-03020-9)
+[^3]: [Characterizing artificial intelligence (AI) psychosis in a large academic medical setting: evidence of the new clinical phenomenon and the vulnerability of those in early phases of psychosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC13278220/)
+
+::: {.twitter .centrar}
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Qué miedo por la gente que habla con inteligencias artificiales sobre sus vidas personales. Los modelos de lenguaje no piensan, no saben cosas, no razonan, no comprenden, no te entienden, no les importas.</p>&mdash; Bastián Olea 🌸 (@bastimapache) <a href="https://x.com/bastimapache/status/2087343018982490116?ref_src=twsrc%5Etfw">August 12, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+:::
+
+Escribí esto en respuesta al _trend_ de preguntarle a ChatGPT que te describa en una palabra.
+
+Obviamente [publiqué esto mismo en Twitter](https://x.com/bastimapache/status/2087343018982490116?ref_src=twsrc%5Etfw) y llegó gente a burlarse de mi apariencia y género:
+
+![](acoso.jpg)
