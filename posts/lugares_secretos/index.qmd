@@ -1,8 +1,8 @@
 ---
-title: Lugares secretos
-subtitle: Mapa y galería de fotos de lugares misteriosos, curiosos o abandonados en Chile
+title: Mapa de lugares secretos
+subtitle: Galería de fotos de lugares misteriosos, curiosos o abandonados en Chile
 author: Bastián Olea
-date: '2026-08-04'
+date: today
 categories: ["lugares", "fotos"]
 resources: ["fotos"]
 image: mapa.jpg
@@ -14,7 +14,11 @@ execute:
   warning: false
 ---
 
-Durante mis [paseos y rutas en bicicleta](/blog.html#category=ciclismo), siempre me detengo cuando me encuentro en lugares extraños, misteriosos, u ocultos. Les digo _lugares secretos_ porque me imagino que poca gente los debe conocer, y me inspiran un aura de misterio y a veces peligro. También en referencia a los videojuegos antiguos, que te avisaban cuando entrabas a una zona secreta del mapa.
+Durante mis [paseos y rutas en bicicleta](/blog.html#category=ciclismo), 
+siempre me detengo cuando me encuentro en lugares extraños, misteriosos, u ocultos. 
+Les digo _lugares secretos_ porque me imagino que poca gente los debe conocer, 
+y me inspiran un aura de misterio y a veces peligro. 
+También en referencia a los videojuegos antiguos, que te avisaban cuando entrabas a una zona secreta del mapa.
 
 ```{r datos}
 library(mapgl)
@@ -45,7 +49,8 @@ pildora_tipo <- function(tipo) {
 }
 ```
 
-En esta publicación actualmente hay **`{r} nrow(puntos)` fotos** de lugares secretos georeferenciados, ubicados principalmente en la Región Metropolitana de Chile y alrededores. 
+En esta publicación actualmente hay **`{r} nrow(puntos)` fotos** de lugares secretos georeferenciados, 
+ubicados principalmente en la Región Metropolitana de Santiago de Chile y alrededores. 
 
 Con el tiempo voy a ir agregando más! Si conoces otro, o si quieres complementar algo, [escríbeme!](https://bastianolea.rbind.io/contacto/)
 

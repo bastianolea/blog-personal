@@ -22,13 +22,13 @@ En la ruta aprovechamos de visitar algunos puntos del bosque, como el **árbol d
 Durante esta época del año (finales del verano) florecen muchas **Añañucas**, flores endémicas de Chile, en preciosas tonalidades rosadas, amarillas, rojizas y coral.
 
 ::: {.galeria}
-![Añañucas](añañucas_1.jpeg){.fotito .lightbox group="Añañucas"}
-![Añañucas](añañucas_2.jpeg){.fotito .lightbox group="Añañucas"}
-![Añañucas](añañucas_3.jpeg){.fotito .lightbox group="Añañucas"}
-![Añañucas](añañucas_4.jpeg){.fotito .lightbox group="Añañucas"}
-![Añañucas](añañucas_5.jpeg){.fotito .lightbox group="Añañucas"}
-![Añañucas](añañucas_6.jpeg){.fotito .lightbox group="Añañucas"}
-![Añañucas](añañucas_7.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_1.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_2.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_3.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_4.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_5.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_6.jpeg){.fotito .lightbox group="Añañucas"}
+![Añañucas](flores_7.jpeg){.fotito .lightbox group="Añañucas"}
 :::
 
 :::: {.boton style="width: 400px;"}
