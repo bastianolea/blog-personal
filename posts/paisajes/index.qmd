@@ -5,7 +5,7 @@ author: Bastián Olea Herrera
 date: today
 categories: ["lugares", "fotos"]
 resources: ["fotos"]
-image: paisajes.jpg
+image: paisajes.jpeg
 lightbox: true
 freeze: true
 execute: 
@@ -16,7 +16,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-Fotos de paisajes de Chile y la Región Metropolitana que he tomado durane mis paseos, viajes y [rutas en bicicleta](/blog.html#category=ciclismo).
+Fotos de paisajes de Chile y la Región Metropolitana que he tomado durante mis paseos, viajes y [rutas en bicicleta](/blog.html#category=ciclismo).
 
 ```{r datos}
 library(mapgl)
@@ -29,8 +29,7 @@ library(readr)
 puntos <- read_rds(here("posts/paisajes/paisajes.rds"))
 ```
 
-En esta publicación actualmente hay **`{r} nrow(puntos)` paisajes** georeferenciados.
-
+En esta publicación actualmente hay **`{r} nrow(puntos)` paisajes** georeferenciados. Presiona un marcador en el mapa para ver la foto.
 
 ```{r popups}
 puntos_popup <- puntos |> 
@@ -44,7 +43,7 @@ puntos_popup <- puntos |>
   )
 ```
 
-Presiona un marcador en el mapa para revelar el lugar secreto y su foto.
+
 
 ```{r mapa}
 #| fig-height: 6
@@ -70,13 +69,14 @@ maplibre(
 
 <br>
 
-## Cuadrícula de paisajes
+## Paisajes
 
 ```{r datos_cuadricula}
 library(lubridate)
 
 tabla <- puntos |> 
   st_drop_geometry() |> 
+  arrange(desc(fecha)) |> 
   mutate(
     imagen = glue::glue(
       '![](fotos/{nombre}.{extension}){{.fotito .lightbox group="paisajes" loading="lazy" decoding="async" style="margin:0px 6px;"}}'
@@ -95,3 +95,5 @@ cat(":::: {.galeria}\n")
 cat(tabla$imagen, sep = "\n")
 cat("\n::::")
 ```
+
+Estas fotos están disponibles para su uso bajo [licencia Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

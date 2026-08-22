@@ -1,0 +1,104 @@
+---
+title: "Documentación técnica: geocodificación de paisajes"
+---
+
+::: {.callout-note}
+This report was generated using AI under general human direction. At the time of generation, the contents have not been comprehensively reviewed by a human analyst.
+
+<!--
+To indicate human review: Delete the line above about contents not being reviewed, and replace this comment with:
+The contents have been reviewed and validated by [Your Name], [Your Role] on [Date].
+-->
+:::
+
+## Resumen
+
+El post de paisajes construye un mapa interactivo y una galería de fotos georreferenciadas. Cada foto se ubica en el mapa a partir de las coordenadas GPS que trae en sus metadatos EXIF, y recibe un nombre descriptivo según la zona donde fue tomada, obtenido mediante geocodificación inversa con OpenStreetMap.
+
+Este documento describe el flujo técnico para procesar las fotos y mantener el post actualizado de forma incremental, sin volver a geocodificar las fotos que ya fueron procesadas.
+
+```{r}
+#| label: load-packages
+library(sf)
+library(dplyr)
+library(readr)
+library(here)
+```
+
+```{r}
+#| label: load-data
+puntos <- read_rds(here("posts/paisajes/paisajes.rds"))
+```
+
+En este momento el registro contiene `{r} nrow(puntos)` fotos procesadas.
+
+## Estructura de carpetas
+
+El proceso se apoya en tres elementos dentro de `posts/paisajes/`:
+
+| Elemento | Rol |
+|---|---|
+| `nuevas/` | Fotos crudas recién agregadas, con sus nombres originales. Solo se procesan las fotos que están aquí. |
+| `fotos/` | Fotos definitivas, ya renombradas y geocodificadas. No se vuelven a tocar. |
+| `paisajes.rds` | Tabla espacial (`sf`) que alimenta el post. También es el acumulado de todo lo ya procesado. |
+
+La separación entre `nuevas/` y `fotos/` es lo que permite la incrementalidad: como el script solo lee `nuevas/`, las fotos ya movidas a `fotos/` nunca se vuelven a geocodificar.
+
+## Flujo del script
+
+El script `paisajes.R` ejecuta los siguientes pasos:
+
+1. **Cargar el acumulado previo.** Si `paisajes.rds` existe, se lee y se conservan sus registros (sin re-geocodificarlos). Si no existe, se parte desde cero.
+2. **Listar las fotos nuevas.** Se lee `nuevas/` filtrando solo imágenes (`jpg`, `jpeg`, `png`, `heic`, `tif`, `tiff`), ignorando archivos como `.DS_Store`. Si la carpeta está vacía, el script termina sin hacer nada.
+3. **Extraer metadatos.** Con `exiftoolr::exif_read()` se obtienen, por foto, la fecha y las coordenadas GPS (`gps_latitude` y `gps_longitude`).
+4. **Geocodificación inversa.** Con `tidygeocoder::reverse_geocode()` (método `osm`, que usa Nominatim) se obtiene el lugar para cada coordenada. Se usa `zoom = 14` para obtener el nivel de localidad, no de calle o edificio.
+5. **Derivar el nombre.** A partir de los campos de asentamiento devueltos por OpenStreetMap (`name`, `hamlet`, `village`, `town`, `suburb`, etc.) se construye `lugar` usando un `coalesce()` en orden de especificidad.
+6. **Renombrar y mover.** El nombre final combina `lugar` y `fecha` (`make_clean_names()`), con `make.unique()` para evitar colisiones. Los archivos se mueven de `nuevas/` a `fotos/` con `file_move()`.
+7. **Consolidar y guardar.** Se unen los registros previos con los nuevos y se escribe `paisajes.rds` como objeto `sf` (CRS 4326).
+
+## Esquema del rds
+
+`paisajes.rds` es un objeto `sf` con las siguientes columnas:
+
+| Columna | Origen |
+|---|---|
+| `ruta` | Ruta final del archivo en `fotos/` |
+| `nombre_original` | Nombre original del archivo (trazabilidad) |
+| `nombre` | Nombre limpio (`lugar` + `fecha`), sin extensión |
+| `extension` | Extensión del archivo (`jpeg`, `png`, ...) |
+| `fecha` | Fecha y hora de captura (EXIF) |
+| `lugar` | Nombre de la zona (título descriptivo) |
+| `comuna`, `provincia`, `region` | Divisiones administrativas de OpenStreetMap |
+| `direccion` | Cadena de dirección completa de OpenStreetMap |
+| `geometry` | Punto (coordenadas GPS, EPSG:4326) |
+
+El post (`index.qmd`) arma la ruta de cada imagen como `fotos/{nombre}.{extension}` y usa `direccion` en el popup del mapa.
+
+## Cómo agregar fotos nuevas
+
+1. Colocar las fotos nuevas (con sus nombres originales) dentro de `posts/paisajes/nuevas/`.
+2. Ejecutar el script:
+
+   ```bash
+   Rscript posts/paisajes/paisajes.R
+   ```
+
+3. El script procesa solo lo que está en `nuevas/`, lo mueve a `fotos/` y actualiza `paisajes.rds`.
+4. Renderizar el post:
+
+   ```bash
+   quarto render posts/paisajes/index.qmd
+   ```
+
+## Consideraciones
+
+- **Límite de Nominatim.** OpenStreetMap impone ~1 solicitud por segundo, por lo que procesar muchas fotos toma tiempo (aprox. 1 segundo por foto).
+- **Colisiones de nombres.** Si dos fotos del mismo lugar coinciden en fecha, `make.unique()` añade un sufijo (`_1`, `_2`) para mantener nombres únicos.
+- **Fotos sin GPS.** El flujo actual asume que todas las fotos traen coordenadas GPS. Una foto sin GPS se descarta silenciosamente (no aparece en el rds ni se mueve). Si se necesitara, habría que agregar un manejo explícito.
+- **Fotos repetidas.** El script no deduplica: se asume que `nuevas/` siempre contiene únicamente fotos nuevas. Evitar agregar fotos ya procesadas es responsabilidad del usuario.
+
+## Referencia
+
+- `paisajes.R` — script que ejecuta todo el proceso.
+- `index.qmd` — el post (mapa + galería) que consume `paisajes.rds`.
+- `popup.js` — comportamiento de los popups del mapa (apertura controlada y lightbox).
