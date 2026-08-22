@@ -91,7 +91,6 @@ maplibre(
   bounds = puntos,
   zoom = 13,
   minZoom = 7,
-  maxZoom = 13,
   attributionControl = FALSE
 ) |> 
   add_markers(
