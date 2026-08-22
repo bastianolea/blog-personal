@@ -1,0 +1,97 @@
+---
+title: Mapa de paisajes
+subtitle: Galería de fotos de paisajes bonitos que he tomado en mis rutas
+author: Bastián Olea Herrera
+date: today
+categories: ["lugares", "fotos"]
+resources: ["fotos"]
+image: paisajes.jpg
+lightbox: true
+freeze: true
+execute: 
+  message: false
+  echo: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+---
+
+Fotos de paisajes de Chile y la Región Metropolitana que he tomado durane mis paseos, viajes y [rutas en bicicleta](/blog.html#category=ciclismo).
+
+```{r datos}
+library(mapgl)
+library(sf)
+library(dplyr)
+library(here)
+library(glue)
+library(readr)
+
+puntos <- read_rds(here("posts/paisajes/paisajes.rds"))
+```
+
+En esta publicación actualmente hay **`{r} nrow(puntos)` paisajes** georeferenciados.
+
+
+```{r popups}
+puntos_popup <- puntos |> 
+  mutate(
+    popup_html = glue(
+      '<div style="text-align: center;">
+       <p style="margin-top:0;margin-bottom: 4px !important;font-size:120%;max-width:230px;">{direccion}<code style="display:none;">{ruta}</code></p>
+       <img src="fotos/{nombre}.{extension}" class="lightbox" width="200px" style="border-radius: 4px; margin: 4px 4px; max-height: 300px;">
+       </div>'
+    )
+  )
+```
+
+Presiona un marcador en el mapa para revelar el lugar secreto y su foto.
+
+```{r mapa}
+#| fig-height: 6
+
+maplibre(
+  style = carto_style("dark-matter"),
+  bounds = puntos,
+  zoom = 13,
+  minZoom = 7,
+  attributionControl = FALSE
+) |> 
+  add_markers(
+    data = puntos_popup,
+    color = "#18856c",
+    popup = "popup_html",
+    scale = 0.8
+  ) |> 
+  # popups
+  htmlwidgets::onRender(
+    readLines(here("posts/paisajes/popup.js"))
+  )
+```
+
+<br>
+
+## Cuadrícula de paisajes
+
+```{r datos_cuadricula}
+library(lubridate)
+
+tabla <- puntos |> 
+  st_drop_geometry() |> 
+  mutate(
+    imagen = glue::glue(
+      '![](fotos/{nombre}.{extension}){{.fotito .lightbox group="paisajes" loading="lazy" decoding="async" style="margin:0px 6px;"}}'
+    )
+    ) |> 
+  select(nombre, imagen, direccion, fecha) |> 
+  mutate(fecha = as_datetime(fecha),
+         fecha = as_date(fecha))
+```
+
+
+```{r cuadricula}
+#| results: asis
+
+cat(":::: {.galeria}\n")
+cat(tabla$imagen, sep = "\n")
+cat("\n::::")
+```
