@@ -16,8 +16,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-Fotos de paisajes de Chile y la Región Metropolitana que he tomado durante mis paseos, viajes y [rutas en bicicleta](/blog.html#category=ciclismo).
-
 ```{r datos}
 library(mapgl)
 library(sf)
@@ -29,7 +27,7 @@ library(readr)
 puntos <- read_rds(here("posts/paisajes/paisajes.rds"))
 ```
 
-En esta publicación actualmente hay **`{r} nrow(puntos)` paisajes** georeferenciados. Presiona un marcador en el mapa para ver la foto.
+Aquí voy a ir publicando fotos de paisajes de Chile y la Región Metropolitana que he tomado durante mis paseos, viajes y [rutas en bicicleta](/blog.html#category=ciclismo). En esta publicación actualmente hay **`{r} nrow(puntos)` paisajes** georeferenciados. 
 
 ```{r popups}
 puntos_popup <- puntos |> 
@@ -43,7 +41,7 @@ puntos_popup <- puntos |>
   )
 ```
 
-
+Presiona un marcador en el mapa para ver la foto!
 
 ```{r mapa}
 #| fig-height: 6
@@ -54,12 +52,12 @@ maplibre(
   zoom = 13,
   minZoom = 7,
   attributionControl = FALSE
-) |> 
+) |>
   add_markers(
     data = puntos_popup,
     color = "#18856c",
     popup = "popup_html",
-    scale = 0.8
+    scale = 0.7
   ) |> 
   # popups
   htmlwidgets::onRender(
@@ -79,7 +77,7 @@ tabla <- puntos |>
   arrange(desc(fecha)) |> 
   mutate(
     imagen = glue::glue(
-      '![](fotos/{nombre}.{extension}){{.fotito .lightbox group="paisajes" loading="lazy" decoding="async" style="margin:0px 6px;"}}'
+      '![](fotos/{nombre}.{extension}){{.fotito .lightbox group="paisajes" loading="lazy" decoding="async" alt="{direccion}" title="{direccion}"}}'
     )
     ) |> 
   select(nombre, imagen, direccion, fecha) |> 
