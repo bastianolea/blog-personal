@@ -1,39 +1,40 @@
 ---
 title: "Libros que he leído este 2026"
-subtitle: "Lista de lectura personal"
-date: "2026-06-25"
+subtitle: "Lista de lectura personal a la fecha"
+date: today
 image: bastimapache_mosaico_libros_2026.jpg
 format: html
 categories: [libros]
+freeze: true
 editor_options: 
   chunk_output_type: console
 execute: 
-  freeze: true
   echo: false
   message: false
   warning: false
 ---
 
 
-```{r cargar}
+```{r setup}
 library(dplyr)
 library(stringr)
 library(readr)
 library(here)
 library(janitor)
+library(glue)
+library(lubridate)
+```
 
+```{r cargar_csv}
+#| eval: false
+# requiere descarga manual del archivo
 # https://www.goodreads.com/review/import
 data <- read_csv(here("posts/libros/libros_2026/goodreads_library_export.csv")) |> 
   clean_names()
-```
-
-```{r limpiar}
-library(glue)
-library(lubridate)
 
 libros <- data |> 
   select(date_read,
-         title, author, publisher, my_rating, number_of_pages, 
+         title, author, publisher, rating, pages, 
          book_id) |> 
   filter(!is.na(date_read)) |> 
   filter(year(ymd(date_read)) == 2026) |> 
@@ -42,6 +43,46 @@ libros <- data |>
          title = str_squish(title),
          author = str_squish(author)) |>
   # columna con portadas de los libros
+  mutate(portada = glue("portadas/{book_id}.jpg"),
+         link = glue("https://www.goodreads.com/book/show/{book_id}"))
+```
+
+```{r cargar_rss}
+library(dplyr)
+library(stringr)
+library(purrr)
+library(glue)
+library(lubridate)
+library(xml2)
+
+# feed RSS de la estantería "read" 
+items <- read_xml("https://www.goodreads.com/review/list_rss/53224910?shelf=read") |> 
+  xml_find_all("//item")
+
+campo <- function(nodo, tag) xml_text(xml_find_first(nodo, tag))
+
+# pasar a tabla
+libros <- tibble(
+  book_id = map_chr(items, campo, "book_id"),
+  title = map_chr(items, campo, "title"),
+  author = map_chr(items, campo, "author_name"),
+  rating = as.integer(map_chr(items, campo, "user_rating")),
+  # num_pages está anidado dentro de <book>, por eso la ruta descendente
+  pages = as.integer(map_chr(items, campo, ".//num_pages")),
+  date_read = as.Date(dmy_hms(map_chr(items, campo, "user_read_at")))
+) 
+
+# filtrar
+libros <- libros |> 
+  arrange(desc(date_read)) |> 
+  filter(year(date_read) == 2026)
+
+libros <- libros |> 
+  # limpiar datos
+  mutate(title = str_squish(str_remove(title, "\\(.*\\)")),
+         author = str_squish(author)) |> 
+  mutate(pages = if_else(pages == 0, NA, pages)) |> 
+  # columnas de portada y enlace
   mutate(portada = glue("portadas/{book_id}.jpg"),
          link = glue("https://www.goodreads.com/book/show/{book_id}"))
 ```
@@ -57,6 +98,7 @@ library(rvest)
 
 # por cada id de libro, descarga la portada
 walk(libros$book_id, \(id) {
+  # id <- libros$book_id[1]
   message(id)
   
   # armar ruta de guardado
@@ -74,8 +116,11 @@ walk(libros$book_id, \(id) {
   url <- glue("https://www.goodreads.com/book/show/{id}")
   
   # extraer imagen de portada de la dirección
-  imagen <- read_html(url) |> 
-    html_elements(".BookCover__image") |> 
+  sesion <- read_html_live(url)
+  
+  imagen <- sesion |> 
+    html_elements(".BookPage") |> 
+    # html_elements(".BookCover__image") |> 
     html_element("img") |>
     html_attr("src") |> 
     unique()
@@ -135,17 +180,21 @@ div(class = "cuadricula",
           
           p(class = "libro_autor",libro$author),
           
-          div(class = "libro_rating", estrellas(libro$my_rating)),
+          div(class = "libro_rating", estrellas(libro$rating)),
           
           p(class = "libro_paginas",
-            glue("Leído en {meses(month(libro$date_read))} de {year(libro$date_read)}, {libro$number_of_pages} páginas")
+            
+            if (is.na(libro$pages)) {
+              glue("Leído en {meses(month(libro$date_read))} de {year(libro$date_read)}")
+            } else {
+              glue("Leído en {meses(month(libro$date_read))} de {year(libro$date_read)}, {libro$pages} páginas")
+            }
           )
       )
       
     })
 )
 ```
-
 
 
 ```{r mosaico}

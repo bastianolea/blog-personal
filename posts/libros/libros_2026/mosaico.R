@@ -38,7 +38,7 @@ imagen_a_ggplot <- function(ruta) {
 plots <- lapply(archivos, imagen_a_ggplot)
 
 # unir gráficos en un mosaico
-mosaico <- wrap_plots(plots, ncol = 6) &
+mosaico <- wrap_plots(plots, ncol = 7) &
   theme(
     plot.background = element_rect(fill = color_fondo, colour = NA),
     panel.background = element_rect(fill = color_fondo, colour = NA)
@@ -46,7 +46,7 @@ mosaico <- wrap_plots(plots, ncol = 6) &
 
 # previsualizar
 mosaico +
-  canvas(width = 8, height = 6.3, units = "in", bg = color_fondo)
+  canvas(width = 8, height = 5.3, units = "in", bg = color_fondo)
 
 # guardar mosaico
 ruta_mosaico <- here(glue(
