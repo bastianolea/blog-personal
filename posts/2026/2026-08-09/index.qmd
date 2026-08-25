@@ -1,0 +1,54 @@
+---
+title: "Explorando El Monte"
+categories: [fotos, lugares]
+date: 2026-08-09
+image: IMG_3909.jpeg
+freeze: true
+format: html
+---
+
+De cicloviaje a El Monte a visitar a una querida amiga, me di unos desvíos para explorar algunos lugares misteriosos.
+
+El primero fue una casa abandonada en el camino Loreto, en Calera de Tango. Hace años que quería conocer ese camino, y esta casa me recibió con un silencio y unos colores preciosos.
+
+:::{.galeria}
+![](IMG_3908.jpeg){.fotito group="casa"}
+![](IMG_3909.jpeg){.fotito group="casa"}
+![](IMG_3910.jpeg){.fotito group="casa"}
+![](IMG_3912.jpeg){.fotito group="casa"}
+![](IMG_3913.jpeg){.fotito group="casa"}
+:::
+
+Llegando a Talagante, me propuse cruzar el puente ferroviario hacia El Monte. Siempre tuve la duda de si se podía cruzar, y qué tan difícil sería, pero al llegar vi que era un lugar muy transitado y que tenía paso peatonal, así que crucé y lo recorrí un ratito.
+
+:::{.galeria}
+![](IMG_3924.jpeg){.fotito group="puente"}
+![](IMG_3929.jpeg){.fotito group="puente"}
+![](IMG_3930.jpeg){.fotito group="puente"}
+![](IMG_3931.jpeg){.fotito group="puente"}
+:::
+
+Cruzando el puente había un cerro, y como era fin de semana vi varios ciclistas y caminantes subiéndolo, así que sin planificarlo lo subí. Era puro camino de tierra y piedras, con su buena inclinación, pero la vista arriba era preciosa.
+
+:::{.galeria}
+![](IMG_3937.jpeg){.fotito group="cerro"}
+![](IMG_3941.jpeg){.fotito group="cerro"}
+![](IMG_3942.jpeg){.fotito group="cerro"}
+![](IMG_3946.jpeg){.fotito group="cerro"}
+:::
+
+Sin duda un gran lugar para hacer deporte y recorrer, pero todo lo bonito de la naturaleza y el aislamiento se echó a perder con el ruido de los motociclistas.
+
+Pero lo más maravilloso fue cruzar el cerro y llegar a un valle lleno de construcciones abandonadas. Me contaron que eran edificios de industria chanchera. Pude recorrer harto rato las edificaciones en ruinas.
+
+
+:::{.galeria}
+![](IMG_3953.jpeg){.fotito group="secreto"}
+![](IMG_3962.jpeg){.fotito group="secreto"}
+![](IMG_3964.jpeg){.fotito group="secreto"}
+![](IMG_3968.jpeg){.fotito group="secreto"}
+![](IMG_3972.jpeg){.fotito group="secreto"}
+![](IMG_3973.jpeg){.fotito group="secreto"}
+![](IMG_3974.jpeg){.fotito group="secreto"}
+![](IMG_3975.jpeg){.fotito group="secreto"}
+:::

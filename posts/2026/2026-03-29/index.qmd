@@ -1,7 +1,7 @@
 ---
 title: "Jornada de limpieza del bosque Panul"
 format: html
-categories: [fotos, videos, lugares]
+categories: [fotos, videos, lugares, naturaleza]
 date: "2026-03-28"
 ---
 

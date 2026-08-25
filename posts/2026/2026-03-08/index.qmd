@@ -1,8 +1,8 @@
 ---
 title: "Actividad de riego del bosque Panul"
-draft: false
+freeze: true
 date: "2026-03-08"
-categories: [lugares, fotos, videos, política]
+categories: [lugares, fotos, videos, naturaleza]
 format: html
 ---
 

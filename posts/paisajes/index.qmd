@@ -3,7 +3,7 @@ title: Mapa de paisajes
 subtitle: Galería de fotos de paisajes bonitos que he tomado en mis rutas
 author: Bastián Olea Herrera
 date: today
-categories: ["lugares", "fotos"]
+categories: [lugares, fotos, naturaleza]
 resources: ["fotos"]
 image: paisajes.jpeg
 lightbox: true
