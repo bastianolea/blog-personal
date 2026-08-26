@@ -2,7 +2,7 @@
 title: "Reparación de la zona de reforestación del Panul"
 categories: [fotos, naturaleza]
 date: 2026-08-09
-image: IMG_3942.jpeg
+image: IMG_4293.jpeg
 freeze: true
 format: html
 ---

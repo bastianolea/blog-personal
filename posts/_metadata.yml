@@ -1,14 +1,6 @@
 # options specified here will apply to all posts in this folder
 
-# freeze computational output
-# (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
-
-# Enable banner style title blocks
+author: Bastián Olea Herrera
+lang: es
 title-block-banner: true
-
-
-# comments: 
-#   utterances: 
-#     repo: bastianolea/bastianolea.github.io
-#     theme: "github-dark"

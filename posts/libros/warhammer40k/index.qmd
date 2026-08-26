@@ -1,28 +1,35 @@
 ---
 title: "Warhammer 40.000: libros leídos"
 subtitle: "Lista de lectura personal"
-date: "2026-03-12"
+date: last-modified
 image: "Imperial_Palace_Terra2.webp"
 draft: false
+freeze: true
 format: html
 categories: [libros]
 editor_options: 
   chunk_output_type: console
 execute: 
-  freeze: true
   echo: false
   message: false
   warning: false
 ---
 
 
-```{r cargar}
+```{r setup}
 library(dplyr)
 library(stringr)
 library(readr)
 library(here)
 library(janitor)
+library(glue)
+library(purrr)
+library(rvest)
+library(shiny)
+library(lubridate)
+```
 
+```{r cargar}
 data <- read_csv(here("datos/goodreads_library_export.csv")) |> 
   clean_names()
 ```
@@ -40,9 +47,7 @@ data |>
   select(title, author, date_read)
 ```
 
-
 ```{r limpiar}
-library(glue)
 
 libros <- data |> 
   select(date_read,
@@ -84,9 +89,7 @@ La historia de Warhammer acontece en varios hilos temporales. Uno de ellos, apro
 
 ```{r portadas}
 #| output: false
-
-library(purrr)
-library(rvest)
+#| eval: false
 
 # por cada id de libro, descarga la portada
 walk(libros$book_id, \(id) {
@@ -134,9 +137,6 @@ A continuación están todos los libros de Warhammer que he leído a la fecha, e
 
 ```{r salida_html}
 #| output: "asis"
-
-library(shiny)
-library(lubridate)
 
 lista_libros <- libros |> split(~date_read)
 

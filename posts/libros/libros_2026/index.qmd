@@ -1,7 +1,7 @@
 ---
 title: "Libros que he leído este 2026"
 subtitle: "Lista de lectura personal a la fecha"
-date: today
+date: last-modified
 image: bastimapache_mosaico_libros_2026.jpg
 format: html
 categories: [libros]

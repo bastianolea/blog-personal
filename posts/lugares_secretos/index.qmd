@@ -2,7 +2,7 @@
 title: Mapa de lugares secretos
 subtitle: Galería de fotos de lugares misteriosos, curiosos o abandonados en Chile
 author: Bastián Olea Herrera
-date: today
+date: last-modified
 categories: ["lugares", "fotos"]
 resources: ["fotos"]
 image: mapa.jpg

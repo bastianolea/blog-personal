@@ -37,6 +37,22 @@ Para galería de fotos:
 :::
 ```
 
+### Reseñas de álbumes (`.album`)
+Para reseñas breves de álbumes de música: portada cuadrada a la izquierda y texto a la derecha.
+```
+:::{.album}
+![](portada.jpeg)
+
+## Nombre del álbum
+[Artista]{.album-artista}
+
+Descripción del álbum.
+:::
+```
+
+- Escritorio: portada cuadrada de 200×200 con borde redondeado a la izquierda; título, artista y descripción a la derecha. El título se alinea al borde superior de la imagen.
+- Móvil: la portada se apila arriba y se centran solo la imagen, el título y el artista (`.album-artista`); la descripción queda alineada a la izquierda.
+
 
 ### Embeds
 

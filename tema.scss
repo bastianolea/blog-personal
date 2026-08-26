@@ -172,9 +172,17 @@ li {
 // ajustar metadata para que sea consistente con los posts con imagen
 .quarto-post .metadata {
   flex-basis: 30%;
-  max-width: 68px;
+  max-width: 100px;
   flex-grow: 0;
   flex-shrink: 0;
+}
+
+// en ventanas angostas la metadata se apila debajo del texto:
+// dejar que use ~33% del ancho en vez de quedar tan angosta
+@media (max-width: 767.98px) {
+  .quarto-post .metadata {
+    max-width: 33%;
+  }
 }
 
 
@@ -646,4 +654,94 @@ border-top-color: #26222e !important;
 
 .footnote-ref:has(+ .footnote-ref) {
   margin-right: 3px;
+}
+
+
+// reseñas de álbumes: portada cuadrada a la izquierda, texto a la derecha.
+// Grid en vez de flex para no necesitar un wrapper del texto: la portada
+// ocupa la columna 1 abarcando todas las filas, y el título, artista y
+// párrafos de descripción fluyen solos en la columna 2.
+.album {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  column-gap: 1.5rem;
+  align-items: start;
+  margin: 1.5rem 0;
+
+  // la portada (Quarto la envuelve en un <p>) ocupa la columna 1 y todas las filas
+  > p:has(img) {
+    grid-column: 1;
+    grid-row: 1 / -1;
+    margin: 0;
+    line-height: 0;
+  }
+
+  // el resto del contenido va a la columna 2
+  > :not(p:has(img)) {
+    grid-column: 2;
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 18px;
+    margin: 0;
+  }
+
+  // ocultar el ícono de ancla que anchorjs agrega en hover
+  .anchorjs-link {
+    display: none;
+  }
+
+  > :not(p:has(img)):first-of-type {
+    margin-top: 0;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+
+  h2 {
+    margin-top: 0 !important;
+    margin-bottom: -8px;
+  }
+}
+
+.album-artista {
+  color: $foreground2;
+  font-weight: bold;
+  font-size: 120%;
+  font-style: italic;
+}
+
+@media (max-width: 575.98px) {
+  .album {
+    grid-template-columns: 1fr;
+
+    // la portada pasa a la primera fila, centrada
+    > p:has(img) {
+      grid-column: 1;
+      grid-row: auto;
+      justify-self: center;
+    }
+
+    > :not(p:has(img)) {
+      grid-column: 1;
+    }
+
+    img {
+      margin-top: 24px;
+      margin-bottom: -12px;
+    }
+
+    // centrar solo el título y el artista; la descripción queda a la izquierda
+    h1, h2, h3, h4, p:has(.album-artista) {
+      text-align: center;
+    }
+    
+    h2 {
+      margin-top: 32px !important;
+    }
+  }
 }
