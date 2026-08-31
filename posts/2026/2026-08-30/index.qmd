@@ -1,0 +1,89 @@
+---
+title: "Explorando El Trebal, Maipú"
+date: "2026-08-30"
+categories: [fotos, lugares, naturaleza, ciclismo, gravel]
+format: html
+freeze: true
+execute: 
+  echo: false
+  warning: false
+---
+
+Fui a conocer el sector del Trebal, que técnicamente pertenece a la comuna de Padre Hurtado, pero está frente al relleno sanitario en Rinconada, Maipú. Es un campo que tiene dos cerros, el mirador El Trebal, y el humedal/biocorredor Mapocho El Trebal, que es una laguna preciosa. 
+
+:::{.galeria}
+![](IMG_4498.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4477.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4482.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4483.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4486.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4490.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4491.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4497.jpeg){.fotito .lightbox group="trebal"}
+:::
+
+Mi plan era ir a la Quebrada de la Plata, pero enrejaron la pasada que conocía por Rinconada de Maipú, así que tuve que improvisar buscando otros senderos de grava, y salí ganando.
+
+En el sector aparentemente pasan gasoductos y existen obras industriales antiguas y abandonadas, así como pozos que asumo que tienen que ver con el relleno sanitario o las operaciones de la Biofactoría La Farfana, que produce gas natural y otros químicos. 
+
+:::{.galeria}
+![](IMG_4503.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4530.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4541.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4548.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4582.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4576.jpeg){.fotito .lightbox group="trebal"}
+![](IMG_4580.jpeg){.fotito .lightbox group="trebal"}
+::::
+
+También existen varias excavaciones profundas, probablemente para la extracción de algún tipo de piedra o ripio, y uno de los cerros está gravemente erosionado y prácticamente vuelto una cantera debido a operaciones de excavación similares.
+
+:::{.mapa}
+
+```{r cargar}
+library(sf)
+# ver capas
+# st_layers("Gravel_El_Trebal_Cuesta_Barriga.gpx")
+ruta <- read_sf("Gravel_El_Trebal_Cuesta_Barriga.gpx", "tracks")
+```
+
+```{r recortar}
+gravel <- ruta |> 
+  st_crop(xmin = -70.827, xmax = -70.80, 
+          ymin = -33.54, ymax = -33.52)
+
+# library(ggplot2)
+# 
+# gravel |> 
+#   ggplot() +
+#   geom_sf()
+```
+
+
+```{r mapa}
+library(mapgl)
+
+maplibre(
+  style = carto_style("dark-matter"),
+  bounds = st_buffer(gravel, dist = 1000),
+  zoom = 13,
+  minZoom = 7,
+  pitch = 40,
+  attributionControl = FALSE
+) |>  
+  add_line_layer(
+    id = "ruta",
+    source = gravel,
+    line_color = "#DD2594",
+    line_width = 2)
+```
+
+:::
+
+Dentro del recinto hay muchos senderos de gravilla compacta, circuitos marcados por motos mayormente planos, y senderos más anchos con harta piedra suelta pequeña, pero transitable con neumáticos de gravel. Hay tres cumbres que se pueden subir perfectamente en bicicleta.
+
+Después me fui a subir la cuesta Barriga para terminar la jornada. Aquí dejo la ruta por si alguien quiere ir a conocer!
+
+::: {.strava .centrar}
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="19969690184" data-style="standard" data-from-embed="false" data-token="KR67D42DzuBmi4GcZ4F0dEZK7ejbTcfRV0wKweBeMQ8"></div><script src="https://strava-embeds.com/embed.js"></script>
+:::

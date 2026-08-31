@@ -1,10 +1,13 @@
 ---
 title: "Explorando El Monte"
-categories: [fotos, lugares]
+categories: [fotos, lugares, ciclismo, gravel]
 date: 2026-08-09
 image: IMG_3909.jpeg
 freeze: true
 format: html
+execute: 
+  echo: false
+  warning: false
 ---
 
 De cicloviaje a El Monte a visitar a una querida amiga, me di unos desvíos para explorar algunos lugares misteriosos.
@@ -39,8 +42,49 @@ Cruzando el puente había un cerro, y como era fin de semana vi varios ciclistas
 
 Sin duda un gran lugar para hacer deporte y recorrer, pero todo lo bonito de la naturaleza y el aislamiento se echó a perder con el ruido de los motociclistas.
 
-Pero lo más maravilloso fue cruzar el cerro y llegar a un valle lleno de construcciones abandonadas. Me contaron que eran edificios de industria chanchera. Pude recorrer harto rato las edificaciones en ruinas.
+```{r cargar}
+library(sf)
 
+ruta <- read_sf("El_Monte_Cerro_Las_Antenas.gpx", "tracks")
+```
+
+```{r recortar}
+gravel <- ruta |> 
+  st_crop(xmin = -70.948, xmax = -70.931, 
+          ymin = -33.67, ymax = -33.64)
+
+# library(ggplot2)
+# 
+# ruta |>
+#   st_crop(xmin = -70.948, xmax = -70.931,
+#           ymin = -33.67, ymax = -33.64) |>
+#   ggplot() +
+#   geom_sf()
+```
+
+:::{.mapa}
+
+```{r mapa}
+library(mapgl)
+
+maplibre(
+  style = carto_style("dark-matter"),
+  bounds = st_buffer(gravel, dist = 1000),
+  zoom = 13,
+  minZoom = 7,
+  pitch = 30,
+  attributionControl = FALSE
+) |>  
+  add_line_layer(
+    id = "ruta",
+    source = gravel,
+    line_color = "#DD2594",
+    line_width = 2)
+```
+
+:::
+
+Pero lo más maravilloso fue cruzar el cerro y llegar a un valle lleno de construcciones abandonadas. Me contaron que eran edificios de industria chanchera. Pude recorrer harto rato las edificaciones en ruinas.
 
 :::{.galeria}
 ![](IMG_3953.jpeg){.fotito group="secreto"}

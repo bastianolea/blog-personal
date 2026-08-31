@@ -7,6 +7,7 @@ categories:
   - fotos
   - lugares
   - ciclismo
+  - gravel
 ---
 
 Me fui de vacaciones en solitario a **La Boca**, comuna de Navidad, región de O'Higgins. Fui con mi bicicleta y mi plan era aprovechar todos los días para entrenar y explorar la comuna. 

@@ -44,7 +44,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-ccafe2c99a4564d55934ca8539ca9f46.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-aaaf01da350b99d338d3dbc54e25a35f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-f4fa18d863d76f25e578890d973ef58d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -172,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Fecha de publicación</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">9 de agosto de 2026</p>
+        <p class="date">23 de agosto de 2026</p>
       </div>
     </div>
     
@@ -195,11 +198,11 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Realizamos una jornada de reparación de las vallas que protegen la zona de reforestación en la entrada del bosque y parque comunitario Panul. Nos reunimos cerca de 8 voluntarios/as con nuestras herramientas y reemplazamos varios palos de la reja, reparamos otros cuantos, y se plantaros algunos árboles más que trajeron.</p>
 <div class="galeria">
-<p><img src="IMG_4297.jpeg" class="fotito img-fluid"> <img src="IMG_4293.jpeg" class="fotito img-fluid"> <img src="IMG_4271.jpeg" class="fotito img-fluid"> <img src="IMG_4281.jpeg" class="fotito img-fluid"> <img src="IMG_4302.jpeg" class="fotito img-fluid"></p>
+<p><a href="IMG_4297.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="IMG_4297.jpeg" class="fotito img-fluid"></a> <a href="IMG_4293.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="IMG_4293.jpeg" class="fotito img-fluid"></a> <a href="IMG_4271.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="IMG_4271.jpeg" class="fotito img-fluid"></a> <a href="IMG_4281.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="IMG_4281.jpeg" class="fotito img-fluid"></a> <a href="IMG_4302.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="IMG_4302.jpeg" class="fotito img-fluid"></a></p>
 </div>
 <p>Luego me fui a recorrer el bosque en bici camino a la Quebrada de Macul, buscando tierrita. Encontré muchas Añañucas rojas en el camino.</p>
 <div class="galeria">
-<p><img src="IMG_4308.jpeg" class="fotito img-fluid"> <img src="IMG_4314.jpeg" class="fotito img-fluid"> <img src="IMG_4316.jpeg" class="fotito img-fluid"></p>
+<p><a href="IMG_4308.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="IMG_4308.jpeg" class="fotito img-fluid"></a> <a href="IMG_4314.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="IMG_4314.jpeg" class="fotito img-fluid"></a> <a href="IMG_4316.jpeg" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="IMG_4316.jpeg" class="fotito img-fluid"></a></p>
 </div>
 <p>Para quienes no lo conozcan, el Panul es un bosque ubicado en la comuna de La Florida, al cual se puede llegar caminando, en bicicleta o en transporte público subiendo por la calle Rojas Magallanes hasta arriba.</p>
 <div class="centrar">
@@ -208,6 +211,7 @@ ul.task-list li input[type="checkbox"] {
 </iframe>
 </div>
 </div>
+<p>Después me fui a <a href="../../../posts/2026/2026-08-24/">recorrer la precordillera en bicicleta.</a></p>
 
 
 
@@ -627,6 +631,38 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </footer>
 <script data-goatcounter="https://bastimapache.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

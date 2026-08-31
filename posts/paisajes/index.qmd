@@ -2,7 +2,7 @@
 title: Mapa de paisajes
 subtitle: Galería de fotos de paisajes bonitos que he tomado en mis rutas
 author: Bastián Olea Herrera
-date: today
+date: "2026-08-30"
 categories: [lugares, fotos, naturaleza]
 resources: ["fotos"]
 image: paisajes.jpeg
@@ -29,6 +29,10 @@ puntos <- read_rds(here("posts/paisajes/paisajes.rds"))
 
 Aquí voy a ir publicando fotos de paisajes de Chile y la Región Metropolitana que he tomado durante mis paseos, viajes y [rutas en bicicleta](/blog.html#category=ciclismo). En esta publicación actualmente hay **`{r} nrow(puntos)` paisajes** georeferenciados. 
 
+Presiona un marcador en el mapa para ver la foto!
+
+:::{.mapa}
+
 ```{r popups}
 puntos_popup <- puntos |> 
   mutate(
@@ -40,8 +44,6 @@ puntos_popup <- puntos |>
     )
   )
 ```
-
-Presiona un marcador en el mapa para ver la foto!
 
 ```{r mapa}
 #| fig-height: 6
@@ -65,7 +67,7 @@ maplibre(
   )
 ```
 
-<br>
+:::
 
 ## Paisajes
 

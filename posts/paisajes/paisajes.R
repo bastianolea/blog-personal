@@ -64,7 +64,7 @@ if (!hay_nuevos) {
       long = lon,
       method = "osm",
       full_results = TRUE,
-      custom_query = list(zoom = 14)
+      custom_query = list(zoom = 10)
     ) |>
     clean_names()
 
@@ -86,6 +86,7 @@ if (!hay_nuevos) {
     "province",
     "state"
   )
+
   campos_presentes <- intersect(campos_zona, names(geo))
 
   datos <- geo |>
@@ -108,6 +109,16 @@ if (!hay_nuevos) {
       provincia,
       region,
       direccion
+    )
+
+  datos <- datos |>
+    # eliminar numeraciones de direcciones
+    mutate(
+      direccion = stringr::str_replace_all(
+        direccion,
+        ", \\d+, ",
+        ", "
+      )
     )
 
   # reportar fotos sin zona resuelta (para revisión manual)
