@@ -4,8 +4,11 @@ subtitle: "Ensayo para el ramo de Cultura y Modernidad"
 date: "2014-12-02"
 categories:
   - "sociología"
+  - "ciclismo"
 format: html
 ---
+
+> Este ensayo utiliza la teoría de la biografía cultural de las cosas de Igor Kopytoff para analizar cómo un objeto cotidiano transita desde su condición de mercancía homogénea hacia la singularización personal. A partir de la tensión central entre mercantilización y cultura, se examina un caso concreto: una bicicleta de segunda mano comprada en un taller de barrio, modificada con piezas regaladas, pintada a mano y usada a diario durante años. Estos hechos biográficos, aparentemente menores, van construyendo un vínculo subjetivo que saca al objeto de la esfera del intercambio equivalente y lo convierte en algo único e irreemplazable para su dueño. El texto muestra cómo la valoración personal y la historia de uso se oponen a la lógica homogeneizadora del mercado, evidenciando el conflicto entre la equivalencia monetaria y la singularización cultural. El ensayo propone una lectura sensible de los objetos que nos rodean, invitando a preguntarnos por qué ciertas cosas dejan de ser simples mercancías para volverse parte de nuestra identidad. A través de este ejemplo accesible, se abre una puerta para comprender las dinámicas de intercambio, propiedad y significado en las sociedades contemporáneas.
 
 En el presente ensayo se analizará un determinado objeto –una bicicleta–  bajo la lente teórica de las postulaciones de Kopytoff (1991) en “La biografía cultural de las cosas: La mercantilización como proceso.”
 Dentro del paradigma de la mercantilización propuesto por el autor, enmarcado en un afán biográfico de los intercambios económicos y los objetos sometidos a tales procesos, se identifica principalmente una tensión central: mercantilización contra singularización.
@@ -38,6 +41,4 @@ Los actos sensibles de valoración biográfica de las mercancías truncan, enton
 - Bauman, Z. (2009). Ética posmoderna (pp. 1–26). Siglo Veintiuno Editores.
 - Kopytoff, I. (1991). La biografía cultural de las cosas: Mercantilización como proceso. En La vida social de las cosas (pp. 1–18). México: Editorial Grijalbo.
 
-> Universidad Alberto Hurtado. Facultad de Ciencias Sociales. Carrera de Sociología. Cultura y Modernidad
-
-> Profesor: Luis Campos.
+> Universidad Alberto Hurtado. Facultad de Ciencias Sociales. Carrera de Sociología. Ramo: Cultura y Modernidad. Profesor: Luis Campos.
