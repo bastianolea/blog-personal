@@ -1,0 +1,93 @@
+---
+title: "Cuestas de la Región Metropolitana"
+subtitle: "Mapa con los principales puntos de entrenamiento para ciclistas de la RM"
+format: html
+draft: true
+execute: 
+  eval: false
+---
+
+```{r}
+library(dplyr)
+library(mapgl)
+```
+
+
+Esta tabla contiene las principales cuestas recorridas por ciclistas de la Región Metropolitana de Santiago, Chile, e incluye su longitud en kilómetros (`km`) y la pendiente de elevación promedio (`p`); es decir, cuán empinadas son.
+
+```{r}
+# tabla de coordenadas
+cuestas <- tribble(
+  ~lugar,       ~lon,     ~lat,     ~km,  ~p,
+  "Barriga",    -70.9251, -33.5304, 5.6,  5,
+  "Chada",      -70.6488, -33.9348, 4.1,  6,
+  "Mallarauco", -70.9608, -33.6180, 3.0,  10,
+  "Dormida",    -71.0096, -33.0618, 11.2, 6,
+  "Chacabuco",  -70.7065, -32.9595, 10.7, 6,
+  "Pie Andino", -70.5980, -33.3083, 6.3,  8,
+  "Farellones", -70.3172, -33.3555, 14.6, 7,
+  "Lagunillas", -70.2898, -33.6107, 17.3, 7
+) |> 
+  st_as_sf(
+    coords = c("lon", "lat"), 
+    crs = 4326
+  )
+```
+
+Al igual que con el [mapa de coropletas](#mapa-coroplético), primero creamos la paleta de **colores** a partir de una de las variables:
+
+```{r}
+escala <- interpolate_palette(
+  data = cuestas,
+  column = "p",
+  colors = c("#EAD1FA", "#9069C0", "#6E3998")
+)
+```
+
+Para que el **radio** de cada círculo dependa de una variable numérica (por ejemplo, `km`), usamos la función `interpolate()` para hacer que los valores de la variable `km` se expresen en distintos tamaños de los círculos:
+
+```{r}
+tamaños <- interpolate(
+  column = "km", 
+  values = range(cuestas$km), # rango de la variable
+  stops = c(8, 16) # tamaños de los círculos
+)
+```
+
+Luego [creamos el mapa base](#visor-de-mapas-básico) centrado en una ubicación, con la tabla de datos geográficos, usando la paleta de colores (`escala`), y aplicamos la escala de tamaños (`tamaños`) en el argmento `circle_radius`. Además aprovechamos de [agregar tooltips](#agregar-tooltips) al mapa.
+
+```{r mapa_circulos}
+# agregar marcadores al mapa
+maplibre(
+  center = c(-70.65, -33.44),
+  zoom = 7.7
+) |>
+  add_circle_layer(
+    id = "puntos",
+    source = cuestas,
+    # escala de colores
+    circle_color = escala$expression,
+    circle_opacity = 0.8,
+    # escala de tamaños
+    circle_radius = tamaños,
+    circle_stroke_color = "#FFFFFF",
+    circle_stroke_width = 1,
+    # contenido del tooltip
+    tooltip = concat(
+      "<b>Cuesta: ", get_column("lugar"),
+      "</b><br>",
+      get_column("km"), " kilómetros",
+      "<br>",
+      get_column("p"), "% de pendiente"
+    ),
+    # personalizar estilo de tooltip
+    tooltip_style = tooltip_style(
+      max_width = 200,
+      padding = 8,
+      background_color = "#FFFFFF",
+      background_opacity = .9,
+    )
+  )
+```
+
+Pasa el cursor sobre los círculos para ver la información!
