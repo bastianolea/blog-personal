@@ -1,8 +1,8 @@
 ---
 title: "Infografía: Violaciones a los Derechos Humanos cometidas por la dictadura cívico-militar chilena"
 format: html
-date: '2025-09-11'
-description: Infografía que recopila visualizaciones de datos acerca de los crímenes de lesa humanidad cometidos por el régimen dictatorial en Chile, entre entre 1973 y 1989. El objetivo es poder compartir información de forma pedagógica y clara, para que las nuevas generaciones puedan comprender la magnitud de las violaciones a los derechos humanos cometidas en ese período, y así contribuir a la memoria histórica del país.
+date: '2026-09-11'
+description: "[Infografía](https://bastianolea.github.io/violaciones_ddhh_chile/) que recopila visualizaciones de datos acerca de los crímenes de lesa humanidad cometidos por el régimen dictatorial en Chile, entre entre 1973 y 1989. El objetivo es poder compartir información de forma pedagógica y clara, para que las nuevas generaciones puedan comprender la magnitud de las violaciones a los derechos humanos cometidas en ese período, y así contribuir a la memoria histórica del país."
 categories: [destacado, política, videos]
 ---
 
@@ -11,11 +11,21 @@ categories: [destacado, política, videos]
 [{{< fa link size=2x >}} Ver infografía](https://bastianolea.github.io/violaciones_ddhh_chile/)
 ::::
 
-![](featured.jpg)
+[![](featured.jpg)](https://bastianolea.github.io/violaciones_ddhh_chile/)
 
 [Infografía](https://bastianolea.github.io/violaciones_ddhh_chile/) que recopila visualizaciones de datos acerca de los crímenes de lesa humanidad cometidos por el régimen dictatorial en Chile, entre entre 1973 y 1989.
 
 El objetivo es poder compartir información de forma pedagógica y clara, para que las nuevas generaciones puedan comprender la magnitud de las violaciones a los derechos humanos cometidas en ese período, y así contribuir a la memoria histórica del país.
+
+Algunas capturas de fragmentos del [sitio web completo](https://bastianolea.github.io/violaciones_ddhh_chile/):
+
+:::{.galeria}
+![](torturas.png){.fotito .lightbox group="dictadura"}
+![](asesinatos.png){.fotito .lightbox group="dictadura"}
+![](embarazadas.png){.fotito .lightbox group="dictadura"}
+![](prisioneros.png){.fotito .lightbox group="dictadura"}
+![](silencio.png){.fotito .lightbox group="dictadura"}
+:::
 
 Aquí dejo un video cortito que hice mostrando la página web y explicando un poco las motivaciones:
 
@@ -23,7 +33,7 @@ Aquí dejo un video cortito que hice mostrando la página web y explicando un po
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bastimapache/video/7546064357159947525" data-video-id="7546064357159947525" style="border: none; min-width: 340px; margin: auto;" > <section> <a target="_blank" title="@bastimapache" href="https://www.tiktok.com/@bastimapache?refer=embed">@bastimapache</a> Septiembre es el mes de la memoria! Revisa la infografía en  el link de mi perfil, y ayúdame a mejorarla 🙏🏼 <a title="chile" target="_blank" href="https://www.tiktok.com/tag/chile?refer=embed">#chile</a> <a title="septiembre" target="_blank" href="https://www.tiktok.com/tag/septiembre?refer=embed">#septiembre</a> <a target="_blank" title="♬ Ventolera - Quilapayún" href="https://www.tiktok.com/music/Ventolera-7033714786298775554?refer=embed">♬ Ventolera - Quilapayún</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 :::
 
-**Se buscan aportes de contenido**, como por ejemplo relatos, estadísticas y datos, contribución de textos y similares. [Contáctame!](https://bastianolea.rbind.io/contact/)
+**Se buscan aportes de contenido**, como por ejemplo relatos, estadísticas y datos, contribución de textos y similares. [Contáctame!](https://bastianolea.rbind.io/contacto/)
 
 :::: {.centrar}
 ::: {.boton style="width: 210px;"}
@@ -34,6 +44,8 @@ Aquí dejo un video cortito que hice mostrando la página web y explicando un po
 
 ### Actualizaciones
 
+- 10/09/2026: nuevas secciones sobre mujeres, discapacidad, y mejoras de accesibilidad
+- 09/09/2026: nuevas fechas en sección de línea de tiempo, incluyendo principales masacres
 - 10/09/2025: fichas de principales violadores de derechos humanos: Krasnoff, Contreras, Corvalán, Romo y Moren.
 - 10/09/2025: apartados con caso de los 119, caso de Michel Nash, y caso degollados
 - 09/09/2025: apartado sobre censura
