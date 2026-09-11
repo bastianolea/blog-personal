@@ -44,16 +44,17 @@ Aquí dejo un video cortito que hice mostrando la página web y explicando un po
 
 ### Actualizaciones
 
-- 10/09/2026: nuevas secciones sobre mujeres, discapacidad, y mejoras de accesibilidad
-- 09/09/2026: nuevas fechas en sección de línea de tiempo, incluyendo principales masacres
-- 10/09/2025: fichas de principales violadores de derechos humanos: Krasnoff, Contreras, Corvalán, Romo y Moren.
-- 10/09/2025: apartados con caso de los 119, caso de Michel Nash, y caso degollados
-- 09/09/2025: apartado sobre censura
-- 08/09/2025: apartado sobre segregación, posibilidad de hacer zoom a fotos
-- 07/09/2025: apartado sobre infancias, línea de tiempo
-- 03/09/2025: apartados con relatos sobre casos insignes de víctimas: caso Sebastián Acevedo y caso quemados
+- 11/09/2026: apartado nuevo sobre [centros de detención y tortura](https://bastianolea.github.io/violaciones_ddhh_chile/#centros-de-detención)
+- 10/09/2026: nuevas secciones sobre [mujeres](https://bastianolea.github.io/violaciones_ddhh_chile/#mujeres), [discapacidad](https://bastianolea.github.io/violaciones_ddhh_chile/#discapacidad), y mejoras de accesibilidad
+- 09/09/2026: nuevas fechas en sección de [línea de tiempo](https://bastianolea.github.io/violaciones_ddhh_chile/#línea-de-tiempo), incluyendo principales masacres
+- 10/09/2025: fichas de [principales violadores de derechos humanos](https://bastianolea.github.io/violaciones_ddhh_chile/#responsables): Krasnoff, Contreras, Corvalán, Romo y Moren.
+- 10/09/2025: apartados con [caso de los 119](https://bastianolea.github.io/violaciones_ddhh_chile/#operación-colombo), caso de [Michel Nash](https://bastianolea.github.io/violaciones_ddhh_chile/#por-negarse-a-reprimir-su-pueblo), y [caso degollados](https://bastianolea.github.io/violaciones_ddhh_chile/#caso-degollados)
+- 09/09/2025: apartado sobre [censura](https://bastianolea.github.io/violaciones_ddhh_chile/#censura)
+- 08/09/2025: apartado sobre [segregación](https://bastianolea.github.io/violaciones_ddhh_chile/#segregación), posibilidad de hacer zoom a fotos
+- 07/09/2025: apartado sobre [infancias](https://bastianolea.github.io/violaciones_ddhh_chile/#infancias), línea de tiempo
+- 03/09/2025: apartados con relatos sobre casos insignes de víctimas: caso [Sebastián Acevedo](https://bastianolea.github.io/violaciones_ddhh_chile/#inmolado-por-sus-hijos) y [caso quemados](https://bastianolea.github.io/violaciones_ddhh_chile/#caso-quemados)
 - 01/09/2025: secciones dispersas de testimonios de sobrevivientes
-- 31/08/2025: nueva sección de mujeres detenidas desaparecidas embarazadas
+- 31/08/2025: nueva sección de [mujeres detenidas desaparecidas embarazadas](https://bastianolea.github.io/violaciones_ddhh_chile/#detenidas-desaparecidas-embarazadas)
 
 ### Notas técnicas
 
