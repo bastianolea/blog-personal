@@ -43,7 +43,7 @@ data |> count(bookshelves)
 
 data |>  
   filter(!is.na(date_read)) |> 
-  filter(str_detect(title, "Siege")) |> 
+  filter(str_detect(title, "Night Lords")) |> 
   select(title, author, date_read)
 ```
 
@@ -61,6 +61,9 @@ libros <- data |>
       str_detect(title, "Horus Heresy"),
       str_detect(title, "Eisenhorn"),
       str_detect(title, "Siege of Terra"),
+      str_detect(title, "Night Lords"),
+      str_detect(title, "Primarchs"),
+      str_detect(title, "Vaults of Terra"),
       str_detect(publisher, "Black Library")
     )) |> 
   # limpiar datos
