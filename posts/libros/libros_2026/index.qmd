@@ -1,7 +1,7 @@
 ---
 title: "Libros que he leído este 2026"
 subtitle: "Lista de lectura personal a la fecha"
-date: "2026-08-30"
+date: "2026-10-29"
 image: bastimapache_mosaico_libros_2026.jpg
 format: html
 categories: [libros]
@@ -26,7 +26,7 @@ library(lubridate)
 ```
 
 ```{r cargar_csv}
-#| eval: false
+#| eval: true
 # requiere descarga manual del archivo
 # https://www.goodreads.com/review/import
 data <- read_csv(here("posts/libros/libros_2026/goodreads_library_export.csv")) |> 
@@ -34,7 +34,9 @@ data <- read_csv(here("posts/libros/libros_2026/goodreads_library_export.csv")) 
 
 libros <- data |> 
   select(date_read,
-         title, author, publisher, rating, pages, 
+         title, author, publisher, 
+         rating = my_rating, 
+         pages = number_of_pages, 
          book_id) |> 
   filter(!is.na(date_read)) |> 
   filter(year(ymd(date_read)) == 2026) |> 
@@ -48,43 +50,44 @@ libros <- data |>
 ```
 
 ```{r cargar_rss}
-library(dplyr)
-library(stringr)
-library(purrr)
-library(glue)
-library(lubridate)
-library(xml2)
-
-# feed RSS de la estantería "read" 
-items <- read_xml("https://www.goodreads.com/review/list_rss/53224910?shelf=read") |> 
-  xml_find_all("//item")
-
-campo <- function(nodo, tag) xml_text(xml_find_first(nodo, tag))
-
-# pasar a tabla
-libros <- tibble(
-  book_id = map_chr(items, campo, "book_id"),
-  title = map_chr(items, campo, "title"),
-  author = map_chr(items, campo, "author_name"),
-  rating = as.integer(map_chr(items, campo, "user_rating")),
-  # num_pages está anidado dentro de <book>, por eso la ruta descendente
-  pages = as.integer(map_chr(items, campo, ".//num_pages")),
-  date_read = as.Date(dmy_hms(map_chr(items, campo, "user_read_at")))
-) 
-
-# filtrar
-libros <- libros |> 
-  arrange(desc(date_read)) |> 
-  filter(year(date_read) == 2026)
-
-libros <- libros |> 
-  # limpiar datos
-  mutate(title = str_squish(str_remove(title, "\\(.*\\)")),
-         author = str_squish(author)) |> 
-  mutate(pages = if_else(pages == 0, NA, pages)) |> 
-  # columnas de portada y enlace
-  mutate(portada = glue("portadas/{book_id}.jpg"),
-         link = glue("https://www.goodreads.com/book/show/{book_id}"))
+#| eval: false
+# library(dplyr)
+# library(stringr)
+# library(purrr)
+# library(glue)
+# library(lubridate)
+# library(xml2)
+# 
+# # feed RSS de la estantería "read" 
+# items <- read_xml("https://www.goodreads.com/review/list_rss/53224910?shelf=read") |> 
+#   xml_find_all("//item")
+# 
+# campo <- function(nodo, tag) xml_text(xml_find_first(nodo, tag))
+# 
+# # pasar a tabla
+# libros <- tibble(
+#   book_id = map_chr(items, campo, "book_id"),
+#   title = map_chr(items, campo, "title"),
+#   author = map_chr(items, campo, "author_name"),
+#   rating = as.integer(map_chr(items, campo, "user_rating")),
+#   # num_pages está anidado dentro de <book>, por eso la ruta descendente
+#   pages = as.integer(map_chr(items, campo, ".//num_pages")),
+#   date_read = as.Date(dmy_hms(map_chr(items, campo, "user_read_at")))
+# ) 
+# 
+# # filtrar
+# libros <- libros |> 
+#   arrange(desc(date_read)) |> 
+#   filter(year(date_read) == 2026)
+# 
+# libros <- libros |> 
+#   # limpiar datos
+#   mutate(title = str_squish(str_remove(title, "\\(.*\\)")),
+#          author = str_squish(author)) |> 
+#   mutate(pages = if_else(pages == 0, NA, pages)) |> 
+#   # columnas de portada y enlace
+#   mutate(portada = glue("portadas/{book_id}.jpg"),
+#          link = glue("https://www.goodreads.com/book/show/{book_id}"))
 ```
 
 Esta es la lista de los **`r (nrow(libros))`** libros que he leído en lo que va del año, según [mi perfil de GoodReads](https://www.goodreads.com/user/show/53224910-basti-n-olea-herrera), ordenados desde el más reciente. 
@@ -116,7 +119,8 @@ walk(libros$book_id, \(id) {
   url <- glue("https://www.goodreads.com/book/show/{id}")
   
   # extraer imagen de portada de la dirección
-  sesion <- read_html_live(url)
+  # sesion <- read_html_live(url)
+  sesion <- read_html(url)
   
   imagen <- sesion |> 
     html_elements(".BookPage") |> 
@@ -202,7 +206,7 @@ div(class = "cuadricula",
 #| eval: false
 
 # generar mosaico de libros para portada de post
-source("mosaico.R")
+source(here("posts/libros/libros_2026/mosaico.R"))
 ```
 
 Voy a ir actualizando esta lista de vez en cuando para reflejar las últimas lecturas! [En esta publicación escribí un tutorial](https://bastianolea.rbind.io/blog/2026-03-26/) sobre cómo creé esta página.
