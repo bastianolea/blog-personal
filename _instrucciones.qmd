@@ -5,6 +5,13 @@ servr::httd("docs")
 ```
 
 
+```
+quarto::quarto_preview()
+
+quarto::quarto_render()
+```
+
+
 ### Shortcodes
 Íconos Font Awesome
 `{{< fa music >}}`
@@ -23,6 +30,7 @@ Aplicar estilo al div:
 - `.fotito` + `.lightbox` para fotos pequeñas que se amplían al tocarlas
 - `.galeria` para poner varias fotitos juntas
 - `.centrar` para centrar el contenido
+- `.tabla-brevets` en un div que envuelve la tabla de brevets: la 2ª columna (Estación) no se corta de línea y tiene ancho mínimo
 
 Para fotos grandes y centradas:
 ```

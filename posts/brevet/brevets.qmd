@@ -8,13 +8,16 @@ categories: [ciclismo, destacado]
 
 Las [brevets](www.brevet.cl) son desafíos de **ciclismo de ultradistancia** centrados en la autosuficiencia. Cada desafío recorre una distancia de 200, 300, 400, 600 o 1000 kilómetros, dentro de un límite de **tiempo máximo**, y con puntos de control intermedios con horario de apertura y cierre. 
 
-Esta es la lista de todas las **22 brevets** que he hecho, con enlaces a publicaciones con sus rutas, fotos y mis estadísticas de rendimiento.
+Esta es la lista de todas las **23 brevets** que he hecho, con enlaces a publicaciones con sus rutas, fotos y mis estadísticas de rendimiento.
 
 
 ### Mis brevets
 
+::: {.tabla-brevets}
+
 |Año   | Estación  | Distancia          | Estado  | Evento               |
 |-----:|-----------|:------------------:|---------|----------------------|
+| 2026 | Primavera [●]{.prim} | [300]{.brevet_300} | OK      | [Ñuble](/posts/brevet/brevet_300_nuble/) |
 | 2026 | Otoño [●]{.oton}     | [300]{.brevet_300} | OK      | [Central Rapel](/posts/brevet/brevet_300_rapel/) |
 | 2026 | Verano [●]{.vera}    | [300]{.brevet_300} | OK      | [Vuelta del Cobre](/posts/brevet/brevet_300_vueltadelcobre/) |
 | 2026 | Verano [●]{.vera}    | [200]{.brevet_200} | **DNF** | [Vuelta San Pedro](/posts/brevet/brevet_200_sanpedro/) |
@@ -38,6 +41,8 @@ Esta es la lista de todas las **22 brevets** que he hecho, con enlaces a publica
 | 2020 | Primavera [●]{.prim} | [200]{.brevet_200} | OK      | Audax-Húsares |
 | 2019 | Primavera [●]{.prim} | [200]{.brevet_200} | OK      | Austral Randonneurs |
 
+:::
+
 Las marcadas con _DNF_ significa que no las terminé dentro del tiempo límite, y por consiguiente no se consideran _logradas._
 
 
@@ -47,7 +52,7 @@ Las marcadas con _DNF_ significa que no las terminé dentro del tiempo límite, 
 
 | Año  | Brevets |
 |-----:|:--------|
-| 2026 | 3 | 
+| 2026 | 4 | 
 | 2025 | 3 | 
 | 2024 | 3 | 
 | 2023 | 5 | 

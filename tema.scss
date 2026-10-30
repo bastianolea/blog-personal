@@ -751,3 +751,10 @@ border-top-color: #26222e !important;
     }
   }
 }
+
+// tabla de brevets: la columna "Estación" no corta líneas entre el círculo y el texto
+.tabla-brevets td:nth-child(2),
+.tabla-brevets th:nth-child(2) {
+  white-space: nowrap;
+  min-width: 7.5em;
+}
